@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/node": "^17.0.25"
+  },
+  "name": "placesformatter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
