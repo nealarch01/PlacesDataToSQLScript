@@ -60,24 +60,25 @@ const placeTags = [
 ];
 
 interface PlaceInterface {
-    placeID: null | number; // placeID should be null by default, MySQL has an auto incrementer
+    placeID: number | null; // placeID should be null by default, MySQL has an auto incrementer
     placeName: string;
     address: string;
-    city: string;
-    state: string; // Length must == 2
+    city?: string | null;
+    state?: string | null; // Length must == 2
+    postalCode?: number;
     placeDescription?: string;
 }
 
 // Map data structure to insert a place into MySQL DB
-const uniquePlacesMap: Map<string, number> = new Map<string, number>(); // Global declaration for global and program lifetime access
-
+// const uniquePlacesMap: Map<string, number> = new Map<string, number>(); // Global declaration for global and program lifetime access
+const placeMap: Map<string, PlaceInterface> = new Map<string, PlaceInterface>();
 // Map data structure for the junction table (N to M relationship of Place to Tag)
 const placesAssocTagMap: Map<string, Array<string>> = new Map<string, Array<string>>(); // Map for the junction table
 
 
 // write and format to markdown for display purposes
 function writeToMD(): number {
-    const filename: string = "./places-and-tags.md";
+    const filename: string = "./places-and-tags-2.md";
     try {
         fs.writeFileSync(filename, "```\n"); // Clear the readme to re-write with new data
         const mapKeys = placesAssocTagMap.keys();
@@ -95,9 +96,14 @@ function writeToMD(): number {
 }
 
 function writeToSQLScript_Places(): number {
-    let valuesQuery = "VALUES(";
+    const filename: string = "./insert-places.sql";
+    try {
+        fs.writeFileSync(filename, "INSERT INTO TABLE");
 
-    valuesQuery += ")";
+    } catch (err) {
+        console.log("There was an error trying to write to place sql script");
+        return -1;
+    }
     return 0;
 }
 
@@ -120,10 +126,63 @@ function writeToSQLScript_Tags(): number {
             }
         }
     } catch (err) {
-        console.log("There was an error trying to write to ScriptTags");
+        console.log("There was an error trying to write to tag sql script");
         return -1;
     }
     return 0;
+}
+
+function getPostalCode(formattedAddress: string): number {
+    const postalCodeRegex = /,[ ]([A-Z]{2})[ ]([0-9]{5})/;
+    const postalCodeTextRegex = /[0-9]{5}/;
+    let regexResult = formattedAddress.match(postalCodeRegex);
+    if (regexResult === null) {
+        return NaN;
+    }
+    let postalCode = regexResult[0].match(postalCodeTextRegex);
+    if (postalCode === null) {
+        return NaN;
+    }
+    return parseInt(postalCode[0]);
+}
+
+function getState(formattedAddress:string): string {
+    const stateRegex = /, ([A-Z]{2})/;
+    const stateTextRegex = /[A-Z]{2}/;
+    let regexResult = formattedAddress.match(stateRegex);
+    if (regexResult === null) {
+        return "";
+    }
+    let state = regexResult[0].match(stateTextRegex);
+    if (state === null) {
+        return "";
+    }
+    return state[0];
+}
+
+function getAddress(formattedAddress: string): string {
+    const addressRegex = /^([a-z]|[A-Z]|[0-9]|[ ])+/;
+    let address = formattedAddress.match(addressRegex);
+    if (address === null) {
+        return "";
+    }
+    return address[0];
+}
+
+function getCity(formattedAddress: string): string {
+    // const cityRegex = /, ([a-z]|[A-Z]|[ ])/;
+    // const cityRegexFormat = /[A-Z]([a-z]|[A-Z]|[ ])/;
+    const cityRegex = /, ([a-z]|[A-Z]|[ ])+/;
+    const cityTextRegex = /[A-Z]([a-z]|[A-Z]|[ ])+/;
+    let regexResult = formattedAddress.match(cityRegex);
+    if (regexResult === null) {
+        return "";
+    }
+    let cityName = regexResult[0].match(cityTextRegex);
+    if (cityName === null) {
+        return "";
+    }
+    return cityName[0];
 }
 
 // Group the places to avoid duplicate rows
@@ -136,16 +195,21 @@ function initPlacesMapData(): number {
             if (placeKey === undefined) {
                 return; // Skip the place if name does not exist
             }
-            let placeCount: number | undefined = uniquePlacesMap.get(placeKey);
-            if (placeCount === undefined) { // First time place is being read
-                uniquePlacesMap.set(placeKey, 1); // Assign 1 instance found
+            // let placeCount: number | undefined = uniquePlacesMap.get(placeKey);
+            let placeMapValue: PlaceInterface | undefined = placeMap.get(placeKey);
+            if (placeMapValue === undefined) { // First time place is being read
+                placeMap.set(placeKey, {
+                    placeID: null,
+                    placeName: placeKey,
+                    address: getAddress(placeData.formatted_address),
+                    city: getCity(placeData.formatted_address),
+                    state: getState(placeData.formatted_address),
+                    postalCode: getPostalCode(placeData.formatted_address)
+                });
                 let first_assocTagsArray: Array<string> = [placeTypeStr]; // Initialize the associated tags array with the current tag
                 placesAssocTagMap.set(placeKey, first_assocTagsArray); // Assign associated tags as value to the place key for places-tags map
             } else {
                 // This mean the same place popped up twice or more
-                placeCount++; // increase the count
-                uniquePlacesMap.set(placeKey, placeCount); // update place count value
-
                 // We need to assign it's multiple associated tags (if it showed up in another file)
                 let assocTagsArray: Array<string> | undefined = placesAssocTagMap.get(placeKey);
                 if (assocTagsArray === undefined) { // First tag instance
@@ -169,12 +233,16 @@ function main(): number {
     if (initPlacesMapData() !== 0) {
         return 1;
     }
+    
     if (writeToMD() !== 0) {
         return 2;
     }
+    /*
     if (writeToSQLScript_Tags() !== 0) {
         return 3;
     }
+    */
+
     return 0;
 }
 
@@ -186,5 +254,5 @@ const exitStatus = main();
 if (exitStatus !== 0) {
     console.log(`An error has occured. Exit status: ${exitStatus}`);
 } else {
-    console.log(`Program terminated with no errors`);
+    console.log(`Successful run!`);
 }
