@@ -62,10 +62,10 @@ const placeTags = [
 interface PlaceInterface {
     placeID: number | null; // placeID should be null by default, MySQL has an auto incrementer
     placeName: string;
-    address: string;
+    address: string | null;
     city?: string | null;
     state?: string | null; // Length must == 2
-    postalCode?: number;
+    postalCode?: number | null;
     placeDescription?: string;
 }
 
@@ -98,12 +98,31 @@ function writeToMD(): number {
 function writeToSQLScript_Places(): number {
     const filename: string = "./insert-places.sql";
     try {
-        fs.writeFileSync(filename, "INSERT INTO TABLE");
-
+        fs.writeFileSync(filename, "INSERT INTO place (address, city, state, postalCode, rating, review) \nVALUES");
+        const mapKeys = placeMap.keys();
+        let mkSize = placeMap.size;
+        let counter: number = 0;
+        for (const key of mapKeys) {
+            counter++;
+            const singlePlace: PlaceInterface | undefined = placeMap.get(key);
+            // It's unlikely for singlePlace to be undefined since we are getting all the keys of the map which have been previously assigned an object that uses PlaceInterface
+            const addr = singlePlace?.address;
+            const city = singlePlace?.city;
+            const state = singlePlace?.state;
+            const postalCode = singlePlace?.postalCode;
+            // Rating will be 0 by default and review will be null by default
+            if (counter >= mkSize) {
+                // Writing last item (does not end with comma)
+                fs.writeFileSync(filename, `\t('${addr}', '${city}', '${state}', ${postalCode}, 0, ${null});`, { flag: "a" });    
+            } else {
+                fs.writeFileSync(filename, `\t('${addr}', '${city}', '${state}', ${postalCode}, 0, ${null}),\n`, { flag: "a" });
+            }
+        }
     } catch (err) {
         console.log("There was an error trying to write to place sql script");
         return -1;
     }
+    fs.writeFileSync(filename, ';', { flag: "a" });
     return 0;
 }
 
@@ -198,13 +217,17 @@ function initPlacesMapData(): number {
             // let placeCount: number | undefined = uniquePlacesMap.get(placeKey);
             let placeMapValue: PlaceInterface | undefined = placeMap.get(placeKey);
             if (placeMapValue === undefined) { // First time place is being read
+                let addr = getAddress(placeData.formatted_address);
+                let cityName = getCity(placeData.formatted_address);
+                let stateName = getState(placeData.formatted_address);
+                let postalCodeRes = getPostalCode(placeData.formatted_address);
                 placeMap.set(placeKey, {
                     placeID: null,
                     placeName: placeKey,
-                    address: getAddress(placeData.formatted_address),
-                    city: getCity(placeData.formatted_address),
-                    state: getState(placeData.formatted_address),
-                    postalCode: getPostalCode(placeData.formatted_address)
+                    address: (addr === "" ? null : addr),
+                    city: (cityName === "" ? null : cityName),
+                    state: (stateName === "" ? null : stateName),
+                    postalCode: (postalCodeRes === NaN ? null : postalCodeRes)
                 });
                 let first_assocTagsArray: Array<string> = [placeTypeStr]; // Initialize the associated tags array with the current tag
                 placesAssocTagMap.set(placeKey, first_assocTagsArray); // Assign associated tags as value to the place key for places-tags map
@@ -233,10 +256,12 @@ function main(): number {
     if (initPlacesMapData() !== 0) {
         return 1;
     }
-    
-    if (writeToMD() !== 0) {
-        return 2;
+    if (writeToSQLScript_Places() !== 0) {
+        return 4;
     }
+    // if (writeToMD() !== 0) {
+    //     return 2;
+    // }
     /*
     if (writeToSQLScript_Tags() !== 0) {
         return 3;
