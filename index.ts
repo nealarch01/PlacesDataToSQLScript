@@ -98,7 +98,7 @@ function writeToMD(): number {
 function writeToSQLScript_Places(): number {
     const filename: string = "./insert-places.sql";
     try {
-        fs.writeFileSync(filename, "INSERT INTO place (address, city, state, postalCode, rating, review) \nVALUES");
+        fs.writeFileSync(filename, "INSERT INTO place (address, name, city, state, postalCode, rating, description) \nVALUES\n");
         const mapKeys = placeMap.keys();
         let mkSize = placeMap.size;
         let counter: number = 0;
@@ -106,23 +106,35 @@ function writeToSQLScript_Places(): number {
             counter++;
             const singlePlace: PlaceInterface | undefined = placeMap.get(key);
             // It's unlikely for singlePlace to be undefined since we are getting all the keys of the map which have been previously assigned an object that uses PlaceInterface
-            const addr = singlePlace?.address;
-            const city = singlePlace?.city;
-            const state = singlePlace?.state;
-            const postalCode = singlePlace?.postalCode;
+            let addr = singlePlace?.address;
+            let name = singlePlace?.placeName;
+            let city = singlePlace?.city;
+            let state = singlePlace?.state;
+            let postalCode = singlePlace?.postalCode;
+            if (addr?.includes("'")) {
+                addr = addr?.replace("'", "\\'")
+            }
+            if (name?.includes("'")) {
+                name = name.replace("'", "\\'");
+            }
+            if (state?.includes("'")) {
+                state = state.replace("'", "\\'");
+            }
+            if (city?.includes("'")) {
+                city = city.replace("'", "\\'");
+            }
             // Rating will be 0 by default and review will be null by default
             if (counter >= mkSize) {
                 // Writing last item (does not end with comma)
-                fs.writeFileSync(filename, `\t('${addr}', '${city}', '${state}', ${postalCode}, 0, ${null});`, { flag: "a" });    
+                fs.writeFileSync(filename, `\t('${addr}', '${name}', '${city}', '${state}', ${postalCode}, 0, ${null});`, { flag: "a" });    
             } else {
-                fs.writeFileSync(filename, `\t('${addr}', '${city}', '${state}', ${postalCode}, 0, ${null}),\n`, { flag: "a" });
+                fs.writeFileSync(filename, `\t('${addr}', '${name}', '${city}', '${state}', ${postalCode}, 0, ${null}),\n`, { flag: "a" });
             }
         }
     } catch (err) {
         console.log("There was an error trying to write to place sql script");
         return -1;
     }
-    fs.writeFileSync(filename, ';', { flag: "a" });
     return 0;
 }
 
