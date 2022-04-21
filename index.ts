@@ -76,29 +76,58 @@ const placesAssocTagMap: Map<string, Array<string>> = new Map<string, Array<stri
 
 
 // write and format to markdown for display purposes
-function writeToMD(): void {
-    fs.writeFileSync("./places-and-tags.md", "```\n"); // Clear the readme to re-write with new data
+function writeToMD(): number {
+    const filename: string = "./places-and-tags.md";
     try {
+        fs.writeFileSync(filename, "```\n"); // Clear the readme to re-write with new data
         const mapKeys = placesAssocTagMap.keys();
         for (const key of mapKeys) {
             const displayText: string = `'${key}' => [ ${placesAssocTagMap.get(key)} ]\n`;
-            fs.writeFileSync("./places-and-tags.md", displayText, {flag: "a"}); // Flag sets append mode on
+            fs.writeFileSync(filename, displayText, { flag: "a" }); // Flag sets append mode on
         }
+        fs.writeFileSync(filename, "```", { flag: "a" }); // closing tag
     } catch (err) {
         console.log("There was an error trying to write to readme");
-        fs.writeFileSync("./places-and-tags.md", "```", {flag: "a"}); // closing tag
+        fs.writeFileSync(filename, "```", { flag: "a" }); // closing tag
+        return -1;
     }
-    fs.writeFileSync("./places-and-tags.md", "```", {flag: "a"}); // closing tag
+    return 0; // Successful run
 }
 
-function writeToSQLScript(data: PlaceInterface): void {
+function writeToSQLScript_Places(): number {
     let valuesQuery = "VALUES(";
 
     valuesQuery += ")";
+    return 0;
+}
+
+// For the junction table
+function writeToSQLScript_PlaceDetails(): number {
+    return 0;
+}
+
+// For the 
+function writeToSQLScript_Tags(): number {
+    const filename: string = "insert-tags.sql";
+    try {
+        fs.writeFileSync(filename, "INSERT INTO tag (label) VALUES"); // Do not set to append mode to reset any existing data in the script
+        for (let i = 0; i < placeTags.length; i++) {
+            fs.writeFileSync(filename, `('${placeTags[i]}')`, { flag: "a" });
+            if (i == placeTags.length - 1) {
+                fs.writeFileSync(filename, ";", { flag: "a" });
+            } else {
+                fs.writeFileSync(filename, ", ", { flag: "a" });
+            }
+        }
+    } catch (err) {
+        console.log("There was an error trying to write to ScriptTags");
+        return -1;
+    }
+    return 0;
 }
 
 // Group the places to avoid duplicate rows
-function initPlacesMapData(): void {
+function initPlacesMapData(): number {
     // Use a map structure
     allPlaces.forEach((placeType: any, index: number) => {
         let placeTypeStr: string = placeTags[index];
@@ -131,16 +160,27 @@ function initPlacesMapData(): void {
             }
         });
     });
+    return 0;
 }
 
 
 // Notes: Tags will be its own table
-
 function main(): number {
-    initPlacesMapData();
-    writeToMD();
+    if (initPlacesMapData() !== 0) {
+        return 1;
+    }
+    if (writeToMD() !== 0) {
+        return 2;
+    }
+    if (writeToSQLScript_Tags() !== 0) {
+        return 3;
+    }
     return 0;
 }
+
+// Error code 1: initPlacesMapData
+// 2: writeToMD
+// 3: write
 
 const exitStatus = main();
 if (exitStatus !== 0) {
