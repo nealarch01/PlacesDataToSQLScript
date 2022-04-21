@@ -1,0 +1,1 @@
+INSERT INTO tag (label) VALUES('amusement-park'), ('aquarium'), ('arcade'), ('bakery'), ('bar'), ('bowling'), ('cafe-coffee'), ('casino'), ('farmers-market'), ('museum'), ('nightclub'), ('parks'), ('restaurant'), ('shopping-malls'), ('thrift-stores'), ('trails');
