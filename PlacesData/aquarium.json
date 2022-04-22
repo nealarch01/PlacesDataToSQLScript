@@ -1,0 +1,974 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEB-amEAyS0bHTtYjfiAs36LlK9gVLPXQE2By2_pVp19Nkl23MPBfDMbRMcjbKp9c0NWud1G_4FKpwgi462e_oBQIlYoTtj9zMsJTBmP3qEr_PKxTC_BXjLlOy3po9xfY-ve8ydA0Zl6D9nM1ymF5j5IUCdSaIN1g_QcZGCeQO-X0U1D1IC1mXytrheHNYMAJv4hR6yJZ9vTpv-mWzwub2zUdnvOOFDPxAkn9u-V2JLCLOSOQ3zez05ifB8h6MaUKRjlYO3xvXn0QLeKSGjZBirqQfisbdvioECMciK0PNq9McaU8ZBmy0gw5qT2fBnp-UDE0YSAeaZCAwGyVKsvb0WK7h-RPQY2TqDYs3jlcT4eHVEPE5Q-ZTKxQAoAk9A3Ca8trUmqaGeH2dg2DeoqPs_uuD6A-Y9ZsA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 S Rancho Santa Fe Rd #101b, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1371269,
+                    "lng": -117.2052307
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13815322989272,
+                        "lng": -117.2038530701073
+                    },
+                    "southwest": {
+                        "lat": 33.13545357010728,
+                        "lng": -117.2065527298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aquatica Corals and Custom Aquariums",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110016581493101561689\">blue_kaos93@hotmail.com</a>"
+                    ],
+                    "photo_reference": "Aap_uECwITcY3sAvUrdwVIRXjX7tx9ASpeV54hM_mzCXNe-o_n6BRBtHLtaw_Sb72NIf8jj2kGKp5vrPK0u6brOnV_BCVfPWSoGDu1a83zdQIGOUvrbR76Cng2JPTAcX8Zv7R2X6o_QX-J8_3JY5w11ymF5PGiXVZ7Q9LktD83ICZ8aUjQWa",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ7-09hDt13IAR_ywTUE6WZcw",
+            "plus_code": {
+                "compound_code": "4QPV+VW San Marcos, California",
+                "global_code": "85544QPV+VW"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7-09hDt13IAR_ywTUE6WZcw",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 58
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2300 Expedition Way, La Jolla, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8658136,
+                    "lng": -117.250639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.86731892989272,
+                        "lng": -117.2490878201073
+                    },
+                    "southwest": {
+                        "lat": 32.86461927010728,
+                        "lng": -117.2517874798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Birch Aquarium at Scripps Institution of Oceanography",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103738917847866507974\">Suzy Hui</a>"
+                    ],
+                    "photo_reference": "Aap_uEC9RRMp-KlCRo6Y5ve_pucPtW3SZFI8KBAVc6sYQFvNL14EVYxDEBLETMNJlaA4KQAV1pFhkNYh-uTMOs_v68ezSDATEwBHI1RfrAAsLduxXWd2y_gAT-PJUY2Skbi8JBZD-0SL1zeRkkaJfoBQ9-qMp3g1KzXSThXEZOZbvmbzeZ1i",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-6dQ_bMG3IARqV9Yevu9XLw",
+            "plus_code": {
+                "compound_code": "VP8X+8P La Jolla, San Diego, CA",
+                "global_code": "8544VP8X+8P"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ-6dQ_bMG3IARqV9Yevu9XLw",
+            "types": [
+                "aquarium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5523
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "LEGOLAND California Resort, 1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1260525,
+                    "lng": -117.3121119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12725997989272,
+                        "lng": -117.3108465701073
+                    },
+                    "southwest": {
+                        "lat": 33.12456032010728,
+                        "lng": -117.3135462298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SEA LIFE Aquarium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 639,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101534845014931211899\">Ogechi E.</a>"
+                    ],
+                    "photo_reference": "Aap_uEAzxlSl0wEJ4u6JUQctF6KzfXwr24C2YTZleBtyoc0ZxWvHVhbj8mzv5Ko5C5xO_IJbTRjQ-9LQ1ARgmqPp-u5JHx-56_7PEhQgzE00eXwiLzwH0VAI3rGkuohF-QDsOZJHUcM8OdTQmTAqjA-_jg0wNZqavfNVaPMK2dWsKrRPedGY",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJg9-NGR1z3IARzwSYq1pssxA",
+            "plus_code": {
+                "compound_code": "4MGQ+C5 Carlsbad, California",
+                "global_code": "85544MGQ+C5"
+            },
+            "rating": 4.5,
+            "reference": "ChIJg9-NGR1z3IARzwSYq1pssxA",
+            "types": [
+                "aquarium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2768
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SeaWorld, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7655386,
+                    "lng": -117.2280452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76688842989273,
+                        "lng": -117.2266953701073
+                    },
+                    "southwest": {
+                        "lat": 32.76418877010728,
+                        "lng": -117.2293950298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Freshwater Aquarium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118158121772183198543\">amin</a>"
+                    ],
+                    "photo_reference": "Aap_uEBxNkCBagk6bVW5lkn3PEp2UW_vaJY96tHN_oHkCMgDRgjCldlVRWw0FenDGVNOFLqwf-DpK3t9kFZvkDqGD2avdaP_qOqVi4VMWMzfOx1AOzHvxEeZJQn22E1_bVaIm0hSfOcm9OUQnX95OjavFWQWP2NKt4I8dKB-by-hMeOCOqFl",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJhbwZVGGq3oARSQUi1DEWikA",
+            "plus_code": {
+                "compound_code": "QQ8C+6Q San Diego, California",
+                "global_code": "8544QQ8C+6Q"
+            },
+            "rating": 4.1,
+            "reference": "ChIJhbwZVGGq3oARSQUi1DEWikA",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7662617,
+                    "lng": -117.2294978
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76761152989273,
+                        "lng": -117.2281479701073
+                    },
+                    "southwest": {
+                        "lat": 32.76491187010728,
+                        "lng": -117.2308476298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aquaria: World of Fishes",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106544714302723086370\">Thomas Overton</a>"
+                    ],
+                    "photo_reference": "Aap_uEBjr1B1sKdvk8si90WCfN5M9MLNSj7wuJ_pqFVM-gv6gc22SxCbt_cGhpVd01iIEv5z6QxERXZICkeKjLhhDfEfe-SmgbP6k1cSWvONsZM6TS2H7XFvksETJ_ifJQQZM8u1CS3L2-_4BRrkhaDVfNRNekXXnaiiOlXcxxsuIXfcqq0A",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJpbPIfWaq3oARjbpV4w3PXf4",
+            "plus_code": {
+                "compound_code": "QQ8C+G6 San Diego, California",
+                "global_code": "8544QQ8C+G6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJpbPIfWaq3oARjbpV4w3PXf4",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "130 Venture St, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.137843,
+                    "lng": -117.153895
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13924502989272,
+                        "lng": -117.1523573701073
+                    },
+                    "southwest": {
+                        "lat": 33.13654537010728,
+                        "lng": -117.1550570298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lee's Aquarium & Pet Products",
+            "place_id": "ChIJa5HkR7SK24ARfgwfX0zbmKg",
+            "plus_code": {
+                "compound_code": "4RQW+4C San Marcos, California",
+                "global_code": "85544RQW+4C"
+            },
+            "rating": 0,
+            "reference": "ChIJa5HkR7SK24ARfgwfX0zbmKg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7666813,
+                    "lng": -117.224917
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76753145000001,
+                        "lng": -117.22108375
+                    },
+                    "southwest": {
+                        "lat": 32.76413084999999,
+                        "lng": -117.22619475
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Turtle Reef",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110272484025442251513\">Roger Weeks</a>"
+                    ],
+                    "photo_reference": "Aap_uEB7YL7593sXrPjDXKPmhE-Z3girMq24DojKxXnsbVtE-u4bEiVHr_6AZujUBM7spcpi7AE06F4UCdibZ9mul1NGl0CEHb9lgqE6MTFKhwClMxIzUm2MS89EpvHA3WXVCniRVp0LUPCbtr4azr9ucYVKS1q33RLtQJdjHtnCGReZzkOO",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJlYAUamGq3oARep0UIdcknZA",
+            "plus_code": {
+                "compound_code": "QQ8G+M2 San Diego, California",
+                "global_code": "8544QQ8G+M2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJlYAUamGq3oARep0UIdcknZA",
+            "types": [
+                "aquarium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SeaWorld, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7667653,
+                    "lng": -117.2255376
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76765744999999,
+                        "lng": -117.2207718
+                    },
+                    "southwest": {
+                        "lat": 32.76408884999999,
+                        "lng": -117.2271262
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shark Encounter",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106538166066824975590\">Юлия Сергеевна</a>"
+                    ],
+                    "photo_reference": "Aap_uEDtm-tzOrnl0QtwG5-itJoVAc6XHOBlFeu1yvAsKGWbDR_YUmWE7fkiI7fl3d9Fot58Emsev4pFUR2EnvLiji-rhPfd2WRgJSTmzAMSZqAFXqAmiEyn6CJsaWU5oXNKY0NoZdbDVMSuK3RM68td5D9fkEq64rHktIkhGCtKD8aZj0L4",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJlZedQ2Gq3oARXIfyN1XDswM",
+            "plus_code": {
+                "compound_code": "QQ8F+PQ San Diego, California",
+                "global_code": "8544QQ8F+PQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJlZedQ2Gq3oARXIfyN1XDswM",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "650 Foxhall Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1236642,
+                    "lng": -117.1788312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12501402989272,
+                        "lng": -117.1774813701073
+                    },
+                    "southwest": {
+                        "lat": 33.12231437010728,
+                        "lng": -117.1801810298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Discovery Lake",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104885711440576309874\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA1pmt-_Oj-Ah7KNnY0Z_vY2WbGEf6E6nz37e61VEWmMeU5RRhXDW-7GjFXo8t8JmkyFuXAJXcswc3SCuP32P5uSzE7HRi01zvNqlOdetYgbYWQ_X3uUChbN7ur1e3Y7PcH9_YCwC9qbPzhH0pCqQxhWqPnZqPZzSUqv0-7B-pIt7Oj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJmbVl7KsK3IAReLtF_t7CyI8",
+            "plus_code": {
+                "compound_code": "4RFC+FF San Marcos, California",
+                "global_code": "85544RFC+FF"
+            },
+            "rating": 4.8,
+            "reference": "ChIJmbVl7KsK3IAReLtF_t7CyI8",
+            "types": [
+                "tourist_attraction",
+                "natural_feature",
+                "park",
+                "general_contractor",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 217
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4580 Alvarado Canyon Rd Ste A, San Diego, CA 92120, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7818561,
+                    "lng": -117.0954566
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78313947989273,
+                        "lng": -117.0941067701073
+                    },
+                    "southwest": {
+                        "lat": 32.78043982010728,
+                        "lng": -117.0968064298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "California Custom Aquariums",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117547492830534541142\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDcoxiM_ocqg7_tgXmJ3hDYijlbipQLuVevLTjRbVliqttNHf5MiI4c0CIIH2iVKrq5QLCyw3ZUdWARbvEuHs3a3HatHHrL0PIQ8KzWnuKKCPaboGJ7Qm4PoOnw3ziCIotrMHB6aa9VK4Z56BTvui8RTE73TgJRZOkj9B6KlYk6wrXW",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJIdcYBs9V2YARb1zrI-coHlM",
+            "plus_code": {
+                "compound_code": "QWJ3+PR San Diego, California",
+                "global_code": "8544QWJ3+PR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJIdcYBs9V2YARb1zrI-coHlM",
+            "types": [
+                "aquarium",
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.765169,
+                    "lng": -117.2271631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76651882989272,
+                        "lng": -117.2258132701073
+                    },
+                    "southwest": {
+                        "lat": 32.76381917010728,
+                        "lng": -117.2285129298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Otter Outlook",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101180184693323580259\">Rahul Vyas</a>"
+                    ],
+                    "photo_reference": "Aap_uEAsZAn18T3clQRJW9QsM37FOrOHs9vwzmi3agQk2L6TU8nOj-Lsa0Dm_U3jgf1dJKhkSN_ZFDglMSy484UfKHQ30kWV6lzxP_UuSBTrOZZHOFqkQHiZQ0A71wzWEalS1KPdXUfXY6qjTxLhPOfVbCUxjQZG54Ewm_zuRHj10Gm_KEU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJB8gM0Gaq3oAROYt0lx7QRyA",
+            "plus_code": {
+                "compound_code": "QQ8F+34 San Diego, California",
+                "global_code": "8544QQ8F+34"
+            },
+            "rating": 4.2,
+            "reference": "ChIJB8gM0Gaq3oAROYt0lx7QRyA",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SeaWorld, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.764474,
+                    "lng": -117.2286996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76567257989272,
+                        "lng": -117.2274949201073
+                    },
+                    "southwest": {
+                        "lat": 32.76297292010728,
+                        "lng": -117.2301945798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Shamu Stadium",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106214356274620645088\">Quan Doan</a>"
+                    ],
+                    "photo_reference": "Aap_uED76ErNHnfakyP90LbXLS0NxqToaF-QaOtaFPeK5h3HLGHAUF8-EJ-LAAHC1Y9lEnCU0pI1ArWkfpGfVh7Yt62MKXqLTup9B3UR5CmeM5Mq3nrD1_twTg_oZaaJupKXwSr60CSai5AeJlJYVuHtjWW-DHQW2r4o-yaD061Y9mg0Gl32",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1_yuISur3oAR1z0E8Fp30gw",
+            "plus_code": {
+                "compound_code": "QQ7C+QG San Diego, California",
+                "global_code": "8544QQ7C+QG"
+            },
+            "rating": 2.6,
+            "reference": "ChIJ1_yuISur3oAR1z0E8Fp30gw",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "SeaWorld, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7658155,
+                    "lng": -117.2258031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76681275,
+                        "lng": -117.2250722
+                    },
+                    "southwest": {
+                        "lat": 32.76282375,
+                        "lng": -117.2279958
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dolphin Encounter",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117820037907754974248\">Brandon Yoon</a>"
+                    ],
+                    "photo_reference": "Aap_uEDnyrecVps4ZpkYmuj1zNvuH3Mmbh57fKvb9hlsiqMnREF_dfzkOpsR6YmLYt7LpRhqBDKgvh9Apn7aCqJznD0THqrZNIjRqkq13LpfggCEK6Bjzhsi2rS31eQ0_O97V5VxgKZh5l4Dv_u1XUzT8y9u4_6mJt-UcuQZHYy9JqSiMfe_",
+                    "width": 2314
+                }
+            ],
+            "place_id": "ChIJT3kTw2aq3oARBK0opQt63RI",
+            "plus_code": {
+                "compound_code": "QQ8F+8M San Diego, California",
+                "global_code": "8544QQ8F+8M"
+            },
+            "rating": 3.7,
+            "reference": "ChIJT3kTw2aq3oARBK0opQt63RI",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Penguin Encounter, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.765869,
+                    "lng": -117.2228762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76701037989272,
+                        "lng": -117.2210860701073
+                    },
+                    "southwest": {
+                        "lat": 32.76431072010728,
+                        "lng": -117.2237857298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Penguin Encounter",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112110436704814548129\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDYyFxIxvx0oCMb6Vt6kJTRv7Ia3D9_KdDIBSDRyNY-XFzbpBciUMp3ej5tkmSdHGNklprCc57BIFoakb2HOJEMnAaHR33bwSUTn0Gi7KlX7icnI0UiN8ICe9MXEYIxgc96Waz_mTjfeajferD_BDjWqzS6ayCtR0OSToNSKZxjiGc",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJowByMhar3oARZOMKWHPBdzw",
+            "plus_code": {
+                "compound_code": "QQ8G+8R San Diego, California",
+                "global_code": "8544QQ8G+8R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJowByMhar3oARZOMKWHPBdzw",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "505 S Ola Vista, San Clemente, CA 92672, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.4217139,
+                    "lng": -117.6146271
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.42305087989272,
+                        "lng": -117.6133703701073
+                    },
+                    "southwest": {
+                        "lat": 33.42035122010727,
+                        "lng": -117.6160700298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Tide Pool and Aquarium",
+            "place_id": "ChIJwdSG14j13IARxwsplq14w5Y",
+            "plus_code": {
+                "compound_code": "C9CP+M4 San Clemente, California",
+                "global_code": "8554C9CP+M4"
+            },
+            "rating": 5,
+            "reference": "ChIJwdSG14j13IARxwsplq14w5Y",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7641067,
+                    "lng": -117.2262649
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76490717989272,
+                        "lng": -117.22384045
+                    },
+                    "southwest": {
+                        "lat": 32.76220752010728,
+                        "lng": -117.23353825
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SeaWorld San Diego",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112457151059599211962\">令狐沖</a>"
+                    ],
+                    "photo_reference": "Aap_uEBSajvdx5ZdVXWtdO_mymPR59Sg8XRuC7qGxeKxlanugMTj0SGFc7fbw0kb9DYjO3IE5368PvmS_DST3_JfUhHloqFW0EtptuwrWud0BokzMyov5E39RL8gESc0mFj8kGstJY_QhUftDjjsHTWr6pTSnozcyDnJiD62EONGr_-A38J_",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "plus_code": {
+                "compound_code": "QQ7F+JF San Diego, California",
+                "global_code": "8544QQ7F+JF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "types": [
+                "zoo",
+                "aquarium",
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37987
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5121 Santa Fe St Suite F, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8188042,
+                    "lng": -117.2247733
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82012962989272,
+                        "lng": -117.2235940201073
+                    },
+                    "southwest": {
+                        "lat": 32.81742997010728,
+                        "lng": -117.2262936798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Aquarium Fish Depot",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118193067904902574138\">David B.</a>"
+                    ],
+                    "photo_reference": "Aap_uEAJYcsPOPdgnxkcNd81087mX-8gzjR-3Sz7C_i7yiu8YDVfDrqmAwA0pp8E2RmZT1bSfYCs6ZWRKNv-h2jmkPHOOGJXI_s0kToR15z9WPnGzzto8p00pImW9CRaBx_wSjx5nVSoNPDJUIi0agnk54Ah_Otn_M7sRRu0JRUpd3ShZQQh",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJFxtO0vMB3IARH8F94dIClmY",
+            "plus_code": {
+                "compound_code": "RQ9G+G3 San Diego, California",
+                "global_code": "8544RQ9G+G3"
+            },
+            "rating": 4.9,
+            "reference": "ChIJFxtO0vMB3IARH8F94dIClmY",
+            "types": [
+                "pet_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 270
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "100 Aquarium Way, Long Beach, CA 90802, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.762274,
+                    "lng": -118.196961
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.76400624999999,
+                        "lng": -118.1952309701073
+                    },
+                    "southwest": {
+                        "lat": 33.75947885000001,
+                        "lng": -118.1979306298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aquarium of the Pacific",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116741019625730526029\">Maurice Samuels</a>"
+                    ],
+                    "photo_reference": "Aap_uEBykMSguQ78I9QnP6Le5zlwdi6XUvB3EJO-sZ0dw7WjFgh7WITIi4r2KD_fiE9BBuTTJLFVALoDXNJ7vdOZ-TVqYYD9CWAP0WnBsO2OB3TDJ2ECWxZR-cXoDDpkaV6-L5o7Bb4Mw7hF5eP6SEUljhRCsMOdylAJBFOmq9blubRDG0dZ",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJtXzMMjAx3YARll7hgkff2pY",
+            "plus_code": {
+                "compound_code": "QR63+W6 Long Beach, California",
+                "global_code": "8553QR63+W6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJtXzMMjAx3YARll7hgkff2pY",
+            "types": [
+                "aquarium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25323
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "60 Willowood, Aliso Viejo, CA 92656, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.57899450000001,
+                    "lng": -117.7078071
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58021722989273,
+                        "lng": -117.7066518701073
+                    },
+                    "southwest": {
+                        "lat": 33.57751757010728,
+                        "lng": -117.7093515298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aquarium Design Consultants",
+            "place_id": "ChIJsYihiDPv3IARin7VPVRwqjI",
+            "plus_code": {
+                "compound_code": "H7HR+HV Aliso Viejo, California",
+                "global_code": "8554H7HR+HV"
+            },
+            "rating": 2,
+            "reference": "ChIJsYihiDPv3IARin7VPVRwqjI",
+            "types": [
+                "aquarium",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "886 Cannery Row, Monterey, CA 93940, United States",
+            "geometry": {
+                "location": {
+                    "lat": 36.618264,
+                    "lng": -121.9017919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.61943597989273,
+                        "lng": -121.9005160201072
+                    },
+                    "southwest": {
+                        "lat": 36.61673632010728,
+                        "lng": -121.9032156798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Monterey Bay Aquarium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109128018196677393699\">Steve Chan</a>"
+                    ],
+                    "photo_reference": "Aap_uEAmwT7yYqmqGqvLmJz6fjqYP2bgi0yatcrRId73rrYZV2SFRjLtW_WM8WWp6hj6dV88uttWV7PCZX1ycFZGW1i8L1TaaIl28BKPQZkL2JMnWgAu7QB3TADEHeOK1dKhMAD7Le7ElTyvUm-ZIWP0cJ1SZEQle9nnb88PzpAGsDod56OI",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4-RmgarmjYARY5silxlKqLU",
+            "plus_code": {
+                "compound_code": "J39X+87 Monterey, California",
+                "global_code": "848WJ39X+87"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ4-RmgarmjYARY5silxlKqLU",
+            "types": [
+                "aquarium",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30059
+        }
+    ],
+    "status": "OK"
+}

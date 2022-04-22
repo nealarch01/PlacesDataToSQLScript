@@ -1,0 +1,1050 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uED1msVkpndvDALxeO5m_Ne_bs7j4nc4OVI_NaUbyZYTyhbNjvm_4SuMv758MoZ58MbFjsIqLTW2LCGVPOnhdigRAlmbrQy6Yl35jcMZ2bHmpLSqK6xY66q0ScQ74-RH57kW91tuQ3S3TsS1rf24SA-ZhiGaZUx6Gb2m916uxtA6_wcZYI6912ySP7GrnWhpOFTt3eRxWjeaRbTdzhmvAKB2qsP4uLvPuxr1SYPQtifb9ZW1w80aapP_f0gPcbWcEqGcxSwpDfrg9qEEEtTy82LxbygSBphP27ZX-l6XDP3anYfppF7xrCqx4ejNq7a3Tl8wAWctAILmjxAEa9pur6vfKVLm9FIoPxdmXaL1YT7KvLU2pKSI21D5gfzV1vWSwFKTXhggt-NvbTK4Tbck1aK1_TM",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "887 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1354103,
+                    "lng": -117.1847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13679072989272,
+                        "lng": -117.1833328701073
+                    },
+                    "southwest": {
+                        "lat": 33.13409107010727,
+                        "lng": -117.1860325298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Churchill's Pub & Grille",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110010004670150699826\">Greg Atkinson</a>"
+                    ],
+                    "photo_reference": "Aap_uECZF_QrvtDPbPV_SCtMSMNuMfkDoP9ggVq2qLE4aLUcnf683GIrJ3XJ6ow7iF2HQvqcUz77X9EwWe5OQeINWzqqcngk3AOO9URq0vVs1ozAw3wY1rTh50ca9le_KYcWsDtLRkzEcMt9VZWaXE6xlXHlEZY0mra35NRdPUkKQcsLU-pn",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJizvcIlB13IARWIh2OiOlhEQ",
+            "plus_code": {
+                "compound_code": "4RP8+54 San Marcos, California",
+                "global_code": "85544RP8+54"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJizvcIlB13IARWIh2OiOlhEQ",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1092
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "502 E Mission Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1445813,
+                    "lng": -117.1523367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14593112989272,
+                        "lng": -117.1509868701073
+                    },
+                    "southwest": {
+                        "lat": 33.14323147010727,
+                        "lng": -117.1536865298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Cowshed",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114233040982209148667\">Kevin Thomas</a>"
+                    ],
+                    "photo_reference": "Aap_uEBAY7bBEs_qFlHHAB4QrFC6_Z7UnmDvmu-uxhAPvKnWcTiSEIWjQGe9C5ThpZUm0MZqiXL3OxKApkbvvsgngYD-ax_48zo5MADuXQ3crdQBHZjXHR70W_sJtX3ZU0hX-6ihmZ_HQq0-16sAmDOP-UvCM6GpAF7rXQOuBntet24LN--k",
+                    "width": 3036
+                }
+            ],
+            "place_id": "ChIJj_hYKLiK24ARQaho3R4xphU",
+            "plus_code": {
+                "compound_code": "4RVX+R3 San Marcos, California",
+                "global_code": "85544RVX+R3"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJj_hYKLiK24ARQaho3R4xphU",
+            "types": [
+                "bar",
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 325
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1020 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.135165,
+                    "lng": -117.1894163
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13648002989272,
+                        "lng": -117.1879904701073
+                    },
+                    "southwest": {
+                        "lat": 33.13378037010728,
+                        "lng": -117.1906901298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The 55 Yardline Sports Bar and Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3081,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107072425109388693527\">Jeremy Frank</a>"
+                    ],
+                    "photo_reference": "Aap_uEBHkpRZwYuhitmgrynvkfsa3OCqMhCGlYPPADQnwWm6zCIcqpHDy26w63QNuTtTLzlNJsWCqLjNLj99LLqaeeBhz4Q_bH9ywyZjPVT_hLIvAvHiqlngBnMtch_a0LDGmAzxYVebIZVESKw3K8GJCIT0XDaHV-yTrCvE7Cb6m4hkPS0",
+                    "width": 5592
+                }
+            ],
+            "place_id": "ChIJE8yabE913IAR22xpU_b-YRk",
+            "plus_code": {
+                "compound_code": "4RP6+36 San Marcos, California",
+                "global_code": "85544RP6+36"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJE8yabE913IAR22xpU_b-YRk",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 431
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1001 W San Marcos Blvd #195, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1340023,
+                    "lng": -117.1887677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13535967989272,
+                        "lng": -117.1872753701073
+                    },
+                    "southwest": {
+                        "lat": 33.13266002010728,
+                        "lng": -117.1899750298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Inland Tavern",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108351082287714896028\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAxN-KBkcxA-AU4Ph7xp6YuWhheIsPMhuADzVrOOFr_zRhGePuc6SWH7QIcKZyj_n1IMBBCJi5dQVldBIzOQxatqOiKbt-JrL81gE9UtrGhGrjv9ytTpMjVBX7RJYsiF78n7YxSZgwrYnn9HsEFXY6EgMMpk49hTAABABFn89C1Ruri",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJN8XroU913IARzXDwwxr2mj0",
+            "plus_code": {
+                "compound_code": "4RM6+JF San Marcos, California",
+                "global_code": "85544RM6+JF"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJN8XroU913IARzXDwwxr2mj0",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 325
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "328 S Twin Oaks Valley Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1299158,
+                    "lng": -117.1653034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13127667989272,
+                        "lng": -117.1640850701073
+                    },
+                    "southwest": {
+                        "lat": 33.12857702010728,
+                        "lng": -117.1667847298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Players Sports Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117253013429591277095\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECAZ8zT85RJvnOODYhdosw57Bv8ZG6LV_bW5eW-ApfG10vV5slK5_gmEC_b70FAkAIhNFAz-TOYwcLBnn3pOlKjytPXVH3enYddgfLDCiwO339T_ygln4OR0d_8wzNbyb4PFKL49ntkWRP96eYFBEkJX1asndBEZkHWy-S1vRZU1Iws",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJVcIqKK2K24ARfkJZX0mLIFo",
+            "plus_code": {
+                "compound_code": "4RHM+XV San Marcos, California",
+                "global_code": "85544RHM+XV"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJVcIqKK2K24ARfkJZX0mLIFo",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 419
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "775 Center Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1339928,
+                    "lng": -117.1207643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13536727989273,
+                        "lng": -117.1193618701073
+                    },
+                    "southwest": {
+                        "lat": 33.13266762010728,
+                        "lng": -117.1220615298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Hooters of San Marcos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105042846102036655569\">Alex Salazar</a>"
+                    ],
+                    "photo_reference": "Aap_uEAxxpZ7EK8OMy3ypNqAL5QtojjGmpk9QVPT_G5daKweCY4qPsKQyzdw4gwPGhhaDuz4QIsVn1iTm4Lk80eL5LJqAh53L7kr-7WbGu6dU3U0VptTXiqqZfBUSH9EMJe2KeqYrZYsj-TnlXh4vIXWQo2S8vx1zh61KnEt0jCzhqqM_YJT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_7B7Tiv324ARwH5iNaQUVkw",
+            "plus_code": {
+                "compound_code": "4VMH+HM San Marcos, California",
+                "global_code": "85544VMH+HM"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJ_7B7Tiv324ARwH5iNaQUVkw",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 897
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "803 S Twin Oaks Valley Rd #107, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1229117,
+                    "lng": -117.1656617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12435507989272,
+                        "lng": -117.1643638201073
+                    },
+                    "southwest": {
+                        "lat": 33.12165542010727,
+                        "lng": -117.1670634798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Bellows",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1366,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110404497649321237555\">The Bellows</a>"
+                    ],
+                    "photo_reference": "Aap_uECP_Woq14ejx8KdK1Xv0SWtabU7ypHrD0QafNal_FPpiVUgdgV9-8ZmbgxMGyDP7oRWVcHLUSCH-m6soSTjoo_Tbtkdx1_BEIqrNfhpEUxwtg-xVXlj5yDBamsadEMgCWLA9eVUZZZp2wkUAqcMS8c603vHgXypeVsGXy0aDLumQaVK",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJm1854lD124ARR-kIsrYVHmU",
+            "plus_code": {
+                "compound_code": "4RFM+5P San Marcos, California",
+                "global_code": "85544RFM+5P"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJm1854lD124ARR-kIsrYVHmU",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 389
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "546 W Mission Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1453323,
+                    "lng": -117.1726227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14658142989273,
+                        "lng": -117.1713079201073
+                    },
+                    "southwest": {
+                        "lat": 33.14388177010728,
+                        "lng": -117.1740075798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "49'er Bar & Grill",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105649919322733583098\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC9aT6zF9rHicIa--95Iqb1JK8xmLeQjyWN90YCD08OVds1PoOBj-AHYiQdLb7SWVDLv6oW8sAJLUVwu4wR5-5Vnkgp3JRHnnk27fZZh8yymLKqnR9eKD14AMAjoBPWg2-ojFXQvxYp0jXAriNlclLNRe3bJiokUpR3oj-9RxgnrKgK",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJz44FsKCK24ARbzLK83gYz1Y",
+            "plus_code": {
+                "compound_code": "4RWG+4X San Marcos, California",
+                "global_code": "85544RWG+4X"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJz44FsKCK24ARbzLK83gYz1Y",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "288 Rancheros Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1388351,
+                    "lng": -117.1597007
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14008317989272,
+                        "lng": -117.1584043201073
+                    },
+                    "southwest": {
+                        "lat": 33.13738352010728,
+                        "lng": -117.1611039798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "My Yard Live Beer Co.",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112861139859075541128\">Izzy Lipez</a>"
+                    ],
+                    "photo_reference": "Aap_uEC6KNv_SHx6zlJ21lF5JCsERlHLraVthrxx2I0FNoxqYIFYHdmelzATxPRM3HnDJ1mTJae1y_wi6_iJhB8Y0HjwLcyzyx9gYh4XsJPjcCvoQ3lvfH95vPQuJlr_FZOGgor1q1nGDK3_dD9R9kawayWsDoxgyOo220krqVJvZId9i0F0",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJseRCuTWL24ARFDpzlw8VjQY",
+            "plus_code": {
+                "compound_code": "4RQR+G4 San Marcos, California",
+                "global_code": "85544RQR+G4"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJseRCuTWL24ARFDpzlw8VjQY",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 592
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1010 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1351394,
+                    "lng": -117.1889236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13653882989272,
+                        "lng": -117.1875758201073
+                    },
+                    "southwest": {
+                        "lat": 33.13383917010728,
+                        "lng": -117.1902754798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Buffalo Wild Wings",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116592515750721646087\">donny blaze</a>"
+                    ],
+                    "photo_reference": "Aap_uEB7WXSfY2IARHqhw7-0_t0J_on2YnotET-NkED2PDZoajxP3jyDweLXUIUWJUpOzYiely3q7fizTXAhKrJXe0EC42o2YsES-Do671qBadHTNqiII7kUreKu4uh7ssS71DmcOGMrW-w8Pl1_9I3Odd-7T-MIV57SmH6KiRDJSzPu-0Qh",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN4JQcE913IARDA8SY2eVw0k",
+            "plus_code": {
+                "compound_code": "4RP6+3C San Marcos, California",
+                "global_code": "85544RP6+3C"
+            },
+            "price_level": 2,
+            "rating": 3.7,
+            "reference": "ChIJN4JQcE913IARDA8SY2eVw0k",
+            "types": [
+                "meal_takeaway",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1092
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1556 Camino Del Arroyo Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.121031,
+                    "lng": -117.216093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12231797989272,
+                        "lng": -117.2147044201073
+                    },
+                    "southwest": {
+                        "lat": 33.11961832010728,
+                        "lng": -117.2174040798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Tap In Tavern",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100113199106831713131\">Philip Clovis</a>"
+                    ],
+                    "photo_reference": "Aap_uEC2oBc0sg9ZXh3XQrREe6zZnWvnA1m8-GDY6hNZ--eNvGOODiSjMvWAZfqtU2JkUrF2061uXyRYckHb1HCtJCjognO8HgW99kni1SOrCbbn4X3DQlDeAkSDVyYIksCp-Mc-kIxosFnM9mX6LyBlQPw5wGmiNAk5RL4aNdwBF7wEbbIt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ95K8cit13IAR3g__ev4iN08",
+            "plus_code": {
+                "compound_code": "4QCM+CH San Marcos, California",
+                "global_code": "85544QCM+CH"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ95K8cit13IAR3g__ev4iN08",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "110 Knoll Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1385685,
+                    "lng": -117.1758405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14012992989272,
+                        "lng": -117.1746967701073
+                    },
+                    "southwest": {
+                        "lat": 33.13743027010728,
+                        "lng": -117.1773964298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Slater's 50/50",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116556366085767404264\">Grant Norman</a>"
+                    ],
+                    "photo_reference": "Aap_uEDtzhA9eGmadVHjuFDA6hc1bSrLeoSCPwIkKfyL6Gkf-9hBK9dxukGjaj7uEUHqCciZEUL20LzVqwAk4SJ3UT7YlX17Tdfd-4V4u9MnplM9qiEb9usx5OmReDJDbjmyU92NyBDY5--78RP7jXJsTZb_kw2SN_TD18qdnjIWND9CZ8rN",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJEWFBhld13IARU5ix729VZJo",
+            "plus_code": {
+                "compound_code": "4RQF+CM San Marcos, California",
+                "global_code": "85544RQF+CM"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJEWFBhld13IARU5ix729VZJo",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1041
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "177 W San Marcos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1405762,
+                    "lng": -117.1643755
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14197992989272,
+                        "lng": -117.1631048701073
+                    },
+                    "southwest": {
+                        "lat": 33.13928027010728,
+                        "lng": -117.1658045298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Outback Steakhouse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108968855092430287005\">Paula Fabor</a>"
+                    ],
+                    "photo_reference": "Aap_uEAeC9NMphGi2z_kEvP5aXC8ppslMZ_3z2y7aiDLVt6npox79xXZVRjqVz78XpQKpHeTDQx1SsGCWjXbkNJXDK5S0ssUtHMLA0RVQaToRTunIi4N7GyS7xbsuQ3LxYWsxE9P9cR7F652aWyjzEDMjN2Mzlv1AoEwsbHx4KeGBvoGl4Db",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ97Ow0kaL24ARi-RBQJAno8s",
+            "plus_code": {
+                "compound_code": "4RRP+66 San Marcos, California",
+                "global_code": "85544RRP+66"
+            },
+            "price_level": 2,
+            "rating": 3.8,
+            "reference": "ChIJ97Ow0kaL24ARi-RBQJAno8s",
+            "types": [
+                "meal_takeaway",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 677
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "407 N Twin Oaks Valley Rd #102, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.144798,
+                    "lng": -117.161923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14605847989272,
+                        "lng": -117.1606218701073
+                    },
+                    "southwest": {
+                        "lat": 33.14335882010728,
+                        "lng": -117.1633215298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Nara Hookah Lounge And Smoke Shop",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 5304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102426879170245759885\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC9Qcho53V6iDlXgfmR6mXeSC8WSd8ZbGASaLvUnnjL2EUzQ_QTLP5lD4QjdcMspwBeZP3MEygnqBm9PUGRyWDZOwTFK-UjfHh0EI0_fdnVTzfIuzjlxeONBkOYcZEDh8ZpcEFkLcPYTnDGOOq_trgwe-ZJ3jbm8hgtPLju_fX3U84d",
+                    "width": 7952
+                }
+            ],
+            "place_id": "ChIJG9S2LaWK24AR1Ci3R3vPVGA",
+            "plus_code": {
+                "compound_code": "4RVQ+W6 San Marcos, California",
+                "global_code": "85544RVQ+W6"
+            },
+            "rating": 4.5,
+            "reference": "ChIJG9S2LaWK24AR1Ci3R3vPVGA",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 76
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "200 W El Norte Pkwy #7, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.139831,
+                    "lng": -117.091691
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14110317989272,
+                        "lng": -117.0903150201073
+                    },
+                    "southwest": {
+                        "lat": 33.13840352010728,
+                        "lng": -117.0930146798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "North Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107733216669253112181\">Amy Bickle</a>"
+                    ],
+                    "photo_reference": "Aap_uECrkjye3dYo7rQbl8jH99LNbIuen-YmLe8H7cpmxcXDUHrwa9OdVfa8_e6mb1MlIdA9maifk8_10BPYgPTn4zGnhhacJkIg49HeFIOHg5HlUuLz4yaz4XHDH44X1ezYeVVxDsqT79qc4i8G5bu28j8sw0H92HmRtF2grA_taPrx7o00",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4TZtObD024ARgp8IXGWUnlU",
+            "plus_code": {
+                "compound_code": "4WQ5+W8 Escondido, California",
+                "global_code": "85544WQ5+W8"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJ4TZtObD024ARgp8IXGWUnlU",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 224
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "125 W Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1211913,
+                    "lng": -117.0819365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12261652989272,
+                        "lng": -117.0806388201073
+                    },
+                    "southwest": {
+                        "lat": 33.11991687010728,
+                        "lng": -117.0833384798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Pounders Sports Pub",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102217698020332696442\">Pounders Sports Pub</a>"
+                    ],
+                    "photo_reference": "Aap_uEArhgc-Zn6EVPm1Hhvvo8Jn6r9FqNiTC80nNupoYCUI8td610iYjCuSF9ElTszy6Jlkv-cTAxjl53QH0CiTG7U7Mep-H9OG9EpA-LE5waleN9sszAXczjlklD1jX44fZBp3Lbid3mwslogXz7xZbAHTfeUFxDRxDcVa7yl_eNoziz18",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJlRinBJ3024ARjFO7EYN_zf4",
+            "plus_code": {
+                "compound_code": "4WC9+F6 Escondido, California",
+                "global_code": "85544WC9+F6"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJlRinBJ3024ARjFO7EYN_zf4",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 333
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1025 La Bonita Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1246705,
+                    "lng": -117.207852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12614317989273,
+                        "lng": -117.2066328201073
+                    },
+                    "southwest": {
+                        "lat": 33.12344352010729,
+                        "lng": -117.2093324798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Lakehouse Hotel and Golf Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 540,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107604214605595221397\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEB8NBcCbVs3PxdPLwb2JKBFDL2FVm5RzVlI0PXcKadsmObIQJ5Y4DGUXZjCKoTRncQ7LuAv1gZQAJQp15TQTJJbpP3RAVBZM8FJBx_U2dfeFHoc71fImPPKIAc1Y6-B8LmJCQoDUvdvL2jN-vBjkFDUs5ps6sLr2TZ7F5OQpdC6J9pS",
+                    "width": 810
+                }
+            ],
+            "place_id": "ChIJZeTabDJ13IAR_Ge26A_SCUM",
+            "plus_code": {
+                "compound_code": "4QFR+VV San Marcos, California",
+                "global_code": "85544QFR+VV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJZeTabDJ13IAR_Ge26A_SCUM",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1328
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11040 Rancho Carmel Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.97751909999999,
+                    "lng": -117.0827891
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97901337989271,
+                        "lng": -117.0814184201073
+                    },
+                    "southwest": {
+                        "lat": 32.97631372010727,
+                        "lng": -117.0841180798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Conway's Irish Pub",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 803,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101631960700929945920\">Robb</a>"
+                    ],
+                    "photo_reference": "Aap_uEBbWmehNPd8dTbazN89udJf_VyWhngIcqm_6q9ce_P8GN6LzfBc4V-FzvzAu2ZoBImrpq4Kj6E464HVFz_Ks8IdwzlWm8wTsVcC7dK0Gfg60M6ZSBKhLrMdzeYHbX3zy4DyHk19VDkMgbPP2RBvm83FTOyOMVCcGAyePWLCahTW4LVx",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJv6tjOfn524ARCssLUjvUJPI",
+            "plus_code": {
+                "compound_code": "XWH8+2V San Diego, California",
+                "global_code": "8544XWH8+2V"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJv6tjOfn524ARCssLUjvUJPI",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 150
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1035 La Bonita Dr Suite B, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1238813,
+                    "lng": -117.2075972
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12514762989272,
+                        "lng": -117.2065372701073
+                    },
+                    "southwest": {
+                        "lat": 33.12244797010727,
+                        "lng": -117.2092369298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Amalfi Marina Bar (Dockside)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1067,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118425821373855712679\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDO-Mfqc2QITPYkIxRhF3vAgPPEBDl1uRFxg6n2I0jWxQFFM2d7J1YYDvgHVHiZ0QqVqF1OYlWpC2N-B2OmkU0Q6TUdafhHk5C48BKHQa1Ot1WPPgb3OZVQuUMNyclLtme1p0Zd_suHTyxdxyOuWpCg3QRv3x6QOLajpNDCRwbnjPdt",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJm2keGHR13IARTt4ag51DNCE",
+            "plus_code": {
+                "compound_code": "4QFR+HX San Marcos, California",
+                "global_code": "85544QFR+HX"
+            },
+            "rating": 4.5,
+            "reference": "ChIJm2keGHR13IARTt4ag51DNCE",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 321
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15817 Bernardo Center Dr UNIT 113, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0047001,
+                    "lng": -117.0913778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00639277989272,
+                        "lng": -117.0896630201073
+                    },
+                    "southwest": {
+                        "lat": 33.00369312010728,
+                        "lng": -117.0923626798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Kelly’s Pub",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110240047749853350465\">On-Duty Rooter &amp; Plumbing</a>"
+                    ],
+                    "photo_reference": "Aap_uECHr59MLHZZLKlgikDVHVmusR6rpk4Td21cDdR7NHQdWrMk5OXuOIv3w6Cj73yHMQkpcZ-8SL2EL66x8cWyJANUUGWtNqZrMNjUJ_ZpKvQ_GoyhmY56IkyjAQCFlgavigtLc8lrdqs3Lsq2cVRv83ZPkl_H7adW9rKmfR9Tf4jcZCZS",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ09KzLDj324ARs2aUoIVHfY8",
+            "plus_code": {
+                "compound_code": "2W35+VC San Diego, California",
+                "global_code": "85542W35+VC"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJ09KzLDj324ARs2aUoIVHfY8",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 371
+        }
+    ],
+    "status": "OK"
+}

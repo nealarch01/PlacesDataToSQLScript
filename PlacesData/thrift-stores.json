@@ -1,0 +1,998 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBS2BeVS0T3jY_j7L2zTxmoX8xrjLfI174ur_a68JFe-oWwao9aPuaPJATnkb8B2KcMqNvkNlWrXgEGcUPqFcKiBDx286bU9qQLioy_BLaRlzbnN9eu0zvNe-WXE9Hf5jCAXShddDg0fxr7-816GmEa_4tG_PRsEn9sr72OLvvADRNRzTvsiB_C_gdxr58q6qOxRK12-qDNJRYXJftJRmTYKT7yKaGb7eIgF2qZQ04ph1w_RldKPVt_kg2kJe8nw_PQC8LHutNzhm_fC7hPPv6mY1LOuWYhA4WHiKRrIZrxXLO2ge1GgIOCOlUYn2PDrkn_cDDyuZHuovakng5odLja-JNsh5bKDR7JXMehl36ODpQcKRb4DvVAJuDS4nTmOZbZV4BZ91K9zpJm-3LOJoGZwt3ZHpJoQet1KYUI",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "210 S Rancho Santa Fe Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.145768,
+                    "lng": -117.2009716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14721372989271,
+                        "lng": -117.1995422701073
+                    },
+                    "southwest": {
+                        "lat": 33.14451407010727,
+                        "lng": -117.2022419298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CRC Resale Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 972,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118257299653731481329\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDXFE_x_q250ssuW6zRmMaFvcmuj8XrG15my5qH3rWtA1OrtRk-S94yBQ62iILnFQrM98HNjzhBOd-GbY7hpQTJa3SxsXIIMjXwExEHJi6xbmw_v4y8vPyWIDZkw6AwGvBbuQlEvmfPQ0PrLGw1U1c8Q4v-B5gKiHE0FS9XWri_F-2W",
+                    "width": 1296
+                }
+            ],
+            "place_id": "ChIJa54UrhV13IAR52Uglpnqr_g",
+            "plus_code": {
+                "compound_code": "4QWX+8J San Marcos, California",
+                "global_code": "85544QWX+8J"
+            },
+            "rating": 3.7,
+            "reference": "ChIJa54UrhV13IAR52Uglpnqr_g",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "841 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1353834,
+                    "lng": -117.183095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13693097989272,
+                        "lng": -117.1817771201073
+                    },
+                    "southwest": {
+                        "lat": 33.13423132010728,
+                        "lng": -117.1844767798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Straight From the Heart Resale",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112161129161368877585\">Sheryl Rydelski</a>"
+                    ],
+                    "photo_reference": "Aap_uEDEpQwzgY8h3EBHRgEH3ysoRZpcsOuZwR-caObOVxZsaVzYdSZYHcZWGAKpen-62HcX716zfo3_RV8ABB72TZAKfA5rIYXpKY2cbaBiy1gqY_p6ExFNV36GHAVDTuQscAmMURjPHYMzCUvsIFK--hF7uASwGJuQwubs2c-A6VltBDpW",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJH_HbZ1B13IARdEl_cSPjggw",
+            "plus_code": {
+                "compound_code": "4RP8+5Q San Marcos, California",
+                "global_code": "85544RP8+5Q"
+            },
+            "rating": 4.9,
+            "reference": "ChIJH_HbZ1B13IARdEl_cSPjggw",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "685 S Rancho Santa Fe Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1317538,
+                    "lng": -117.205892
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13310977989272,
+                        "lng": -117.2046315701073
+                    },
+                    "southwest": {
+                        "lat": 33.13041012010727,
+                        "lng": -117.2073312298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115051918425972860248\">Goodwill Bookstore &amp; Donation Center</a>"
+                    ],
+                    "photo_reference": "Aap_uED3pcNh-s9DIp3jS8mwoeOSN98ALkpWr_7-7Mm3pEtQw6zwCOp0rGCqk8bgQqq_qtsI7pLJOYdpZHLmQSs7VY09wpLRSHVV9FCd8-alEV0kUlMFRXQ4hEPB8qI8V_bCalRRGKfJOz2go8-QO8eJgPYWJJrEEnzBpTOD8XwGgNoscCmo",
+                    "width": 3008
+                }
+            ],
+            "place_id": "ChIJIzxAvjp13IAR5fNqcu-aOLg",
+            "plus_code": {
+                "compound_code": "4QJV+PJ San Marcos, California",
+                "global_code": "85544QJV+PJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJIzxAvjp13IAR5fNqcu-aOLg",
+            "types": [
+                "book_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 141
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1996 Don Lee Pl, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1287986,
+                    "lng": -117.1212247
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13010402989272,
+                        "lng": -117.1200862701073
+                    },
+                    "southwest": {
+                        "lat": 33.12740437010728,
+                        "lng": -117.1227859298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Outlet Center and Donation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101551433241792476433\">Hakz olot</a>"
+                    ],
+                    "photo_reference": "Aap_uEAC3zTSupzZvYVp20RLKy8HX2iF7sSOhLvSCITx2zmnBzln8Y81I_AbdCo8cR0tUSPA8pNxXJeD4KjyvUUlWASCr3BmZz0BaEfqINDr1pG231GyTVu5ZM-58w048z0GV3oSqtf9VsDad-zHIRMAy75RI5Br-lXPCNQgkUoAzXVAKUwm",
+                    "width": 3872
+                }
+            ],
+            "place_id": "ChIJ3Y0Vhdn024ARbTi0_hjA6fU",
+            "plus_code": {
+                "compound_code": "4VHH+GG Escondido, California",
+                "global_code": "85544VHH+GG"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ3Y0Vhdn024ARbTi0_hjA6fU",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 149
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "850 Los Vallecitos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1404914,
+                    "lng": -117.1815338
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14191812989273,
+                        "lng": -117.1801020201073
+                    },
+                    "southwest": {
+                        "lat": 33.13921847010729,
+                        "lng": -117.1828016798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Antique Village",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109775796374672208868\">Darrell Offutt</a>"
+                    ],
+                    "photo_reference": "Aap_uEBu9JmcvCX4MHk-1J-7l2v9raViY8Nu9dV03E4rN644u-Pe_jZvjVRsnJirnU6U5J-Yfe0G6_t0527PykovJeKdAGO9T831FQdUxNrO6bwnQW7D0cTrI_fEZ1hQMmA556gXtiMl5GC-sAiS_Mu2eBy2xzEAd2GoGh311ARKBrsXwdNq",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJMxkHrlt13IARNGYJx7EEmoQ",
+            "plus_code": {
+                "compound_code": "4RR9+59 San Marcos, California",
+                "global_code": "85544RR9+59"
+            },
+            "rating": 4.5,
+            "reference": "ChIJMxkHrlt13IARNGYJx7EEmoQ",
+            "types": [
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "303 W 10th Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.111994,
+                    "lng": -117.0785572
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11338537989273,
+                        "lng": -117.0771173701072
+                    },
+                    "southwest": {
+                        "lat": 33.11068572010728,
+                        "lng": -117.0798170298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "S.V.D.P. Thrift Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJDavGzX_z24AR2SxqTeJ83Dw",
+            "plus_code": {
+                "compound_code": "4W6C+QH Escondido, California",
+                "global_code": "85544W6C+QH"
+            },
+            "rating": 0,
+            "reference": "ChIJDavGzX_z24AR2SxqTeJ83Dw",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2239 Auto Park Way, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.121212,
+                    "lng": -117.1134686
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12266627989272,
+                        "lng": -117.1119447701073
+                    },
+                    "southwest": {
+                        "lat": 33.11996662010728,
+                        "lng": -117.1146444298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Diego Habitat for Humanity ReStore",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105245847782425235107\">Jim Sutton</a>"
+                    ],
+                    "photo_reference": "Aap_uEDOWzn8EoZNCZFSIsBEWJnAtwxdIQqIurwxGzICCJ56-2T4rWWTBFLEzvO_LjlqBVhSoHdDwmGAoNMxSV5Pp4aqjrRBC8-Kw_G5v1n5PKyXw7Yl405m__dE6iRoQYzbPjJHKXPZYqrxfqK7EgKNxhXgazuVtqRI-AH04s0_uB6PYh4A",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJEeWN7b_024ARezFc2aLwaKo",
+            "plus_code": {
+                "compound_code": "4VCP+FJ Escondido, California",
+                "global_code": "85544VCP+FJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJEeWN7b_024ARezFc2aLwaKo",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 165
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1349 S Escondido Blvd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1085985,
+                    "lng": -117.0761822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10999817989272,
+                        "lng": -117.0747339201073
+                    },
+                    "southwest": {
+                        "lat": 33.10729852010728,
+                        "lng": -117.0774335798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Welcome Home Thrift Store",
+            "permanently_closed": true,
+            "place_id": "ChIJpdB3s4Hz24AR2nhQgtZVnHM",
+            "plus_code": {
+                "compound_code": "4W5F+CG Escondido, California",
+                "global_code": "85544W5F+CG"
+            },
+            "rating": 5,
+            "reference": "ChIJpdB3s4Hz24AR2nhQgtZVnHM",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "315 W Washington Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1248628,
+                    "lng": -117.088326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12656362989272,
+                        "lng": -117.08726465
+                    },
+                    "southwest": {
+                        "lat": 33.12386397010728,
+                        "lng": -117.09151005
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 720,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106325721485207267207\">Mike Hosley</a>"
+                    ],
+                    "photo_reference": "Aap_uECFMavfEPAbarqTJ6bblsqMWR2vx9BhDqlMcnhxYW_kyfbVKsTpJKFX41ht4QtVV1vbgAcQYRwjpGOeM3tw8wtFZgKztxYGPrUHNH9vZfNAnTQDpJcKS1zDd55rAO_MYV-Bhpkh0mby8BRQgnbHgrGIg5IQ-_LWzZJ02vkKJ8gH1-lU",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTTvdLZj024AR1Ch2pKL-Lb0",
+            "plus_code": {
+                "compound_code": "4WF6+WM Escondido, California",
+                "global_code": "85544WF6+WM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJTTvdLZj024AR1Ch2pKL-Lb0",
+            "types": [
+                "book_store",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 302
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "278 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0529246,
+                    "lng": -117.2623047
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05434262989273,
+                        "lng": -117.2609669701072
+                    },
+                    "southwest": {
+                        "lat": 33.05164297010728,
+                        "lng": -117.2636666298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hospice of the North Coast Resale Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 542,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116651143370491777781\">Hospice of the North Coast Resale Shop</a>"
+                    ],
+                    "photo_reference": "Aap_uEBYk_XKqEha8C6Lk1YwL2YeKfRecs031DvvMaG4VNvW4W46d42EVUWHK6WLUvl_W_0F4XjEC6bkGaolulMujSVRAlusIzA7w0T4qMjYU0JtgP0VxXxPNwEtjHLa61t0h1lceZMhGa2lgoYDS6v8LkIqv92r-VJXXTAXLKDWke-B0vAR",
+                    "width": 812
+                }
+            ],
+            "place_id": "ChIJ_a_lMIkL3IARm2IVkd6P_oU",
+            "plus_code": {
+                "compound_code": "3P3Q+53 Encinitas, California",
+                "global_code": "85543P3Q+53"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ_a_lMIkL3IARm2IVkd6P_oU",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "183 E Washington Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1267534,
+                    "lng": -117.0828559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12824397989272,
+                        "lng": -117.0815723701073
+                    },
+                    "southwest": {
+                        "lat": 33.12554432010728,
+                        "lng": -117.0842720298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Salvation Army Thrift Store & Donation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104969581474778525758\">Hailey Greer</a>"
+                    ],
+                    "photo_reference": "Aap_uECpCp5Hpu_1MkihceNCtOIZ3NFq0-VPEhZAey15mjyLNmwqgiV4shKZj1wkdoPfd9J_cJoLhn2fQW3HtgAikaeb4QJkV4ZZBhB3wA9H9TSIacKWLf1fO6Q-XDzMKkydnQLPtsQDbDEb5j5p8Ku_urvpUXWBZQSGe1vik012zXPbJ5r5",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJJ091_Z7024ARMl2x-o_zx4E",
+            "plus_code": {
+                "compound_code": "4WG8+PV Escondido, California",
+                "global_code": "85544WG8+PV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJJ091_Z7024ARMl2x-o_zx4E",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 216
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2085 E Valley Pkwy, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1378092,
+                    "lng": -117.049807
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13947887989272,
+                        "lng": -117.0488083701073
+                    },
+                    "southwest": {
+                        "lat": 33.13677922010728,
+                        "lng": -117.0515080298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Valley Thrift Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107500142434455074878\">Jim McPherson</a>"
+                    ],
+                    "photo_reference": "Aap_uEB8S_zz0Mgtd9JcaGYUZsq0e0gO33tGj5Wo5Wk8aVe8eJMP3ZJFChDl46MZ3IhSK_av45aJzAdo4gywr0IJY4lQzwDVQyNFsK0rkzYTQUHWXLc8GkQ3p7XEXaF2irnjU1eaepDogYZUCFW4ro-0biJ2GsQcQjekzBTMP8quzXEN7lvb",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJp8S34j3z24ARJiN9Y4dAdYM",
+            "plus_code": {
+                "compound_code": "4XQ2+43 Escondido, California",
+                "global_code": "85544XQ2+43"
+            },
+            "rating": 3.9,
+            "reference": "ChIJp8S34j3z24ARJiN9Y4dAdYM",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 642
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1417 S Escondido Blvd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.108044,
+                    "lng": -117.075778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10965412989272,
+                        "lng": -117.0745158701073
+                    },
+                    "southwest": {
+                        "lat": 33.10695447010728,
+                        "lng": -117.0772155298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mi Segundita Thrift Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108026474571658605582\">Mi Segundita</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-iT47Co1Duv3l-nDxmjOC236kQriyRisL05n3-XNNNM0hGn69Ap3KU6jPS3GvNj9GLynwPAK1oSDCWDiK8uKrt-3IeumXlmEPiVBJrMwklviwvYvIi_N4HnTe7zHHjQeYYb0KoYiYm0QsHupR4Ex45zyp756QSchby8B9nPc72k6b",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJVSoaCoHz24ARp4_HhlGNouo",
+            "plus_code": {
+                "compound_code": "4W5F+6M Escondido, California",
+                "global_code": "85544W5F+6M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJVSoaCoHz24ARp4_HhlGNouo",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "360 W Washington Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1258289,
+                    "lng": -117.08863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12700942989272,
+                        "lng": -117.0873253201073
+                    },
+                    "southwest": {
+                        "lat": 33.12430977010728,
+                        "lng": -117.0900249798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Thrift Store Bello Hogar",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114201018413983598926\">Tanna K. K.</a>"
+                    ],
+                    "photo_reference": "Aap_uEAEGpzXX7R1IVQpRtRgQ6vhTd8E6bOuldC7NaMNeX7RiUbQZI8wtxF86Fbkk6alu6ropOyWV5bZcJBWArGTiTDAEbcV5h51SaV3tfINC7leq3aAAAf8xs2NwFVvX5WOi6hZcIlG4aKOpzbVBq1P5byBpwze3oLQt5OGCokEsCLv9jg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJcfX7U5j024ARxSxf7JA3Szk",
+            "plus_code": {
+                "compound_code": "4WG6+8G Escondido, California",
+                "global_code": "85544WG6+8G"
+            },
+            "rating": 2.5,
+            "reference": "ChIJcfX7U5j024ARxSxf7JA3Szk",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1056 E Vista Way, Vista, CA 92084, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2137894,
+                    "lng": -117.2289983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.21516322989272,
+                        "lng": -117.2275993201073
+                    },
+                    "southwest": {
+                        "lat": 33.21246357010727,
+                        "lng": -117.2302989798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102344543930672895645\">Goodwill Store &amp; Donation Center</a>"
+                    ],
+                    "photo_reference": "Aap_uEBcDITK6YLjCOGilOce-TObX72nti_qNnveG7KuRRgmCa8679y-OrqolaobsPsLiC6hL_cgL6UgUfKvOxPLpmgArXsSU87l9NQM3PX0boNyL15NQ13HwAGtMyKCfojYkDPfxuLhjoM9470c6dsjSFhMnBPZ0_uhmzZ3sjyFUb5KQRkq",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJudoo7Y523IARo3Oj1Fpg7g0",
+            "plus_code": {
+                "compound_code": "6Q7C+GC Vista, California",
+                "global_code": "85546Q7C+GC"
+            },
+            "rating": 4.1,
+            "reference": "ChIJudoo7Y523IARo3Oj1Fpg7g0",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 302
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "801 Grand Ave, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1385035,
+                    "lng": -117.1803651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13981837989272,
+                        "lng": -117.1791013201073
+                    },
+                    "southwest": {
+                        "lat": 33.13711872010727,
+                        "lng": -117.1818009798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Cassidy's Books",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2094,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101255704412703591421\">Lorna Theotokos St. Louis</a>"
+                    ],
+                    "photo_reference": "Aap_uECXgUQh3m5KM7AarsZIKediman8Je7bvCK5AxDhYFunLpeMEo_-P77RHAgsBVhEGxx5jEHX-RSb7Ia7h7SCAv5kXpoqB1e5tPQjiqEVv6KW09CGFlpyo38lfjVSFFn2b-JXctDqkx6CCWNI9xssdvVkov5w10KzPp-4oPJNTFtREIBP",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJlxfhFlp13IARqfxzlgm3cD8",
+            "plus_code": {
+                "compound_code": "4RQ9+CV San Marcos, California",
+                "global_code": "85544RQ9+CV"
+            },
+            "rating": 4.6,
+            "reference": "ChIJlxfhFlp13IARqfxzlgm3cD8",
+            "types": [
+                "book_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6949 El Camino Real Ste 200, Carlsbad, CA 92009, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1042557,
+                    "lng": -117.2684197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10567067989272,
+                        "lng": -117.2671484701073
+                    },
+                    "southwest": {
+                        "lat": 33.10297102010728,
+                        "lng": -117.2698481298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Uptown Cheapskate",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106821357908799029929\">Haley Stevens</a>"
+                    ],
+                    "photo_reference": "Aap_uEAQaFDG8ZUhKhycn8CWDyO5eEKB_xXkJLST5s3z8z6MfemziBHL8wqKfwiqJP4G2r7GYOy2BZLfGb62EF7tha8JHYkv89ymwWZr6pQtfm9Gc_G-oby2l1hMjMFslFLQyKmbMDRpwzKNzIuhQnGrndfet7uGFHGJ_QeQG8NQ4NmEn24_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrVGffqoM3IARTzz9vVtF3Xw",
+            "plus_code": {
+                "compound_code": "4P3J+PJ Carlsbad, California",
+                "global_code": "85544P3J+PJ"
+            },
+            "rating": 3.9,
+            "reference": "ChIJrVGffqoM3IARTzz9vVtF3Xw",
+            "types": [
+                "shoe_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1331 Encinitas Blvd, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0447369,
+                    "lng": -117.260375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04618322989272,
+                        "lng": -117.2590561201072
+                    },
+                    "southwest": {
+                        "lat": 33.04348357010728,
+                        "lng": -117.2617557798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CRC Resale Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100844269068329292081\">Sandy Hill</a>"
+                    ],
+                    "photo_reference": "Aap_uEBsaihBRWVun2QxbLXGB1vixaZ1zcPRC8PYZ8ASq1kbaDGARme65tqW90LbaMvCKspCgoV7w28T5Of1FPu07VuZFv20lXcp1EjBb6j3jWEGR5oSM7xfNCJeU0nD3GpFqfe-CUhlOVVNa0UNgtiGoWrmS23gXKLxQcJnuWxI2LnX2pli",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6SAVIkMM3IARv_J36gLmVGY",
+            "plus_code": {
+                "compound_code": "2PVQ+VV Encinitas, California",
+                "global_code": "85542PVQ+VV"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ6SAVIkMM3IARv_J36gLmVGY",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6525 Helen Woodward Way Ste b, Rancho Santa Fe, CA 92067, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.995725,
+                    "lng": -117.195148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99730077989272,
+                        "lng": -117.1934828701073
+                    },
+                    "southwest": {
+                        "lat": 32.99460112010728,
+                        "lng": -117.1961825298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Orphaned Objects Designer Resale",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113892302147930438821\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDCT6jkX-fIXZkel8kkvlXbvC2CWBHkHxqNl1DusF7V9iWPrnt6jHpQP0c31vxaA5aCcdRSebeX6WEj6HiLcnLncLqKbNXUjsI1J523iS6mlhXCPndCyRGhlgzuPNJ_Ky3nu-Sy1quarJwJqrTwVjXSWmYPaBObDti9vXo3R0LkvCgG",
+                    "width": 4496
+                }
+            ],
+            "place_id": "ChIJ9xDhujUI3IARK5MNnAx84Rg",
+            "plus_code": {
+                "compound_code": "XRW3+7W Rancho Santa Fe, California",
+                "global_code": "8544XRW3+7W"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9xDhujUI3IARK5MNnAx84Rg",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "166 Roymar Rd, Oceanside, CA 92058, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.216104,
+                    "lng": -117.3457083
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.21744917989272,
+                        "lng": -117.3444056201073
+                    },
+                    "southwest": {
+                        "lat": 33.21474952010728,
+                        "lng": -117.3471052798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OCEANSIDE TREASURES",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1192,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114155635713348509668\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBz1h8fCpM7qWUkZyabyMA4JVH0OVP8zbb2eky1k0Sd-wrlEwVh1LbcsE7CZNY0BBhLKakJPXSBweoAeC8xNTOwwu7g_4S0fWAW7y54GrrY028WleTYkPh2TS0PBc5YOMlftYr9gCtUfRtdLsUZsPn8ZJ0Vv_7dd7yw9W3FOD_L3cj5",
+                    "width": 1492
+                }
+            ],
+            "place_id": "ChIJzXV0BVxx3IARgWfvlN0l-yU",
+            "plus_code": {
+                "compound_code": "6M83+CP Oceanside, California",
+                "global_code": "85546M83+CP"
+            },
+            "rating": 3.7,
+            "reference": "ChIJzXV0BVxx3IARgWfvlN0l-yU",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        }
+    ],
+    "status": "OK"
+}

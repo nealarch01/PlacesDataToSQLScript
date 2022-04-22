@@ -1,0 +1,960 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDnkJd0aM5S3HEsOIHwfub0P6YaXTmJbTjuRV_ypr5r7iBYZuNCPUV77Nbgv7Iu4h4KN3OroSFioP9SNVQDtIm1z47kYaR7JXzdILpHiB5KOJ48waveD3gFu_EyDRoKRAWQVSLjMvnWuSdKz1r82wVRa9Zwuoet6l24pIRwy3x9x1nL1TofUkyAafdpIUVxT45DIrO2auDWJAglrOgq6pa0QPPomjx83copdACUEKrtpp-HC-tfoIf4onVpxBoEUvb8WidszS2iKsI9KITsP8YdXW_8EJo4kG8v8qdEGiGxzFhsJBnfWD1IIdmBhzJLwZAAOnrBIKFGT8mkIj1OCVzWlxQ9l6zyW80FUe-Ho9rJZcdjFbMzDIuv2I9FI1y3TdQHvY5robfwhxFiuyKt67CnqppOECTgcKZMZs1dYA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "101-197 S Las Posas Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1408102,
+                    "lng": -117.1908685
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14196372989272,
+                        "lng": -117.1897139701073
+                    },
+                    "southwest": {
+                        "lat": 33.13926407010728,
+                        "lng": -117.1924136298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Grand Plaza",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3468,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114712420953217161162\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAzTCxPSgjtlp8mkll-aQhsJbQnsZlM_4cWHudpU__trasC6UZ9OaTVlj_o4py7aU7o1T1QXh-XKsO4uMjsa4oICbTmV-pArOUEQFz0dyaoqp8mcppkXp0EgQX3pKXqMRqtKPDZWm2jUkzkbsONhyLhBYd_NqGmdkh51gdW3cstGV-9",
+                    "width": 4624
+                }
+            ],
+            "place_id": "ChIJ-47RUkF13IARuzYxbofPAn8",
+            "plus_code": {
+                "compound_code": "4RR5+8M San Marcos, California",
+                "global_code": "85544RR5+8M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ-47RUkF13IARuzYxbofPAn8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1640
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "330-340 Valpreda Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1400371,
+                    "lng": -117.1569073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14140397989272,
+                        "lng": -117.1555605201073
+                    },
+                    "southwest": {
+                        "lat": 33.13870432010728,
+                        "lng": -117.1582601798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Marcos Plaza Shopping Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113144410989699431681\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uED_x_ykzNFq4l9z0kxh6HcCMbKYsO1Thyxp0v_erjkH4fYWPS-6MCD0YjCkaEgXEBGNaywdGIkBFTfUJqOrtpsY-_Hc8Hg7iXJ6h1K2zXyOXIpsH-Mizn8ZlohLKyk9GvF8Wrm5Xejes4q_R8F5gTgNqH7noYRyXFkrfPbRvCp0Mjvo",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJTVE2RbGK24ARzDdIAdwbBEE",
+            "plus_code": {
+                "compound_code": "4RRV+26 San Marcos, California",
+                "global_code": "85544RRV+26"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTVE2RbGK24ARzDdIAdwbBEE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 65
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1531-1551 W Mission Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1510756,
+                    "lng": -117.1939315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15252642989272,
+                        "lng": -117.1924634201073
+                    },
+                    "southwest": {
+                        "lat": 33.14982677010727,
+                        "lng": -117.1951630798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Darth Rokaz Crossroads Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101681900498381627005\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECraIl5TvuaDCWUY1c9wUoyEUw4wqtos47Pc4wm8LJvbqJV-bAnSrF2goLeLbX6EkdJoVUTg5i6PPsB6m5Ne8SZlgCXgIm6dppPDN3nDLpM_0M1PspJEc1uwYU0cr-PRtDroAtXdjjzE_-AZdvUKg-BgeBzQQGqOHP3YY19L8lFZP_6",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ9wV_Ymx13IARd__j2GcNmaQ",
+            "plus_code": {
+                "compound_code": "5R24+CC San Marcos, California",
+                "global_code": "85545R24+CC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ9wV_Ymx13IARd__j2GcNmaQ",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "CA-78 & Nordahl Rd, Center Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1343572,
+                    "lng": -117.1224763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13570317989272,
+                        "lng": -117.1211288701073
+                    },
+                    "southwest": {
+                        "lat": 33.13300352010727,
+                        "lng": -117.1238285298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Nordahl Marketplace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103184292608923090126\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDz9TLhKcleJhYibMXzHknXXo2f-0Gtduulq4kOYnPiLnUYdr3TpHQ6tJ9j0r5agCEyGBujAoeI8PtA95c1Ba9dkWm3tLsAkBnVp2p9tklY7a63Sn4G_wunGzELKBkrpBhYsGTdjHhx0TfNPCN8IvRvOyhSHdo1vfEGslHB6wVPBNav",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV-j6Htf024ARNhlKy7Mz5u0",
+            "plus_code": {
+                "compound_code": "4VMH+P2 San Marcos, California",
+                "global_code": "85544VMH+P2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJV-j6Htf024ARNhlKy7Mz5u0",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1065
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1363584,
+                    "lng": -117.1766161
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13769572989272,
+                        "lng": -117.1753135201073
+                    },
+                    "southwest": {
+                        "lat": 33.13499607010728,
+                        "lng": -117.1780131798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Creekside Market Place",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3984,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108042849169294502601\">Esmeralda Fortunato</a>"
+                    ],
+                    "photo_reference": "Aap_uEByzD23Pm1YJeBIA8Jdjxn9dYZb0hewKoM-JkK-ESKTvMWm8RgJvcOyqKeT2PcAMnmAITtL_7i4hRkQ6kd68lYd2VPkjueQxX91fZ4XlydW770uJY4yfuo0E5jkhGP9G_yTkbBz3x1WliYg88d4jEiret5BhfUK10RFoLJdg1gMee9q",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJs2MiQFd13IARYBZE-SMbRWo",
+            "plus_code": {
+                "compound_code": "4RPF+G9 San Marcos, California",
+                "global_code": "85544RPF+G9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJs2MiQFd13IARYBZE-SMbRWo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 621
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "734 S Rancho Santa Fe Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1325746,
+                    "lng": -117.2086142
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13385257989272,
+                        "lng": -117.2073110201073
+                    },
+                    "southwest": {
+                        "lat": 33.13115292010728,
+                        "lng": -117.2100106798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Palomar Plaza Shopping Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101236813590886607277\">yc lin</a>"
+                    ],
+                    "photo_reference": "Aap_uEAOgOB_wGUJPBQdNJquHLWecILKr_X3aQCk2uxRQr4frP6kos2mPPc3DAGmXn5eKSQtmkFvyqZ0hZa3h_Nlpb-l-YX27NBT2BY06LXry6dgFbMUOjTVH0cvVGMrI5Cd1yGFdtf5LYemfsB4L0J2Ughw2YexnbFNt-cVUFZ3CyxQJXIu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJWYXCyjp13IARNzSy7g78Bjw",
+            "plus_code": {
+                "compound_code": "4QMR+2H San Marcos, California",
+                "global_code": "85544QMR+2H"
+            },
+            "rating": 4.3,
+            "reference": "ChIJWYXCyjp13IARNzSy7g78Bjw",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 285
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "811 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1353906,
+                    "lng": -117.1825029
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13677477989272,
+                        "lng": -117.1810338201073
+                    },
+                    "southwest": {
+                        "lat": 33.13407512010728,
+                        "lng": -117.1837334798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Marcos Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116602627524418303007\">moe shu</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_5He6M2XXpMdkH-_GsaK8mqphwIjeZSxcGJ6na9A2vvdZ60zI3Vd9ajTp1L1C2Z100v4khJfjPGiMXRz2wTBZgBjOMCEsl2SsBZJGZ9Y7SkEiz6NykxOuRS2DGmSLoGFXW9MCJUKj2ozA3AYoTWeVpuAHq_AMk20JVfXoFHk3MrV3",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJE0cFaFB13IARhesXfG7Yeww",
+            "plus_code": {
+                "compound_code": "4RP8+5X San Marcos, California",
+                "global_code": "85544RP8+5X"
+            },
+            "rating": 4.4,
+            "reference": "ChIJE0cFaFB13IARhesXfG7Yeww",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1001-1003 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1341678,
+                    "lng": -117.1883529
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13551062989272,
+                        "lng": -117.1870002701073
+                    },
+                    "southwest": {
+                        "lat": 33.13281097010728,
+                        "lng": -117.1896999298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Galleria vera cruz",
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112929634911017635256\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECxvOi8r3WEIq3sl54i8amH-tqHmgBHFuyf9cCc-mW8TkSbjkgJSMALeA9h84-ksPZE3DvpHUIqd6FkUHw9Jz46fe9cr_4JXX6NXjgPIP-PstIiZjiIeQhH8vyv78n0GsQKi6rTdItRhK7oLWXATI29oa32TD-VCyH3ucmfNkcaBOv5",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJGbXEC0913IARBYNYw2ZF990",
+            "plus_code": {
+                "compound_code": "4RM6+MM San Marcos, California",
+                "global_code": "85544RM6+MM"
+            },
+            "rating": 4.1,
+            "reference": "ChIJGbXEC0913IARBYNYw2ZF990",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1903 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1311808,
+                    "lng": -117.2090607
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13262872989272,
+                        "lng": -117.2077298701073
+                    },
+                    "southwest": {
+                        "lat": 33.12992907010728,
+                        "lng": -117.2104295298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Marcos Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108042849169294502601\">Esmeralda Fortunato</a>"
+                    ],
+                    "photo_reference": "Aap_uEBAJE3dy-PkwwKgyvZzJrV6_uUJLYToUjSbP7_5fPP4xeF5TEKnXZJ1dhttsUJUzfxRbUSC687gIZ8kbs0XTPzYWsshNyO1fud5ZE9Nl6dMJ2Xe8YBOuBO2B_WjJBZ74hlyrzYhKKBWeVsTij7Pa5c7YaVSqLojGrR9nwXl-1c5Kp0O",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJF4usXSV13IAR0fiab9R25Ec",
+            "plus_code": {
+                "compound_code": "4QJR+F9 San Marcos, California",
+                "global_code": "85544QJR+F9"
+            },
+            "rating": 4.3,
+            "reference": "ChIJF4usXSV13IAR0fiab9R25Ec",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 469
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "S Rancho Santa Fe Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1471319,
+                    "lng": -117.1991885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14849112989273,
+                        "lng": -117.1978329701073
+                    },
+                    "southwest": {
+                        "lat": 33.14579147010728,
+                        "lng": -117.2005326298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "san marcos village",
+            "photos": [
+                {
+                    "height": 2772,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112312624385244669191\">richard douglas</a>"
+                    ],
+                    "photo_reference": "Aap_uEAC0Bk1YxzVF4zHPb75pCLnh6nt92QQEsAwTHxCZpmLMxsToSFlDCe2JmOvobS3aLW796IGMjQBI9AUCmYLt9_dLKtxYeEUvYOnYhENmq52VhdRCHwVPbgeVwf_4_4CYmEBWcKiS-d3lXPZ2eSNCWPf_yBUM2YWeypND-idhAfpgUbA",
+                    "width": 2205
+                }
+            ],
+            "place_id": "ChIJKRfs7xR13IARVHcYAJq2bT0",
+            "plus_code": {
+                "compound_code": "4RW2+V8 San Marcos, California",
+                "global_code": "85544RW2+V8"
+            },
+            "rating": 4.3,
+            "reference": "ChIJKRfs7xR13IARVHcYAJq2bT0",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 206
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "120 N Pacific St, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1485457,
+                    "lng": -117.1954451
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14989552989272,
+                        "lng": -117.1940952701073
+                    },
+                    "southwest": {
+                        "lat": 33.14719587010728,
+                        "lng": -117.1967949298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Old World Traditions",
+            "permanently_closed": true,
+            "place_id": "ChIJJaQkFWt13IARTDOZm1i1IZE",
+            "plus_code": {
+                "compound_code": "4RX3+CR San Marcos, California",
+                "global_code": "85544RX3+CR"
+            },
+            "rating": 5,
+            "reference": "ChIJJaQkFWt13IARTDOZm1i1IZE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "574 E Mission Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1454574,
+                    "lng": -117.1498621
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14678002989272,
+                        "lng": -117.1484459701073
+                    },
+                    "southwest": {
+                        "lat": 33.14408037010728,
+                        "lng": -117.1511456298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mulberry Plaza",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJPUpk_7eK24ARmC6QmguPtMU",
+            "plus_code": {
+                "compound_code": "4VW2+53 San Marcos, California",
+                "global_code": "85544VW2+53"
+            },
+            "rating": 4.1,
+            "reference": "ChIJPUpk_7eK24ARmC6QmguPtMU",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "671 S Rancho Santa Fe Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1321951,
+                    "lng": -117.2054171
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13341007989273,
+                        "lng": -117.2041332701072
+                    },
+                    "southwest": {
+                        "lat": 33.13071042010728,
+                        "lng": -117.2068329298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rancho San Marcos Village",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3300,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102853015332391111680\">Weingarten Realty</a>"
+                    ],
+                    "photo_reference": "Aap_uEDJ5jwp-uDbUky5sW_1tZ5fBlZEUAA9VsY2N3z8JxSVupEy0EyRKXIHov_oBmtla6_f29OUPbOzE0Xr8UeDXNMYaivAhV1Wz31aTn4Y-i6pkU30Khare7vCIQLOePyiw3MU6yNuumnF7xmNsYBDT9xzzE7My5BIgoyGewqWEqVhxA8v",
+                    "width": 5100
+                }
+            ],
+            "place_id": "ChIJ47Epl_913IAR8qxFYG5h9lQ",
+            "plus_code": {
+                "compound_code": "4QJV+VR San Marcos, California",
+                "global_code": "85544QJV+VR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ47Epl_913IAR8qxFYG5h9lQ",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 246
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "300 S Twin Oaks Valley Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1310997,
+                    "lng": -117.1666923
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13244327989272,
+                        "lng": -117.1652150701073
+                    },
+                    "southwest": {
+                        "lat": 33.12974362010728,
+                        "lng": -117.1679147298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Campus Marketplace",
+            "photos": [
+                {
+                    "height": 1089,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109443371343401477572\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBn7B-6AvAUs6mg0SHlw2WFzSyF-xSnKz4Ehfk3rFNEFC82PsDSCVCEx1slE-v3Xoj0BAoe_UELzQcE146OGc6-urd9NORkDjG-J6Vh46W2zlz_CKBfYKKclof7e4hAyw6pUUn95AqBgsldYw5Z16AAhxmixqOxZvhVrphA0RiQyd9k",
+                    "width": 1627
+                }
+            ],
+            "place_id": "ChIJ6TxirayK24ARjxvo3NzRWaQ",
+            "plus_code": {
+                "compound_code": "4RJM+C8 San Marcos, California",
+                "global_code": "85544RJM+C8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ6TxirayK24ARjxvo3NzRWaQ",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 543
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "740 Nordahl Rd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1342481,
+                    "lng": -117.119571
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13522337989272,
+                        "lng": -117.1184604701073
+                    },
+                    "southwest": {
+                        "lat": 33.13252372010727,
+                        "lng": -117.1211601298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Plaza SanMarcos",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113067379231481202813\">Ada Vidaurre Cacheo</a>"
+                    ],
+                    "photo_reference": "Aap_uECa-Hm_dKgYUp0j6uIaa8f8yhWfC-3bgzcuX33aAaw-CY1JDF9d-u-aImQZHBNvyhxpz5tJdsZAvz1uNfHLbpGhKw83P2eDGvmCcTLkCpM6KuOid3qan-S33eusJDvgfq_xeYUx9Lg6yNjZX96c2F3I0j82XG_OspPyqHf05mtzk8c9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpW46JNH024ARVc9vKSdojRM",
+            "plus_code": {
+                "compound_code": "4VMJ+M5 San Marcos, California",
+                "global_code": "85544VMJ+M5"
+            },
+            "rating": 4.4,
+            "reference": "ChIJpW46JNH024ARVc9vKSdojRM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 117
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1921 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1309761,
+                    "lng": -117.2104246
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13241537989273,
+                        "lng": -117.2089940201073
+                    },
+                    "southwest": {
+                        "lat": 33.12971572010728,
+                        "lng": -117.2116936798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Marcos Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJtzQTeFZ13IAR7PKaNtupv9s",
+            "plus_code": {
+                "compound_code": "4QJQ+9R San Marcos, California",
+                "global_code": "85544QJQ+9R"
+            },
+            "rating": 0,
+            "reference": "ChIJtzQTeFZ13IAR7PKaNtupv9s",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0977398,
+                    "lng": -117.2005945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09920567989273,
+                        "lng": -117.1994361701073
+                    },
+                    "southwest": {
+                        "lat": 33.09650602010728,
+                        "lng": -117.2021358298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Elijo Hills Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJnzZTGi8L3IAR4R1uRjW9EKM",
+            "plus_code": {
+                "compound_code": "3QXX+3Q San Marcos, California",
+                "global_code": "85543QXX+3Q"
+            },
+            "rating": 0,
+            "reference": "ChIJnzZTGi8L3IAR4R1uRjW9EKM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "964-1042 W El Norte Pkwy, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1486349,
+                    "lng": -117.1064463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15035005000001,
+                        "lng": -117.10335905
+                    },
+                    "southwest": {
+                        "lat": 33.14585545,
+                        "lng": -117.11050165
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "El Norte Pkwy Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 680,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103386754488146528571\">El Norte Parkway Plaza</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLuOhljWhI8TFPHXr72MmOHLpuByWvZ7Latn8zy3PDMLmyhumXZpVunjgxsmoOy5U9x-OwKGMSgsXMspU8s57G0jyGw6-OAeXUnW1lu4mBz-XcYuGulgltAKjYfIM0pxNHV_ITWPKznBzwOja5PMGxzfuAdH7rKUdl4lOQro7h0WIU",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJP8TASTSL24ARARUjW9ZXDuI",
+            "plus_code": {
+                "compound_code": "4VXV+FC Escondido, California",
+                "global_code": "85544VXV+FC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJP8TASTSL24ARARUjW9ZXDuI",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1275
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1200 Auto Park Way, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1120178,
+                    "lng": -117.0980502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.1176026,
+                        "lng": -117.09534885
+                    },
+                    "southwest": {
+                        "lat": 33.1054018,
+                        "lng": -117.10176305
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Escondido Promenade",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1816,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108263433825801488803\">Chris Pelland</a>"
+                    ],
+                    "photo_reference": "Aap_uECc3hm_t8IYkKwq3IkBQm1zKQUTRc7OBxsu3Zd7wh713nspFb5q1cmlQ4VHxHcs9OMr2GkD0HPFJF2vSMaOwgFoNzipw4q_mAY643Ic96CehFLxaH6R3KxOxub1tZRJpFrrSafzCe2yApY2imBq5eEBmcRqyv4TrSaikH2ImqcXyGDl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJRbkMSoz024ARVsyczkcB1T8",
+            "plus_code": {
+                "compound_code": "4W62+RQ Escondido, California",
+                "global_code": "85544W62+RQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJRbkMSoz024ARVsyczkcB1T8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2284
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "N Broadway, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1273677,
+                    "lng": -117.0849245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12869407989272,
+                        "lng": -117.0835788201073
+                    },
+                    "southwest": {
+                        "lat": 33.12599442010728,
+                        "lng": -117.0862784798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Country Corner Shopping Center",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112504713250439766530\">Mark Powell</a>"
+                    ],
+                    "photo_reference": "Aap_uEDUbs9XMKmrQnaBGCkePoyhGbdMrGEyWP7fmjjZ7UbtU8gejFGmliKRiQLzpDB9KIGPMJqV26sffzHeo_nHYeqIDsRHuk8GKPikMZkoHLVpjDRxRarc0BvnI1J6eezRx41UUwrS4Zf2Bp4meMPmqVDfdjKENnCSQwWt0rcgfTddUipV",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJpW6rypj024ARXiNBtWUXA2g",
+            "plus_code": {
+                "compound_code": "4WG8+W2 Escondido, California",
+                "global_code": "85544WG8+W2"
+            },
+            "rating": 4.4,
+            "reference": "ChIJpW6rypj024ARXiNBtWUXA2g",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 103
+        }
+    ],
+    "status": "OK"
+}

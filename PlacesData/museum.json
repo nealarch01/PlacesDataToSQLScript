@@ -1,0 +1,977 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAjzAnVbksqrtYvva7RYN7x2pk1pgAR9AcsgJzwDA-6v5PLejV6379SutaLo8lX-OkKxQSUIvpGZFeip4DyjKtPj8hEn0PO5xv0kcMx4Zxvzs3QPs4gu7Fa-gwXxT1a5rYvQzAFwdh5dXZenOcx29KYY1vd-NVcAt5M7QK8aIkqWqyDvpLT1iAFKniHCQCeS46bk4VhwBG84ZroxQpfEMRX5RQed28D4bKU8APoHEiKE6gAP5sOQtzuO4oc1JbJYbuby4BxmS8MT7JtUgAeqFQ4huFmcMN7II6EqwNkzFd5v2TwLsFxI6nvEWv-puRn1QOpGGfv0YMaURC_GC2tFgTkCnCwEnK4AAnaM1y4JeX-linpcfXKlCkqMwDzhrNZRm2PzfPChQT1VLF1XbEyNZSUcLXHW58",
+    "results": [
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "250 N City Dr #9, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1354545,
+                    "lng": -117.1593791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13678067989272,
+                        "lng": -117.1578380701073
+                    },
+                    "southwest": {
+                        "lat": 33.13408102010727,
+                        "lng": -117.1605377298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The CADO",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105503535212117976779\">HB</a>"
+                    ],
+                    "photo_reference": "Aap_uEAcNiUxw9_Kv53YLEzisjNeREy8Nf-z33Oc7beRLBIoV7T7tWzSGIfodBcIjyuS7z6GMMEwc093TiTiY8_rgH3ormFVtLtt_4SfU_Tno8xLsDkXACByILp3gDVLyWgBmGB4tG2te-Mqq_rFTbIBU0InSXBjZWYuOAAsCMdnLuZysvLC",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJb_b9StCL24ARRqulXBcLSbU",
+            "plus_code": {
+                "compound_code": "4RPR+56 San Marcos, California",
+                "global_code": "85544RPR+56"
+            },
+            "rating": 3.1,
+            "reference": "ChIJb_b9StCL24ARRqulXBcLSbU",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "270 W San Marcos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1403921,
+                    "lng": -117.1679853
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14172732989272,
+                        "lng": -117.1666307201073
+                    },
+                    "southwest": {
+                        "lat": 33.13902767010728,
+                        "lng": -117.1693303798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Historical Society San Marcos",
+            "place_id": "ChIJg-YErKiK24ARkntzob-PNzg",
+            "plus_code": {
+                "compound_code": "4RRJ+5R San Marcos, California",
+                "global_code": "85544RRJ+5R"
+            },
+            "rating": 0,
+            "reference": "ChIJg-YErKiK24ARkntzob-PNzg",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1952 Sycamore Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1818447,
+                    "lng": -117.1532179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18324772989273,
+                        "lng": -117.1518723201073
+                    },
+                    "southwest": {
+                        "lat": 33.18054807010729,
+                        "lng": -117.1545719798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "San Marcos Historical Society",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118415820144590870868\">Elizabeth Magee</a>"
+                    ],
+                    "photo_reference": "Aap_uEC8VpVCn-KJvrswuzS0vkd5Nxm51G2zLBVyuQ2bUC5bml-pif8FILNriiSvG1r5mueueXJkFn4OJiI38czcA94Dyb5hUtgshn9TY4FLkX75PWp9O3ofUHkGGBjY4FXmXmJAb7etGTfQBF_82_u10zG06EhEaW2K24Ym230ubrFxrQgy",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJR5A8NGeK24ARgPZojg8CGJY",
+            "plus_code": {
+                "compound_code": "5RJW+PP San Marcos, California",
+                "global_code": "85545RJW+PP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJR5A8NGeK24ARgPZojg8CGJY",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "320 N Broadway, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.124522,
+                    "lng": -117.0823439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12586127989272,
+                        "lng": -117.0810695201073
+                    },
+                    "southwest": {
+                        "lat": 33.12316162010728,
+                        "lng": -117.0837691798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Children's Discovery Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104529902694056361654\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBQaEc9fGDwLVc1BHaOsL49dT3l1yCCEfNKskLhdBPOVxHwhCV2aXahH5y4e77UaJsIrYoNC_446AVJ2_DT3zyG9yOwWQpnVQH0mjgEnyPTRatwssX4s6gOmi9XU1Lnp41TXkyMf5f5a2KW6g0y_DU8-_a9xu8LM-PLY2wYGlJNbVvo",
+                    "width": 3600
+                }
+            ],
+            "place_id": "ChIJh8vtApz024AR5iQWnfbFYFM",
+            "plus_code": {
+                "compound_code": "4WF9+R3 Escondido, California",
+                "global_code": "85544WF9+R3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJh8vtApz024AR5iQWnfbFYFM",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 898
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1950 Sycamore Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.181729,
+                    "lng": -117.1529302
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18306967989272,
+                        "lng": -117.1515014201073
+                    },
+                    "southwest": {
+                        "lat": 33.18037002010728,
+                        "lng": -117.1542010798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Walnut Grove Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107054358953200137501\">Scott Burns</a>"
+                    ],
+                    "photo_reference": "Aap_uEDswyskvEVawEzmDh3pgfwZHSaT2DXUqeKspJ_QuiRpahKDIj6LJCp0A5onZ_BFIch-vi6WYrgHV1TqIXZ7mcpMRWYZapQfywDRWiUimJGYPDM3NfaunOH7O33whEygKlbJPZfWJqDZNAj81y0QD4RmXYPYOEwMeepiKrKTsI5wZmv1",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJl2GCAWeK24ARk0l_T6oKI-k",
+            "plus_code": {
+                "compound_code": "5RJW+MR San Marcos, California",
+                "global_code": "85545RJW+MR"
+            },
+            "rating": 4.6,
+            "reference": "ChIJl2GCAWeK24ARk0l_T6oKI-k",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 405
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16666 San Pasqual Valley Rd, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0892181,
+                    "lng": -116.9809112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09028107989272,
+                        "lng": -116.9794680201073
+                    },
+                    "southwest": {
+                        "lat": 33.08758142010728,
+                        "lng": -116.9821676798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Archaeological Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107314532382759281322\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAUYrFWsVKFHIXagHkHeXajUnyy8VXoxBFfouTlV7x6kDd553JES31Z5Wll654d0b2Dyt9onJEnmImNyL5Q73zwfuCUsGgHJaxkVNiY7XfEe2vkILKakPW6yCfg4xzlAqz9CyNnTKJlMG_7vGYMBhUV5uy3xKQmK54-HFereUfCUbSD",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJDTzNBwfu24AR_dz3R-Kyjj8",
+            "plus_code": {
+                "compound_code": "32Q9+MJ Escondido, California",
+                "global_code": "855532Q9+MJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJDTzNBwfu24AR_dz3R-Kyjj8",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4233 Park Blvd, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7547505,
+                    "lng": -117.1461011
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75610217989272,
+                        "lng": -117.1448380701073
+                    },
+                    "southwest": {
+                        "lat": 32.75340252010727,
+                        "lng": -117.1475377298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "J A Cooley Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1213,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102115352182142512305\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAHdv9TPWramTu3PlV7J2iaTb3jOAvPK278IVcIqex2MAxod-WRhbboPGhvbq60LFZ3xGCPaU0giDBZIi05ys-AmkiId2CjYm-mhHgUBjBpiskewDmxj3-8Xal0XPnBigiAXOzmCYhDM7I1RCWZngP3QMDu_Uxo8XfGW0e7WM8PL9qr",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJBZXgzOZU2YARxjr9e4SBUwY",
+            "plus_code": {
+                "compound_code": "QV33+WH San Diego, California",
+                "global_code": "8544QV33+WH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJBZXgzOZU2YARxjr9e4SBUwY",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "910 N Harbor Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7137398,
+                    "lng": -117.1751265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71560442989272,
+                        "lng": -117.1725747
+                    },
+                    "southwest": {
+                        "lat": 32.71290477010727,
+                        "lng": -117.1759771
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "USS Midway Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111534072859685627746\">China Girl</a>"
+                    ],
+                    "photo_reference": "Aap_uEAxG1UQscH7HyPUzc-UmyFUvG2bohbrHggDzOfPCFtuz1JjsiqWGZKT6-TJhrLaW5c-_eUexG_r_nKYqCvC8jyIwOYAl_vvZVVU1VMo5GD4HNxI7zePdvOS_OrHhIV2ECEryjIzMfuV4Hs8RRbqo8J-CgICJ1AqmZ5Y__rcbH7Dghzn",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwYBuKqtU2YARslNFQDCJt_s",
+            "plus_code": {
+                "compound_code": "PR7F+FW San Diego, California",
+                "global_code": "8544PR7F+FW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJwYBuKqtU2YARslNFQDCJt_s",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35905
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2727 Presidio Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7596841,
+                    "lng": -117.1934951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76086132989271,
+                        "lng": -117.1923187201073
+                    },
+                    "southwest": {
+                        "lat": 32.75816167010727,
+                        "lng": -117.1950183798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Junípero Serra Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 658,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110941750130520687243\">Junipero Serra Museum</a>"
+                    ],
+                    "photo_reference": "Aap_uEAcHIClpE3JsA14uPhXrXIuCERGmzQGSuHrfgo6HAqjsmn1UUYk_sWAVco726VPZKXCmp7A0JBvFFz3AYG7WeALP2lHgmdSY-y8ohbClnilXBM8_l0eXMfluUvcFRvgoxHriEPbjQ-NOZG4AvTffa5seOG7uJnG_d6-8mxS1sTrBl-b",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJdRGe0MKq3oARRvGm04rrbPg",
+            "plus_code": {
+                "compound_code": "QR54+VJ San Diego, California",
+                "global_code": "8544QR54+VJ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJdRGe0MKq3oARRvGm04rrbPg",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 152
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1910 Space Theater Way, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7306371,
+                    "lng": -117.1467523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73231217989272,
+                        "lng": -117.1451606201073
+                    },
+                    "southwest": {
+                        "lat": 32.72961252010727,
+                        "lng": -117.1478602798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Space Center-Balboa Park",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 534,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105354639711796409571\">eyton shalom</a>"
+                    ],
+                    "photo_reference": "Aap_uEDo5S5yOJt2-QGlFIZSpuM5cP6pArOhJ15eHbb8l8YFXkfpAjYWHMz0mbxA9KWKv7vFCs9MoHqo2rEmHI0hn2eBmxGDCKvc7PVMPUjtMxgGEiIesk-8zY9D1Q7HO9EurVdGai_KpcveTV7k5QZo9A8HPp-IMJk-kdBUo_aWp2nx4GY",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ4wDjoJdU2YARSgy_AwIg5e0",
+            "plus_code": {
+                "compound_code": "PVJ3+77 San Diego, California",
+                "global_code": "8544PVJ3+77"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ4wDjoJdU2YARSgy_AwIg5e0",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1788 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7323223,
+                    "lng": -117.147364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73384717989272,
+                        "lng": -117.1457799701073
+                    },
+                    "southwest": {
+                        "lat": 32.73114752010728,
+                        "lng": -117.1484796298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Natural History Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110114557309289220728\">Elizabeth Mora</a>"
+                    ],
+                    "photo_reference": "Aap_uEDPwcdfTUL76EyIvMK6T3IzlQtlUVVoMUOqjjlI9iKcGtLRw_drX54mgqE-3V44ugsKLBYW4tfdrbqVO5o5PDPlqpclg5YPuYE0z1DkaAgEbRw5v41UINqHhl-abcGsDbuDsZ-lQyRAfhIaWtW96dudogp_BECFVrXM9mrH6DZKCjcf",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN0BfV5ZU2YARe0K26koVPa4",
+            "plus_code": {
+                "compound_code": "PVJ3+W3 San Diego, California",
+                "global_code": "8544PVJ3+W3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJN0BfV5ZU2YARe0K26koVPa4",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2737
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2825 Dewey Rd #102, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7381774,
+                    "lng": -117.2134824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73933747989272,
+                        "lng": -117.2119671201073
+                    },
+                    "southwest": {
+                        "lat": 32.73663782010728,
+                        "lng": -117.2146667798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "New Americans Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3180,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101181661860324985405\">Carrie Montoya</a>"
+                    ],
+                    "photo_reference": "Aap_uEDzf3C_WjoiRKIBR6T791vIDPYMvbMyq5pnxCheZqcBGwLW3WwnXpp_Uk7LQA2JGJSJFBAxZ58VhG51TMNEcFGsvO3fhh6ulZ5w4foHe0NLDhpIYB3dOZ3LGN3hMzY4K6GGGUvXN8ETHCAchw79aJNFYmTSfalBw8ZDW3H6BHjI4lhY",
+                    "width": 1960
+                }
+            ],
+            "place_id": "ChIJK09kEwSr3oARSW4aqD1ctr8",
+            "plus_code": {
+                "compound_code": "PQQP+7J San Diego, California",
+                "global_code": "8544PQQP+7J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJK09kEwSr3oARSW4aqD1ctr8",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Oceanside, CA 92058, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2181311,
+                    "lng": -117.3985073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.21954267989273,
+                        "lng": -117.3970804701073
+                    },
+                    "southwest": {
+                        "lat": 33.21684302010728,
+                        "lng": -117.3997801298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "WWII/Korea LVT Museum",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118399318096178627844\">kdhall3</a>"
+                    ],
+                    "photo_reference": "Aap_uEAkHBnDWs6S938cPTzy7VK2RtI8OSzOfEvXC_j3kQpbCD_q8GeQ5TKF2ZIU9KNOvPuvDu32LIh7JAlbdBuIoWGj1OuNY6UZTESSvuR8_w8-WVbZQYFm9mx-zu41XtPgfqe2Af4b1wvkbvDDhSZ1oYls4kycmwzrviJ4VkazoGc0UHWM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJBxyYF6Nv3IARsFanT6OgNU8",
+            "plus_code": {
+                "compound_code": "6J92+7H Oceanside, California",
+                "global_code": "85546J92+7H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJBxyYF6Nv3IARsFanT6OgNU8",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1875 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7308009,
+                    "lng": -117.1469593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73222507989272,
+                        "lng": -117.1452805201073
+                    },
+                    "southwest": {
+                        "lat": 32.72952542010728,
+                        "lng": -117.1479801798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Fleet Science Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 270,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106900588578894918475\">Reuben H. Fleet Science Center</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPAJQ29FnW1e28Wa-OaJBSNKe5KyrcfRR1J1GWW-7buaeXt1aGKuhbe3okh6L-w2uSFQvNl_LvmGuEXkNRu7TDGzUjze3Vbi5F6szmJ_OsOKLZmfFmCG0JJFwXJhXSiKqjn4AF_A_EiuLQY8CbIDnXxSTfjTBJiJj7AAqbY1Fq5Hf6",
+                    "width": 432
+                }
+            ],
+            "place_id": "ChIJITml-JZU2YARvg2lEVgD-E8",
+            "plus_code": {
+                "compound_code": "PVJ3+86 San Diego, California",
+                "global_code": "8544PVJ3+86"
+            },
+            "rating": 4.5,
+            "reference": "ChIJITml-JZU2YARvg2lEVgD-E8",
+            "types": [
+                "movie_theater",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2919
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1350 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.731517,
+                    "lng": -117.1523677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73282212989272,
+                        "lng": -117.1511810701073
+                    },
+                    "southwest": {
+                        "lat": 32.73012247010727,
+                        "lng": -117.1538807298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of Us",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115592318229897488203\">Bimal</a>"
+                    ],
+                    "photo_reference": "Aap_uECnG4o_93K-JdsJwBSuu4nbXbid_AxgPS-nGtJHSgfjnoUlYC2PZNAiJDv1QPtFDpsuSq4Sk9T_9ygydLcCJlcXvf1toEFn0I7FZONu82FKha5eObpmPvL_ldO0l6yf0bCdt_issyeHOblVB1zucvWecVgqXpaYIRsknSsK7IAe2N1y",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJITq8z71U2YARtcp6IYi3thE",
+            "plus_code": {
+                "compound_code": "PRJX+J3 San Diego, California",
+                "global_code": "8544PRJX+J3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJITq8z71U2YARtcp6IYi3thE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1863
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1709 S Coast Hwy, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1763241,
+                    "lng": -117.3634266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17773307989272,
+                        "lng": -117.3619764201073
+                    },
+                    "southwest": {
+                        "lat": 33.17503342010728,
+                        "lng": -117.3646760798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Legend Nano. Gallery",
+            "place_id": "ChIJdew4c3Bv3IARnhJoIh69-no",
+            "plus_code": {
+                "compound_code": "5JGP+GJ Oceanside, California",
+                "global_code": "85545JGP+GJ"
+            },
+            "rating": 5,
+            "reference": "ChIJdew4c3Bv3IARnhJoIh69-no",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Valley Center, CA 92082, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2750357,
+                    "lng": -116.9600804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.27643182989272,
+                        "lng": -116.9588666701073
+                    },
+                    "southwest": {
+                        "lat": 33.27373217010728,
+                        "lng": -116.9615663298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Wasxayam Pomki Museum",
+            "place_id": "ChIJ7cTc4JKR24ARTJhEIno86Lc",
+            "plus_code": {
+                "compound_code": "72GQ+2X Valley Center, California",
+                "global_code": "855572GQ+2X"
+            },
+            "rating": 4,
+            "reference": "ChIJ7cTc4JKR24ARTJhEIno86Lc",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2001 Pan American Plaza, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7262324,
+                    "lng": -117.1543679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72778887989272,
+                        "lng": -117.1527191701073
+                    },
+                    "southwest": {
+                        "lat": 32.72508922010727,
+                        "lng": -117.1554188298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Air & Space Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109572428303190712931\">Krishna Karthik</a>"
+                    ],
+                    "photo_reference": "Aap_uED5C6VUq8CTmfx62LCLAjGoeBfeaYi-YpiJRESN6C0JabD2UpHuO26bDHYEDz4nUgnktsAD9XxR4LvQQmezZ1iF4KMrzPaEkuHkPo5vqahyE_3WAIunpZbR2IsotSDMV4KoQRXbNloziGYs9-ikfjgv1aecXrAIsc2YtlI_x7SSPA94",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpZPqMqNU2YARvWok4Fl9Thc",
+            "plus_code": {
+                "compound_code": "PRGW+F7 San Diego, California",
+                "global_code": "8544PRGW+F7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJpZPqMqNU2YARvWok4Fl9Thc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3766
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2825 Dewey Rd #100, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7380082,
+                    "lng": -117.2132088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73931162989272,
+                        "lng": -117.2117948701073
+                    },
+                    "southwest": {
+                        "lat": 32.73661197010728,
+                        "lng": -117.2144945298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Visions Art Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1201,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117383983691733022797\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC61c_khvarowmkyhU9MaEKj5Y5ApOGDTY6XTsFFgvtMjMCrUk4Cdlq2j_vxpCserha-sCJR7-NyA5hvJ_hkDNVjUxHkLEb0VNWKdbk3F3TWb2FiPBo4iLjJbJHTrsQHBg71MfKh8eJMT-toNJ8zG_Yofkm13XKLrrVumN6yb7vtEhF",
+                    "width": 2618
+                }
+            ],
+            "place_id": "ChIJL6J1EwSr3oARF4GOoWqtRt4",
+            "plus_code": {
+                "compound_code": "PQQP+6P San Diego, California",
+                "global_code": "8544PQQP+6P"
+            },
+            "rating": 4.7,
+            "reference": "ChIJL6J1EwSr3oARF4GOoWqtRt4",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1649 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.73111,
+                    "lng": -117.1486199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73245782989272,
+                        "lng": -117.1476308
+                    },
+                    "southwest": {
+                        "lat": 32.72975817010727,
+                        "lng": -117.1511704
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego History Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102383829075354611666\">102383829075354611666</a>"
+                    ],
+                    "photo_reference": "Aap_uEDtmtVkTnEEaNscn8Ccn5GeZ1shBKYDmI2RkpMFgNULrbwp5GOdMty5UP-oOV2NaF1bMWdsgkaMSJgXoJaWqMD6WboxLyOMBHQOr6qJOetI8UnkZ4aBK30vGRJgU0FXBwAWBq5-ILZ-fW491oeSFi07JGFtCdW0IFSB5baezcZAbxIv",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJV6IUNpZU2YARAQRTp-SrHAw",
+            "plus_code": {
+                "compound_code": "PVJ2+CH San Diego, California",
+                "global_code": "8544PVJ2+CH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJV6IUNpZU2YARAQRTp-SrHAw",
+            "types": [
+                "museum",
+                "library",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 133
+        }
+    ],
+    "status": "OK"
+}
