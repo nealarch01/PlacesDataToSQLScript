@@ -95,6 +95,16 @@ function writeToMD(): number {
     return 0; // Successful run
 }
 
+function addBackSlashes(textData: string | null | undefined): string {
+    if (textData === undefined || textData === null) {
+        return "";
+    }
+    if (textData.includes("'")) {
+        textData = textData.replaceAll("'", "\\\'");
+    }
+    return textData;
+}
+
 function writeToSQLScript_Places(): number {
     const filename: string = "./insert-places.sql";
     try {
@@ -111,17 +121,15 @@ function writeToSQLScript_Places(): number {
             let city = singlePlace?.city;
             let state = singlePlace?.state;
             let postalCode = singlePlace?.postalCode;
-            if (addr?.includes("'")) {
-                addr = addr?.replace("'", "\\'")
+            if (addr !== null) {
+                addr = addBackSlashes(addr);
             }
-            if (name?.includes("'")) {
-                name = name.replace("'", "\\'");
+            name = addBackSlashes(name);
+            if (city !== null) {
+                city = addBackSlashes(city);
             }
-            if (state?.includes("'")) {
-                state = state.replace("'", "\\'");
-            }
-            if (city?.includes("'")) {
-                city = city.replace("'", "\\'");
+            if (state !== null) {
+                state = addBackSlashes(state);
             }
             // Rating will be 0 by default and review will be null by default
             if (counter >= mkSize) {
@@ -138,8 +146,34 @@ function writeToSQLScript_Places(): number {
     return 0;
 }
 
-// For the junction table
+// Script to write into the Junction Table
 function writeToSQLScript_PlaceDetails(): number {
+    const filename: string = "./insert-place-details.sql";
+    try {
+        let mapKeys = placesAssocTagMap.keys();
+        let mkSize = placesAssocTagMap.size;
+        let counter: number = 0;
+        for (const key of mapKeys) {
+            counter++;
+            let tags: string[] | undefined = placesAssocTagMap.get(key);
+            if (tags === undefined) {
+                continue; // Skip the iteration
+            }
+            fs.writeFileSync(filename, "INSERT INTO place_details (place_id, tag_id)\n", { flag: "a" });
+            for (let i = 0; i < tags.length; i++) {
+                fs.writeFileSync(filename, `SELECT place.place_id, tag.tag_id FROM place, tag WHERE place.name = '${addBackSlashes(key)}' AND tag.label = '${tags[i]}'`, { flag: "a" });
+                fs.writeFileSync(filename, ` VALUES(place.place_id, tag.tag_id)`, { flag: "a" });
+                if (i == tags.length - 1) {
+                    fs.writeFileSync(filename, `;\n\n`, { flag: "a" });
+                } else {
+                    fs.writeFileSync(filename, `,\n`, { flag: "a" });
+                }
+            }
+        }
+    } catch (err) {
+        console.log("There was an error writing to Place Details SQL Script");
+        return -1;
+    }
     return 0;
 }
 
@@ -268,18 +302,20 @@ function main(): number {
     if (initPlacesMapData() !== 0) {
         return 1;
     }
-    if (writeToSQLScript_Places() !== 0) {
-        return 4;
-    }
-    // if (writeToMD() !== 0) {
-    //     return 2;
-    // }
     /*
+    if (writeToMD() !== 0) {
+        return 2;
+    }
     if (writeToSQLScript_Tags() !== 0) {
         return 3;
     }
+    if (writeToSQLScript_Places() !== 0) {
+        return 4;
+    }
     */
-
+    if (writeToSQLScript_PlaceDetails() !== 0) {
+        return 5;
+    }
     return 0;
 }
 
