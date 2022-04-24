@@ -70,8 +70,7 @@ interface PlaceInterface {
 }
 
 // Map data structure to insert a place into MySQL DB
-// const uniquePlacesMap: Map<string, number> = new Map<string, number>(); // Global declaration for global and program lifetime access
-const placeMap: Map<string, PlaceInterface> = new Map<string, PlaceInterface>();
+const placeMap: Map<string, PlaceInterface> = new Map<string, PlaceInterface>(); // Purpose is for each place to be unique
 // Map data structure for the junction table (N to M relationship of Place to Tag)
 const placesAssocTagMap: Map<string, Array<string>> = new Map<string, Array<string>>(); // Map for the junction table
 
@@ -150,6 +149,7 @@ function writeToSQLScript_Places(): number {
 function writeToSQLScript_PlaceDetails(): number {
     const filename: string = "./insert-place-details.sql";
     try {
+        fs.writeFileSync(filename, ""); // Replace and existing data
         let mapKeys = placesAssocTagMap.keys();
         let mkSize = placesAssocTagMap.size;
         let counter: number = 0;
@@ -159,7 +159,7 @@ function writeToSQLScript_PlaceDetails(): number {
             if (tags === undefined) {
                 continue; // Skip the iteration
             }
-            fs.writeFileSync(filename, "INSERT INTO place_details (place_id, tag_id)\n", { flag: "a" });
+            fs.writeFileSync(filename, "INSERT INTO place_details (place_details.place_id, place_details.tag_id)\n", { flag: "a" });
             for (let i = 0; i < tags.length; i++) {
                 fs.writeFileSync(filename, `SELECT place.place_id, tag.tag_id FROM place, tag WHERE place.name = '${addBackSlashes(key)}' AND tag.label = '${tags[i]}'`, { flag: "a" });
                 fs.writeFileSync(filename, ` VALUES(place.place_id, tag.tag_id)`, { flag: "a" });
@@ -318,10 +318,6 @@ function main(): number {
     }
     return 0;
 }
-
-// Error code 1: initPlacesMapData
-// 2: writeToMD
-// 3: write
 
 const exitStatus = main();
 if (exitStatus !== 0) {
