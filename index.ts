@@ -159,15 +159,16 @@ function writeToSQLScript_PlaceDetails(): number {
             if (tags === undefined) {
                 continue; // Skip the iteration
             }
-            fs.writeFileSync(filename, "INSERT INTO place_details (place_details.place_id, place_details.tag_id)\n", { flag: "a" });
             for (let i = 0; i < tags.length; i++) {
-                fs.writeFileSync(filename, `SELECT place.place_id, tag.tag_id FROM place, tag WHERE place.name = '${addBackSlashes(key)}' AND tag.label = '${tags[i]}'`, { flag: "a" });
-                fs.writeFileSync(filename, ` VALUES(place.place_id, tag.tag_id)`, { flag: "a" });
+                fs.writeFileSync(filename, "INSERT INTO place_details (place_id, tag_id)\n", { flag: "a" });
+                fs.writeFileSync(filename, `SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = '${addBackSlashes(key)}' AND t.label = '${tags[i]}';\n`, { flag: "a" });
+                /*
                 if (i == tags.length - 1) {
                     fs.writeFileSync(filename, `;\n\n`, { flag: "a" });
                 } else {
                     fs.writeFileSync(filename, `,\n`, { flag: "a" });
                 }
+                */
             }
         }
     } catch (err) {
