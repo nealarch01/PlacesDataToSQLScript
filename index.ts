@@ -227,7 +227,7 @@ function getState(formattedAddress:string): string {
 }
 
 function getAddress(formattedAddress: string): string {
-    const addressRegex = /^([a-z]|[A-Z]|[0-9]|[ ])+/;
+    const addressRegex = /^([a-z]|[A-Z]|[0-9]|[ ]|[\-]|[\&]|[\#]|[\'])+/;
     let address = formattedAddress.match(addressRegex);
     if (address === null) {
         return "";
@@ -303,20 +303,24 @@ function main(): number {
     if (initPlacesMapData() !== 0) {
         return 1;
     }
-    /*
-    if (writeToMD() !== 0) {
-        return 2;
-    }
-    if (writeToSQLScript_Tags() !== 0) {
-        return 3;
-    }
-    if (writeToSQLScript_Places() !== 0) {
-        return 4;
-    }
-    */
-    if (writeToSQLScript_PlaceDetails() !== 0) {
-        return 5;
-    }
+
+    // Remove comments for sql command generation
+
+    // if (writeToMD() !== 0) {
+    //     return 2;
+    // }
+
+    // if (writeToSQLScript_Tags() !== 0) {
+    //     return 3;
+    // }
+
+    // if (writeToSQLScript_Places() !== 0) {
+    //     return 4;
+    // }
+
+    // if (writeToSQLScript_PlaceDetails() !== 0) {
+    //     return 5;
+    // }
     return 0;
 }
 
