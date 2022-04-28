@@ -258,6 +258,9 @@ function initPlacesMapData(): number {
         let placeTypeStr: string = placeTags[index];
         placeType.results.forEach((placeData: any) => {
             let placeKey: string | undefined = placeData.name;
+            if (placeData.business_status !== "OPERATIONAL") { // If the place is closed, do not add to the database
+                return;
+            }
             if (placeKey === undefined) {
                 return; // Skip the place if name does not exist
             }
@@ -314,13 +317,13 @@ function main(): number {
     //     return 3;
     // }
 
-    // if (writeToSQLScript_Places() !== 0) {
-    //     return 4;
-    // }
+    if (writeToSQLScript_Places() !== 0) {
+        return 4;
+    }
 
-    // if (writeToSQLScript_PlaceDetails() !== 0) {
-    //     return 5;
-    // }
+    if (writeToSQLScript_PlaceDetails() !== 0) {
+        return 5;
+    }
     return 0;
 }
 

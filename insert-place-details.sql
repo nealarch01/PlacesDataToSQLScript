@@ -33,19 +33,11 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Bradley Pa
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Bradley Park' AND t.label = 'parks';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Wave Waterpark' AND t.label = 'amusement-park';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hollandia Park' AND t.label = 'amusement-park';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hollandia Park' AND t.label = 'parks';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hollandia Park' AND t.label = 'trails';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lakeview Park' AND t.label = 'amusement-park';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lakeview Park' AND t.label = 'parks';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lakeview Park' AND t.label = 'trails';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Simmons Family Park' AND t.label = 'amusement-park';
 INSERT INTO place_details (place_id, tag_id)
@@ -146,8 +138,6 @@ INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Nothing Bundt Cakes' AND t.label = 'bakery';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Dulce Bakery' AND t.label = 'bakery';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Panaderia Estrella' AND t.label = 'bakery';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Oasis Breads' AND t.label = 'bakery';
 INSERT INTO place_details (place_id, tag_id)
@@ -271,21 +261,15 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Barona Res
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Ocean\'s Eleven Casino' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Grand Pacific Charter' AND t.label = 'casino';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Harrah\'s Resort Southern California' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pala Casino Spa Resort' AND t.label = 'casino';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Pasqual Casino Development Group, Inc' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Jamul Casino' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Sycuan Casino Resort' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Viejas Casino & Resort' AND t.label = 'casino';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Event Designs Entertainment' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Casino Del Sol Entertainment' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
@@ -339,11 +323,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Roadrunner
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Paradise Produce Market' AND t.label = 'farmers-market';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Linda Vista Certified Farmers\' Market' AND t.label = 'farmers-market';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Ocean Beach Farmers Market' AND t.label = 'farmers-market';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The CADO' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Historical Society San Marcos' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
@@ -362,8 +342,6 @@ INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'USS Midway Museum' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Junípero Serra Museum' AND t.label = 'museum';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Space Center-Balboa Park' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego Natural History Museum' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
@@ -387,15 +365,9 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Club Tropics' AND t.label = 'nightclub';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Jaxy boy' AND t.label = 'nightclub';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Sinbad Restaurant And Lounge' AND t.label = 'nightclub';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Blue Agave Night Club' AND t.label = 'nightclub';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Meant To Be' AND t.label = 'nightclub';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'B\'s' AND t.label = 'nightclub';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego Club Crawl' AND t.label = 'nightclub';
 INSERT INTO place_details (place_id, tag_id)
@@ -431,7 +403,9 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Knob Hill 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Grace Park' AND t.label = 'parks';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Dove Tail Park' AND t.label = 'parks';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lakeview Park' AND t.label = 'parks';
+INSERT INTO place_details (place_id, tag_id)
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lakeview Park' AND t.label = 'trails';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Sunset Park' AND t.label = 'parks';
 INSERT INTO place_details (place_id, tag_id)
@@ -497,8 +471,6 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Marcos
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'san marcos village' AND t.label = 'shopping-malls';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Old World Traditions' AND t.label = 'shopping-malls';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Mulberry Plaza' AND t.label = 'shopping-malls';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Rancho San Marcos Village' AND t.label = 'shopping-malls';
@@ -529,8 +501,6 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'S.V.D.P. T
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego Habitat for Humanity ReStore' AND t.label = 'thrift-stores';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Welcome Home Thrift Store' AND t.label = 'thrift-stores';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hospice of the North Coast Resale Shop' AND t.label = 'thrift-stores';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Salvation Army Thrift Store & Donation Center' AND t.label = 'thrift-stores';
@@ -539,15 +509,9 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Valley Thr
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Mi Segundita Thrift Store' AND t.label = 'thrift-stores';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Thrift Store Bello Hogar' AND t.label = 'thrift-stores';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cassidy\'s Books' AND t.label = 'thrift-stores';
-INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Uptown Cheapskate' AND t.label = 'thrift-stores';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Orphaned Objects Designer Resale' AND t.label = 'thrift-stores';
-INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'OCEANSIDE TREASURES' AND t.label = 'thrift-stores';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Ridgeline Trailhead' AND t.label = 'trails';
 INSERT INTO place_details (place_id, tag_id)
