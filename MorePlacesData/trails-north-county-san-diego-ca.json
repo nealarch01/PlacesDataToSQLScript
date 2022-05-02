@@ -1,0 +1,989 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEC1CJkRtUefCzPwevxTp5Zl-OOWKM8KBl24zqYjyTmdmlXxkpAVlz5kLY27myjbJ2Qra0tI6pGQ6SUE90aJyGeJbwN8ceaJGXWLEeFX7jOcGSmfc1LGvWdKC7KPJX0BQPz4u8Sa7blLxHyDry2kkyRp_dc8LkacMjZtIcsEJMLZCr-rEIHPLlldksVY38WaWvIMNTZ-MRnZq32mKm8DG83DSjON_XK7kUDzGefsnyqrgoZW5PsIajUAgc2FFtCjXpQldHUbScbZh4MSKi020u8RnLMbN9i7z1pWwlu6EteTOosN8zeWSQDdC8YUzeaq1okgJq5ehiFrxw9XjCHyN3NfNsCwoRgy3qP2EuSZF_hZ49b5_P1AsYPxvG3AdwmHXpuZNKHQHVazgH84eIWMZCK5dMwEHcgM79gzWh0EYyv7gw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8833 Harmony Grove Rd, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0865796,
+                    "lng": -117.1450871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.08792892989271,
+                        "lng": -117.1437387701073
+                    },
+                    "southwest": {
+                        "lat": 33.08522927010727,
+                        "lng": -117.1464384298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Elfin Forest Recreational Reserve",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106977799699050828058\">Rachel Nixon</a>"
+                    ],
+                    "photo_reference": "Aap_uEBI3g3ZZEs9wl4wi0jhCr_FxiMLNMtoVAb3A-dJvKJGTFIdCyPEsqZqNR7PXUTAi6wxIxm6K4KDCgWu2hpH8aFPRAFHdoM2WnClMNsd1MeFSNvarfPw7dLDmRM1oaTOoNE4jpihE9rOyeOONaIfvbI-i6AYgvoZIUz7sO_tYH460mmm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJASzwwbn124ARd7kOmsHmtJ8",
+            "plus_code": {
+                "compound_code": "3VP3+JX Escondido, California",
+                "global_code": "85543VP3+JX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJASzwwbn124ARd7kOmsHmtJ8",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1275
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0666884,
+                    "lng": -117.067987
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06799827989273,
+                        "lng": -117.0665625201073
+                    },
+                    "southwest": {
+                        "lat": 33.06529862010728,
+                        "lng": -117.0692621798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bernardo Mountain Summit Trail - Access Road",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101642316321677768341\">Tim Kelly</a>"
+                    ],
+                    "photo_reference": "Aap_uEAeBYh0pqjKwCGDeJMAI6r-IKprTCTfYO2h87VgooceQXxDjGnVDLpYVPL6XWGR5_B-gmqEmijWE0WcrnuKa30zFn_hW7jOc1wAMrAB8P0i6SQ0PF2TvZIHefrSARimh641F2EitRv6lVMdSxXnMyICsr2jAYJ4DCnOvk8tQGclA5KY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJF4ShsgH024ARnkweuVYToDE",
+            "plus_code": {
+                "compound_code": "3W8J+MR Escondido, California",
+                "global_code": "85543W8J+MR"
+            },
+            "rating": 4.7,
+            "reference": "ChIJF4ShsgH024ARnkweuVYToDE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Dieguito River Trail, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0533772,
+                    "lng": -117.076031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05472702989273,
+                        "lng": -117.0746811701073
+                    },
+                    "southwest": {
+                        "lat": 33.05202737010729,
+                        "lng": -117.0773808298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "San Dieguito River Trail",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1333,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113129054180719312001\">Ajar Vashisth</a>"
+                    ],
+                    "photo_reference": "Aap_uEDsMUsbtP71_X5R0nqGZzK4En38P_6Vc3OszDbjJSISwYBfcarvPCea8V8Q9-9SViqvU4_F6Slpc2tfo4TNzPZQabLyqwZicPoxHUpHl_ByzB7vksfb3TTzc6ExC01l3C9eiFUjZF_amuxNLFTe79ASq08HCR5WES_zZ6PdSgU_GmK1",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJky8Um67224AR2hFNrO9Mc0Y",
+            "plus_code": {
+                "compound_code": "3W3F+9H Escondido, California",
+                "global_code": "85543W3F+9H"
+            },
+            "rating": 4.9,
+            "reference": "ChIJky8Um67224AR2hFNrO9Mc0Y",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0516686,
+                    "lng": -117.0767548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05302157989272,
+                        "lng": -117.0753599701073
+                    },
+                    "southwest": {
+                        "lat": 33.05032192010728,
+                        "lng": -117.0780596298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Piedras Pintadas Trailhead",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110543454631765819047\">Haz</a>"
+                    ],
+                    "photo_reference": "Aap_uEBbmvV_cNUULetjAPwhAUWLzPp_kq_TgJocMd1SoaOOpUPpF98R58EnvHOYMB8wUI_3KukK0nWra4LC1ifldOnlIQyGIMNIx1q0TZsdgmoXCDUpCQO3FumQLFrRHt2p6N4B0KFpv4_v_tVygngfPclgWf0pqtT3kx6XUr25OlMKfWNK",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJh4ZodEvx24ARUdlq1L7rqrQ",
+            "plus_code": {
+                "compound_code": "3W2F+M7 San Diego, California",
+                "global_code": "85543W2F+M7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJh4ZodEvx24ARUdlq1L7rqrQ",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 382
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "900 Double Peak Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1091912,
+                    "lng": -117.1771176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11039147989273,
+                        "lng": -117.1758518701073
+                    },
+                    "southwest": {
+                        "lat": 33.10769182010728,
+                        "lng": -117.1785515298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Double Peak Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113716866563645997621\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEB7FeMrunIbLobVOScgH32RV3m9pc5gl4rgNQ7o2gU1f_JxefwzlSs-pWtmbqnumGtGSnX3LF2LgfXs9o5PeqINDhRK5y0icdzA1MBs4iBWHDjZyiOvSuELA3nhgsZRadGIFJWa31UWoMD0kC1yi6GVeUQnr9lnMa1PH3LzvEksZnZD",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJ79SGo6EK3IARjax15-xpBIE",
+            "plus_code": {
+                "compound_code": "4R5F+M5 San Marcos, California",
+                "global_code": "85544R5F+M5"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ79SGo6EK3IARjax15-xpBIE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1281
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9901-9909, Co Hwy S6, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.083843,
+                    "lng": -117.1187826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.08521312989272,
+                        "lng": -117.1174614701073
+                    },
+                    "southwest": {
+                        "lat": 33.08251347010727,
+                        "lng": -117.1201611298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Del Dios Highlands Preserve",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112338384544773552810\">Dora B</a>"
+                    ],
+                    "photo_reference": "Aap_uEASQa5FQ7sYRmgObEdEGBsQRjFL7Pa4te24IPqQ3CFQ5Nw7WYURqN4xo358wQp4i96HGDBMv7AcljHkEEqXgsi8nO0Yg33Gm4ALl5v8zwIurKTeWcugcmD_SfC8Dbiy8t4JGOSDsMypnSXhch_TGT9dRABRNDvz55rH_d7gAhRC_MSn",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6UGPOUn024AR1MKi1Ik3i9A",
+            "plus_code": {
+                "compound_code": "3VMJ+GF Escondido, California",
+                "global_code": "85543VMJ+GF"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ6UGPOUn024AR1MKi1Ik3i9A",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0304247,
+                    "lng": -117.251375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03178587989273,
+                        "lng": -117.2500257201073
+                    },
+                    "southwest": {
+                        "lat": 33.02908622010728,
+                        "lng": -117.2527253798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Manchester Preserve Hiking Trails",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107906513463056831060\">Eva</a>"
+                    ],
+                    "photo_reference": "Aap_uEBzjDKjUQtA0kZwZqFohbWltE0hFTKtjT9JnPEz8yE2pDeLCnPdwE9V9EgTd_I5Ta0CXaFLyBTvP7fl29WfCuna0_bjm5TyJInOCQ2CMCYNUdCmqk09ntBGK19FLDgWffddvsp1EfgCZ4_4_DFM5YAPoDKICNaKnFvLJndpCvpV5D4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJPUR_reYL3IAR2323Fjnc3aI",
+            "plus_code": {
+                "compound_code": "2PJX+5F Encinitas, California",
+                "global_code": "85542PJX+5F"
+            },
+            "rating": 4.6,
+            "reference": "ChIJPUR_reYL3IAR2323Fjnc3aI",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "La Costa Oaks, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0873114,
+                    "lng": -117.2142747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.08866122989272,
+                        "lng": -117.2129248701073
+                    },
+                    "southwest": {
+                        "lat": 33.08596157010727,
+                        "lng": -117.2156245298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Rancho La Costa Reserve",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2992,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109483610691004330113\">Markus Stampfli</a>"
+                    ],
+                    "photo_reference": "Aap_uECa71k5U7Rmv2hyRzbbb89U1wNJmqTbi4ZwAH1W5hsqlZ4XyZEixuRPtzPrNnh15qsf6weBgwjUqye-7_1odAFQhJCz3vh_TOB_vdoVTiI_n_05TZxawCMVzwR78aF2ZenSglbZAF5vNDPea3rHLWGUh8gXP8VDguMlIKDwcqZEqtZq",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJI-7AW_sK3IARXxO_Ml3Ikwo",
+            "plus_code": {
+                "compound_code": "3QPP+W7 San Marcos, California",
+                "global_code": "85543QPP+W7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJI-7AW_sK3IARXxO_Ml3Ikwo",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12375 Via Cabezon, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9451685,
+                    "lng": -117.1174619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94619297989273,
+                        "lng": -117.1149956
+                    },
+                    "southwest": {
+                        "lat": 32.94349332010728,
+                        "lng": -117.118284
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Utility trailhead (north)",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102268736660475365027\">Troy Loyd</a>"
+                    ],
+                    "photo_reference": "Aap_uEBiVj8mmRWuEExKdH3RPXuPfkEDAGBbgVvejihWqCtzvvn8eyS7XTlwmDcUKVWycRuTbjkb33ZcTSuih86jcQWDm7Xm00DEW7PzZDMq3asn75oWpulGNKHYgHVo5aQuHUq4hnMxNLeIN-NWNqKBv3vrL0eT0EsX3JWuyV1HwNOFpm5h",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJzziAM7D524ARC3c1T9GC12M",
+            "plus_code": {
+                "compound_code": "WVWM+32 San Diego, California",
+                "global_code": "8544WVWM+32"
+            },
+            "rating": 4.2,
+            "reference": "ChIJzziAM7D524ARC3c1T9GC12M",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8173 Del Dios Rd, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0412432,
+                    "lng": -117.1574994
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04259057989272,
+                        "lng": -117.1561293701073
+                    },
+                    "southwest": {
+                        "lat": 33.03989092010728,
+                        "lng": -117.1588290298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "San Dieguito River Park - Santa Fe Valley Trail",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102864882203539934152\">Steve Ramirez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDj-fMruw83liFldCLTbbUGtgsJwoqeSBe7brEl6M4EwAmnI_quD2o5QjrpX0shZrrvu-8o4vRP6Xgk3M2mmls56fv5LToCItv8EktpS15tGspKLwtGIQyjA4JsMUEZDHa7eEZ8WHwlWVEDrgFX3J0s3ux29Vcm5xTpUzDP43wV_ugb",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJHa9rEQ7224AR-uWmZjp4JFk",
+            "plus_code": {
+                "compound_code": "2RRV+F2 San Diego, California",
+                "global_code": "85542RRV+F2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJHa9rEQ7224AR-uWmZjp4JFk",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 81
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "20221 Cedar Ln, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0779494,
+                    "lng": -117.1165488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07927917989273,
+                        "lng": -117.1152459201073
+                    },
+                    "southwest": {
+                        "lat": 33.07657952010729,
+                        "lng": -117.1179455798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lake Hodges Hike",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112056588370512798066\">Zule Wimer</a>"
+                    ],
+                    "photo_reference": "Aap_uEAOhD-IMusnhymLtlULqqlFukXiRYg8bUVep7fAxHYiYy_4pOD48J5J4Z89FFddO41g-kZHiVlX2-NxlmgvRG7-3L-OKznFtVkTeS0jWPbez8TrhQNxx7Odw3kCOwa1DiKXQ-zBs8cX5CMUdZ4_ZCyGH79Rv_6hAkCQujd2LvFpHIYh",
+                    "width": 1638
+                }
+            ],
+            "place_id": "ChIJy-OppDf024AReCPd4GXxdmc",
+            "plus_code": {
+                "compound_code": "3VHM+59 Escondido, California",
+                "global_code": "85543VHM+59"
+            },
+            "rating": 4.5,
+            "reference": "ChIJy-OppDf024AReCPd4GXxdmc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12655 Sunset Dr, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0672686,
+                    "lng": -117.0669466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06871202989272,
+                        "lng": -117.0657183701073
+                    },
+                    "southwest": {
+                        "lat": 33.06601237010727,
+                        "lng": -117.0684180298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "San Dieguito River Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2992,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105574738996161141641\">Kevin Noles</a>"
+                    ],
+                    "photo_reference": "Aap_uEDxbBWPdQCIkOza8QN4zo5BO6llxUaMEEAnQwNoUO2XZlrR2cJzR5DV6ceosXl6WvsBmMv4xRcTcTMpt7HNYKSfnNSJ_ZqfIG4riiViAKr0c2lc7ZQmEHNHRDKNNW15fd8ZUNPC_6kN5t0EidXCE2_7cwssqMRSenA6MuAthpH1Mvyw",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJn2AoCFnx24ARRJWHTwHqFAU",
+            "plus_code": {
+                "compound_code": "3W8M+W6 Escondido, California",
+                "global_code": "85543W8M+W6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJn2AoCFnx24ARRJWHTwHqFAU",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "18372 Sycamore Creek Rd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0434905,
+                    "lng": -117.0418932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04471552989272,
+                        "lng": -117.0406209701073
+                    },
+                    "southwest": {
+                        "lat": 33.04201587010727,
+                        "lng": -117.0433206298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "San Dieguito River Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109813892715235876152\">James Burgdorf</a>"
+                    ],
+                    "photo_reference": "Aap_uEA5Abdp9AUZLUFrbdMqEjwL9L6FnTB3Mh5aoiKKpOPgj4yBe-POmRtFhD6AZB7zZ_wcK37V7t6Dyp_M-1QyM7vCxzO5Xpqz7E7q5vJOj2Lye2BL3uk0IqQbDo2axf8XZ0OlyClRW9czeBWzupGJSGOwe5W9t_ZGn7DGNlYby9fn0WG_",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJ1bSr_gDx24ARDHjipeFYzyw",
+            "plus_code": {
+                "compound_code": "2XV5+96 Escondido, California",
+                "global_code": "85542XV5+96"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ1bSr_gDx24ARDHjipeFYzyw",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Dieguito River Trail, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0536427,
+                    "lng": -117.1181574
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05496662989271,
+                        "lng": -117.1167802701073
+                    },
+                    "southwest": {
+                        "lat": 33.05226697010727,
+                        "lng": -117.1194799298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Del Dios Gorge (Lake Hodges)",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112098493316957347605\">조태준</a>"
+                    ],
+                    "photo_reference": "Aap_uEDIDDB2UUaZdteYzXw8JyIc6h4UCDRdZpv5X6KxAh1uaO5judVaDnRIBcIAr0xZx_DQNfqkBCHaIEH5WADe5tFfiij25EhgPSjOHhpRlZqAWTnzZPInCwwD60ACZTjnbwCp27g9ZBecir-ob4BrUjt6lSX7MgpxFmiXhv4Dj7ohOvsI",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJe7IEh4P224ARUP_YYWDgbWc",
+            "plus_code": {
+                "compound_code": "3V3J+FP Escondido, California",
+                "global_code": "85543V3J+FP"
+            },
+            "rating": 4.7,
+            "reference": "ChIJe7IEh4P224ARUP_YYWDgbWc",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "19320 Lake Dr, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0627913,
+                    "lng": -117.1198204
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06417052989272,
+                        "lng": -117.1185964701073
+                    },
+                    "southwest": {
+                        "lat": 33.06147087010728,
+                        "lng": -117.1212961298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "North Shore Lake Hodges Trailhead",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3376,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102736019704201606830\">Prafull Vispute</a>"
+                    ],
+                    "photo_reference": "Aap_uEA_vrSu6j0aNEMm5d499Y_CKusfQGDM2phui87Uf0sAvYLnVp69LLy_JRr3T_4UvE4srLmkWI3a9T-kfPNES-QIa5L8EsD3kRT8G5fV9Z8r7bUu_ISB66eXFokudaLbTilTvXf8miuhfBslxZCkSiHnSJJt28ezudbjiR2uAX7ui13l",
+                    "width": 5984
+                }
+            ],
+            "place_id": "ChIJ8SMH7Df024ARxWuqNN0HDP4",
+            "plus_code": {
+                "compound_code": "3V7J+43 Escondido, California",
+                "global_code": "85543V7J+43"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ8SMH7Df024ARxWuqNN0HDP4",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 70
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Unnamed Road, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0886893,
+                    "lng": -117.1649573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09003912989271,
+                        "lng": -117.1636074701073
+                    },
+                    "southwest": {
+                        "lat": 33.08733947010727,
+                        "lng": -117.1663071298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Questhaven Road Nature Trail: Upper Trailhead",
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117640876730598140445\">Mary-Ann Erskine-Pourier</a>"
+                    ],
+                    "photo_reference": "Aap_uEDuIZyqwMEWkA6LQM_FoTiroYXnp9hBQjVRJYKajazMuqnWDjl60V27m6iNvnw2fzqrknolacnUOIQK2V5sny-Jd32iJMCKCFCGt9VjSMHdZIooJpqXdF7wJFfzBpI0O08bifSvKk3V3FNd06SzqV8rNGqJtwOofMTrcT82b1ibuZ48",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1T7nT6D124ARzCxYn4pMZhY",
+            "plus_code": {
+                "compound_code": "3RQP+F2 Escondido, California",
+                "global_code": "85543RQP+F2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ1T7nT6D124ARzCxYn4pMZhY",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.064046,
+                    "lng": -117.0879777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06539582989272,
+                        "lng": -117.0866278701073
+                    },
+                    "southwest": {
+                        "lat": 33.06269617010727,
+                        "lng": -117.0893275298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Bernardo Mountain Peak",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106156172325355140912\">Michael Harlow</a>"
+                    ],
+                    "photo_reference": "Aap_uECQxywXpvJZFGHH0Vr_HdcgY8DSbIWMHh9yTPrqDc8HhfEjCg3FlSe6JshqS6cYdvvvRAMII2rWu7UpLyFeyuPM74Ttrqu5rBFXwnGkxWC5wLE8ySa7r3qRHvjaJymm18Tz72GWA7TY6RfYa2Byytgo0DqdPn5arOHyZ_La6Czb1WeW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ07O-s6n224ARKNlpKrCpVkY",
+            "plus_code": {
+                "compound_code": "3W76+JR Escondido, California",
+                "global_code": "85543W76+JR"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ07O-s6n224ARKNlpKrCpVkY",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3661 Sunset Dr, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0666679,
+                    "lng": -117.0678006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06803082989273,
+                        "lng": -117.0664731201073
+                    },
+                    "southwest": {
+                        "lat": 33.06533117010729,
+                        "lng": -117.0691727798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lake Hodges Run",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110824378734909077733\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDBlfhwrVwi5xEbShPmTem_GZrVcCwIwvD3zwtz7eml1j33cutfJ-MYuZU8MFINkoFSCZnw15ko0dhi5Fdvy8QSs3szq99b6pBErL21SFINe4oI9jYqA6y1AIPaproe08E8Uz7spFZL9vlGUO_e-KsTOahSIID5zYkBndM-Rp6Agj66",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0-5xYFfx24AR4yyGIAv0jEk",
+            "plus_code": {
+                "compound_code": "3W8J+MV Escondido, California",
+                "global_code": "85543W8J+MV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ0-5xYFfx24AR4yyGIAv0jEk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17716 Montero Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0250872,
+                    "lng": -117.0515747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02638227989272,
+                        "lng": -117.0502474201073
+                    },
+                    "southwest": {
+                        "lat": 33.02368262010728,
+                        "lng": -117.0529470798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "West Ridge Trail",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115594075101639629396\">Bo Stone</a>"
+                    ],
+                    "photo_reference": "Aap_uEBclDa6cMTvON5MiPgGC9CCh0hWCAiQxIbCCIAdcKAibsiJN9_GQTIV0D-1WMlojUIVpKDaEiUjYMAyKYWxcRBG13EMQQN17i-gb-bK2r6qDQTBgx-HaU8dloj3UnW3GbsKa8-8SiEkE5hWlIKIdhXGII1mHIoxX5XNyHsqqglON-4-",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfUwKzhjx24AR-MnW1Oy71e8",
+            "plus_code": {
+                "compound_code": "2WGX+29 San Diego, California",
+                "global_code": "85542WGX+29"
+            },
+            "rating": 5,
+            "reference": "ChIJfUwKzhjx24AR-MnW1Oy71e8",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "102 San Elijo Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1076746,
+                    "lng": -117.1662447
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10904077989272,
+                        "lng": -117.1648885201073
+                    },
+                    "southwest": {
+                        "lat": 33.10634112010728,
+                        "lng": -117.1675881798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ridgeline Trailhead",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102588535049919737204\">Adil</a>"
+                    ],
+                    "photo_reference": "Aap_uECRhSM33VvQOQVc8_kDIcdZ77Zh_UrOt1JTg_5BhFCe9t-3qlcgaOU6m68HJRAQfF20qcvSNhlc08pxD7up6b9UA9QZLjb5ksWbHkrL4-tZ5mw5yja3w7IYsTK9qcitDpK8APnxHgG6skuOs3hHSE46sVFHXJEyVBmiBGzR_-7eSE4v",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJv_YbImf124ARGb6PUXy-xIs",
+            "plus_code": {
+                "compound_code": "4R5M+3G San Marcos, California",
+                "global_code": "85544R5M+3G"
+            },
+            "rating": 4.7,
+            "reference": "ChIJv_YbImf124ARGb6PUXy-xIs",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 119
+        }
+    ],
+    "status": "OK"
+}

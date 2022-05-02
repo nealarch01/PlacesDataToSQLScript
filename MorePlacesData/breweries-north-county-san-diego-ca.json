@@ -1,0 +1,1014 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uECTPCzYB0ZnaJ4oL3OWXnkiG692qdOiMp7jjh8tNcFktuqaKkKHkRWYBCNxp8caLe7eXdp_VUkPcJp7fV4CQJBGNVh-et425MI90LVzMtD_eQh3nFnk2nJsxNi0TMloXglwPOgA-zhA0_vIf8rd_gEMtkxjFoght5OcBVgWzgxccu5i5G0W2-EtmKbHfS8jJz-cOPA29fgq2plH5XasCyD_UkCXRAtNv4q7l_G6QnlqvUWJxaQiJ2qXk4Wcruh0lyGSPs0kmsomem9fI97ra4VnHaNwXp0oawuNaDRAtzaTvvsNri7BgckSU_l6Zt4IK8eMyrq1c3h0CwJ07c3IIrgpdQ_2JAyN8IwpUd5TLxhJcWL0d0lOoNtj09NCX-1v2t4TsgAHUbq7Jr3c7D0nGZbx2tRizENDfWyP2A8yUHlPPEP-YQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "800 W Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1172114,
+                    "lng": -117.0917587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11849147989272,
+                        "lng": -117.0906568701073
+                    },
+                    "southwest": {
+                        "lat": 33.11579182010728,
+                        "lng": -117.0933565298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jacked Up Brewery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112687842331220203640\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECM35P1_EP8IymOBBPY17XsgQ0Rak13r4BfOR5WZ9gm1cSYxL84LvKMEemAeIejjIuTY9-XCCcS56yq8elyF4KxFpvtLCPuFr09-n6Ml_Gp8eme0qz6bqV1aS_hxCVX-rqupH0NRXZoyqaENoJHPkEBQiBcq8hv-dTlWzCKaNSdeZPK",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJAa1aBJD024ARbaCT2JZVt1Q",
+            "plus_code": {
+                "compound_code": "4W85+V8 Escondido, California",
+                "global_code": "85544W85+V8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJAa1aBJD024ARbaCT2JZVt1Q",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 199
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16990 Via Tazon, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0236337,
+                    "lng": -117.0858255
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02498247989272,
+                        "lng": -117.0844451701073
+                    },
+                    "southwest": {
+                        "lat": 33.02228282010727,
+                        "lng": -117.0871448298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Abnormal Beer Co",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109619498629329250932\">Ronald Carson</a>"
+                    ],
+                    "photo_reference": "Aap_uEDiaBEHNqDz85m50O9s7vz8RXX0JdkTY0-4oFRcQoa76uF_hp7EqRv4NvS5UZfWXp6Z9JRaCddmhSLFXboAHWnh-MzCyqt7fx-FADRVWFcuDXLPgTfFqVkGrSn8noAFPqfrQiaX6hAJj3WqbpmoN9ZgpqPKCadj1nfJa1HvTLLVPaX_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfzzq8Cn324ARuBAFMzLUUmg",
+            "plus_code": {
+                "compound_code": "2WF7+FM San Diego, California",
+                "global_code": "85542WF7+FM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJfzzq8Cn324ARuBAFMzLUUmg",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 122
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2892 S Santa Fe Ave STE 107, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1576159,
+                    "lng": -117.2008459
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15895212989272,
+                        "lng": -117.1994538701073
+                    },
+                    "southwest": {
+                        "lat": 33.15625247010728,
+                        "lng": -117.2021535298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Blue Fire Brewing",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107847476896901203259\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDX8BYRVAA0vF778qUGz1JzaoE2QZSO10ckkANvXxHbKwawEwNm3PhdZbaYjb1avYTS2raHNPQq3W88-A-JdiwrbeKch4v4O_f9n3eFNW2cfU0KKNqhQ_M6pv0hgLAeXbUX4KjhXFpJiXYvSebLNwZ1iRYmU7tsd0ozPk-Ii78W-I1v",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJBXyjDgJ13IARsUeN3QdBs8M",
+            "plus_code": {
+                "compound_code": "5Q5X+2J San Marcos, California",
+                "global_code": "85545Q5X+2J"
+            },
+            "rating": 5,
+            "reference": "ChIJBXyjDgJ13IARsUeN3QdBs8M",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "692 Rancheros Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.140147,
+                    "lng": -117.145759
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14170107989273,
+                        "lng": -117.1446484201073
+                    },
+                    "southwest": {
+                        "lat": 33.13900142010728,
+                        "lng": -117.1473480798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Wild Barrel Brewing Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2974,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118417939282901838818\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEACKDUbP4iXmqvcxCiPZnyy3_O67go36ueiExtHf_FHNeywzEZ1HMrV6m4vLJ_Zmyxvyv4RXQ49MWiDz41RrhOlk4YnW7W2fW6HHozgYOkzOzqhrwdWVxZLrEKFHR8Lu6MGjjbLKsJiSC7aaftP3m3KR65jxD_D8QAmSQAVxMDyCOpE",
+                    "width": 3996
+                }
+            ],
+            "place_id": "ChIJAd8o3cuK24ARR3rmfqIwCO8",
+            "plus_code": {
+                "compound_code": "4VR3+3M San Marcos, California",
+                "global_code": "85544VR3+3M"
+            },
+            "rating": 4.8,
+            "reference": "ChIJAd8o3cuK24ARR3rmfqIwCO8",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 351
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1347 Keystone Way C, Vista, CA 92081, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1354907,
+                    "lng": -117.2345423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13699467989272,
+                        "lng": -117.2330167701073
+                    },
+                    "southwest": {
+                        "lat": 33.13429502010728,
+                        "lng": -117.2357164298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Eppig Brewing - North County Brewery & Bierhalle",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111783306584678514004\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAwBov6WGnfvZ8Re8y8FgEsiptme70OHsNeYaMeDbZcVUWXSfpxt0kfwCSyl8eT1Wo4Ub4CBQ_b3PHIplEsL9MEJ4CrX79lAYUnvt_wB2bfKXajktOGiBcmxqPXbuPhtpCWsAh9CYrrTNc5RWFnQUIv0DfQH5jXTnSzhqcfpOwEpV7j",
+                    "width": 6240
+                }
+            ],
+            "place_id": "ChIJa_juxMR13IARy4wNxiZip1A",
+            "plus_code": {
+                "compound_code": "4QP8+55 Vista, California",
+                "global_code": "85544QP8+55"
+            },
+            "rating": 4.8,
+            "reference": "ChIJa_juxMR13IARy4wNxiZip1A",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "132 N Kalmia St, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1230166,
+                    "lng": -117.0804155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12434062989271,
+                        "lng": -117.0791176201073
+                    },
+                    "southwest": {
+                        "lat": 33.12164097010727,
+                        "lng": -117.0818172798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Little Miss Brewing",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100944815396011891333\">Jose C Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uEAZBsU7qz9AD80md31jqkoAHUgrow5dAp0dvcks8hqcR6fveyYPPx5zaspx12BM2mbte6Jen4svLJmikKZI4Og3ZVm6SaPu6-x5mG3lSb7kSFZHkqjm8l91tPyTVwJV_6SauR1_ucG073nrWMT5E4GOuPH6YA49QOsyDJ8LXIRdNhVM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ4SyCSD7124AR4fLsMsJMICA",
+            "plus_code": {
+                "compound_code": "4WF9+6R Escondido, California",
+                "global_code": "85544WF9+6R"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ4SyCSD7124AR4fLsMsJMICA",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 110
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Please call for Tasting Room Hours, 1241 Linda Vista Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1369514,
+                    "lng": -117.1935131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13834112989272,
+                        "lng": -117.1922468201073
+                    },
+                    "southwest": {
+                        "lat": 33.13564147010728,
+                        "lng": -117.1949464798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dos Desperados Brewery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112621168893008403654\">Matt MacAdams</a>"
+                    ],
+                    "photo_reference": "Aap_uEDUEqNmdnBGgCBYoKGk745zRUIjrl6KuZTbBbFh_K_RW0AsOeWTNlGNZD-V-3jI_RdvPp5ufMSkTPJ25_Uykqzbsu-5ijnneRQevEkcqQ0WzSRAXU3KL5_MbnGfhb0J4uTsFfQJ0VwgU0HhYc8wvCg3IvGbdteSIS-54N4fqTS69nAn",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJ89mOVUZ13IARMR0HU0CL58g",
+            "plus_code": {
+                "compound_code": "4RP4+QH San Marcos, California",
+                "global_code": "85544RP4+QH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ89mOVUZ13IARMR0HU0CL58g",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 89
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1784 La Costa Meadows Dr #103, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1047784,
+                    "lng": -117.2191797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10608842989272,
+                        "lng": -117.2178617201073
+                    },
+                    "southwest": {
+                        "lat": 33.10338877010728,
+                        "lng": -117.2205613798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Stumblefoot Brewing Company",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106352841925300259579\">osidekiller</a>"
+                    ],
+                    "photo_reference": "Aap_uEA4kEiQN2HpxHI58uq9XnnY6X3jpd6tJdqqTmyU7M3EiVVMiuKpZ9wcRtVoAkyw5HX_uWQeXhVUZQ7JjDHOIk2j9Ke92idAUjouxSSw2i8qWV7CEHGcXaHV2sZAadfZSozi1tyGFq1m1KJ7rCGgJLDb945yiP4RyQW5huHxNNc37rz9",
+                    "width": 1014
+                }
+            ],
+            "place_id": "ChIJf0XOldgK3IAR6BNSq5dOfhY",
+            "plus_code": {
+                "compound_code": "4Q3J+W8 San Marcos, California",
+                "global_code": "85544Q3J+W8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJf0XOldgK3IAR6BNSq5dOfhY",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "155 Mata Way #104, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1413878,
+                    "lng": -117.1498763
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14251252989272,
+                        "lng": -117.1484790201073
+                    },
+                    "southwest": {
+                        "lat": 33.13981287010728,
+                        "lng": -117.1511786798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Port Brewing / The Lost Abbey",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3780,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112613376434905922477\">Luca Zacchi</a>"
+                    ],
+                    "photo_reference": "Aap_uEBSuuLnPj_OAHwcGPRRXR0VblEs-6ykalT4XlH6Z5nylgVbzX-aaXbhOU8-PYLc8bO_xV8l4c64eXjqUM46soOUxtv-3oT6fpMZmuV4gogSMDwORxbbeCrcm5NUMyXOBCSFMa87Gum9vAb_T2qd-yn0XKnPQyag-6iTF3E35amIxbGy",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJfcFA38mK24ARadoaU3u1vL4",
+            "plus_code": {
+                "compound_code": "4VR2+H3 San Marcos, California",
+                "global_code": "85544VR2+H3"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJfcFA38mK24ARadoaU3u1vL4",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 325
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2201 San Dieguito Dr Suite D, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.96987960000001,
+                    "lng": -117.2618192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97113017989273,
+                        "lng": -117.2606089701073
+                    },
+                    "southwest": {
+                        "lat": 32.96843052010728,
+                        "lng": -117.2633086298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Viewpoint Brewing Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2001,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101547868900045901148\">Vigilante Brewing</a>"
+                    ],
+                    "photo_reference": "Aap_uEA5_d9BaNqePY6nSZH8GoJNZVdeclwcP76KBDqYN_8k68ZwGDIc3Dac9y8vdLM_APAYntyu8IbLSJ20CcRagiCSEQLPoeYn_DGz59FGDtUNoULQRmEuStGlMB0wSlmXMuXMOxlTpG2XpQ4f2O-1KT0EnsT4ynLZ1gvu87XO_FjKPP_K",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJoUnTK8wI3IAR7wJ67Rd-0dQ",
+            "plus_code": {
+                "compound_code": "XP9Q+X7 Del Mar, California",
+                "global_code": "8544XP9Q+X7"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJoUnTK8wI3IAR7wJ67Rd-0dQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 725
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1801 Diamond St #101, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1053626,
+                    "lng": -117.2159066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10673057989273,
+                        "lng": -117.2145940201073
+                    },
+                    "southwest": {
+                        "lat": 33.10403092010728,
+                        "lng": -117.2172936798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Double Peak Brewing Co.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1204,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109815466026047207525\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAfZgyQ4AeGlsz0J5Sm_hpWXjBX1-y38CK98G1Cy6ZfWXn9by8p-NVtB7ojFg7K_-9IF4gkDv_v6OuMnIlAXPU2hHt5R8c6ptFroODzCCw5-CW3s_A6kYiijoGtopU5yxfBxfr6UfWjfAp9P8vYxUlHjyrWUkX0HIRsyvs2T5_dddWW",
+                    "width": 1605
+                }
+            ],
+            "place_id": "ChIJjbXLQGEL3IARuMmW7OLSLYc",
+            "plus_code": {
+                "compound_code": "4Q4M+4J San Marcos, California",
+                "global_code": "85544Q4M+4J"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjbXLQGEL3IARuMmW7OLSLYc",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1075 Linda Vista Dr # J, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1383415,
+                    "lng": -117.188548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13981667989272,
+                        "lng": -117.1872458701073
+                    },
+                    "southwest": {
+                        "lat": 33.13711702010728,
+                        "lng": -117.1899455298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ten-75 Brewing Company",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101274217262293263433\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDDjcdpaZ0PxFmhjazBpliT_qBeyaLrL6RKycKcJZi5GjsykVzBPbZPnsYlMzWXFvjnSLZFlDb9FshVNaMkQo2MUrCsSSq9ycsPZ2U-cFTov4DsFQnjKKFdjklg8-bKvm66OIL3avCo9mJa6kijhM9z6Lydv_g1zd1N05XcJBHRUh6K",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ26jrp_x13IARBqig7Kw4QMI",
+            "plus_code": {
+                "compound_code": "4RQ6+8H San Marcos, California",
+                "global_code": "85544RQ6+8H"
+            },
+            "rating": 0,
+            "reference": "ChIJ26jrp_x13IARBqig7Kw4QMI",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1325 Grand Ave #100, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1429246,
+                    "lng": -117.1924676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14416977989272,
+                        "lng": -117.1913197201073
+                    },
+                    "southwest": {
+                        "lat": 33.14147012010728,
+                        "lng": -117.1940193798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rip Current Brewing",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2976,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106488500735814321522\">David Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uEBd8pH8DA-_oM1Lt1i1z4tetdGV5dl3DvF3SQFF64E8prEitZ9sDVQaVimihIfU8rdY2qggeiDFX8MtzbzsPeoj9DED2GCVSPeB1cN_APHVCD34IrArqdU72W3r1vFNaMq1bLin6r_E6-gXPeplk7gyl13bFRes7WkmFWef4bdccgDE",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJMTpqn0F13IARfpPI-4xT44k",
+            "plus_code": {
+                "compound_code": "4RV5+52 San Marcos, California",
+                "global_code": "85544RV5+52"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJMTpqn0F13IARfpPI-4xT44k",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6350 Yarrow Dr STE C, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.119822,
+                    "lng": -117.273198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12139002989272,
+                        "lng": -117.2720783701073
+                    },
+                    "southwest": {
+                        "lat": 33.11869037010727,
+                        "lng": -117.2747780298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Burgeon Beer Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104018981445941386258\">Simon Di</a>"
+                    ],
+                    "photo_reference": "Aap_uEBCvyvtqrYZT9yeqXHkEHLfPmNFGmU-y89ZGdKwujCU27eHuXYV7FAKgM2UpqUB1c5-kz4fZOH4GhayRlsCQhmy8vEMNfT7QZFI7UR1EMJ8gJg3xEWBe2S3lOyUv6GbGp9mp-7kDusCj-dEf9Y7TF-yK5XNd15AVYkq_ni09XufhyKg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJU5muZ1lz3IAR3owkkohSs2M",
+            "plus_code": {
+                "compound_code": "4P9G+WP Carlsbad, California",
+                "global_code": "85544P9G+WP"
+            },
+            "rating": 4.7,
+            "reference": "ChIJU5muZ1lz3IAR3owkkohSs2M",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 281
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3718 Paseo Pl Suite 1300, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9512988,
+                    "lng": -117.2361837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95269492989272,
+                        "lng": -117.2346601201073
+                    },
+                    "southwest": {
+                        "lat": 32.94999527010728,
+                        "lng": -117.2373597798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Harland Brewing - One Paseo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100851354853345086455\">Jose Rodriguez</a>"
+                    ],
+                    "photo_reference": "Aap_uED5srLs8cstCAKeVOR3FSZm5WttLXrBDW-5O3g3lSsOv6-97CtRDyF0cnF-meuVj-cIWd-scqAmLriGjx8IlrxLicFIrVsfG2TDoln_dnIMozjTfK_ITbW4WKfIAfzhCxtnT9NVlRBP3fsjSEcYhOia84krM35k-fk5D7O_iV2RJ2ux",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp6tjta4J3IARJdUmp4JCaS4",
+            "plus_code": {
+                "compound_code": "XQ27+GG San Diego, California",
+                "global_code": "8544XQ27+GG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJp6tjta4J3IARJdUmp4JCaS4",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1325 Grand Ave STE 107, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1426724,
+                    "lng": -117.1927024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14401057989272,
+                        "lng": -117.1914161201073
+                    },
+                    "southwest": {
+                        "lat": 33.14131092010728,
+                        "lng": -117.1941157798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Stave & Nail Brewing",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111479825330653512832\">Rick Schwartz</a>"
+                    ],
+                    "photo_reference": "Aap_uEAHw44-w5NXiwLb2tnzM1dozggUviYn_gOs-yM0ZwjzRfe1IH7Yeq2nT6jB8QAHYbR2aRmNXZw1qfAEvbbSzz1M1tDf6aFN0TqwQtmryQDr7SoV8eaqSuqW3zgZT9yGtBXckqZUIhfZ6KqYutgksDlc9fXHy-yfT-fdMBqYgR0_9R_Z",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJCQIy_NR13IARUzmrpTYV8G0",
+            "plus_code": {
+                "compound_code": "4RV4+3W San Marcos, California",
+                "global_code": "85544RV4+3W"
+            },
+            "rating": 5,
+            "reference": "ChIJCQIy_NR13IARUzmrpTYV8G0",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5840 El Camino Real #101, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1346794,
+                    "lng": -117.2700465
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13616817989271,
+                        "lng": -117.2686900701073
+                    },
+                    "southwest": {
+                        "lat": 33.13346852010727,
+                        "lng": -117.2713897298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rouleur Brewing Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106605833307717589470\">Scott Finney</a>"
+                    ],
+                    "photo_reference": "Aap_uECatNdJQgnAo3BsuqtkdrSC5ViVkWzuV8a-fIw_atV_YFke9diKvLePHQduJww-WDqmklcd__nAMtB9e3XLZNTj6DDmd2RJzPMjEpwO9ymS9xEUgVwTozru9zjeYzO6ug1VqSOK32aYDlJM5v63sQC9mqXhawYFT1fgGTwBp1ysLLzY",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJeceCWmJz3IARkN5-M8SlD3Y",
+            "plus_code": {
+                "compound_code": "4PMH+VX Carlsbad, California",
+                "global_code": "85544PMH+VX"
+            },
+            "rating": 4.8,
+            "reference": "ChIJeceCWmJz3IARkN5-M8SlD3Y",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2229 Micro Pl, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1306699,
+                    "lng": -117.1257281
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13204477989272,
+                        "lng": -117.1243782701073
+                    },
+                    "southwest": {
+                        "lat": 33.12934512010727,
+                        "lng": -117.1270779298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Backyard Brewery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108351082287714896028\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA_y-YY4lYiH4R5imMrv3iE5FObXXCgVGVwPh6mrjwglEPjOgm9TRIMNJcF5PbMGE7YRocpblKM_8wWQxKHGqu7XDPwaff_gNS1ZIaaQHkSSreRBJo5HF7IMnjOxJm3FTBhzMcO3jz4cvSc8Cshf017_lpJ53-KMotwIhELwg8sJnQd",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVVX279f024AR07KTZcssvag",
+            "plus_code": {
+                "compound_code": "4VJF+6P Escondido, California",
+                "global_code": "85544VJF+6P"
+            },
+            "rating": 4.8,
+            "reference": "ChIJVVX279f024AR07KTZcssvag",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2330 La Mirada Dr #300, Vista, CA 92081, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1497096,
+                    "lng": -117.2297501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15106862989271,
+                        "lng": -117.2284304701073
+                    },
+                    "southwest": {
+                        "lat": 33.14836897010727,
+                        "lng": -117.2311301298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Aztec Brewing Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117285662281874498407\">Patrick Prudhomme</a>"
+                    ],
+                    "photo_reference": "Aap_uEBO0s9Sj6flMaI1Z-6Hd88hjnJadscD5tnPwo4p8xcjEN2JFmMxTClIGH9Ykwp1RDgyQtFV3-T2pms_uLAeTzfPD2HgM64ZeS_x65a5E5J1Pc72fgjIXUO5YAgNJ1shBlRqyhBDMpMnepP_-AYYY9kRZ1ZaCyXgSxHAF-kuZ9xfmv_5",
+                    "width": 3022
+                }
+            ],
+            "place_id": "ChIJBwRTUPp03IARguJDI3vDW44",
+            "plus_code": {
+                "compound_code": "4QXC+W3 Vista, California",
+                "global_code": "85544QXC+W3"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJBwRTUPp03IARguJDI3vDW44",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 307
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15378 Avenue of Science #222, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9946383,
+                    "lng": -117.0819724
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99628407989272,
+                        "lng": -117.0803307701073
+                    },
+                    "southwest": {
+                        "lat": 32.99358442010728,
+                        "lng": -117.0830304298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Second Chance Beer Company",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2552,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101568152063332664352\">Carlos Bravo</a>"
+                    ],
+                    "photo_reference": "Aap_uEB-9t_FSXypSmtJnNtvfO9vqyVailtHGWjXDf7fiUKkeqvo41gfTfwDH_EJFnWA_vj3ItIekw7qweFVx4Y8xIJ-tYhEz_9zFP79dJ1QegXzGSt39OW2sh340ZifcBu0-f6XR_vCQzET4GUbYvrKoK6M2O5jHqfRDFxIN529naE_Kq48",
+                    "width": 3823
+                }
+            ],
+            "place_id": "ChIJ8xj5ek3324ARqp8qp_LT8Co",
+            "plus_code": {
+                "compound_code": "XWV9+V6 San Diego, California",
+                "global_code": "8544XWV9+V6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ8xj5ek3324ARqp8qp_LT8Co",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 338
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,1025 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAOx5sDMJ_sAVzi-5xIArfNagMcyhNL_YJ1eeicV7KtLh3s2lKmiBP4PjfXzTT3voDdkw3lLOP-Lx9dt5f2V3oxsIadptP75sfoTZpuDw3OnmmJKBlTcTeRJVE3DduCODaxg4Fy5lxhhd7SiSLM0SCCwXZvJDFgk9jGPOu1Gdf-5fpYfWwDW0dHCN7nFaylR_vAqNHuaCIb6ra4sVzLi_L3uBRWweoEEyu5-U-4i0ge_cdchEI4EcBrLoiYc11tkAJyYAlNoc-PFrxyISoXg8oZaPMTQi6oHsIvrCnLMm81AGtt3UnmnKOuFp0BtQy78SVoaXam5payrnqEMSe-cEJ3dy4_-ZtyCa5CM-weSF5u-ipaMnu8GPJfDVAWfgvorCLgVT3JDeaW8QndVBSxwb0vapE",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7341479,
+                    "lng": -117.144553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75186495,
+                        "lng": -117.1208421
+                    },
+                    "southwest": {
+                        "lat": 32.70871155,
+                        "lng": -117.1722057
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Balboa Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100365248384197308379\">Jens Knudsen</a>"
+                    ],
+                    "photo_reference": "Aap_uEAIMRGYek1hNLX8u1TkUXzIvO4arbVUGoJhpnMePr6MkRlqLBRiGmMyG34-OqYortAvrQTnVrmFvkXkJ_LGi6VXKfN9orRSqa7DUVNw0_0J7Cix0MzLNY0nA9P0-2qhVH4VpIoXHY_wf4gQpNiwAR_iYRrVc8U-xrTFlCUjjWG7_u_5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJA8tw-pZU2YARxPYVsDwL8-0",
+            "plus_code": {
+                "compound_code": "PVM4+M5 San Diego, California",
+                "global_code": "8544PVM4+M5"
+            },
+            "rating": 4.8,
+            "reference": "ChIJA8tw-pZU2YARxPYVsDwL8-0",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62802
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1600 Pacific Hwy, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7223013,
+                    "lng": -117.1722782
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7260373,
+                        "lng": -117.17013415
+                    },
+                    "southwest": {
+                        "lat": 32.71781369999999,
+                        "lng": -117.17401195
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Waterfront Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115800115471598871123\">Philippe Zwick Eby</a>"
+                    ],
+                    "photo_reference": "Aap_uEDI3krRIK-HrrppgimwIdL0sL5adZ1KRePJ829mJtNAjjwKt-y4jAlgJ087LnnLhSv-CxtpN-ForDgTpcK6dp_ozfeWMGRG6M6gPNxd3PWdsX1wCXB0p4kE9LBI5vxuCRyF-sRmATB35J6t_azse80GortgYO4PTDQZKKELGxuGAZuo",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJA6VEXa1U2YARujw0K903u5k",
+            "plus_code": {
+                "compound_code": "PRCH+W3 San Diego, California",
+                "global_code": "8544PRCH+W3"
+            },
+            "rating": 4.7,
+            "reference": "ChIJA6VEXa1U2YARujw0K903u5k",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7946
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2688 E Mission Bay Dr, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7896953,
+                    "lng": -117.2100084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79099332989273,
+                        "lng": -117.2085209201073
+                    },
+                    "southwest": {
+                        "lat": 32.78829367010729,
+                        "lng": -117.2112205798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Seaworld",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118021768743735550938\">T CañedoNightingale</a>"
+                    ],
+                    "photo_reference": "Aap_uED-Mojxmzd5xJ-iU87_S1HQAGPJ0GjCGP3AaRCmPbzB08Xd7SJA-WFXoWvUj2PS-cWpC0Ch-fQF7RMz7PC2O-1M8sMAlPlex7m_zX2OUaAYQXGGa95_bStlQRglERSd4XcxG2rm3MS20KijpLtvt9tBZaKvxav3AqOQXVk1Ky7MlD1T",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ9dZdfnyq3oARI_cFYz7QSKM",
+            "plus_code": {
+                "compound_code": "QQQQ+VX San Diego, California",
+                "global_code": "8544QQQQ+VX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9dZdfnyq3oARI_cFYz7QSKM",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20681
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7001 Murray Park Dr, San Diego, CA 92119, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.791986,
+                    "lng": -117.0441968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79377482989273,
+                        "lng": -117.0429793201073
+                    },
+                    "southwest": {
+                        "lat": 32.79107517010728,
+                        "lng": -117.0456789798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lake Murray Community Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115569061187046693031\">DaNa aZiZ JaRjeEs AsKaR</a>"
+                    ],
+                    "photo_reference": "Aap_uEAGJ8L6Nc6tePgCpfOpDBbKOhRUtbIqgxu3bYLRcG0bDF7t0PbiiZHnYWXUXfgzqr0OJpm80iPYYG7tg-kKjR66sjJ15m3dIwYyuMr6Jf8lusjrOuLdVUhvu7nAiWJH5wSghguPEM37pN3oFmXeL8QVk-18KdTuKG1RHCV0FuvwmU4E",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJnz927lpW2YARF9sVebrItH8",
+            "plus_code": {
+                "compound_code": "QXR4+Q8 San Diego, California",
+                "global_code": "8544QXR4+Q8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJnz927lpW2YARF9sVebrItH8",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1410
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7960 Civita Blvd, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7790075,
+                    "lng": -117.1468663
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77985490000001,
+                        "lng": -117.14430755
+                    },
+                    "southwest": {
+                        "lat": 32.77646529999999,
+                        "lng": -117.15009495
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Civita Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105733789124328746166\">Ada</a>"
+                    ],
+                    "photo_reference": "Aap_uEDUyYxW7QQSbWE3j2xT_GS2m7p9GbJbFg0In88tsEu08wy3_qoh427yZ5nkP52Le9gzUp8Yj0Tsh5jT6KG-YNDMJyU4EN5xSZkOB0tBLT5qdrsGiZBBIS4Ri40LCXty0lQxPPRJ3Hm4kXK1M4vOxXMaP41FMmr0_9Zxfq6vsFDQ-HQZ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ-_5zARVV2YARK8ISBd4hHZg",
+            "plus_code": {
+                "compound_code": "QVH3+J7 San Diego, California",
+                "global_code": "8544QVH3+J7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ-_5zARVV2YARK8ISBd4hHZg",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1478
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1521 Washington Pl, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.749058,
+                    "lng": -117.1775418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75076632989272,
+                        "lng": -117.1763433701073
+                    },
+                    "southwest": {
+                        "lat": 32.74806667010728,
+                        "lng": -117.1790430298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Pioneer Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115514573772959000735\">Robert Collins</a>"
+                    ],
+                    "photo_reference": "Aap_uEAAVqB40wi3vgjBWJ7VgLfxcQqC-Gxozs9Mof5f1C63pBEfe3C2DqZiEhT0muGoEGnJKEj2TyA2Q3IfZs3_5Fwm-GyjmkJRgH6G4Z5ZWi1RAXunGJ5Am9PN8YDpTnXHsMBn0Kn4bIVhfSgEA7k3Omm6ee01NDgHYrrxC253WUVThIGL",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJe7OI0yer3oAROD3zEmEk86M",
+            "plus_code": {
+                "compound_code": "PRXC+JX San Diego, California",
+                "global_code": "8544PRXC+JX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJe7OI0yer3oAROD3zEmEk86M",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 657
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12958 La Tortola, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9553391,
+                    "lng": -117.1158126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95627912989272,
+                        "lng": -117.1144215201073
+                    },
+                    "southwest": {
+                        "lat": 32.95357947010728,
+                        "lng": -117.1171211798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Views West Neighborhood Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114435244174173241477\">James Griffiths</a>"
+                    ],
+                    "photo_reference": "Aap_uECu0lktttfTYMeIJag0TUwRHi2HuWiWReIpvKvAUUeQqT3CcrRGvAH5pDq_w-r6IUnR_WLfuWteTEUirgLoCTFmOhEDq9JwcTlXZsgRDFDX5WVyx9uSA38vO9LFHxgAjFfW7CvG4y5IX-4SLQ5CkJfUvCb-bondlE0Q5jd8shgx9hLf",
+                    "width": 5248
+                }
+            ],
+            "place_id": "ChIJ0bu15bf524ARYaaRWshI4Zk",
+            "plus_code": {
+                "compound_code": "XV4M+4M San Diego, California",
+                "global_code": "8544XV4M+4M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ0bu15bf524ARYaaRWshI4Zk",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 204
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5115 Soledad Rd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8120392,
+                    "lng": -117.2381491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81284955,
+                        "lng": -117.23739595
+                    },
+                    "southwest": {
+                        "lat": 32.80960815,
+                        "lng": -117.24040855
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Kate Sessions Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104289465069605608758\">Yasser Ahmed</a>"
+                    ],
+                    "photo_reference": "Aap_uEBftzz8p2-h0DaOt4unT8fCxZjdcO4D6S5hqm3BWGlpcQ06I42R_Mq2sy98RqyQXy8T6SxJIVPSe2keXKsBoNp82MpMIySqlhKm7rgf8udlVAKfyXW9l1NmvEVg9AGJqn1QKN6lKNodnaebzZIy-mEQSsepOwMQ78-j0pts0ZMh2W2L",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ2zcFYqMB3IARMau_-x4xtJM",
+            "plus_code": {
+                "compound_code": "RQ66+RP San Diego, California",
+                "global_code": "8544RQ66+RP"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ2zcFYqMB3IARMau_-x4xtJM",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1823
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2200 Shelter Island Dr, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7174717,
+                    "lng": -117.2225118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71864432989273,
+                        "lng": -117.2210667201072
+                    },
+                    "southwest": {
+                        "lat": 32.71594467010728,
+                        "lng": -117.2237663798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Shoreline Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116926056583304889800\">Stanley Pinck</a>"
+                    ],
+                    "photo_reference": "Aap_uEDz7HpKTVhYr_5oW6awH8BjREOwiyK0e2MS9ZNRM__LPM7ue8TSyNjPjUzNY-ErqQcJwmzt8SC7QCFYssxnF2O3Jqv1BiB6KKswZtgtMFrwbWcV3u7yQnu0NmZEmMOAXR-4DKZ52hRWInW42HBnl9JIuYaOCAPQMGe-TwwSYHmVXTuD",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJiaRu8pur3oARhd-foODJPMs",
+            "plus_code": {
+                "compound_code": "PQ8G+XX San Diego, California",
+                "global_code": "8544PQ8G+XX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJiaRu8pur3oARhd-foODJPMs",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1834
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16118 4S Ranch Pkwy, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0038366,
+                    "lng": -117.1162262
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00519482989272,
+                        "lng": -117.1150049201073
+                    },
+                    "southwest": {
+                        "lat": 33.00249517010728,
+                        "lng": -117.1177045798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "4S Ranch Community Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101044666034704418280\">Ericarmen Mililli</a>"
+                    ],
+                    "photo_reference": "Aap_uECOX2dZvPRNRjpu6bR9p07rqko_mckuMz-DO_kQcetvdE4hikECCts0uNNIEuPoYduLkr3zmrQ4sxzipQWhPysBylsIf8yO-ny53l1ZMbBItX2affM5T1T5etOLz2VXr4-uLEbjoJfFG4nCfsOIbqaBly1a22-ZI0VuKuiHd5Qw4e72",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJu318JA7324ARjTrmTUGFtgo",
+            "plus_code": {
+                "compound_code": "2V3M+GG San Diego, California",
+                "global_code": "85542V3M+GG"
+            },
+            "rating": 4.7,
+            "reference": "ChIJu318JA7324ARjTrmTUGFtgo",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 112
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4960 Ocean Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8023976,
+                    "lng": -117.2597485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80379322989272,
+                        "lng": -117.2582640701073
+                    },
+                    "southwest": {
+                        "lat": 32.80109357010728,
+                        "lng": -117.2609637298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Palisades Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115042262539022863744\">Sean Powell</a>"
+                    ],
+                    "photo_reference": "Aap_uECEdqTYhCxOc-iW750Bvav_JVG2lCWP9hlxfTQmTIiUe35nHKCNiy5IuugFu1dtVkdzkPJJ9SLGKUEqH3eH6crpbl3FU8Nz08nHxqjyzKq4a4KLSU39Q_iBam8oZa9yGz7VO_SYIdhnwtq7zBaHqJZ3JdSZAPkgtpmqz76KSN38wLN5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJLQTBk44B3IARiP1PeKT0kc4",
+            "plus_code": {
+                "compound_code": "RP2R+X4 San Diego, California",
+                "global_code": "8544RP2R+X4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJLQTBk44B3IARiP1PeKT0kc4",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1045
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6475 Del Cerro Blvd, San Diego, CA 92120, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7817017,
+                    "lng": -117.0578484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78307282989272,
+                        "lng": -117.0564782201073
+                    },
+                    "southwest": {
+                        "lat": 32.78037317010727,
+                        "lng": -117.0591778798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Del Cerro Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2633,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111422719581595213566\">JYA</a>"
+                    ],
+                    "photo_reference": "Aap_uEAhbyxEFDzmJG0LgWTNo_yWHpRGNKd2xVE67jqZrsrAH7R1-sym9Qtic5SxAdBlryDcacELUeNLXDPsN6Bd-4vBsKtQIUvNrpwY8dh0qaJwUx4P3nyxFK4VwKaJNpZl48lJHGD20iqfBt8w8hCPGbcR14zUdBIh-AoMczBLexsaHVtk",
+                    "width": 2606
+                }
+            ],
+            "place_id": "ChIJNS1TMmBW2YARPj_7XqtEZqk",
+            "plus_code": {
+                "compound_code": "QWJR+MV San Diego, California",
+                "global_code": "8544QWJR+MV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJNS1TMmBW2YARPj_7XqtEZqk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1449 Cesar E. Chavez Pkwy, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.6965845,
+                    "lng": -117.1502339
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.69768192989272,
+                        "lng": -117.1486760701073
+                    },
+                    "southwest": {
+                        "lat": 32.69498227010727,
+                        "lng": -117.1513757298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Cesar Chavez Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108641306468647818889\">Robert Bolar</a>"
+                    ],
+                    "photo_reference": "Aap_uEBq7nppggiDyuZwFO2OOPqst8_Frs2hNCgEFEDpVkcI8gL6e2kLZaFkLfSdbJwwXyT5omwzxFNBMg9D9Clsug2GJ0saq9GgCLddu7wQD8yQv9DiFwu83886q6A5AdQEdE-lqIaBZRDaLxQdHfeJmzuRYDBaNFodINYe5o7dOqRBZABM",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhVj-AEBT2YARuG7LnZPUUCg",
+            "plus_code": {
+                "compound_code": "MRWX+JW San Diego, California",
+                "global_code": "8544MRWX+JW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJhVj-AEBT2YARuG7LnZPUUCg",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 956
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2811 Jackson St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7581942,
+                    "lng": -117.1908458
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76000927989272,
+                        "lng": -117.1879521
+                    },
+                    "southwest": {
+                        "lat": 32.75730962010728,
+                        "lng": -117.1995269
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Presidio Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 900,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108694769729966786444\">Amy Llanas</a>"
+                    ],
+                    "photo_reference": "Aap_uECEG9gQew5lbUVEF6mJB7dHNWvSVjPM3u1M_8DS2-FxLplTiDCpQaWxyreSXqTcap-Yw-OzcMPXaXyp6AqEmagPnP7biU0v3BMGeGuNWbTqUgNr2b1NeyrXDCzu8mAlksr_oQBLZA3IQ2gss7KHB0e7FC7TG1b8v35UElAORncVKoMK",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJ14S2e9uq3oARUDwkTmVPY5M",
+            "plus_code": {
+                "compound_code": "QR55+7M San Diego, California",
+                "global_code": "8544QR55+7M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ14S2e9uq3oARUDwkTmVPY5M",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1411
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4002 Wallace St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7549063,
+                    "lng": -117.1976407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.757066,
+                        "lng": -117.19259065
+                    },
+                    "southwest": {
+                        "lat": 32.75141879999999,
+                        "lng": -117.20179125
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Old Town San Diego State Historic Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102806648432274211800\">mmiikkeexxiiee</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_s-62X5KVSoaiiPKuQw6th6kBTGgjWxLip7cpayM5wWexYHLDbOdO6e_pVSBU3s4wpafh8P565opvKQVKkgY8R7MKscQqUf7KuqCt2t2lKXM015buen46T4feeFwQMt8pnk_OSTJC_17A_RV7cdva8aJ5j943Mf-W3QXV1xQNkxGy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJe9OrW-eq3oARuXXd8wQMg14",
+            "plus_code": {
+                "compound_code": "QR32+XW San Diego, California",
+                "global_code": "8544QR32+XW"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJe9OrW-eq3oARuXXd8wQMg14",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23352
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1943 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7627763,
+                    "lng": -117.1440195
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76397572989272,
+                        "lng": -117.1426680701072
+                    },
+                    "southwest": {
+                        "lat": 32.76127607010727,
+                        "lng": -117.1453677298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Trolley Barn Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107296269954438942626\">Popcornchicken42</a>"
+                    ],
+                    "photo_reference": "Aap_uEBO8QpvX8iT2HKnfBLmM9gi9zosNfh0HdSI6N8bEYtDdtA-ZsdilRTTM8hdK3ThxVNv2kr9-FpTgZlw-yxGVEa54aWA2fBWOVPMrkEfCaTAwQDSQOezZV23NEkbY9GDz0NP3WOjAphMPJmjGm1Qz_hrYVufwpqg-OTir5f2jxAlVhWP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJbzmN0x1V2YAR_ccEbNEWdZE",
+            "plus_code": {
+                "compound_code": "QV74+49 San Diego, California",
+                "global_code": "8544QV74+49"
+            },
+            "rating": 4.5,
+            "reference": "ChIJbzmN0x1V2YAR_ccEbNEWdZE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 861
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ladera St, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.718002,
+                    "lng": -117.2548558
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71931617989272,
+                        "lng": -117.2535055201073
+                    },
+                    "southwest": {
+                        "lat": 32.71661652010727,
+                        "lng": -117.2562051798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Sunset Cliffs Natural Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115584062937356336802\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAa5fGBEPM3RdUjx49gg21vmafyMRXYyLPo3Z7aVkNc-LO9o0tL9t_wTVbryHFXPGTDi7pFNYLVMHm1oVumHTEl06z63pktZ5-njqTDNR03tbPBwyXTjE2nxZyPEY7Us3opNgRNpB0eRH6-jeglWf2r5ky3X-FFkaebd2ON1CZfAMb1",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJA65lSMOr3oARFZHgtdTySeo",
+            "plus_code": {
+                "compound_code": "PP9W+63 San Diego, California",
+                "global_code": "8544PP9W+63"
+            },
+            "rating": 4.8,
+            "reference": "ChIJA65lSMOr3oARFZHgtdTySeo",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5734
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8805 Gainsborough Ave, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9728749,
+                    "lng": -117.1394919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97446237989272,
+                        "lng": -117.1377992201073
+                    },
+                    "southwest": {
+                        "lat": 32.97176272010728,
+                        "lng": -117.1404988798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Adobe Bluffs Neighborhood Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105818434307064522567\">Sam Guirguis</a>"
+                    ],
+                    "photo_reference": "Aap_uEBctLkOB419mDuHKZLZ2E2GSRalYFbvRZzsLxeVVwPud7FUDo92HoBSj9FEgc9n90Ue9YqOYPMb6rXk6dyEyddDx7PG_yCNUZz44_81DA0ALuYX7Re40RbpGPW1jYwTmaBALXtfTrkpc_frNWQ61njY7J9XTs_OAaH-wuVxH6WqwLyN",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJHa5J-Ij324AR2qTauk-FSGY",
+            "plus_code": {
+                "compound_code": "XVF6+46 San Diego, California",
+                "global_code": "8544XVF6+46"
+            },
+            "rating": 4.5,
+            "reference": "ChIJHa5J-Ij324AR2qTauk-FSGY",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "585 Harbor Ln, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7109806,
+                    "lng": -117.1719401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71220952989272,
+                        "lng": -117.1703694201073
+                    },
+                    "southwest": {
+                        "lat": 32.70950987010728,
+                        "lng": -117.1730690798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Ruocco Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116199191256115642043\">Jim Beusekom</a>"
+                    ],
+                    "photo_reference": "Aap_uECT7wh-Cw58W7N3_vXaD7SaiGdowQebkxCzo008B7qJK_Exx2XNVR-iATWVSpjiiUXAiFYpBAaP6Q-1phgvjef9lG6yNiT0HcowDlO3gg882EjQ5yc-ZCaBS98l0c15gOW8fOiOWUOVD-BqY7DY_Ul5qeMNKwa6MY6cw0X5GaBm3lB-",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJQz7caVVT2YARi2KVlAYafE4",
+            "plus_code": {
+                "compound_code": "PR6H+96 San Diego, California",
+                "global_code": "8544PR6H+96"
+            },
+            "rating": 4.4,
+            "reference": "ChIJQz7caVVT2YARi2KVlAYafE4",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 203
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2454 Heritage Park Row, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.75323,
+                    "lng": -117.1917515
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75479577989272,
+                        "lng": -117.1907230201073
+                    },
+                    "southwest": {
+                        "lat": 32.75209612010728,
+                        "lng": -117.1934226798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Heritage County Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113852160498231150423\">Margaret B.</a>"
+                    ],
+                    "photo_reference": "Aap_uEAeJZwsmkl353JF2jh16RABKpXNVEtz6B0RwoO81Vx_lNCaebqSi-nWgC6MHXnQS0-aBmU9nOJqi4mg_h6iyCxsGGuolm-7uWIF6CPLWt-TPquGnGbr1CVenmxIzOErYrDBNvMyL2b11_Ui5Jg2AJS87JQ-ePLDAidg5trw-TBShtbA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ3TnOJdmq3oARhIiR9n8H1PA",
+            "plus_code": {
+                "compound_code": "QR35+77 San Diego, California",
+                "global_code": "8544QR35+77"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ3TnOJdmq3oARhIiR9n8H1PA",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 184
+        }
+    ],
+    "status": "OK"
+}

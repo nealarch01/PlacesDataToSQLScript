@@ -1,0 +1,997 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDltn5sj7J5GJigwnL0nbBJtPSIAf06yL97fKnd34VtaB14ayK6nSQZAsoh9FKx-eT31MRitLden8kt-Y243MkEj1HubaHaZXDN3fVU2GgGXJovFBLKIDhk4EJtbylSwUQWQyUtF77EWmpWHeEEzTjmNk7W7o33OSy26-B2Ac2CYdmQ0UFlfJ_DpAdcMc6J_fqZUmphr6EJMz5Osq700WZHgwFHUEIQSpNl03GQqc6BXsiG-GEpPCHr1-e_-TIS2d2maDrCJeSc2TDi_eTzW1U16XJ__15lGjNz3XGqbgcAxhMXnopUjKX1dcNcA7NsqGgQouNPXXmRFPCxwxbMeepAVVlYKK8s_n0zi766YXYfoJLSsOFx5cbsJq2h6-Ua90gtJpy-nuBRtMAp6Fv8LbR7zK7P1865Ydk",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "530 Sixth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7108506,
+                    "lng": -117.159331
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71220087989272,
+                        "lng": -117.1579271701073
+                    },
+                    "southwest": {
+                        "lat": 32.70950122010728,
+                        "lng": -117.1606268298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sparks Gallery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110755732303132915603\">Ryan</a>"
+                    ],
+                    "photo_reference": "Aap_uEAqhX2Bg0dZKRN018jehlz8p0MJcuAU50tm7-BhMgohCkFyf4SCuA9_a-su7Vr3q7D04EHRKGAhnsYJRATeiEaNtIpPJ-B9z1whEeShe56i1nEe4fiF6t6UhP38AkLtY2jnH4cUhTvhjXw92J0iszRT858hsYjEGmpyB3gR__0SZ0YD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4yvPm1lT2YARowvocq9jsSM",
+            "plus_code": {
+                "compound_code": "PR6R+87 San Diego, California",
+                "global_code": "8544PR6R+87"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ4yvPm1lT2YARowvocq9jsSM",
+            "types": [
+                "art_gallery",
+                "jewelry_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 86
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "527 Fourth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7108458,
+                    "lng": -117.1608905
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71219217989272,
+                        "lng": -117.1595441201073
+                    },
+                    "southwest": {
+                        "lat": 32.70949252010728,
+                        "lng": -117.1622437798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Art of Tim Cantor",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104476621271684283464\">Zachary Trousdale</a>"
+                    ],
+                    "photo_reference": "Aap_uED7VRxRY5TpjZ9hce9ZB3cbMPhB8MxZo19qCwxMbFR08DDosrQdK71i2Vh3ffo_FbkBbc6cD_H-rwVukVyBrucGv0FQTn5zXnSghWG46gU90BP9X9x3TUhEI7zrkG_--ffBd4x6wa7Aywa0aD8sW4JMgFFMooQow6jmDPZ5SGNv8KNy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzWoh6FlT2YARdW3LDH1SX4k",
+            "plus_code": {
+                "compound_code": "PR6Q+8P San Diego, California",
+                "global_code": "8544PR6Q+8P"
+            },
+            "rating": 4.8,
+            "reference": "ChIJzWoh6FlT2YARdW3LDH1SX4k",
+            "types": [
+                "art_gallery",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4434 30th St, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7579888,
+                    "lng": -117.1303562
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75932922989272,
+                        "lng": -117.1289358201073
+                    },
+                    "southwest": {
+                        "lat": 32.75662957010728,
+                        "lng": -117.1316354798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "ashton-gallery",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111868887763587821641\">KJX Jamalpur</a>"
+                    ],
+                    "photo_reference": "Aap_uEC9s4ftIkvlHiK6BQ2Uw_LJ625f_ed0y4F0HnBhyzzRqKWXe2a_8xQIlOVbrcj-iSs1s1hn-3NJIsjaR1WnKdNcQWnx1xIiLgXX6meruVfDzxq-QtWqrGV_SZ7UYNVA85jmciMANii6XQBDcbpJbmkeDrnjje3AKCOIeRHDgiAkgjY7",
+                    "width": 1693
+                }
+            ],
+            "place_id": "ChIJVVXRNvlU2YARAcn302cp2OI",
+            "plus_code": {
+                "compound_code": "QV59+5V San Diego, California",
+                "global_code": "8544QV59+5V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJVVXRNvlU2YARAcn302cp2OI",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1980 Kettner Blvd #40, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.724615,
+                    "lng": -117.1697453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72596792989272,
+                        "lng": -117.1683410701073
+                    },
+                    "southwest": {
+                        "lat": 32.72326827010728,
+                        "lng": -117.1710407298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Adelman Fine Art",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114966445453631997947\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBE35OiRfJRJm-3NZLxSUe5OaaxGmo7DvrGevdJQ_b_1mrLwDAmmDEyfp5cU7Z2mvO5CIpfYkc0o95ls5nQoI9G-4i4ViLLyGtSPqSaQL6mkBaAjdo8kv87OklSv1dT66Hk4g36XPbsxuCA6yXsRWnP8qoB_HCfHd_ZK4gBr2ev4Emg",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJd4ENW7JU2YAR14Oec9UEPws",
+            "plus_code": {
+                "compound_code": "PRFJ+R3 San Diego, California",
+                "global_code": "8544PRFJ+R3"
+            },
+            "rating": 5,
+            "reference": "ChIJd4ENW7JU2YAR14Oec9UEPws",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1100 Kettner Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7171923,
+                    "lng": -117.1693841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71849247989272,
+                        "lng": -117.1679605701072
+                    },
+                    "southwest": {
+                        "lat": 32.71579282010727,
+                        "lng": -117.1706602298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of Contemporary Art San Diego - Downtown",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115650156421866381950\">Diana Byrns</a>"
+                    ],
+                    "photo_reference": "Aap_uEBfLuNFX38qBsCxzpvxpYH8sGZGJH2nIopGzESC0KJ0RhOO1bxl57AEjNPAQkVoAa_6WqZeMlUoCpYCLXV3uO-CM_KAjEVsOhIZe54ze3qFHk_i9041_9JNJAMhw4mAYWQHLYciKXOQ0WLMep4FTkBOi1g73vm6etUdz7RIyZiKbEoT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpzV5yatU2YARmMGDsz_MVI0",
+            "plus_code": {
+                "compound_code": "PR8J+V6 San Diego, California",
+                "global_code": "8544PR8J+V6"
+            },
+            "reference": "ChIJpzV5yatU2YARmMGDsz_MVI0",
+            "types": [
+                "art_gallery",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "237 Spruce St Suite B, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7385821,
+                    "lng": -117.1624701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73996617989272,
+                        "lng": -117.1611197701073
+                    },
+                    "southwest": {
+                        "lat": 32.73726652010728,
+                        "lng": -117.1638194298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Arredon Art",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115916942038886614410\">Monarch Gallery</a>"
+                    ],
+                    "photo_reference": "Aap_uEBNmsSv6djUzSY695MkjD57UevjkpqBOhiax5l5k3ZYZhepuoM5hKxmr8duBNjappCn3_pTsaa7TglfkgpFZsU2BlOLX9KEamWDD-6dDDlScMQWWNU2tjVqyXducAua2RnDCht7mhnAtu0RXfdDYbmBlIeKTahV5iptqm8VDg2Nj0kk",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ39N2aPwD3IAR2foacIeR_Qk",
+            "plus_code": {
+                "compound_code": "PRQQ+C2 San Diego, California",
+                "global_code": "8544PRQQ+C2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ39N2aPwD3IAR2foacIeR_Qk",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1770 Village Pl, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7332189,
+                    "lng": -117.1474342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73458362989272,
+                        "lng": -117.1462551201073
+                    },
+                    "southwest": {
+                        "lat": 32.73188397010728,
+                        "lng": -117.1489547798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Spanish Village Art Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102853170211116821608\">Steve Azer</a>"
+                    ],
+                    "photo_reference": "Aap_uEDNIHrMNnTtVxLFdw_KRck1AGCIwyU_fNxC-YY3dw-775_pHqqg5E3pAAUyeN7EZp7FL3yDLdug4kNm6C7LgnueHGvfu58hZH3dDJcM5VEakEKmKcpmwSDX3IDD1i8fAiSrHPev2vq65wIPKZNMXO-lF1cPEX0nUzPRkJkumXeUgv80",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJTbIweJZU2YARhAbEo1Ysldw",
+            "plus_code": {
+                "compound_code": "PVM3+72 San Diego, California",
+                "global_code": "8544PVM3+72"
+            },
+            "rating": 4.7,
+            "reference": "ChIJTbIweJZU2YARhAbEo1Ysldw",
+            "types": [
+                "art_gallery",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1846
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "628 L St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7074086,
+                    "lng": -117.1589228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70903197989273,
+                        "lng": -117.1577143701073
+                    },
+                    "southwest": {
+                        "lat": 32.70633232010729,
+                        "lng": -117.1604140298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "L Street Fine Art",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2436,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109859529783224040939\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDXTTtS0wnPvX7cDnDAMt0F0-O_UR-8XiC9KV7qdd353gi4oRivsThiuSmtoZ2vBoJPRu7QeXJ9Y8HHU2JCgXsYPlZ7LG_2gdyRw_qjXjUGhEB9lwyydGFu32NGeIaj-VQAnzdaxh9_0JxbBESHFP27Cybz5fOcCzKf_SaltI7-hLFv",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJj2v1_1pT2YARecMoBBVrmZE",
+            "plus_code": {
+                "compound_code": "PR4R+XC San Diego, California",
+                "global_code": "8544PR4R+XC"
+            },
+            "rating": 3.5,
+            "reference": "ChIJj2v1_1pT2YARecMoBBVrmZE",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1980 Kettner Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7248073,
+                    "lng": -117.1698333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72581957989272,
+                        "lng": -117.1683798701072
+                    },
+                    "southwest": {
+                        "lat": 32.72311992010728,
+                        "lng": -117.1710795298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Chuck Jones Gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108243194799098541489\">The Chuck Jones Gallery</a>"
+                    ],
+                    "photo_reference": "Aap_uEDpHhUmRJ0rbedUokc_0pqxo8V2c2TAMEXXsEnbzSgkbuiVD3F5mE9xKQHHmlEg2kKsDn57u61qfE9uDurAjDNiWLzfJ_OlsbRFyNR0uR8ElSrJx1krTCNNFYxGnOH456bRPtLb1cKwt38ZcnnnDdWF65r5otmts4yW2O0uC-PFIeyU",
+                    "width": 4928
+                }
+            ],
+            "place_id": "ChIJ8Q0GQlpT2YARCcpAAF03Q5o",
+            "plus_code": {
+                "compound_code": "PRFJ+V2 San Diego, California",
+                "global_code": "8544PRFJ+V2"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ8Q0GQlpT2YARCcpAAF03Q5o",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1508 C St AH 314, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7170256,
+                    "lng": -117.1504601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71833682989272,
+                        "lng": -117.1491729701072
+                    },
+                    "southwest": {
+                        "lat": 32.71563717010728,
+                        "lng": -117.1518726298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "City Gallery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110498692731393638969\">Sissy Romero</a>"
+                    ],
+                    "photo_reference": "Aap_uECU-laOX9TylvNyTIfIY0fH27lZgRRb5QYYCHe9vamfIF-8efFlUZebFrzbP3XFBy8JoKBezx-ttGeaoChPh2ZWYnnmoAUcb_D-9VG1Xi7F9jRXI46cQrAvACxvH33GtQEUEt80X8I4HScXGCoLU0shcDep95DcVbaFGOyNW1uClVVP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq6oefKBU2YARfzJa3JTIXbI",
+            "plus_code": {
+                "compound_code": "PR8X+RQ San Diego, California",
+                "global_code": "8544PR8X+RQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJq6oefKBU2YARfzJa3JTIXbI",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3139 University Ave, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7483669,
+                    "lng": -117.1263253
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74972812989272,
+                        "lng": -117.1249753701073
+                    },
+                    "southwest": {
+                        "lat": 32.74702847010728,
+                        "lng": -117.1276750298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Art Produce Gallery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1039,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113870902580701399679\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECf_RpukPLF6Uh7YHgFSu0_JSd0P8W5jKExgMsZj5vZl4i-gIaEDirTXV8VzjvXpMRba3Q6r5m7WPby1dgLn3D7dmWWHngQ1wmKPxjxE2Asnbn7KR5TnQ0oVZ-XlR85qNRgyGGtMGVXL4cXm7CXs6ZM5sHaRT-iFLvGmpakIL5rMkJ3",
+                    "width": 3331
+                }
+            ],
+            "place_id": "ChIJW6svWF9U2YARKVNjTKXXPc4",
+            "plus_code": {
+                "compound_code": "PVXF+8F San Diego, California",
+                "global_code": "8544PVXF+8F"
+            },
+            "rating": 4.8,
+            "reference": "ChIJW6svWF9U2YARKVNjTKXXPc4",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1504 India St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7210978,
+                    "lng": -117.1684437
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72244787989272,
+                        "lng": -117.1670542201073
+                    },
+                    "southwest": {
+                        "lat": 32.71974822010728,
+                        "lng": -117.1697538798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Stefanie Bales Fine Art",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106659955058282228017\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBK07sgU8fSBvM8K9EW9ZyKdS24k5oabsEZHP4zYnzbMJV6xIx9v0jn3QCtyV4KWWEb-lqBIXC8Ip677lMKqn6brnDv58HZ_3SkMIXH1pJt7uWtcuBoOdSz-209ylUwCPyTj-OlFMsFJdoLxMtYnGBbnFrcuYpoHlewDOezGMQ75rzA",
+                    "width": 5333
+                }
+            ],
+            "place_id": "ChIJ2VlDp3xV2YARVlzSf5VvsDI",
+            "plus_code": {
+                "compound_code": "PRCJ+CH San Diego, California",
+                "global_code": "8544PRCJ+CH"
+            },
+            "rating": 5,
+            "reference": "ChIJ2VlDp3xV2YARVlzSf5VvsDI",
+            "types": [
+                "art_gallery",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2965 Beech St, San Diego, CA 92102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7211272,
+                    "lng": -117.1307528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72257552989272,
+                        "lng": -117.1294039701073
+                    },
+                    "southwest": {
+                        "lat": 32.71987587010728,
+                        "lng": -117.1321036298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Cobalt Gallery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116494229167595327936\">Sander Rosenberg</a>"
+                    ],
+                    "photo_reference": "Aap_uECXYOQ5NqJMbjS_d0LC3tG1ZU4X007JsjXQjqDCsv68B8aa3UmKT0Y2R2t1vAucifdnXhKYoHqmG18I0V2-iQzJ9USk0BZc4DCsAq4HRWu7NCzdFYI7f1cN9fAXbBG-eKS_FquENkH9syMVli0R6E3lw2ual5pLSc-QsH1Rh4laCm2N",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJBao30vRT2YAR-jnj3EBZeqc",
+            "plus_code": {
+                "compound_code": "PVC9+FM San Diego, California",
+                "global_code": "8544PVC9+FM"
+            },
+            "rating": 5,
+            "reference": "ChIJBao30vRT2YAR-jnj3EBZeqc",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "363 Fifth Ave Suite 102, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7091394,
+                    "lng": -117.1599635
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71060987989271,
+                        "lng": -117.1585270201073
+                    },
+                    "southwest": {
+                        "lat": 32.70791022010727,
+                        "lng": -117.1612266798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Agora Galleries",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2499,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100724940726722822611\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDL6z7peg66e5zohObv_q6p_cCA_WtWrSNfe387LEiEm4gEcm-IH3ejOM0JpaoX6_t7J8S_U7bRdI_iDi1KpETCBVOehnG43B6qCZu57d1fRrRyA9l0A1_Q_6wGAH28MSApopCg-_k27WLl5WQV8qy83YZGNRdZvIsbnsRVgIv-Ki3u",
+                    "width": 3761
+                }
+            ],
+            "place_id": "ChIJMWqeMFRT2YARveF2ak-BOxQ",
+            "plus_code": {
+                "compound_code": "PR5R+M2 San Diego, California",
+                "global_code": "8544PR5R+M2"
+            },
+            "rating": 4.9,
+            "reference": "ChIJMWqeMFRT2YARveF2ak-BOxQ",
+            "types": [
+                "art_gallery",
+                "jewelry_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1878 Main St, San Diego, CA 92113, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.6994638,
+                    "lng": -117.1469716
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70074622989272,
+                        "lng": -117.1456488701073
+                    },
+                    "southwest": {
+                        "lat": 32.69804657010728,
+                        "lng": -117.1483485298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The iN Gallery",
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114241722496162666520\">Irina Negulescu</a>"
+                    ],
+                    "photo_reference": "Aap_uEB6R4XLD4RVMGMzwiAFY_JWs1dR_Qs_Ls07S7Cm4zMfRBhtHAO3i7rGd1rK7Q2-hpRbOlAkpFC-hGvFoc5c_eaHRtv0nxoFtskoTR6NJuo0TJV1QCIWDgwIoqAgbIQ5fINnYvL2y_Dtn52hHTaUmv7ePExNVHKg6GmRgSUU2Q_xhsEu",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJwT9AAWtT2YARSWWUoWbRjlU",
+            "plus_code": {
+                "compound_code": "MVX3+Q6 San Diego, California",
+                "global_code": "8544MVX3+Q6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJwT9AAWtT2YARSWWUoWbRjlU",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3867 Fourth Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7479329,
+                    "lng": -117.1614817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74928357989273,
+                        "lng": -117.1601840201073
+                    },
+                    "southwest": {
+                        "lat": 32.74658392010728,
+                        "lng": -117.1628836798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Studio Door",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100965651276756493602\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDPr5fC8dlaYPTunQeVydAHPIi_8wKfVsTJW-81PiSZMJKl7IWj7mKOqJrI3ZZlC1H088Bz9uIGUa9FuA0rw3I7JTVhpLbPntKs0pLpucnAv94SEAHcRKrQekmIGVKO1irl7XEirYB-LVxhi8t0Ja9mn3DHobqi5TncLfX57ipUtoZR",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJxZcMsla25BQRBMRnDSN0t18",
+            "plus_code": {
+                "compound_code": "PRXQ+5C San Diego, California",
+                "global_code": "8544PRXQ+5C"
+            },
+            "rating": 5,
+            "reference": "ChIJxZcMsla25BQRBMRnDSN0t18",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6386 Del Cerro Blvd, San Diego, CA 92120, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7836789,
+                    "lng": -117.059715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78509617989272,
+                        "lng": -117.0583464701073
+                    },
+                    "southwest": {
+                        "lat": 32.78239652010728,
+                        "lng": -117.0610461298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Del Cerro Gallery",
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113345707319173114876\">Carol Wafer</a>"
+                    ],
+                    "photo_reference": "Aap_uEAQ3ZiOkKWnGP5GiIp7pEd4Q8PQYLHRjXAuGI1J_C_7YS2HuLTWF2-iSoN_xPuwaK6zDwOVskwHrkgNJP3pTvzo1HiYz_1LwOp7P4ibWm92xon2S6VxbgPg4uWWhAR4o4sGmF-nRqNLOCJPRIIlvoLpkclqWPeDJJwC_uuClcRf9GbS",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJ28L-amFW2YARDboSLI3djV0",
+            "plus_code": {
+                "compound_code": "QWMR+G4 San Diego, California",
+                "global_code": "8544QWMR+G4"
+            },
+            "rating": 2.9,
+            "reference": "ChIJ28L-amFW2YARDboSLI3djV0",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "1772 Kettner Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7237506,
+                    "lng": -117.169491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72510637989272,
+                        "lng": -117.1680924701073
+                    },
+                    "southwest": {
+                        "lat": 32.72240672010728,
+                        "lng": -117.1707921298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kettner Gallery",
+            "permanently_closed": true,
+            "place_id": "ChIJTQwscrJU2YAR0IJv6Ux8b34",
+            "plus_code": {
+                "compound_code": "PRFJ+F5 San Diego, California",
+                "global_code": "8544PRFJ+F5"
+            },
+            "rating": 0,
+            "reference": "ChIJTQwscrJU2YAR0IJv6Ux8b34",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "566 19th St, San Diego, CA 92102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7112041,
+                    "lng": -117.1468634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71255362989272,
+                        "lng": -117.1454743701072
+                    },
+                    "southwest": {
+                        "lat": 32.70985397010728,
+                        "lng": -117.1481740298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Good Faith Gallery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 811,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113376461036295814671\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDlVxYLQ-DafY17KwKUS6qx3WFxsFyyq8IpA2f7Uyqf-HjuUxBEU7Yi1CdSa0-HnIoikxgAJZf11GqSPC0DhHNX4JSMTPw4KcAazaSebXAK6X8Xzb9kbibSYBJYLC4RjjmDYtnGGYB4n--tdwxDpluiBLh-XDJGlwdLwWOp4tDPWNKn",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJqezN_8pV2YARn4uEP4R4zIE",
+            "plus_code": {
+                "compound_code": "PV63+F6 San Diego, California",
+                "global_code": "8544PV63+F6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJqezN_8pV2YARn4uEP4R4zIE",
+            "types": [
+                "art_gallery",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "I-300 Building (Life Sciences), Mesa College Dr, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8053522,
+                    "lng": -117.1708554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80653307989272,
+                        "lng": -117.1694097201073
+                    },
+                    "southwest": {
+                        "lat": 32.80383342010728,
+                        "lng": -117.1721093798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mesa Art Gallery",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111743133751381518080\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECaMwR58uGIs9pE0MWtvlXh8tn-3J_a4KH_RxmOo8eez1IzVKeSIGtOjFZ5CDYe0MQlDz7Jb9obK8nMsvZEZUykuiMUWINDaV2cZE3TM-VXrIVCrOkVB-jw-n7-W4aNGi86uT1-0POsCJsRTK0dhukl90o8BLbjMibUMFcjCuk67PTe",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJ7bkcavj_24ARUFJ4Wz6rvN0",
+            "plus_code": {
+                "compound_code": "RR4H+4M San Diego, California",
+                "global_code": "8544RR4H+4M"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ7bkcavj_24ARUFJ4Wz6rvN0",
+            "types": [
+                "art_gallery",
+                "atm",
+                "finance",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        }
+    ],
+    "status": "OK"
+}

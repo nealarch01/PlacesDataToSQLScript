@@ -1,0 +1,1048 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEADxBufSstv9B6pLr_B3OqZb-VxvIZNw00zt4YDbtLXHf6_4hqljxNpV4jAaI4M2SLPi0tLnjJPms5bHoZaE8xk9lQ5fuTUNdQagAD7-OXyqsl7PCQedvDRgm2NOe7o7G6GRgyjkjJTm0avPYv0r2FMWz5zabZydOVOnE3Bivd3p6pcAlcYpA0FEn2KtMxJ1ZW2Fq01rzAKd6s0ibjlqir32C952fBDazqJ_ULdprEvkHbGKsOqdUPNswKJl-FGiT3xH_FLukzbdbqe--RwpsRwTALg3FXGDANsbFmTDfpece7uiz8iWHd76nHTDh6PxbExN6bZmuzpYYchNZCgcq6BPsaFqn1cFgSNgze74psoQLTX2OFlExE5WMKFu1RCkVwePypFYsraFj1P0I2rVPHLdCH5etY",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13330 Paseo Del Verano Norte, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0325468,
+                    "lng": -117.0464345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03418922989272,
+                        "lng": -117.0450359201073
+                    },
+                    "southwest": {
+                        "lat": 33.03148957010728,
+                        "lng": -117.0477355798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bernardo Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103512752006601248944\">Teena K</a>"
+                    ],
+                    "photo_reference": "Aap_uEDHf1nbVi6ThuR8m9pw1xUKI_8qCphXTGolSqlZ4sL5bOna6Da6IPRbyhJ6GgjwShgjtlbDXLdA4nfJkPCqnXD1Rvwy6UOdoe5EIcwx1xOMzNx5lREWr9EqV6VozSSiKBk3wF6xzcBzmmwtGexE7XU5C-o09yTSEUIbgbBOuOWN9Zl2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpXtTiuLw24ARymFJcYGDwVI",
+            "plus_code": {
+                "compound_code": "2XJ3+XC San Diego, California",
+                "global_code": "85542XJ3+XC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJpXtTiuLw24ARymFJcYGDwVI",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 422
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4060 Morena Blvd, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8142194,
+                    "lng": -117.2181698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81563382989273,
+                        "lng": -117.2167593201073
+                    },
+                    "southwest": {
+                        "lat": 32.81293417010728,
+                        "lng": -117.2194589798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Blue Door Urban Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114051876983882738250\">Joshua Lemmer</a>"
+                    ],
+                    "photo_reference": "Aap_uEAhcpYWPCwnRZNctoqgX_rYSdZHvJbOBVdYWyPl7KUeL8D9vUPHMy0cdQ5obeTAPKrmcNpkjp3G9QHBgvlWx87Mt1YIf3zFOGgTpnTrOQ3l_rw0UB7StVUWGqtrMGlmwug3z4VPyG26LOLzpa6j0ebnS0v-gyeO0YsRS4ZS45Ds5hS7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJNyq_BE0A3IARUr94k2Sabms",
+            "plus_code": {
+                "compound_code": "RQ7J+MP San Diego, California",
+                "global_code": "8544RQ7J+MP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJNyq_BE0A3IARUr94k2Sabms",
+            "types": [
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "805 W Harbor Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7086767,
+                    "lng": -117.1682503
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71021062989273,
+                        "lng": -117.1672024201073
+                    },
+                    "southwest": {
+                        "lat": 32.70751097010729,
+                        "lng": -117.1699020798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "San Pasqual Winery | Seaport Village",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110718634128645169345\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_7oWHP8kDRpPrsolmTs2JItaw6JhJq0bwb05Fa8iagiuTcoQHET8Lc8JpzJa0ohXtVwrQIR3nk93tOY4k6i568AIvgl2YCtIHbM_d7-PkE0VWkpH3ZCUcgLEv-PuiZ0HveavhQnDdyNSDA1YBnceEzc0WnkdLN7O1_s-iw5yjNOS_",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ1QhFD6wB3IAR0T0HOemhlyg",
+            "plus_code": {
+                "compound_code": "PR5J+FP San Diego, California",
+                "global_code": "8544PR5J+FP"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ1QhFD6wB3IAR0T0HOemhlyg",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1263 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7482558,
+                    "lng": -117.1519414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75833145,
+                        "lng": -117.13159905
+                    },
+                    "southwest": {
+                        "lat": 32.74468245,
+                        "lng": -117.15872565
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Négociant Winery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109412678328702691748\">Négociant Winery</a>"
+                    ],
+                    "photo_reference": "Aap_uEAH2C1pCiEN-bUlckR29TkMxYlmMZ3R-vxvhwKhZ357TqvvHVlLM3dk37Wi3teK1z0NHplSfm4hWxQjLNjOCp6u5SjdyU4-xdh8zn9jVoi0nBnBcKDqBTnY3PLwQHzJLpniDso7yPDLnK5Wx1xe9V0v22AUQAQzxd65ZphhVBgd1toc",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ21rFzORU2YARW7Qlr0qcdQg",
+            "plus_code": {
+                "compound_code": "PRXX+66 San Diego, California",
+                "global_code": "8544PRXX+66"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ21rFzORU2YARW7Qlr0qcdQg",
+            "types": [
+                "bar",
+                "liquor_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12225 World Trade Dr P, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.986529,
+                    "lng": -117.072411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98792207989272,
+                        "lng": -117.0716338701073
+                    },
+                    "southwest": {
+                        "lat": 32.98522242010728,
+                        "lng": -117.0743335298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Koi Zen Cellars",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 677,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108793942350354151652\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uED17amz_feZVaQrog_oH3tNMiUqHjHSjvyuVKlMIC9fMkq7ZYePkpG3-2InoXtElOxAu9Qvm5sZE2EpCfEYa6G_x3C5KsF6wKjWwhk7t48YB6IZGdjXMtEtG84fFKrEBiA2UD4WcihjehuBW4s-m41Z4yTEyYDIdbsJXVn2dQ372TTV",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJn1Y25Knw24ARuWulOZnOcig",
+            "plus_code": {
+                "compound_code": "XWPH+J2 San Diego, California",
+                "global_code": "8544XWPH+J2"
+            },
+            "rating": 4.8,
+            "reference": "ChIJn1Y25Knw24ARuWulOZnOcig",
+            "types": [
+                "bar",
+                "storage",
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4836 Newport Ave, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7452989,
+                    "lng": -117.2482429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74658562989271,
+                        "lng": -117.2469137201073
+                    },
+                    "southwest": {
+                        "lat": 32.74388597010727,
+                        "lng": -117.2496133798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Gianni Buonomo Vintners",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2267,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114475575244154248228\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBo_-AdONO6_ZvD_yE2w5ygIMZAkyVyuGRMCsnEG0lxfuKm4_HVTcs5XAxrLsZ7LMqCgIvx6gdYmso1aN7HcNr4mhYUc8gSlvK1YiTbhDTjSvbXvALWRD_o2P_wHTYkn9QQlRk4b_Nmj5U6y4FEgb3whoTYrvZLWOC1uc3jGujadSAW",
+                    "width": 4031
+                }
+            ],
+            "place_id": "ChIJlei3bDeq3oARgsSO2XQuOCE",
+            "plus_code": {
+                "compound_code": "PQW2+4P San Diego, California",
+                "global_code": "8544PQW2+4P"
+            },
+            "rating": 4.9,
+            "reference": "ChIJlei3bDeq3oARgsSO2XQuOCE",
+            "types": [
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8680 Miralani Dr #125, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8966532,
+                    "lng": -117.1372753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89777587989272,
+                        "lng": -117.1360800701073
+                    },
+                    "southwest": {
+                        "lat": 32.89507622010728,
+                        "lng": -117.1387797298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Charlie & Echo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102811311215658600880\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECH1NpTUDvx5siqJUT1ikTrQ4w7xqEl3jH-BeI_29xjpvglHlwW1AAScyfPEryC1CPs9ZxJ-FuHr3KDGcts2myr8syYT3Y9zknsLrZLNmu3t4ZgsrT2lJTzAYEBUruOj8JI89ART4Qk_n2JUQLI5epZGb6SH1mn2ZHI19qTRdmwpZ2Y",
+                    "width": 3680
+                }
+            ],
+            "place_id": "ChIJZRe1F9D424ARSalCoYzcBNY",
+            "plus_code": {
+                "compound_code": "VVW7+M3 San Diego, California",
+                "global_code": "8544VVW7+M3"
+            },
+            "price_level": 2,
+            "rating": 4.9,
+            "reference": "ChIJZRe1F9D424ARSalCoYzcBNY",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2215 Kettner Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7274589,
+                    "lng": -117.1706974
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72879187989273,
+                        "lng": -117.1693912701073
+                    },
+                    "southwest": {
+                        "lat": 32.72609222010728,
+                        "lng": -117.1720909298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Carruth Cellars Wine Garden",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102256962017976400409\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECF9UVgFshBBVTaIKKeY_-Ig7yvpq2g0SjuLuFs4VF8mbNoIh7qAoXQ8ZD_aI8QVr65NQ5-OUjWDtRbspau8J9-OjuPcdAZOGuR5ntAnLacP3B2XNI19CbwSQaP6--jRA195EheAhUe0N8hLblElaIxeRukSsAqeGeCmYoHoHkLJJRA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ70rud7NU2YAR-3wM6IVIqFY",
+            "plus_code": {
+                "compound_code": "PRGH+XP San Diego, California",
+                "global_code": "8544PRGH+XP"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJ70rud7NU2YAR-3wM6IVIqFY",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 91
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2130 India St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7267839,
+                    "lng": -117.1698017
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72816567989273,
+                        "lng": -117.1683453201073
+                    },
+                    "southwest": {
+                        "lat": 32.72546602010728,
+                        "lng": -117.1710449798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pali Wine Co.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 336,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114031769899865400159\">Pali Wine Co.</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLbfeJkeY89fhwKFpCb6iLjmvySEshGzKFKblH9EIuTYU00yetIs1OyQkOB5BRIywjrruoyXuxBBZ5Dn5hONKhi9G1Hgqffh9wNrDQSAem0s94P4qmUSH0Cqeyt5gMw-AcaOVE1U4B2_UDNGfb2oOTDLWYDFRO1dG8BQ1y_YmV1x34",
+                    "width": 597
+                }
+            ],
+            "place_id": "ChIJix9Yu7NU2YARTniNqO8thWs",
+            "plus_code": {
+                "compound_code": "PRGJ+P3 San Diego, California",
+                "global_code": "8544PRGJ+P3"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJix9Yu7NU2YARTniNqO8thWs",
+            "types": [
+                "bar",
+                "liquor_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13455 San Pasqual Rd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0707114,
+                    "lng": -117.0438881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07208427989272,
+                        "lng": -117.0423277701073
+                    },
+                    "southwest": {
+                        "lat": 33.06938462010728,
+                        "lng": -117.0450274298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Orfila Vineyards and Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105687276340344428690\">sdillon</a>"
+                    ],
+                    "photo_reference": "Aap_uEBLSXlfeOrh2hYv34Yp8u1xUx7wOwtXOcD3Py_OcBKwoWdkzlrgPOBAfp2ILZp5VOnxCTUqSeB4y1AvbnxhEsURtYA-h7y-YI3LhhyhdGkQI5DvHYY2yNcp7MUtRWEbr5kX9eRH_uktKNo5qQl-mt0U0oAFjs5_GnIRtHYkgQaXH8VV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJC_gLVHvx24AR7Ns__gi_Qrk",
+            "plus_code": {
+                "compound_code": "3XC4+6C Escondido, California",
+                "global_code": "85543XC4+6C"
+            },
+            "rating": 4.5,
+            "reference": "ChIJC_gLVHvx24AR7Ns__gi_Qrk",
+            "types": [
+                "tourist_attraction",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 369
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1551 Fourth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7217507,
+                    "lng": -117.1609823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72311022989272,
+                        "lng": -117.1596762201073
+                    },
+                    "southwest": {
+                        "lat": 32.72041057010728,
+                        "lng": -117.1623758798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Quigley Fine Wines",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106119087105642848678\">Quigley Fine Wines</a>"
+                    ],
+                    "photo_reference": "Aap_uECMRlz0-HkCU9Z_y_OMeGQBgNJo-a_Kcw5Pc5mbC-GVXRKxxov1dDTVrXpvXpa4lfPdflPEkQ9xfbefmlw4F21IuPHUNgh4IIILtGNtADZNfdu_0NlWD26mZqX1UUFmPk-c04fVrmGYRsTxVzIzYwzo1ZNF2U6YlDdqDebMIUpI6TKk",
+                    "width": 2668
+                }
+            ],
+            "place_id": "ChIJO8a071VT2YAR_Q7PlHAZ9Mg",
+            "plus_code": {
+                "compound_code": "PRCQ+MJ San Diego, California",
+                "global_code": "8544PRCQ+MJ"
+            },
+            "rating": 5,
+            "reference": "ChIJO8a071VT2YAR_Q7PlHAZ9Mg",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1035 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7482581,
+                    "lng": -117.1544263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74967197989272,
+                        "lng": -117.1530787201073
+                    },
+                    "southwest": {
+                        "lat": 32.74697232010728,
+                        "lng": -117.1557783798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Wine Room - Record Family Wines",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2998,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115218357970382775749\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA7TO1N36DVbrsDAQNeqCsauMIQElEZXsw7C9KyLoSuJ_I6wgC-6wm7cFHzsEE1U5whRxRM5DczjJP1soWkBlWFUogPCCTeLASY0e3gnjjmBArn-Ri2x-hnyR1GT73Vp5i8WN-GJUzr-tdfEmCPx1s-q8BZgz7j_X_nYNxWnDiXQjen",
+                    "width": 3998
+                }
+            ],
+            "place_id": "ChIJZ5iSmdRV2YARjndaHBVixgE",
+            "plus_code": {
+                "compound_code": "PRXW+86 San Diego, California",
+                "global_code": "8544PRXW+86"
+            },
+            "rating": 5,
+            "reference": "ChIJZ5iSmdRV2YARjndaHBVixgE",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3255 Summit Dr, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.093888,
+                    "lng": -117.030086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09527747989272,
+                        "lng": -117.02931815
+                    },
+                    "southwest": {
+                        "lat": 33.09257782010728,
+                        "lng": -117.03238955
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Hungry Hawk Vineyards & Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107030528094821577209\">Paul McKenzie</a>"
+                    ],
+                    "photo_reference": "Aap_uEBBhaTg-QMyyixNDTTPDHAh2AKgvEgfj52oKXRa-Bo1z1ZUzBU4HTJVjDXGJgXLe8V5bYSAkTZPJIQIXeDsjMu8BQwtwMTXnL3QUCVcGhXqXyqLfvw0AGnbhDSlJHPVWCJzTJZjVXDCCurETUuo74gg_ZdfQTCfDM7glY0klubbYUFb",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ-8cNcjPy24ARgPkQmLTDwhk",
+            "plus_code": {
+                "compound_code": "3XV9+HX Escondido, California",
+                "global_code": "85543XV9+HX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ-8cNcjPy24ARgPkQmLTDwhk",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15732 Highland Valley Rd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0680183,
+                    "lng": -116.9917642
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06895927989272,
+                        "lng": -116.9899709701073
+                    },
+                    "southwest": {
+                        "lat": 33.06625962010727,
+                        "lng": -116.9926706298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Cordiano Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115333025428789535954\">Elliot Recht</a>"
+                    ],
+                    "photo_reference": "Aap_uECda1e36d03XR_-g8UFgu8b9DFGvas3Ak3jhbUiSU2iTdilR3CkijBdtd2aJwVMfGzD1JHsfNUb0h4Tq4HKUTr8jhlM-F4h_DYOxUmjnfN44mT3Pajjj6OSeouJRyTdA6P68xes14XzXEaXMz-Np3oggKpBUQrPxdO52KBoeimU1osr",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJPxCMTefx24AR517gaEp6E3E",
+            "plus_code": {
+                "compound_code": "3295+68 Escondido, California",
+                "global_code": "85553295+68"
+            },
+            "rating": 4.5,
+            "reference": "ChIJPxCMTefx24AR517gaEp6E3E",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "liquor_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 472
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15360 Bandy Canyon Rd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0704433,
+                    "lng": -117.0094429
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07178477989272,
+                        "lng": -117.0078658701073
+                    },
+                    "southwest": {
+                        "lat": 33.06908512010727,
+                        "lng": -117.0105655298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Espinosa Vineyards and Winery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117753279289847460299\">Espinosa Vineyards and Winery</a>"
+                    ],
+                    "photo_reference": "Aap_uEBA3zL2EZYMAf0dDEKv4ecJQ2lpIbxDqbDhrKS0bEgVcfOcYCkVRDqQk3_DZSksbs-vbZzLblRpA2CpnMUBgkYoSLV4aig5VDvZI0RxA47cHZO35zg79hZLEm3EzCfWxWR957YmfTnhAM_iT26LskOcVvEzXl1PfWyVmkvhN0XL_xHj",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ-zxeJpPx24ARsI9F72v3OTQ",
+            "plus_code": {
+                "compound_code": "3XCR+56 Escondido, California",
+                "global_code": "85543XCR+56"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ-zxeJpPx24ARsI9F72v3OTQ",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15412 Bandy Canyon Rd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0719564,
+                    "lng": -117.0085407
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07306482989272,
+                        "lng": -117.0069371701073
+                    },
+                    "southwest": {
+                        "lat": 33.07036517010727,
+                        "lng": -117.0096368298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Highland Valley Vineyards",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109721561897488358562\">Highland Valley Vineyards</a>"
+                    ],
+                    "photo_reference": "Aap_uEDFdK9aSj42nA3rCWuN71nl62BizrYWQy66H3ffAoH2h8geIwrf5u-MA9SFww1XxAL-rCzECxXYWL3TFsVERsCDnKgzt49iQuFVrWuMnnWw2vesjqBHjOq2WzeNRpuSZ2VCsnQWSYUYmMvZ2xGlGGR_c1uEp7cqypTdG0ZkLOEA-FWr",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJr2coLO3x24AR9VO8OroEt4k",
+            "plus_code": {
+                "compound_code": "3XCR+QH Escondido, California",
+                "global_code": "85543XCR+QH"
+            },
+            "rating": 4.9,
+            "reference": "ChIJr2coLO3x24AR9VO8OroEt4k",
+            "types": [
+                "tourist_attraction",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1477 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.748292,
+                    "lng": -117.1494556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74965482989272,
+                        "lng": -117.1481060201072
+                    },
+                    "southwest": {
+                        "lat": 32.74695517010727,
+                        "lng": -117.1508056798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "FruitCraft - Fermentery & Distillery",
+            "photos": [
+                {
+                    "height": 1565,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112467847936276147125\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECXDeIMabKm68zphoy_3cuvgMaoC6ksq_C64vm3kcSVae5tfAnN946a-jN0qmV0ScmIQ2GBucvZPpOME4JbKvn3C7XWxbgE9cE_SyxxveQy_NbpttvI9atFZ0fvXKVBgjTNTgi3DFE8yKjuKt_SX5tAMRM--9mpKpWOZjAtGKwGEX4T",
+                    "width": 2795
+                }
+            ],
+            "place_id": "ChIJa9jXGuhU2YARnYyGIekDLtc",
+            "plus_code": {
+                "compound_code": "PVX2+76 San Diego, California",
+                "global_code": "8544PVX2+76"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJa9jXGuhU2YARnYyGIekDLtc",
+            "types": [
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8364 La Mesa Blvd, La Mesa, CA 91942, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7656026,
+                    "lng": -117.0177998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76692657989273,
+                        "lng": -117.0164346701073
+                    },
+                    "southwest": {
+                        "lat": 32.76422692010728,
+                        "lng": -117.0191343298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "San Pasqual Winery Tasting Room & Gallery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108966188636776585323\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDXJgvitQmpUsHqps-cS2BpZxBO3SOQvwho7dbL-gb8y-LXfuXglx0El8O-XUhm7NkBK5J5qov5xbRgUvK2tuvjUKnMFLH_Ni5LeHhR3xPcco5daLbRb6MaXPB-TwHzC62SdxfibcNarNwthzOTTdNs_1mOHY31Nu9pAx8rV76Fb1vT",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJWU9i9zxX2YARkTvDHZYaGRw",
+            "plus_code": {
+                "compound_code": "QX8J+7V La Mesa, California",
+                "global_code": "8544QX8J+7V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJWU9i9zxX2YARkTvDHZYaGRw",
+            "types": [
+                "tourist_attraction",
+                "bar",
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "20365 Camino Del Aguila, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.063288,
+                    "lng": -117.004412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06465142989272,
+                        "lng": -117.0025149701073
+                    },
+                    "southwest": {
+                        "lat": 33.06195177010728,
+                        "lng": -117.0052146298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Altipiano Vineyard and Winery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 757,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112488937980750397041\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAgPMK_LARBsn93OjkinpdNHDwct28nPGRhKoNPhsjFnknR66OmJID2WtdW5ZIT5fcDKluVeUI2sAxC3Qp7eQIWC2iEPcC_Gd4n6z6Y9--QalOw8UWzltZ5BjzUZooaZN5fd86bPFcfwhoZF3eIF02TnrSLNhCtTmXt32W1UgGtOFK-",
+                    "width": 1135
+                }
+            ],
+            "place_id": "ChIJLxItwMHx24ARuLEWiv9AHyc",
+            "plus_code": {
+                "compound_code": "3X7W+86 Escondido, California",
+                "global_code": "85543X7W+86"
+            },
+            "rating": 4.7,
+            "reference": "ChIJLxItwMHx24ARuLEWiv9AHyc",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8167 Center St, La Mesa, CA 91942, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7716857,
+                    "lng": -117.0213672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77308342989272,
+                        "lng": -117.0203884201073
+                    },
+                    "southwest": {
+                        "lat": 32.77038377010728,
+                        "lng": -117.0230880798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "San Pasqual Winery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101017475208396674180\">Dewitt Sturdivant</a>"
+                    ],
+                    "photo_reference": "Aap_uEByG-8HhJf8Z9Zu6n0QRxqtjmc_VNTWIw7TymP9fwztt_T7cVjuUVcdW4zWH1i9eEDcp2kMkQXdjOx0XD-NQ7qV_dFIaVZ1FNT3Dh0cHhagASbp8vj4AKxGBE63cykyusOq2yySDf9YP_re-5fPMhN9zFeGO6IhyMRxExqBdkZUtgfp",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJ37QflRlX2YARNDtc2T42EjQ",
+            "plus_code": {
+                "compound_code": "QXCH+JF La Mesa, California",
+                "global_code": "8544QXCH+JF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ37QflRlX2YARNDtc2T42EjQ",
+            "types": [
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,983 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uECiC1DmvB9jvCmloVGkGWFOtYmrMmUB3LIZ9QB3neKu-FXGamyyQcgApH_NwOvsZoezq2zQHmaErA5mB08MHnASZntkdp1Kwlfvm7Quon15p5vfxOcxybEDiKqU1DIe6velzF3y-794VgITdfDb0zWKavHUkwPMQ2aRKzM9dlD72N4nu4etjBGYkY8YkMPDxxCxJXdYehc4LWOfD5DZIsTuyF8vzi5U2BFHU7n9BLDoiXMuzRqe7zlUH9lEuoQipWKpr1EKhVZ9LQckUYA2acwCOxXnsPPETERksKaYUJlk2p3Qv0O5KVpTKlS4kKWFsjcEv5R1d6UZytsFTrTfjTMVCDIbcppsPxjqYbXxcrkQAjzA1uCFwrMmNedp6WVvK8YRmr3-6Q9u7BNBH17U0gJNpTBp",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "285 Bay Blvd, Chula Vista, CA 91910, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.6366029,
+                    "lng": -117.0997587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.63792127989272,
+                        "lng": -117.0983149701073
+                    },
+                    "southwest": {
+                        "lat": 32.63522162010728,
+                        "lng": -117.1010146298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Seven Mile Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117364281046032053743\">michael kinzer</a>"
+                    ],
+                    "photo_reference": "Aap_uEAlNzsqOhwH8VexTacH8nNF61XwnN6EnR05veswbPrNoJYxWqfCZtcm47aTyXFpNa1FSaXGd2Qo2dXC153ZjtMHoU_jzPwXgHaeX6Nm4-3WwiGEPS2yPk6ami_v8T1Xf9bLehl6UDtAI0FKZlFrom330f2oSX1AXEYrgw4AIGayP_M3",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJBTqTkuVN2YARYjVt7akogAE",
+            "plus_code": {
+                "compound_code": "JWP2+J3 Chula Vista, California",
+                "global_code": "8544JWP2+J3"
+            },
+            "rating": 3.9,
+            "reference": "ChIJBTqTkuVN2YARYjVt7akogAE",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 800
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "8440 Christopher Ridge Ter, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0151898,
+                    "lng": -117.1423067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01657762989272,
+                        "lng": -117.1410319701073
+                    },
+                    "southwest": {
+                        "lat": 33.01387797010728,
+                        "lng": -117.1437316298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Event Designs Entertainment",
+            "permanently_closed": true,
+            "place_id": "ChIJ6_WbQEz224ARonoINLtJ6Oo",
+            "plus_code": {
+                "compound_code": "2V85+33 San Diego, California",
+                "global_code": "85542V85+33"
+            },
+            "rating": 3.5,
+            "reference": "ChIJ6_WbQEz224ARonoINLtJ6Oo",
+            "types": [
+                "casino",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1932 Wildcat Canyon Rd, Lakeside, CA 92040, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9390049,
+                    "lng": -116.8736109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94171685000001,
+                        "lng": -116.8706944
+                    },
+                    "southwest": {
+                        "lat": 32.93558265,
+                        "lng": -116.8780624
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Barona Resort & Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111338657240601453039\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEARxc6PW3z2cuFFbbZAPfUheuvpwiyYj5D5dAF_FSmuhjjAQjuKtpLglCNTUUUNPFJsBNLcRzU7vbzEdhGY-DpIYdNx3T4t_8Qhnz6nhAzVN_1dmeARHNqei3cSHe8el6XTdPRmxUphnw86RhRwgyr_30QAs_LpWzfcUKeM1YLb7RBv",
+                    "width": 383
+                }
+            ],
+            "place_id": "ChIJB39hhUTh24ARxcoC2P1ZYNQ",
+            "plus_code": {
+                "compound_code": "W4QG+JH Lakeside, California",
+                "global_code": "8545W4QG+JH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJB39hhUTh24ARxcoC2P1ZYNQ",
+            "types": [
+                "casino",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13797
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "333 W Harbor Dr #133, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.708542,
+                    "lng": -117.165996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70974177989272,
+                        "lng": -117.1637764500001
+                    },
+                    "southwest": {
+                        "lat": 32.70704212010727,
+                        "lng": -117.16673585
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ace High Casino Rentals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110467800884859618317\">Ace High Casino Rentals</a>"
+                    ],
+                    "photo_reference": "Aap_uEDpQyc7u_yblTDGaOOvDgI6fE1YycnbUdZdzR6lzBtAfv0KhkqBCzCFUtWAWoWQPah7CwD9OrzDnBWEEb9gGrc3Q5WTtmPXYzbHW7BpOJmIj6Cdq2zT8HRGc0KB63rKp_FOpfF2lqsTBYuwED9PfyUA3fidyV7kACQe7nf82E2WoKgT",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJuR6yrfRT2YARtoDZ1oDn51s",
+            "plus_code": {
+                "compound_code": "PR5M+CJ San Diego, California",
+                "global_code": "8544PR5M+CJ"
+            },
+            "rating": 5,
+            "reference": "ChIJuR6yrfRT2YARtoDZ1oDn51s",
+            "types": [
+                "casino",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8152 Miramar Rd, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8900899,
+                    "lng": -117.1443355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89146367989272,
+                        "lng": -117.1429278701073
+                    },
+                    "southwest": {
+                        "lat": 32.88876402010727,
+                        "lng": -117.1456275298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "The Casino Institute",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 956,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105025198252493024769\">The Casino Institute</a>"
+                    ],
+                    "photo_reference": "Aap_uEB-PWTofQ3DCVOEXqOjbr-qCU8KxxlQ9jvgNusj6SBjZ7R5vL8Anc_QFisj2R-uO7XLEbdVC-FgarFS4WBgNyA3iwziOlmGyBIfbT8pB9xuTSgqEQRqI0YM4d9p02EyU9HdnHQSNrucK_vnJNiB2N_rW0cK3u0FoQUG8Yk0GJEDYtLg",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJlfub9sv424ARMkoxoq2VeOE",
+            "plus_code": {
+                "compound_code": "VVR4+27 San Diego, California",
+                "global_code": "8544VVR4+27"
+            },
+            "rating": 2.9,
+            "reference": "ChIJlfub9sv424ARMkoxoq2VeOE",
+            "types": [
+                "casino",
+                "school",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16300 Nyemii Pass, Valley Center, CA 92082, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2191018,
+                    "lng": -116.973254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.22052289999999,
+                        "lng": -116.971812
+                    },
+                    "southwest": {
+                        "lat": 33.21707130000001,
+                        "lng": -116.9748352
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Valley View Casino & Hotel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113181846184290523255\">Froggy Diaz</a>"
+                    ],
+                    "photo_reference": "Aap_uECvfElvRAEzVwjzm7yz4pwi75Ks-1Xxu8CDAxTLITCAxuk2l9Mne9XiGJPQFlc62bw819djUBnxvD7saOZvJk7hs6DmLF2CghWiOlgCVhiKM8mFroKsyHcd0gM2q8JVzSwSQxVPpVmW-okx56gM0xb9m-9VNnKcMMOHdMgi6ejLNQx2",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJq6r-Ba3_24ARQw3tGG6oWj8",
+            "plus_code": {
+                "compound_code": "629G+JM Valley Center, California",
+                "global_code": "8555629G+JM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJq6r-Ba3_24ARQw3tGG6oWj8",
+            "types": [
+                "casino",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6973
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14145 Campo Rd, Jamul, CA 91935, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7034289,
+                    "lng": -116.8686038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70478662989272,
+                        "lng": -116.8673301201073
+                    },
+                    "southwest": {
+                        "lat": 32.70208697010728,
+                        "lng": -116.8700297798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Jamul Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118381079001004278450\">Rico San Diego</a>"
+                    ],
+                    "photo_reference": "Aap_uEAqkIJjYC0Gu_AqXqX-Xo1vgCfSpHNI1abvwOlHiCIEi7HLV3ZUOuqXCFbh1unnYMGDKJ9Po7Bf9lKRRquRhrc0iZFYBhatl1o97vu52_yzwdtVgCh-8APLhVTCZwiqp9J_8IHf0bMwrD-RYodqh1n0ZvIyG4x_PBSQF77DWnklwUzB",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJS6I24LVc2YARI1pSs4N3e6w",
+            "plus_code": {
+                "compound_code": "P43J+9H Jamul, California",
+                "global_code": "8545P43J+9H"
+            },
+            "rating": 3.9,
+            "reference": "ChIJS6I24LVc2YARI1pSs4N3e6w",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7338
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5469 Casino Way, El Cajon, CA 92019, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7862696,
+                    "lng": -116.8312666
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78771692989272,
+                        "lng": -116.82698665
+                    },
+                    "southwest": {
+                        "lat": 32.78501727010728,
+                        "lng": -116.83269325
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sycuan Casino Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107295217196524490595\">Richard McMillin</a>"
+                    ],
+                    "photo_reference": "Aap_uEDQSo4hsGYDJ9DAopdloa5n74l2TkFXVhPRJNde_wAp9CI4oEJu0iRCr92i41RW1Lt4ZMEppr1_rGC6Oph1Q3I5wAigY0erzlRHQdWv8uO6OyRLNKgUnZwQ_8NWYcaK3CXXAmqpVv0pV_QDwaWUChR7j9jFVtFAJvtgcKuMm6r8b9PX",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrZVAKdpd2YAR_RDVwAcdjGI",
+            "plus_code": {
+                "compound_code": "Q5P9+GF El Cajon, California",
+                "global_code": "8545Q5P9+GF"
+            },
+            "rating": 4.2,
+            "reference": "ChIJrZVAKdpd2YAR_RDVwAcdjGI",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "spa",
+                "lodging",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10747
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5000 Willows Rd, Alpine, CA 91901, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.842284,
+                    "lng": -116.705365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.84362814999999,
+                        "lng": -116.7017197
+                    },
+                    "southwest": {
+                        "lat": 32.84059195,
+                        "lng": -116.7084053
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Viejas Casino & Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102681435841861370084\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEClZnla5ZitUb2hzMxf8hCgZt8zOVX7ZbOzyYY2g4X9pWVqwnsjIZCAbBAAerCWdRIXtGLUifJn75u0cAh-BtRtDRH5qBPZwGEDmcOdW7NDDX80QShSX5iVoNLOjt45EdpphBSpp6kxmrZRIyWAV_4tPWQe83hg4T-sG1eewjvwDlzd",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJVboLAmBh2YARfJewOXZvytg",
+            "plus_code": {
+                "compound_code": "R7RV+WV Alpine, California",
+                "global_code": "8545R7RV+WV"
+            },
+            "rating": 4.3,
+            "reference": "ChIJVboLAmBh2YARfJewOXZvytg",
+            "types": [
+                "casino",
+                "night_club",
+                "shopping_mall",
+                "lodging",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12895
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "777 S Resort Dr, Valley Center, CA 92082, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2674919,
+                    "lng": -116.9553836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.26873857989272,
+                        "lng": -116.9536824201073
+                    },
+                    "southwest": {
+                        "lat": 33.26603892010728,
+                        "lng": -116.9563820798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+            "icon_background_color": "#909CE1",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+            "name": "Harrah's Resort Southern California",
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107840881138876005320\">Harrah&#39;s Resort Southern California</a>"
+                    ],
+                    "photo_reference": "Aap_uEBgvYT3EkqxcV13_v5Dw6I-Xf_EZ5TOQwn1O4YC6v2_Oy_7f7PAvio6_mcFRYyQ7K-wZKRiFIVwnhAoereJLH6JcBWzsD2sURfhPU94ZPN0c6shred0zms0n72bWYr5ziV9nJDxKVCgzkGAaIBLpqdFVfYQOmS4KeiNR2pM3ccRb2Ye",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJjXTPpomR24ARAZNmXe3sM6o",
+            "plus_code": {
+                "compound_code": "728V+XR Valley Center, California",
+                "global_code": "8555728V+XR"
+            },
+            "rating": 4.2,
+            "reference": "ChIJjXTPpomR24ARAZNmXe3sM6o",
+            "types": [
+                "casino",
+                "spa",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10342
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "777 Pauma Reservation Rd, Pauma Valley, CA 92061, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.3295069,
+                    "lng": -116.9916266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.33103222989272,
+                        "lng": -116.9902104701073
+                    },
+                    "southwest": {
+                        "lat": 33.32833257010728,
+                        "lng": -116.9929101298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Casino Pauma",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111567375896971164367\">Tom Rodman</a>"
+                    ],
+                    "photo_reference": "Aap_uECEYG3Om4S_pCDpkMSZ8k1yXv_lzR7_1A1h5w203hWQxyeP3MUbMA1iuZmD80dzbcOkg8cTSsSRblr9drm4NTVP18sAiWF9r1QvXYIiJMXC2qHJA8A10XjGW2-DJW9qQ5LhnpyYSJamNVHyK4g4cwEq5wSChJJMx46EZ6hIv4JYF-_v",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgdK5qf6P24ARVzZNu4yyHkQ",
+            "plus_code": {
+                "compound_code": "82H5+R8 Pauma Valley, California",
+                "global_code": "855582H5+R8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJgdK5qf6P24ARVzZNu4yyHkQ",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3827
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11154 CA-76, Pala, CA 92059, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.3631911,
+                    "lng": -117.0847852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36517347989272,
+                        "lng": -117.0820962
+                    },
+                    "southwest": {
+                        "lat": 33.36247382010728,
+                        "lng": -117.0862202
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pala Casino Spa Resort",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105892505472420658019\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBxoBKdFMWdx3i7JLAN4lVlqXfHR5GF04ht-28WH9KVShjfOqfb7dASgvIqxMI_i5HJsBcuPSGCJtr7K6L0km5HySfm_vAk0Wu9sd8qYz6P7MEhyLO5WD8zF4ajzNGyvalqwOwjnVnAyERJnFWqcloAiRLxOcDY7I6mE40JRTzuTrXz",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJL5_U1YOG24ARiFIa04wooYs",
+            "plus_code": {
+                "compound_code": "9W78+73 Pala, California",
+                "global_code": "85549W78+73"
+            },
+            "rating": 4.2,
+            "reference": "ChIJL5_U1YOG24ARiFIa04wooYs",
+            "types": [
+                "casino",
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12968
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "721473, San Diego, CA 92172, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9552513,
+                    "lng": -117.128993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95681132989272,
+                        "lng": -117.1275213701073
+                    },
+                    "southwest": {
+                        "lat": 32.95411167010727,
+                        "lng": -117.1302210298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Absolute Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJ49p61tH524ARZBod3sj0ys8",
+            "plus_code": {
+                "compound_code": "XV4C+4C San Diego, California",
+                "global_code": "8544XV4C+4C"
+            },
+            "rating": 3.3,
+            "reference": "ChIJ49p61tH524ARZBod3sj0ys8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4490 Murphy Canyon Rd, San Diego, CA 92123, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8252293,
+                    "lng": -117.1194363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82658342989272,
+                        "lng": -117.1180369701073
+                    },
+                    "southwest": {
+                        "lat": 32.82388377010728,
+                        "lng": -117.1207366298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Casino Del Sol Entertainment",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJp_yZljb-24ARUDNDXdRT_rM",
+            "plus_code": {
+                "compound_code": "RVGJ+35 San Diego, California",
+                "global_code": "8544RVGJ+35"
+            },
+            "rating": 4,
+            "reference": "ChIJp_yZljb-24ARUDNDXdRT_rM",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "Av. Padilla 1830, Empleados Federales, 22010 Tijuana, B.C., Mexico",
+            "geometry": {
+                "location": {
+                    "lat": 32.5414248,
+                    "lng": -117.0306823
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.54278372989273,
+                        "lng": -117.0293202201073
+                    },
+                    "southwest": {
+                        "lat": 32.54008407010728,
+                        "lng": -117.0320198798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Foreign Book",
+            "permanently_closed": true,
+            "place_id": "ChIJ54fH3f1I2YARyS2A9RltUxA",
+            "rating": 5,
+            "reference": "ChIJ54fH3f1I2YARyS2A9RltUxA",
+            "types": [
+                "casino",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "22003 CA-76, Pauma Valley, CA 92061, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2768076,
+                    "lng": -116.8536323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.27816507989273,
+                        "lng": -116.8522926701073
+                    },
+                    "southwest": {
+                        "lat": 33.27546542010728,
+                        "lng": -116.8549923298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "La Jolla Trading Post-Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110708011630330291203\">La Jolla Trading Post</a>"
+                    ],
+                    "photo_reference": "Aap_uEB8WTa-6QC1AFYmXF0oFUNuro-Mye4s0CbZBmzkMaDV0BqUh87VdSmLJ_YAFIY1QdUDkzOh8oaOR_RAh_gnWznLScKYzYGjR_qMT1UjdsNSJ_kIzJ8EnD4NDsQQig0dCkVTmxOu6-SJuyuJifrAhA3z3wAJP23TnDwYrj-aWwBBLiOH",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJcZtKyKWW24ARueFHWiqWeKg",
+            "plus_code": {
+                "compound_code": "74GW+MG Pauma Valley, California",
+                "global_code": "855574GW+MG"
+            },
+            "rating": 4.6,
+            "reference": "ChIJcZtKyKWW24ARueFHWiqWeKg",
+            "types": [
+                "casino",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 208
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "121 Brooks St, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1999822,
+                    "lng": -117.3692063
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.20136257989272,
+                        "lng": -117.3678193201073
+                    },
+                    "southwest": {
+                        "lat": 33.19866292010728,
+                        "lng": -117.3705189798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ocean's Eleven Casino",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2714,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104934551962970783024\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uED_hmMOJVA5bdCZ37zsObgSaf0ITBBMEQZlLKgoxga9DP_StT_oLxGdt2Gtz513_Vr5caFlYNALE9ewtsmFIcBKdarXnerNR1C304zhjiV5bb18AGnPSZeolhKNlP6IqlM_8kjRD-v_VQbHcGEt8OC0PmJdLq1lGURr2Fnh-HH5pj4n",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ_fvAHy9u3IARxDS_lkckIgY",
+            "plus_code": {
+                "compound_code": "6J2J+27 Oceanside, California",
+                "global_code": "85546J2J+27"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ_fvAHy9u3IARxDS_lkckIgY",
+            "types": [
+                "casino",
+                "tourist_attraction",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 981
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "P.º Estrella del Mar 1102, Playas, Las Flores 2da Secc, 22504 Tijuana, B.C., Mexico",
+            "geometry": {
+                "location": {
+                    "lat": 32.5317835,
+                    "lng": -117.1124855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.53309937989273,
+                        "lng": -117.1110209201073
+                    },
+                    "southwest": {
+                        "lat": 32.53039972010728,
+                        "lng": -117.1137205798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Casino Caliente Playas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107178361338404913408\">107178361338404913408</a>"
+                    ],
+                    "photo_reference": "Aap_uEC59Y_OARdUD6SI_Qoqn6YkfQ-OqbThv-cQXwDDh2jee2AtzjqRLXjoLvbWAc4vKZOcFc1ozUfoy4SOHy9Acd7KqrR8bNMgPTHOQz4oaCu-P3Ub6xK8ZE_wd5MX72vMelFS4IjH0m_hnlrESB5HyLgaorgc-Q1F5ubQNF2o4OsUADHZ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1ZghcLtL2YARzsQL6iegwaI",
+            "plus_code": {
+                "compound_code": "GVJQ+P2 Tijuana, Baja California, Mexico",
+                "global_code": "8544GVJQ+P2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ1ZghcLtL2YARzsQL6iegwaI",
+            "types": [
+                "casino",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 534
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4401 Twain Ave #30, San Diego, CA 92120, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7844614,
+                    "lng": -117.0995647
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78581137989272,
+                        "lng": -117.0982385201073
+                    },
+                    "southwest": {
+                        "lat": 32.78311172010727,
+                        "lng": -117.1009381798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Black Tie Casino Events",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112334381513741580873\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDG0CNBFMbIdh7T5KOoaaiVV-xFlBtixTpn-K86ZexPHLMzIPQ_1ELgcYE-2DXSFGhnEG1vPnweIwrRmt5SqQiNa_QiulTN0KF7fMLwWP2SVR2ZaxeOTm6RuzI94iBQVlv1QxO1Pftbq_ln2IkQ9k1fS6nsCyxcP-8YvLJrZCsiNXV-",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJefcEp6dU2YAR-X8Hld5T6zk",
+            "plus_code": {
+                "compound_code": "QWM2+Q5 San Diego, California",
+                "global_code": "8544QWM2+Q5"
+            },
+            "rating": 5,
+            "reference": "ChIJefcEp6dU2YAR-X8Hld5T6zk",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8880 Rio San Diego Dr #872, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.776688,
+                    "lng": -117.138861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77807602989272,
+                        "lng": -117.1373602201073
+                    },
+                    "southwest": {
+                        "lat": 32.77537637010727,
+                        "lng": -117.1400598798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "‘DADs Casino Party Rentals",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109849939246266357614\">DADs Poker Night Casino Party Rentals</a>"
+                    ],
+                    "photo_reference": "Aap_uECeZ_nhZK3zgocpjEetjP53e9RTvCaYU2g12lpDYDL1NQ90t6nRyleejxJe_6LHXaVRn1e5PqWtte5ykjurg3PssEnkPEoxdFgqEgH1TeYzdT4JwokDfQhjxqsiuZ31X10dFShbl44KN5ePHcBX037Rp9xQMn3yyC6_CCJ1PImmUV44",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ2XNu5BFV2YARkCZ2qYffKCI",
+            "plus_code": {
+                "compound_code": "QVG6+MF San Diego, California",
+                "global_code": "8544QVG6+MF"
+            },
+            "rating": 3.4,
+            "reference": "ChIJ2XNu5BFV2YARkCZ2qYffKCI",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        }
+    ],
+    "status": "OK"
+}

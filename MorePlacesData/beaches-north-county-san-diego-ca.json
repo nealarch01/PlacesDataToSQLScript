@@ -1,0 +1,914 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEB9C-14eg_VCxmcIA2b5sm8gZtb6LCxOa_qW593SaT8VUwrOfKGbPVxn-AmkKL2yycCK3kitAq1UXtTkl17pbCqaHZrOooedoqcV7X2RqbTcGY3-86w223qQx-SeiNvI6kKdpK6Blz8h05bl2J5O3UvDkBMwAnUyyVYeGb9BhqWNqhsEOJzEFOtypG82YWWdj2W0VxrWF3AOxnxhu4UxlHREwRNhbBsUFgC05lwpZhvrQo7m01SzegB2u5qyTPfrvQRkEqVb_UyWENbsnbLdth-nLXU72cXfTNz3bKoL8OsMrPZjCgBwjASV-5jA8p9XyVK9KbCymV5iT8Zryk8YzOwraFKjhbR9PCkUgmI1fP95rgriVQE9X1AQBbf9e-RDWIT7za_5V31lu_GutCaj80uWK1UpqTOUEewdqSLs-piUdM",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "400 B St, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0478214,
+                    "lng": -117.2972948
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04925197989272,
+                        "lng": -117.2958967701073
+                    },
+                    "southwest": {
+                        "lat": 33.04655232010727,
+                        "lng": -117.2985964298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Moonlight State Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112600600507707287103\">Patrick Huott</a>"
+                    ],
+                    "photo_reference": "Aap_uEAMFBwItoS1JCoruTLq73Wzw48vbKUqWq-mHplaG_lae0jwYRiz77haA6t03C8HTc5ie8miLj_j8McOE27O4YLxlQz-uN4WSjuTFCdVOrkaeken3U-mNWiBdat3KFdIZCcsId5gnDA9OQl0ZO6MEkHGF8ZUfg1Af7LLNRZ_McuNovhw",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJmfaMMkEM3IARf_-j25s6To4",
+            "plus_code": {
+                "compound_code": "2PX3+43 Encinitas, California",
+                "global_code": "85542PX3+43"
+            },
+            "rating": 4.7,
+            "reference": "ChIJmfaMMkEM3IARf_-j25s6To4",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1981
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Encinitas Beach County Park, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.059913,
+                    "lng": -117.3034617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.069264,
+                        "lng": -117.2874543
+                    },
+                    "southwest": {
+                        "lat": 33.050561,
+                        "lng": -117.3194691
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Encinitas Beach County Park",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104676766156720601254\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC0MegXtY_kqYA26vhUXfp-2zqRdCwuyeAkJDDTPHBwJDd4-X6cxlhE0sTfb-9VfBSa6kRxGFVRCVb8PqyLJU3dD66d5vBAO0QJCX85PfWRUXqeMVLxVpjP5kuKBLrljku3H4WiTKongDfbF-dYpzzMfrcrX1fIiE61RvY42PMdL42s",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJkbtT0PkM3IARVaXK_mmK1Qk",
+            "rating": 4.8,
+            "reference": "ChIJkbtT0PkM3IARVaXK_mmK1Qk",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Cardiff State Beach, Encinitas, CA 92007, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0098231,
+                    "lng": -117.27963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.0191794,
+                        "lng": -117.2636226
+                    },
+                    "southwest": {
+                        "lat": 33.0004658,
+                        "lng": -117.2956374
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Cardiff State Beach",
+            "photos": [
+                {
+                    "height": 2310,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117514019231404250405\">Daniel Castleberry</a>"
+                    ],
+                    "photo_reference": "Aap_uEAm3bwsi5aENlGs9mTcODxxO64eYpho--9xqY7OBkp8GjrED7Lf5BnHz3YMQxvdXu44MwyPWaiNJawXOrmkES8DxQ24RclEFrDS0aCtAXZANRKK6n6TuTqtppWTpwcQlc-IbblhrQFj34OkHEtH1mF7aE3PP4Ufr39Sy4NrxIzQ2SE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ33zpqLoO3IAR5V7DkX9yAOQ",
+            "rating": 4.8,
+            "reference": "ChIJ33zpqLoO3IAR5V7DkX9yAOQ",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 88
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carlsbad State Beach, Carlsbad Blvd, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1543394,
+                    "lng": -117.3509705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.1636804,
+                        "lng": -117.3349631
+                    },
+                    "southwest": {
+                        "lat": 33.1449974,
+                        "lng": -117.3669779
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Carlsbad State Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106807871643201537232\">Sai R</a>"
+                    ],
+                    "photo_reference": "Aap_uEDVnsycbP3Q1HxdZcQ5_38gTrmGTACKjiOzHjOmPKjEPDOcobEUqvpdu_tanByIVhOQenSN-tA8xTLoIlbmWSIMr7Lxnzz1WNUc3bxMX6NfCwKj1nNxuqYb3VV2EaES_7KDhEmu8uUxqCEANhNpsaja8zYLkg56v14ymnuywp8wiMN-",
+                    "width": 1706
+                }
+            ],
+            "place_id": "ChIJ96Ht7g1y3IARD_FOzdGHSqY",
+            "rating": 4.8,
+            "reference": "ChIJ96Ht7g1y3IARD_FOzdGHSqY",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 1330
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carlsbad State Beach, California 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1361536,
+                    "lng": -117.3383315
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.1453847,
+                        "lng": -117.3366658
+                    },
+                    "southwest": {
+                        "lat": 33.1336852,
+                        "lng": -117.3443527
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Carlsbad State Beach",
+            "photos": [
+                {
+                    "height": 3952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106403590785287010015\">Nathaniel Lutes</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_n588Nt1-yqDhNmdeBXrtFJ5qwK8cD7bu_GMtnNzgZtU2FjKj4UcP4VTvEshwgADosyQqH0e0iFs8EuR-jwFB0z8Tat9H5uVC4C4vRB6MudQk5ELr3Mv2c1EsJzui1D4jM65BLWWIsTlYBrkrTDp6tIwPNxoGZ9SWY4XOH5RzELdM",
+                    "width": 7554
+                }
+            ],
+            "place_id": "ChIJETfvamdy3IARm8DzwJIBXoo",
+            "rating": 4.8,
+            "reference": "ChIJETfvamdy3IARm8DzwJIBXoo",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 75
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Grandview Surf Beach, 1700 Neptune Ave, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0765706,
+                    "lng": -117.3102921
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.0859199,
+                        "lng": -117.2942847
+                    },
+                    "southwest": {
+                        "lat": 33.0672204,
+                        "lng": -117.3262995
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Grandview Surf Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114746447257458570718\">Colleen V</a>"
+                    ],
+                    "photo_reference": "Aap_uED8iRIIVJGTB5-8Wqeq9XuFL9Q2EYntqiVSunR6z5Q-zpvXGFG7yIju3sFjMe6EXRLVFRHYXGn-qcGWNjqf2w6fr_3tDWlSIuT97gGHWTfVkntd2j8LI4ML3wEJO41De_jG_roCfn_f5bImZm5eKJaXrpCotO4HcrwHuxp9MHjGQt6z",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgWD2At4M3IAR73gfJW61AwA",
+            "rating": 4.6,
+            "reference": "ChIJgWD2At4M3IAR73gfJW61AwA",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 532
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6039-6325 Carlsbad Blvd, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1142534,
+                    "lng": -117.3244863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11563852989272,
+                        "lng": -117.3230559201073
+                    },
+                    "southwest": {
+                        "lat": 33.11293887010728,
+                        "lng": -117.3257555798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "North Ponto Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101066024436183894417\">Raymond Benson</a>"
+                    ],
+                    "photo_reference": "Aap_uEAoBbI7rOAklMl2O03960gCntESY8L8Jj-X91eu-vKAps8GIrTuUEoUbeoFAl1XXKlhr3KHV7s8N0_W4sjsSA8iMQBvmXeZjB-JAO26J4F6ihTSCiVbDLhSh0DKOwh3zbPCOzfL5SD9cFYTGWiT9mInvDNpf1yONKYxtV2-IBOsbR-U",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJV9lDcN1y3IARMkjXrpliXnk",
+            "plus_code": {
+                "compound_code": "4M7G+P6 Carlsbad, California",
+                "global_code": "85544M7G+P6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJV9lDcN1y3IARMkjXrpliXnk",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 801
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "South Carlsbad State Beach, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1039286,
+                    "lng": -117.3194822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.1132749,
+                        "lng": -117.3034748
+                    },
+                    "southwest": {
+                        "lat": 33.0945813,
+                        "lng": -117.3354896
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "South Carlsbad State Beach",
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111268739461107256322\">Kate Patterson</a>"
+                    ],
+                    "photo_reference": "Aap_uEBeOrpSFIfbmq8koJ9KIP5jA37bWKax8FOltf7pSWP6zqVGm8pKIwPEIBZRMGsDDM3o6R4ggA-ZYnR_55M94-WALK3i_8YuL92KPBC3OhM9qU5s-knJb6MthEM5vh5J8DhmxBTiP-GcravsJVBsGBltsRtuc_rtb0vfLCKuokE6RTPG",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJXcXeRtdy3IAR8BNPRX4OwgE",
+            "rating": 5,
+            "reference": "ChIJXcXeRtdy3IAR8BNPRX4OwgE",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Fletcher Cove Beach Park, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9901428,
+                    "lng": -117.2755067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.9995012,
+                        "lng": -117.2594993
+                    },
+                    "southwest": {
+                        "lat": 32.9807834,
+                        "lng": -117.2915141
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fletcher Cove Beach Park",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100133098273731780071\">Jung Gil Park</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPDF7GEZbPL9PbeFEGkD8IIv5I8rA0kK3FojbIcnQAhH3HX_p79xXw85ugc6oLYCYlv4GsAdUA5LNXMVWz-JIi41ceo4-mR7P07MoBzrQ_EJogWZZByGPuS-bHaPc_oVM0cysChyt_hl8TD-ivumWIZ0qN67KTCY0CVhZHoqgSjTha",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrUTN29EO3IAR5x9emZGZogY",
+            "rating": 4.8,
+            "reference": "ChIJrUTN29EO3IAR5x9emZGZogY",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 41
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tide Beach Park, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9958568,
+                    "lng": -117.276253
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.0052146,
+                        "lng": -117.2602456
+                    },
+                    "southwest": {
+                        "lat": 32.986498,
+                        "lng": -117.2922604
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tide Beach Park",
+            "photos": [
+                {
+                    "height": 680,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110246546645395568801\">Galyna Gutsol</a>"
+                    ],
+                    "photo_reference": "Aap_uECLaMKt6uMEC9hlzY1kg260m7fkkXzhnPAWHnfO8GCVnWPCEJ7uz-ZyHQzHYWlvLJmiPKRxr_en3wRr8oz1a1RxBiY3rTQ6pRHOdmVkCa0HoUV_SdrBrdJoeqsp4RD79vlROzXcC3AeeuPMcMJCehX1kynO_aFw9S0-ctkLCbjNgCBN",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJqRArKskO3IARu6fqaejxT8c",
+            "rating": 3.5,
+            "reference": "ChIJqRArKskO3IARu6fqaejxT8c",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1658 Coast Blvd, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9607776,
+                    "lng": -117.2680718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96247487989272,
+                        "lng": -117.2664745201073
+                    },
+                    "southwest": {
+                        "lat": 32.95977522010728,
+                        "lng": -117.2691741798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Powerhouse Park & Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116061681757622309066\">efamilyusa</a>"
+                    ],
+                    "photo_reference": "Aap_uEDlXf6BNAJ6y0uHmziOf9cRoKsD-gUU2vo3ZHiQI2Jn9z5lWqOkmGs5-9vF7nCLx0jHDmnwN0kQ06Fj8QFlAfz4LGnnhVqlK4JFWU_t_Ix88s7hvOqWB2GTyWTxfnng7NVaGjJIPyGoRZAIMm6c_ObxOJK7sg2d6MocOouGZMwQGsK2",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJM-sPqUoP3IARlWTPr0OfU1E",
+            "plus_code": {
+                "compound_code": "XP6J+8Q Del Mar, California",
+                "global_code": "8544XP6J+8Q"
+            },
+            "rating": 4.7,
+            "reference": "ChIJM-sPqUoP3IARlWTPr0OfU1E",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1791
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Solana Beach County Park, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9940251,
+                    "lng": -117.2753169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.0033831,
+                        "lng": -117.2593095
+                    },
+                    "southwest": {
+                        "lat": 32.9846661,
+                        "lng": -117.2913243
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Solana Beach County Park",
+            "photos": [
+                {
+                    "height": 1944,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105165303759704129001\">Frank Barchard</a>"
+                    ],
+                    "photo_reference": "Aap_uEDPIfu-XUnPSF5s5rNDeEHc-dHvh9_0EK_fA5qhrGExjhAQMLogvgCV3vu26mNaEQ9g68poZlyNiLXd7z0_vgBkeuTQ0sCx4w0dqG-7lCZ9BOkJLk5SlcnxbzEuy4xgg3I40Rc79-rsp8ffTukw6xyoktpuLMdx8YbiMO1t9slUyzds",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJpwAn7M4O3IARL3XvhBwAEi8",
+            "rating": 4.8,
+            "reference": "ChIJpwAn7M4O3IARL3XvhBwAEi8",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3001 Ocean St, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1572027,
+                    "lng": -117.3532098
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15870292989272,
+                        "lng": -117.3515972701073
+                    },
+                    "southwest": {
+                        "lat": 33.15600327010728,
+                        "lng": -117.3542969298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Carlsbad City Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104359331057118286451\">atdnext</a>"
+                    ],
+                    "photo_reference": "Aap_uEBLC89pa1ov2NnNLkx8yY8vmAXWPqnL35kk2eNwrc7pQ36-rtm2l1I1hr52Eb9HDaFeY2fBa3vDQ_ociu90_keMzCDVH2itul8arNCoD68-ztwxbp4YWC7Siw9sTBw6Ot1Q6ZXltJJI1Ine8m16b0-43akFw-O8Zw4X65Jo9OhDDy9e",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJH8t6ygVz3IAR4m3h2_kDCRo",
+            "plus_code": {
+                "compound_code": "5J4W+VP Carlsbad, California",
+                "global_code": "85545J4W+VP"
+            },
+            "rating": 4.9,
+            "reference": "ChIJH8t6ygVz3IAR4m3h2_kDCRo",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12600 N Torrey Pines Rd, La Jolla, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9336768,
+                    "lng": -117.2606779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93505142989272,
+                        "lng": -117.2591683701073
+                    },
+                    "southwest": {
+                        "lat": 32.93235177010727,
+                        "lng": -117.2618680298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Torrey Pines State Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110300750599576467232\">Ben Yang</a>"
+                    ],
+                    "photo_reference": "Aap_uECQykSq0k8qNM543CkwQo7ZPEPScO-joFmg9a2OAjfEkGyzT1RWDjpKqKnJ1UNmbMFRpJKAW2LcYNCTXLG1UIfeWfEIA7ZjuK8n71Ke5d0YdhNPXvTd2UN_scwWIU74daNPfQ7cJu9cPzxfNR-_7ol-JFHdHxt0a4MvJcFgFHIzdKam",
+                    "width": 1616
+                }
+            ],
+            "place_id": "ChIJP2h3vgrRwoARcvUCuHmgf-I",
+            "plus_code": {
+                "compound_code": "WPMQ+FP La Jolla, San Diego, CA",
+                "global_code": "8544WPMQ+FP"
+            },
+            "rating": 4.8,
+            "reference": "ChIJP2h3vgrRwoARcvUCuHmgf-I",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1563
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Black's Beach, 2800 Torrey Pines Scenic Dr, La Jolla, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8876915,
+                    "lng": -117.2529227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8970608,
+                        "lng": -117.2369153
+                    },
+                    "southwest": {
+                        "lat": 32.8783212,
+                        "lng": -117.2689301
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Black's Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3261,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107401165140643759635\">Tony Dear</a>"
+                    ],
+                    "photo_reference": "Aap_uEDQHpLxvYO1LEwXEsDqMs6VwnJbXhmsh_WdW9AO6puOFGxvw_c4itYAlkySWaYvCttn3QsUif1JsLpHjzSYGaHL5cWUZvD2awS4JRLhMCWw1CmVuo1767-pxSB8qACgh_ZyJDwR0gLnx_y6_IEX4wfG0PprlM6MjP7--Tf6uMaNbmMx",
+                    "width": 4905
+                }
+            ],
+            "place_id": "ChIJ54O2gpEG3IAR0YlUGyNK1GQ",
+            "rating": 4.7,
+            "reference": "ChIJ54O2gpEG3IAR0YlUGyNK1GQ",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 675
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Whispering Sands Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8404719,
+                    "lng": -117.281604
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8498462,
+                        "lng": -117.2655966
+                    },
+                    "southwest": {
+                        "lat": 32.8310966,
+                        "lng": -117.2976114
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Whispering Sands Beach",
+            "photos": [
+                {
+                    "height": 613,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106289886184455201739\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDrZwzejMIjKZUbkCVJ0iDkn47V-FFNZrTlCBKkMFiXIRs-2Em1zOoYAB4kQUhT_1dx5mM4i-zvuxItWjNA3V5jltD_AObueMsH8t3nTd0rb7sz5q1I8-dmnZCyZwEH8dfV2NYhRaPSs8Lh9rnk0VTQ6E8dW8jYjwmudMXzy0C2Nf33",
+                    "width": 817
+                }
+            ],
+            "place_id": "ChIJQZDmB-8D3IARI7LmMXUtpT8",
+            "rating": 5,
+            "reference": "ChIJQZDmB-8D3IARI7LmMXUtpT8",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mission Beach Park, California 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.782454,
+                    "lng": -117.2544046
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7918344,
+                        "lng": -117.2383972
+                    },
+                    "southwest": {
+                        "lat": 32.7730726,
+                        "lng": -117.270412
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mission Beach Park",
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113214866933256773699\">Ivan Evfimiou</a>"
+                    ],
+                    "photo_reference": "Aap_uEADO-8Q-K6t6nahQa_8ozmcWPMO3VLXpDf4nNJVn08qYZcNvEztxLhxNmx5wfUIBZb858OsJzGiC9W28_4pHdd4t82oH7p0cbYByzY1vPiYZdgL4zj_5zyxboStNaLwTsmex_zvBy_6Nzold8ci1xWoeGYY9LG1yscqM8JSVk1Iw855",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJm09hveQB3IAR_01UFNkfgRg",
+            "rating": 4.5,
+            "reference": "ChIJm09hveQB3IAR_01UFNkfgRg",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0344456,
+                    "lng": -117.2927561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03605272989273,
+                        "lng": -117.2912963201073
+                    },
+                    "southwest": {
+                        "lat": 33.03335307010729,
+                        "lng": -117.2939959798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Swami's Beach",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101926704675145784416\">segorov</a>"
+                    ],
+                    "photo_reference": "Aap_uEC21nxIHAF7FDSwhYiQXbxqLnicbkxtLV_nmLoBpORUsZiMRby1jyd7PoVZt9__T1RVpIuXcvDlvozc72EZ4eaToxqAzuj5Ys_F95T5gP7fxPnRQtAJDKc255_ur33uXdJEFPECbikU2cJZoH8Em8BsUDUMau9nJvjos_Ux0GeziMzY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJlcznH90N3IAR1ir1wHOBqJA",
+            "plus_code": {
+                "compound_code": "2PM4+QV Encinitas, California",
+                "global_code": "85542PM4+QV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJlcznH90N3IAR1ir1wHOBqJA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ocean Beach City Beach, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7400499,
+                    "lng": -117.2553148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7494348,
+                        "lng": -117.2393074
+                    },
+                    "southwest": {
+                        "lat": 32.73066410000001,
+                        "lng": -117.2713222
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ocean Beach City Beach",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110167524468109552414\">Nicole Julian</a>"
+                    ],
+                    "photo_reference": "Aap_uEBoXrutg-7aIJGtrAQS-mjKs5VMHaSwLdUu0P7r6jgyOvVc94pg1ACAsxobvpIBSLZ7n91CEhslZbxiUGXwRbWoz8ZyGO6HC8y9kRT1NWPOItU_K0NDWk0BH_MKyfN29SgNSkjUsqBM8DxIXrozKwoun8lk0tVP7b7nNfkr-2amaY1Z",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJETN--TGq3oAR8cixlZQor1I",
+            "rating": 4.5,
+            "reference": "ChIJETN--TGq3oAR8cixlZQor1I",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3000 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7680765,
+                    "lng": -117.2519959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76940772989272,
+                        "lng": -117.2501660201073
+                    },
+                    "southwest": {
+                        "lat": 32.76670807010728,
+                        "lng": -117.2528656798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mission Beach Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101574079582141554531\">michael morissette</a>"
+                    ],
+                    "photo_reference": "Aap_uEBIlStxJxJ3S8dYfY4btKKnVk-BhhCcp32j45Z55pshUiO9OBZzvSJqYLdmPg-uV_K_FGWD5JdIZ4FsZIvzp_HnIg4LZ4Bo3V9xhjZctDRby6tCK1duhtQtZwOFXey5wW775arGsTRaMVaAGHXmxmnWKHyW4HiENM1Sx4FSSywmC-ia",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJK71LWw6q3oARewR-TecYfhE",
+            "plus_code": {
+                "compound_code": "QP9X+66 San Diego, California",
+                "global_code": "8544QP9X+66"
+            },
+            "rating": 4.7,
+            "reference": "ChIJK71LWw6q3oARewR-TecYfhE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5919
+        }
+    ],
+    "status": "OK"
+}

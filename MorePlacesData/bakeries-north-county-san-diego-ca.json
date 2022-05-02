@@ -1,0 +1,1052 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAjjz3k9VaeKW3_5Xj8zcfbCf-9j57jf6tHbVOLDPUSEuxvyaZ_JtU6W3-uS68ZnxSuqlJVFl59jAhWE0MX40eYdl6WXFLYwCI7rpWcScYz-EBXwMo72dyT91FyVgWSYW_U3e8Ob5dFDuZVcaWR13JACav_keFKZaV6_mEf7bHyWKH85MIKLx1pG_NNrEdR-evpyTV-cVFKvAiN42AZwFgwSfdn-SHy9ZautXuJOCa5nPwF2wIygGyPt25N8VMYzU4iYZyRB3a5RGRMy3Pp4z5LseAil2Blx3FcEwN3XSLQtnPq9F0lClQm3NPAb6FZXE2r8F-bf4-Wmh2gPw7bd8l1gj4BHTpxdeW8fT3jjtzaq4r4B4VMKujRNN2eKB_WYVSqWY7TAgortg_LN9DFKio4uH0aTHKOhkDmSvKNEFv7oyND",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "345 W Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1197163,
+                    "lng": -117.0850097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12109992989271,
+                        "lng": -117.0836539201073
+                    },
+                    "southwest": {
+                        "lat": 33.11840027010727,
+                        "lng": -117.0863535798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Cute Cakes Bakery & Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3970,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100232947706219747451\">Chelsea Hennedy</a>"
+                    ],
+                    "photo_reference": "Aap_uEDaL6ud9GpHJDn_AuiU0Vy8R5LGYBO5aqgH4jFDAKvQPi8HoUYjRkpvfrXWqSRDvI6NfHlwtmh14BMfcG1SSGCAN8wYAEoHOAnZADlgLoYS97l_ePeHbVZTpumKbzcwmaZAe-h4UiP67Bo9MDrlLRU-Mjqg_R6cEU5K-cRgFSoi6sCh",
+                    "width": 5988
+                }
+            ],
+            "place_id": "ChIJvXOkrWnz24ARxtcuHyabNvU",
+            "plus_code": {
+                "compound_code": "4W98+V2 Escondido, California",
+                "global_code": "85544W98+V2"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJvXOkrWnz24ARxtcuHyabNvU",
+            "types": [
+                "bakery",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 509
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11639 Duenda Rd, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0326236,
+                    "lng": -117.0798715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03399542989272,
+                        "lng": -117.0785197201073
+                    },
+                    "southwest": {
+                        "lat": 33.03129577010728,
+                        "lng": -117.0812193798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Edelweiss Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109968178313885768788\">Carlos Corona</a>"
+                    ],
+                    "photo_reference": "Aap_uECPsIFOSfJpeKtqXJIubJGW2JGABWtj0H2sH-nfjJyjpQr-WhjKMc6TIQqwED74UxlDJy1XGvv0tUDPz52pAIRv4Z0QyZ1VEoKve5CLfKwmP_OlfvMK95jQ_lpXjvwBCWuUbxjkZJqhVMU3gu9lu2p4-PUfg2YhJZYgxpVq2WvE5CWc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoXy6LdP224ARnE2TiNZWlKw",
+            "plus_code": {
+                "compound_code": "2WMC+23 San Diego, California",
+                "global_code": "85542WMC+23"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJoXy6LdP224ARnE2TiNZWlKw",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 406
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12075 Carmel Mountain Rd #207, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9828695,
+                    "lng": -117.0742327
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98424627989273,
+                        "lng": -117.0730007701073
+                    },
+                    "southwest": {
+                        "lat": 32.98154662010729,
+                        "lng": -117.0757004298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jessie's Bake Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105039828903769209616\">Wan Shi Tong</a>"
+                    ],
+                    "photo_reference": "Aap_uEBNXFEWVSQ-wIp5tX3Z6XFHvIhTvkU_TI62B4Jl1xxpi6UF8vDj-ec12fr3z2_xi3ed_AwyGpDkYg39rlISDDy-pPErDII-KU5VzIabCIRLXMOecNdmk-reKmSw4dWSH3BssVlscBKTNi3Anj_MtjdE9Q8CNz4xKwcFHqkTY8V-QdhQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJt_dtKAH624ARPqGOKfUTNio",
+            "plus_code": {
+                "compound_code": "XWMG+48 San Diego, California",
+                "global_code": "8544XWMG+48"
+            },
+            "rating": 4.6,
+            "reference": "ChIJt_dtKAH624ARPqGOKfUTNio",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "637 W 9th Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1105149,
+                    "lng": -117.0837387
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11195247989271,
+                        "lng": -117.0824634701073
+                    },
+                    "southwest": {
+                        "lat": 33.10925282010727,
+                        "lng": -117.0851631298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Aurora's Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1643,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112023835061604905144\">Jose Gutierrez</a>"
+                    ],
+                    "photo_reference": "Aap_uEBuiydNvTfxoAnZ9IEectoOO5lYOFHG7y4nSbj0q8x2HX76D1okJoCEw-BRCG7usg3_hiFz-y68sy9Fsk3BVMQkLoACSYVzzc4jWftLHMEC4SC_SgbJcE5b9rawifu5u0e8eg2QYJDMP3thCnNNnZUHeDAud2sJm1PlDB0VD5wn0uLZ",
+                    "width": 3341
+                }
+            ],
+            "place_id": "ChIJX2Cv4YH024ARmpfIty2VzGI",
+            "plus_code": {
+                "compound_code": "4W68+6G Escondido, California",
+                "global_code": "85544W68+6G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJX2Cv4YH024ARmpfIty2VzGI",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 152
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "815 E Valley Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1279042,
+                    "lng": -117.0719381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12937467989272,
+                        "lng": -117.0706657701073
+                    },
+                    "southwest": {
+                        "lat": 33.12667502010728,
+                        "lng": -117.0733654298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Camila's Bakery",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101584779251881650318\">Doug Christman</a>"
+                    ],
+                    "photo_reference": "Aap_uEA5vk7byoIQaH4wKuaEVapDuoGH2ZIcLc0nYJlH9LkZlQcfgHQMnZ95v_yXRYsCIr6K56fYUltYIO9aq19GgrV_yvs4U41POCLjgsFRhXqJ2oh6ntxtHvqR9asWSji38jmYDzsNTHqlChkj7iYWJ8o_kZPbrSFh5Gb83wDnl7T_h-h7",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJAfmDiGLz24AR0snlrtPuREc",
+            "plus_code": {
+                "compound_code": "4WHH+56 Escondido, California",
+                "global_code": "85544WHH+56"
+            },
+            "rating": 4.2,
+            "reference": "ChIJAfmDiGLz24AR0snlrtPuREc",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carmel Business Center, 12265 World Trade Dr suite d, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9869448,
+                    "lng": -117.0727073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98835027989271,
+                        "lng": -117.0714221201073
+                    },
+                    "southwest": {
+                        "lat": 32.98565062010727,
+                        "lng": -117.0741217798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jenny Wenny Cakes",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1151,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118204269806441982971\">Jennywennycakes</a>"
+                    ],
+                    "photo_reference": "Aap_uEAudIHVPBGpV4uAxgvT1GXbzdwW5F-iq2BVG_VHAGnWlDJ56BUP9LcrelKMFuDXYJ5M2lmL-r5Y2RoVIGg24mwaJfzsXEIgNr375jYPKt3PcUevenD3GpR0w3eSETTFc12esIeGEVWCVkYcQs89Q0ymsEbcVDO3vkAUp9ca_-drWdQl",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJG4TZjqnw24AR8V1XDGcj1Bo",
+            "plus_code": {
+                "compound_code": "XWPG+QW San Diego, California",
+                "global_code": "8544XWPG+QW"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJG4TZjqnw24AR8V1XDGcj1Bo",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9926 Carmel Mountain Rd # F, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9612673,
+                    "lng": -117.1139703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96261657989272,
+                        "lng": -117.1126235701073
+                    },
+                    "southwest": {
+                        "lat": 32.95991692010728,
+                        "lng": -117.1153232298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Andell's Bakery and Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111804887088196649766\">Samuel dela Cruz</a>"
+                    ],
+                    "photo_reference": "Aap_uEC0FXVXsueqcQKFDq8Mwo7OuR5ezSh8NM-YBtBntGtcgeooDIgWkyo9zS0qL1JUOfh25vNn5dsaewE1_fE3Apuptbp840ZRiND-7oWR5fuTD2G8C6OjWCZNswXNjgCFLTkzCCH3UVTLDbDV-we6CMdxc-aXFBRvE9ERuCwoXebB-23c",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJWwBn4sX524ARySmXGMwYuxs",
+            "plus_code": {
+                "compound_code": "XV6P+G9 San Diego, California",
+                "global_code": "8544XV6P+G9"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJWwBn4sX524ARySmXGMwYuxs",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9975 Carmel Mountain Rd g2, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9603546,
+                    "lng": -117.1118168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96174182989272,
+                        "lng": -117.1104612701073
+                    },
+                    "southwest": {
+                        "lat": 32.95904217010728,
+                        "lng": -117.1131609298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "It's A Piece A Cake",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2242,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114553694211353786268\">Zulu Juliet</a>"
+                    ],
+                    "photo_reference": "Aap_uEDdqeBo7TVhiM_PztN595ZEr1JH9eRdEv6TL0lEgCIbsD95CaGydb6iwoFRkuSmah7kbJEFuyT7KFie6WODiDCfwj89hEyARrxGP17Utf3_Fy3R5e3k4mSHu4h9u8J4mp6xJdHhtrkNM-ATAq_wrIlNuu13zNGQkwEX-e4NNCyedMnB",
+                    "width": 3986
+                }
+            ],
+            "place_id": "ChIJ1efLicb524AR_sPyZjZHZ3w",
+            "plus_code": {
+                "compound_code": "XV6Q+58 San Diego, California",
+                "global_code": "8544XV6Q+58"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ1efLicb524AR_sPyZjZHZ3w",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 107
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "462 W Mission Rd UNIT 136, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1448355,
+                    "lng": -117.1707318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14609392989272,
+                        "lng": -117.1694148201073
+                    },
+                    "southwest": {
+                        "lat": 33.14339427010727,
+                        "lng": -117.1721144798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Su Pan Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114677958303278985991\">Celeste Astorga</a>"
+                    ],
+                    "photo_reference": "Aap_uECGADJmSR8U3L5LMUX_VP32PBJzfnp69hvEFkGCS2OpcWqJMHLJrjzRxOABd3XjHO5OmZHdIP3HfMOsqmVmPqyMbepYBGNx-QMudHhQmqAJ5Ph6Fk1o62KkvSA4T5gd4OFQX6C1LEmseSxHYol09RpE__lBikfKKf8E1qFTNJd8gS2x",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiX7E16aK24ARCmBnf1d4kvk",
+            "plus_code": {
+                "compound_code": "4RVH+WP San Marcos, California",
+                "global_code": "85544RVH+WP"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJiX7E16aK24ARCmBnf1d4kvk",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 248
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12640 Sabre Springs Pkwy #107, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9479223,
+                    "lng": -117.0971341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94931322989272,
+                        "lng": -117.0957192201073
+                    },
+                    "southwest": {
+                        "lat": 32.94661357010727,
+                        "lng": -117.0984188798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Nutmeg Bakery & Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1364,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100863916454968205145\">Anna Y</a>"
+                    ],
+                    "photo_reference": "Aap_uEClbovd8QKpNszrbg9wYucH8dkpQEpSBf6tSIqDbpn1y_f_Ohg6e0UcIzFX-4pYAtJgxrwO6FydnEWlXpKt1kVkZBvzWfn6KPXdR_-p0tqYy385E0PzO1V_PAcbqgnEJi0icm0DnenKn52mgYpRkl8ugjsC7nmJOOkz2V2v0FFCsOOl",
+                    "width": 1364
+                }
+            ],
+            "place_id": "ChIJi-LND5r524ARlIZu03tnhp8",
+            "plus_code": {
+                "compound_code": "WWX3+54 San Diego, California",
+                "global_code": "8544WWX3+54"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJi-LND5r524ARlIZu03tnhp8",
+            "types": [
+                "cafe",
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 773
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "277 S Rancho Santa Fe Rd P, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1431629,
+                    "lng": -117.2007728
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14452977989273,
+                        "lng": -117.1994711701073
+                    },
+                    "southwest": {
+                        "lat": 33.14183012010729,
+                        "lng": -117.2021708298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dulce Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 335,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109719062612239501345\">Dulce Bakery &amp; Cafe</a>"
+                    ],
+                    "photo_reference": "Aap_uEDf-wCjSBaGtHtCJyxIWl4i2hW9zkdee6g4H_Tg9UcK_vRo8ACHrdg_tWAzvDhz00kmo66r8NSyT2Tz9HqolSHzfgDRzrv1xvuYTB8Zs3LYOob9iqVGQecXj0SymvMqKcTMVnXoxq0YprU75gKuwhdU5SMQ_j3lZ9MnrbYlnSD9ZtQK",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJz2hKKT513IARAQKU2HjA4sU",
+            "plus_code": {
+                "compound_code": "4QVX+7M San Marcos, California",
+                "global_code": "85544QVX+7M"
+            },
+            "rating": 3.9,
+            "reference": "ChIJz2hKKT513IARAQKU2HjA4sU",
+            "types": [
+                "bakery",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3705 Caminito Ct #0500, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9525664,
+                    "lng": -117.2348248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95396592989272,
+                        "lng": -117.2334457701073
+                    },
+                    "southwest": {
+                        "lat": 32.95126627010728,
+                        "lng": -117.2361454298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "SusieCakes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113060025517917819155\">Lisa Wynn</a>"
+                    ],
+                    "photo_reference": "Aap_uED1UgNGG5q94LHhvj7maxMtrb_95btr_rLlCc0aWjOdge95au51kxmwn0fb7pUa9lX9YSw6QrHxgXlC9MoUJU4OFQZ6M4jsIBMAFhv--KodapVST5JkH0CivwWYU47knhbdAR7pIs1j7WxcOGyo7KvsllC7wmNzQN_HImoiw7ED5ugG",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiY5tbo0J3IAR9Aeh2NyGwl0",
+            "plus_code": {
+                "compound_code": "XQ38+23 San Diego, California",
+                "global_code": "8544XQ38+23"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJiY5tbo0J3IAR9Aeh2NyGwl0",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2250 S Escondido Blvd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0943491,
+                    "lng": -117.0710876
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09561542989272,
+                        "lng": -117.0699421201073
+                    },
+                    "southwest": {
+                        "lat": 33.09291577010728,
+                        "lng": -117.0726417798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Deanna's Gluten Free Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114572838602878402517\">Deanna Smith</a>"
+                    ],
+                    "photo_reference": "Aap_uEDAlJA3Gv_EOpaSEq3Qjg381XFc3KZtzYrL6zMzgq4o7JLsiuvHrCVg9c5zlrFMvJB4wHLxAcWT36RNzsUKkV9v_KueB4WaaMuasX9ySNkY4jerjZrc4lgg_QIqsRk-lCStUvusWqz5QOGyAhCzwsIzqRJe9gXFM4Xx4B6cfXb0koIo",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJPcBLNozz24AR_kZt-PYBjxc",
+            "plus_code": {
+                "compound_code": "3WVH+PH Escondido, California",
+                "global_code": "85543WVH+PH"
+            },
+            "rating": 4.4,
+            "reference": "ChIJPcBLNozz24AR_kZt-PYBjxc",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Old Coach Dr, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0406262,
+                    "lng": -117.0206657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04211952989272,
+                        "lng": -117.0191354701073
+                    },
+                    "southwest": {
+                        "lat": 33.03941987010727,
+                        "lng": -117.0218351298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Wild Crumb Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104901632141608727125\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECGLmR1qhvM9GbSM3g8xFXheqAM8juhODVc4Zcq-gqI88uieqQjQdyislMJy-q10BuYf8NSQm3CXmSddAH5PtQu8IIcLNIPzw44OAaw1IARdpkCtfG5OlR0s1RY9XtmmEuxF5y-kVDX-GoXDl4fEj_D6TDYWvuoWQ7bVRNvPvXnjFob",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJvdI3Vd_QRCMR6qH30Amfh7k",
+            "plus_code": {
+                "compound_code": "2XRH+7P Poway, California",
+                "global_code": "85542XRH+7P"
+            },
+            "rating": 5,
+            "reference": "ChIJvdI3Vd_QRCMR6qH30Amfh7k",
+            "types": [
+                "bakery",
+                "meal_delivery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2069 Aldergrove Ave, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1178297,
+                    "lng": -117.1156473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11902672989272,
+                        "lng": -117.1142906701073
+                    },
+                    "southwest": {
+                        "lat": 33.11632707010728,
+                        "lng": -117.1169903298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bimbo Bakeries USA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117351862377322136448\">Raymond Washington</a>"
+                    ],
+                    "photo_reference": "Aap_uEDHoQhH1wCG4_YHZB-qtOxzVDWJ_LQ0xeSRVDar8cQIvR01KbiTBXP5L5YfRNRNrLK9x-kX9XLGTykzmktP4sdRjNP7x6Z653pPCkxOmJ8aoP6miT30SzILqnI1-qcVG4r-w8xhite8B707_n47iqE7tt7L3JUWhrW7jdC_rNeTUlRY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJlbbIEeb024ARuf0d1WIz3Ok",
+            "plus_code": {
+                "compound_code": "4V8M+XP Escondido, California",
+                "global_code": "85544V8M+XP"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJlbbIEeb024ARuf0d1WIz3Ok",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "740 N Midway Dr, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1440502,
+                    "lng": -117.0557883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14535862989273,
+                        "lng": -117.0545216701073
+                    },
+                    "southwest": {
+                        "lat": 33.14265897010728,
+                        "lng": -117.0572213298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Panaderia Fuentes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112055417473768207976\">consuelo aguas</a>"
+                    ],
+                    "photo_reference": "Aap_uECPJjoMWQmZktzJ9hc0mXkj5G5hVYQE612zTwzOsQ0yH_wSlPSFyyykNkc78qmbp4b7qQ53RgbKxdYxfzCJy-cCwUjFO3uA8Qvy2OYEs092PnkfaSLFoG6b0lBdNRhKFvy0m3YySvL5cwz4FhWC6DMiOvn_HNrRYu2Ml07aR0gQX6Kr",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJ2ycHT6f024ARItkYD1gOC7M",
+            "plus_code": {
+                "compound_code": "4WVV+JM Escondido, California",
+                "global_code": "85544WVV+JM"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJ2ycHT6f024ARItkYD1gOC7M",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 46
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10299 Scripps Trail suite e, San Diego, CA 92131, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9124702,
+                    "lng": -117.0794004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91380667989272,
+                        "lng": -117.0781329701073
+                    },
+                    "southwest": {
+                        "lat": 32.91110702010727,
+                        "lng": -117.0808326298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The French Oven",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109564081602656455041\">Geno Villafano</a>"
+                    ],
+                    "photo_reference": "Aap_uECl0z6Gz-QXP9bKWL2EuyfQW6_Jc7y1QQt5fQjgPYbHM-PTlXDnq13SGBH1Hq-SOqtCNbpUAgEUG2zazl2bX_caT_N0TjBGeQ3uiGq-4hCDrUthQa1oWL90djcZo25JBrzU8LvAt6TISP9eco5Lv-6qsRqmFFrWP5tSLhBEnWJIQuJV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_a4vcU7524AR8TSGRT6inrU",
+            "plus_code": {
+                "compound_code": "WW6C+X6 San Diego, California",
+                "global_code": "8544WW6C+X6"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJ_a4vcU7524AR8TSGRT6inrU",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 292
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "106 Aberdeen Dr, Cardiff, CA 92007, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0206884,
+                    "lng": -117.2818694
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02200932989273,
+                        "lng": -117.2804981701073
+                    },
+                    "southwest": {
+                        "lat": 33.01930967010728,
+                        "lng": -117.2831978298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "VG Donut & Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106447521204101666961\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECV8q99ReYSHT6GdC1oP5hPMKNfRHDHGOqPUqVnzqthyDx8zlPrF3pqfzFAgfiOh2fbAZ0ayprxdZ-DFC5VpUJI5jv8JNcNuo0wtvomfRb9QAMet9ozKHl49AhOuF7jCoG0CK1HDapzlL7pSoBlt28z2rcOn0_RCIo9n6YSO9QVb-c7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJu5I4fR0M3IARh2KZTz9sEew",
+            "plus_code": {
+                "compound_code": "2PC9+77 Cardiff, Encinitas, CA",
+                "global_code": "85542PC9+77"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJu5I4fR0M3IARh2KZTz9sEew",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1514 Encinitas Blvd, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0466337,
+                    "lng": -117.2561122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04789842989273,
+                        "lng": -117.2547672201073
+                    },
+                    "southwest": {
+                        "lat": 33.04519877010728,
+                        "lng": -117.2574668798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Yummy Cupcakes, Cakes, and Truffles",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102400249722783777662\">Karen Yeung</a>"
+                    ],
+                    "photo_reference": "Aap_uEAFnIEtgMqRxUe7QA4VNp2awTFkOOgkHmQx2rWySE5wxZ1nlgotZR7fdO-8-IlAbYOGQu8Sos9bJuv-eotQtx79a0IxDF9WsKGvMMPQ76FEDYjVc2X6l5yyXDHlLHB7WPJEQOkJrblEs736hLnZJSDcMzMQ1m2jxkrdMiB2oKnt_fQo",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_fZEZu0L3IARlv4ykUB2Fko",
+            "plus_code": {
+                "compound_code": "2PWV+MH Encinitas, California",
+                "global_code": "85542PWV+MH"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJ_fZEZu0L3IARlv4ykUB2Fko",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 102
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "243 S Escondido Blvd #337, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.118739,
+                    "lng": -117.0833882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12005612989272,
+                        "lng": -117.0821104701073
+                    },
+                    "southwest": {
+                        "lat": 33.11735647010727,
+                        "lng": -117.0848101298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Tailored Desserts",
+            "permanently_closed": true,
+            "place_id": "ChIJA0-YM4P024ARq2Tx3bT2-0w",
+            "plus_code": {
+                "compound_code": "4W98+FM Escondido, California",
+                "global_code": "85544W98+FM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJA0-YM4P024ARq2Tx3bT2-0w",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 5
+        }
+    ],
+    "status": "OK"
+}

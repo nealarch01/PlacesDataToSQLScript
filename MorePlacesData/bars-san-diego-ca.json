@@ -1,0 +1,1038 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAkLUBgHbXUWrfE4fUvMlPY6WbTCci1Y8hXYIWewb1iONPGgy-FDoCfzvNLE_zZ2Jq5-TPlaAYhrjPjRA889CGdwwLmVa40rEvUH1m4HUHsMzbKyx0AxrG5bFQoAiCFJ1ruEhsEd45UIYVnDywIdqOA6DRil8Nprl60fSVkTzf81cBEtJsyPI-B7gkT7Lyf5YjV6h-N09vs-M7d1bQN1z-fUPzn4-Nf7VpEkKXdPuT78OwHDnWotpXAKak7WmbcSJkZH-T5D6WJMUwEyInTLFgzfVdcPVOHduztUV5JaV-gnPRUXzoIGJtuBetk4jJlDkc1T2FfTajcQrVC-cKUWW86BXaZ5R2F_leh2Tvoms6pXD5MVUjjJCogYvX4x324JnsdDiqXUmOI9I1ATzZvQPAwTg",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1310 Morena Blvd, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7718612,
+                    "lng": -117.2022503
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77335322989272,
+                        "lng": -117.2009133701073
+                    },
+                    "southwest": {
+                        "lat": 32.77065357010728,
+                        "lng": -117.2036130298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Sidecar Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105273765125677935593\">Ben Maurer</a>"
+                    ],
+                    "photo_reference": "Aap_uECde6wEuwN-tK51gNCSxxqEliq9IIgNqfdQKN13YuhFPq9wpBfZM_SP5mF0s2OSItQSuI0COEEdNbPNOK23shMftmj4l3LSpJD280aaAtnytyvvaM6oJDbmiKS8BweAd4QhZLlcCyDgo7xy9KPszeJiUAIV2_cXlmFybCtSTl6utV_U",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJ_5kobZSq3oARyayR2kud7pY",
+            "plus_code": {
+                "compound_code": "QQCX+Q3 San Diego, California",
+                "global_code": "8544QQCX+Q3"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJ_5kobZSq3oARyayR2kud7pY",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 473
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1319 Morena Blvd, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7722303,
+                    "lng": -117.2019485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77352862989272,
+                        "lng": -117.2007108201073
+                    },
+                    "southwest": {
+                        "lat": 32.77082897010727,
+                        "lng": -117.2034104798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Cordova Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2003,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102395067229456844678\">Ignacio Pulido</a>"
+                    ],
+                    "photo_reference": "Aap_uED9fem_-GmA3lT0MnjajUiI202iX1G69WNqlrBnpiYjtp20KWAHog49eMMFsSTLj-OjvcQqkiBBEIH7WGuqN1py7kWDo_39Z0nVeyZSnuOKFc6qW2Jigi5NPHOVoveMMbQ7OoFzvUMnM0vuGEP8OOnC4qoLPm_Ve-EOhb0HCokM7nhs",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJC6txAHer3oAR8qSvS7LYmLg",
+            "plus_code": {
+                "compound_code": "QQCX+V6 San Diego, California",
+                "global_code": "8544QQCX+V6"
+            },
+            "rating": 4.9,
+            "reference": "ChIJC6txAHer3oAR8qSvS7LYmLg",
+            "types": [
+                "bar",
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 140
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3365 India St, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7380914,
+                    "lng": -117.176516
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73943577989272,
+                        "lng": -117.1751783201073
+                    },
+                    "southwest": {
+                        "lat": 32.73673612010727,
+                        "lng": -117.1778779798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Aero Club Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 628,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115411091567283883059\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-WdNjKM8AhMgTTKsU4kGotSd_a5pKylDDZR9zAcn41ePWm5lx-HeqD-LdGKcyQNvrUJeO3jrFBdqpnrJvKiHu1eCkHpUquRooUUkyWHp1xm1vctPEe9Ql3VJ8IrLB__PX62u1xDt6M1it9RqWYvhJjobiee8wVE-O-73iL40qXMsR",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ-ZkDnTOr3oARiZnC4pGW0TQ",
+            "plus_code": {
+                "compound_code": "PRQF+7C San Diego, California",
+                "global_code": "8544PRQF+7C"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJ-ZkDnTOr3oARiZnC4pGW0TQ",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 787
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4696 30th St, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7627605,
+                    "lng": -117.130382
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76417347989272,
+                        "lng": -117.1290240701073
+                    },
+                    "southwest": {
+                        "lat": 32.76147382010727,
+                        "lng": -117.1317237298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Polite Provisions",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108290194439766826794\">maya.kacz</a>"
+                    ],
+                    "photo_reference": "Aap_uEAGhLty7I7XUCzgUhjvbscit84vmaCgqKk0m1V7MZU5P8_eiZD5hkjWzNnrUWDeIgcHG3ybEH20vrT1UBW2UnXQzs4aQGcRSTevChjE9eOJ5o69m-87SW-IrKWeXkfdnKuEEUH_JT-dRBA84GYlCwTqqNhjuHhq2QMEULx_rK872R-T",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJb8wNR_5U2YARjJGG_oP9How",
+            "plus_code": {
+                "compound_code": "QV79+3R San Diego, California",
+                "global_code": "8544QV79+3R"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJb8wNR_5U2YARjJGG_oP9How",
+            "types": [
+                "bar",
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1586
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "15817 Bernardo Center Dr UNIT 113, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0049339,
+                    "lng": -117.0911057
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00639277989272,
+                        "lng": -117.0896630201073
+                    },
+                    "southwest": {
+                        "lat": 33.00369312010728,
+                        "lng": -117.0923626798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Kelly’s Pub",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110240047749853350465\">On-Duty Rooter &amp; Plumbing</a>"
+                    ],
+                    "photo_reference": "Aap_uEAr1GFBHalMYL617cRVzJeUwHPPSUl4GXzk3P2_HyLZfxge8e764reZNeEFUiQVFB2GPsdVLdnAkZ1e3BH937THkK83_EtLEFbt0pQ4AJ_QDe6yeBY1mCPtmJnYR9FGLYbW1ePEACO1XPqzoTdqfNxi3HaR-sz_S5Qey-dk2S8i6GSH",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ09KzLDj324ARs2aUoIVHfY8",
+            "plus_code": {
+                "compound_code": "2W35+VC San Diego, California",
+                "global_code": "85542W35+VC"
+            },
+            "price_level": 1,
+            "rating": 4.1,
+            "reference": "ChIJ09KzLDj324ARs2aUoIVHfY8",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 370
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "548 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7111155,
+                    "lng": -117.1603528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71246852989272,
+                        "lng": -117.1588986201073
+                    },
+                    "southwest": {
+                        "lat": 32.70976887010728,
+                        "lng": -117.1615982798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Prohibition Lounge",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101009820428629167498\">Travis Tripp</a>"
+                    ],
+                    "photo_reference": "Aap_uEDh8tWxp8qaKGiLXfhyAiJytNupQYXMRm-cgZSEC3kCCwKN25IjKA7RfE-gVCvtGg0MhY249gTY2_9OWvKnWH7oZKPGYvN0v_ZBTledmRM9m8-YzytbztxC5PlD1EQ1wEDqlCXbhKkGtjirhd3PLRWTwvwrFM-ocHDeqoQ9xeJj7Xr5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjR6flllT2YARo5sHpyBXy4A",
+            "plus_code": {
+                "compound_code": "PR6Q+CV San Diego, California",
+                "global_code": "8544PR6Q+CV"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJjR6flllT2YARo5sHpyBXy4A",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 758
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3054 University Ave, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7486082,
+                    "lng": -117.1286132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74989657989273,
+                        "lng": -117.1272442201073
+                    },
+                    "southwest": {
+                        "lat": 32.74719692010728,
+                        "lng": -117.1299438798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Seven Grand San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105833400859250511224\">Devon DuBois</a>"
+                    ],
+                    "photo_reference": "Aap_uEBW-VnMWYFjhjUYFTV-93H18yFrPyQciEcNT6wo6nKJ4LBmVCKcT1h_m28KXsbi-Q_uDa5_ctgoZ__bc-KbvRRSEDAIgPJ-3T3VRISahZt82QZ8qk7vvSUczAFtM8ux-YUr73EtFbCtTjJKtj_Tp5UJy9byv-hsem3mWUxxj_qe7HNO",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJieu5d_ZU2YAR_ob4AUfu8Mg",
+            "plus_code": {
+                "compound_code": "PVXC+CH San Diego, California",
+                "global_code": "8544PVXC+CH"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJieu5d_ZU2YAR_ob4AUfu8Mg",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 737
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4301 La Jolla Village Dr #2030, San Diego, CA 92122, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8721244,
+                    "lng": -117.2128136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.87360422989272,
+                        "lng": -117.2116267201073
+                    },
+                    "southwest": {
+                        "lat": 32.87090457010727,
+                        "lng": -117.2143263798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Raised by Wolves",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104454541059535452112\">Carole Scott</a>"
+                    ],
+                    "photo_reference": "Aap_uECpAFSVFyf2A1sMbu3syKzDjHYL5b4KhAmZ68649gc-RkamzlLw0qTwBZDNltautXJrSWQdZpvB_UXuWZ5d1ronZOmKZwXdxeBHBsABpR3TaIb7MqzGUE_CHbnh5I8c_wNSK5ExyG9GBsWmf-v8LhWDgd0Ow7aN5Ht5yFPIk60kzNXS",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJg0ux9SwH3IARxsA5WlFCLOA",
+            "plus_code": {
+                "compound_code": "VQCP+RV San Diego, California",
+                "global_code": "8544VQCP+RV"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJg0ux9SwH3IARxsA5WlFCLOA",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 945
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "675 W Beech St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7207772,
+                    "lng": -117.1689308
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72214047989272,
+                        "lng": -117.1674825201073
+                    },
+                    "southwest": {
+                        "lat": 32.71944082010728,
+                        "lng": -117.1701821798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "False Idol",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109998641113180312651\">Laura Detmar</a>"
+                    ],
+                    "photo_reference": "Aap_uECADWKeqGvHC4cgHtnC7sDXI-Ak0vqIDSk1s054iCwi6GZgW8dmxBycm9Ha0rhDzRZZH81J208JHeHFscMe29pVhrYFWVY-tm86R6niwSBhSbxK1WymPF59v5TGBdf0tSy7RQKP0S9LLfMpTShs9aouTlzKSFVLD9iN1cGLJ09eG5Ax",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzw3GNKxU2YARh9sRm39PY3o",
+            "plus_code": {
+                "compound_code": "PRCJ+8C San Diego, California",
+                "global_code": "8544PRCJ+8C"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJzw3GNKxU2YARh9sRm39PY3o",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 969
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "505 Sixth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7105823,
+                    "lng": -117.1589682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71186527989272,
+                        "lng": -117.1575894201073
+                    },
+                    "southwest": {
+                        "lat": 32.70916562010728,
+                        "lng": -117.1602890798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Tivoli Bar and Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1440,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109528979642379685346\">Yvette Alexander</a>"
+                    ],
+                    "photo_reference": "Aap_uEB57GGiixpZEukXJAQqbNITMk2H09DiAE7e5PvrXfUaxFF29fAeLkRLz7I7SDJ8Nl_Ey7olH31DaTf0PBmOqq3dFyPwQh120b_VD9CtGRPcgHpCdtPFQp8_xtH89Qh7vK73m8UKIUAMxbckQOUXzv-1pbKwlFgkCfa9FvDIORncXOiL",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJESCTgllT2YARFaOieZ8L078",
+            "plus_code": {
+                "compound_code": "PR6R+6C San Diego, California",
+                "global_code": "8544PR6R+6C"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJESCTgllT2YARFaOieZ8L078",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 686
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4646 Convoy St, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8252331,
+                    "lng": -117.1558829
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82656447989272,
+                        "lng": -117.1544092701073
+                    },
+                    "southwest": {
+                        "lat": 32.82386482010727,
+                        "lng": -117.1571089298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "O'Brien's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2358,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118033661411957627316\">Lauren Schmitt</a>"
+                    ],
+                    "photo_reference": "Aap_uECoiTagKSaGk2zefRBYiIu6somgAqW99LuOJeofw6FP-ybkk-Bbxy7LKQpe4CbHiCDfJ-otE8UalU9C1zzZ-pqGjGpKXYSPWm0Te4XONHxkfGSVAv5iPV3EvZQqn9fr3-O9iI4DjliN6LoW_YJS33_zpHuMWfr-rjmBLpewM3BnMLC_",
+                    "width": 4191
+                }
+            ],
+            "place_id": "ChIJubb3CJT_24ARgT4M9ifLXDg",
+            "plus_code": {
+                "compound_code": "RRGV+4J San Diego, California",
+                "global_code": "8544RRGV+4J"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJubb3CJT_24ARgT4M9ifLXDg",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 660
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "831 Sixth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.71415,
+                    "lng": -117.1591136
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71549512989272,
+                        "lng": -117.1577772701073
+                    },
+                    "southwest": {
+                        "lat": 32.71279547010728,
+                        "lng": -117.1604769298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Room 56",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102228209131932238796\">Vanessa Jansen</a>"
+                    ],
+                    "photo_reference": "Aap_uEBxqaw9rFuwpQ4ut-HN5Hye2m16kVvi0wLyfopnHkEMJ3VX_76fbEM92cGg-bqBQRNPh9fyFbHSbOOAdutZy2KuE7hxoDhgbnLn3yCBvDfMeYGpexU4J2WDZvSTFpobe0YB6_IsEQgV2rCPSkOm_C6xZxqjJs1aDTl84TQNh1Vt44sN",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJqRAi2zxT2YARM_1rwX9R7g8",
+            "plus_code": {
+                "compound_code": "PR7R+JC San Diego, California",
+                "global_code": "8544PR7R+JC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJqRAi2zxT2YARM_1rwX9R7g8",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "423 E St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7144168,
+                    "lng": -117.1607082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71588957989272,
+                        "lng": -117.1593584701073
+                    },
+                    "southwest": {
+                        "lat": 32.71318992010727,
+                        "lng": -117.1620581298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Star Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109197919925300234389\">ls92101</a>"
+                    ],
+                    "photo_reference": "Aap_uEAgBcEmEGTvafbEfSffnF36j_BW2D6dEDPKWhwDUFrp4QutKTOMRV2v_QLphx6E5051VllkL-8BmLadpoFqa_-M2pTCyo9mpv57xeHhgI3LZSqNPl5SPBeDqHFQ_1VXtWYBN7KnSDK-M8Hg5zdL3lQ0k87ByNff5BZc4qsFVNbTNeHO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpWP9C1hT2YARrPpr3ExzqHQ",
+            "plus_code": {
+                "compound_code": "PR7Q+QP San Diego, California",
+                "global_code": "8544PR7Q+QP"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJpWP9C1hT2YARrPpr3ExzqHQ",
+            "types": [
+                "bar",
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 364
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3391 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7632358,
+                    "lng": -117.1208945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76465182989273,
+                        "lng": -117.1195433701073
+                    },
+                    "southwest": {
+                        "lat": 32.76195217010729,
+                        "lng": -117.1222430298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Sycamore Den",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114035395829166825835\">Paul Scalone</a>"
+                    ],
+                    "photo_reference": "Aap_uECoxSLCaYTVUyxQE3bCAnNdtHu8O4b_OaFLbQ5IFjWGUfu8x77L2I-n9KS_rj-QE3iTquweHv8qs56O4v4YcWHQL59MKSTC7LMeTwlu2RfA7nSdx6ZZdGM9Tkelv8YFR3-ZjdmMYkk9bfVZBTiVa9TEv44jUm3HMXl4Ztu_F3a-0n_J",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJhQ8TflRU2YARTX9qMycvFdg",
+            "plus_code": {
+                "compound_code": "QV7H+7J San Diego, California",
+                "global_code": "8544QV7H+7J"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJhQ8TflRU2YARTX9qMycvFdg",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 293
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "420 Third Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7097251,
+                    "lng": -117.1620934
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71107492989272,
+                        "lng": -117.1607430701073
+                    },
+                    "southwest": {
+                        "lat": 32.70837527010728,
+                        "lng": -117.1634427298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Whiskey House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2832,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101585400261099148445\">The Whiskey House</a>"
+                    ],
+                    "photo_reference": "Aap_uEBucOyXM096q9_KCevGTp158DGXNlSrI-xOrcCXQTxA2Sek_RsR5J0TUzectFUlHeu3Rf3xwTJUmFq9yOwxcOJXkChrtYUDeYUk81fJe6L9bgBlj2laez0j_EmNyuAXoTUbo5bUciOisUJJBWsrDp3UCeBpRid0VlEfxUd2ygVFW6d6",
+                    "width": 4256
+                }
+            ],
+            "place_id": "ChIJGdo8UVdT2YARU-W1hlFIS-0",
+            "plus_code": {
+                "compound_code": "PR5Q+V4 San Diego, California",
+                "global_code": "8544PR5Q+V4"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJGdo8UVdT2YARU-W1hlFIS-0",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 822
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "777 G St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7124267,
+                    "lng": -117.1575869
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71372737989272,
+                        "lng": -117.1566003701073
+                    },
+                    "southwest": {
+                        "lat": 32.71102772010727,
+                        "lng": -117.1593000298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Noble Experiment",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110467765997627737182\">Sarah Aupperlee</a>"
+                    ],
+                    "photo_reference": "Aap_uEBO15h4-aeT-NBZPUkhYbzAqRJ9kX6CjotXBAx1du0www4FwCONWq6H09cDmw0miVu6OANzTZvo2w0V09_e24iPmXGAbFDQX0fUn0dv0nFhTeuXClcbvZ7jcMRYnbmJQ1JeEBRp-PH2wjHR4uK8MyYnukD4TsMbuf55GL4owCkHDizH",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoXwPGVlT2YARjJRN5uLrAsM",
+            "plus_code": {
+                "compound_code": "PR6R+XX San Diego, California",
+                "global_code": "8544PR6R+XX"
+            },
+            "price_level": 3,
+            "rating": 4.7,
+            "reference": "ChIJoXwPGVlT2YARjJRN5uLrAsM",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 725
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4766 Clairemont Mesa Blvd, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8357015,
+                    "lng": -117.1880021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83700477989272,
+                        "lng": -117.1866165201073
+                    },
+                    "southwest": {
+                        "lat": 32.83430512010727,
+                        "lng": -117.1893161798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Watering Hole",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110408545266137704142\">Harold Siegwart</a>"
+                    ],
+                    "photo_reference": "Aap_uEDDPT0UE2FuiYM6n68iJUW3_8PN3RJH2KLqXbFPpr04S5qHU0owSNO9rKaLZAJSFk-fPirUue4yUDohpCKAmlKZj_9YzfQ-6RlaSpKaTCLzOAswP718kyElaT4NmHYmrF0w6Q6JRFsyhsAGt68B7m-gbmcOF59oFuGbiUXEi0sBxKTc",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJKxQgMogA3IARS4Ul1C2fzJ4",
+            "plus_code": {
+                "compound_code": "RRP6+7Q San Diego, California",
+                "global_code": "8544RRP6+7Q"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJKxQgMogA3IARS4Ul1C2fzJ4",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 120
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4757 University Ave, San Diego, CA 92105, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7494201,
+                    "lng": -117.0917951
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75081907989273,
+                        "lng": -117.0904485701073
+                    },
+                    "southwest": {
+                        "lat": 32.74811942010729,
+                        "lng": -117.0931482298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Tower Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113255693799431451033\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA_8EBnUbZWYw74SmfpkaoUAHrD_9swFQNE8x2qe9RAWhTqguyCsEm6hNnlE5NW3WejhUFFnE-iIF_r-sbYeDtOd-dTv4SSThWqZjW0FMZ_YLy6ORRdHCR3VMHx-ImSjKaIIhtm5QVOSvUqodm8mpA23QTpVmIxVkE6fWWCZZQkD368",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGZFIgxdU2YARBTVRYXc0wls",
+            "plus_code": {
+                "compound_code": "PWX5+Q7 San Diego, California",
+                "global_code": "8544PWX5+Q7"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJGZFIgxdU2YARBTVRYXc0wls",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 291
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "793 J St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.709002,
+                    "lng": -117.1576512
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71047217989273,
+                        "lng": -117.1562135201073
+                    },
+                    "southwest": {
+                        "lat": 32.70777252010728,
+                        "lng": -117.1589131798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Fairweather Rooftop Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113529657232686012380\">Doug Brown</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_6OOMEVDzkwrptlIpHzAv8Y5lSH8O0_-FwgNMbyWz-sggcTvcIla8SAfwepTY324YpzE-FPN8yiyg9yHrbBC2-MbaroWNNLS7gqNjQamgNcScyIN3a-eVbV1KB31J6GgPtd0mOVBANyFmxvoPkj5O855gA7RytvcKZWFSdTbRvHw6",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ39AhwltT2YAR0TQjJjCB95I",
+            "plus_code": {
+                "compound_code": "PR5R+JW San Diego, California",
+                "global_code": "8544PR5R+JW"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ39AhwltT2YAR0TQjJjCB95I",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 290
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "627 Fourth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7119609,
+                    "lng": -117.1609066
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71330742989272,
+                        "lng": -117.1595713201073
+                    },
+                    "southwest": {
+                        "lat": 32.71060777010727,
+                        "lng": -117.1622709798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Werewolf",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117926141130316694034\">Nicholas Campisano</a>"
+                    ],
+                    "photo_reference": "Aap_uEAm3jGUPOD7KfIl4OqMjIItmmBZdynTqaE7GUC-q88cJo52CBKiZuNc8Iqa_kKTMj_3-f167wT3ih5OCll4N5_3WMQ_ztkO9ab2HL0TFH8AlSvQBdZ8ksV1dX8Vz1zUaVQHBcb3OKiMptDFt_QkY9hE0QmMcuRh-KL8d8APhyhLJfnI",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN9NqzFlT2YARNbO8FwgBcB0",
+            "plus_code": {
+                "compound_code": "PR6Q+QM San Diego, California",
+                "global_code": "8544PR6Q+QM"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJN9NqzFlT2YARNbO8FwgBcB0",
+            "types": [
+                "night_club",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1973
+        }
+    ],
+    "status": "OK"
+}

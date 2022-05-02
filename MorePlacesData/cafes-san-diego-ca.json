@@ -1,0 +1,1073 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAI1UlvuVZ5UZv9Zr1er4eC5SvFG_Y1Ik8zlbOHC5GyNciki6mo_7K0gYY9dw_zbCaym_iJX8YCXSc3t5HH2cJpmM0LFtN4GRSR5QqdseSvL1hPtLOHGfQm1jnB9WTLkIlzCL2FVEVSVEZG3YTkwTVdah8yVaIDqJvO9Tc6c7N2IV67vaOxsZdB52r-q9PuUgP9IiUcY8G1qOu6W5_8G_6GRy79gScw6b15-Y17IKiNZ70kGexBK5xABKocIsI-wAvZ0nUrJMbf777og-VLj6km_0-7b6GJCyf32Ssjp2FxqYea1a8nryvxX6MoJQa2_4ZuoSWC7vclL0OoQnMphRVZYb_EOR_JkbuCMQ4PALUVZpn6ht2WUcqI19WIO6PmRphIpqPafjgjGWDQGA0oD-6ry_w",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10920 Roselle St, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9020347,
+                    "lng": -117.2255682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.90339632989271,
+                        "lng": -117.2242150701073
+                    },
+                    "southwest": {
+                        "lat": 32.90069667010727,
+                        "lng": -117.2269147298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Zumbar Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115027286096822577705\">Zed star</a>"
+                    ],
+                    "photo_reference": "Aap_uEDFseowxxOo6sgh6hptkokA8NiM8hBhrN36oJrCytqdZsPASeYpj6OF5Tsza5zceWQMaXDhfuDsfDJhPYoNIjzPmKd91xbEtss1wuvhInT2EQOiJ5JQc7baxO1Pkerc9cUHSGe3mD8hc3_rEGWyG5kXshDebkOktUAbKTZD5gs61x0A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJszvcEvwG3IARqvFPtI646ao",
+            "plus_code": {
+                "compound_code": "WQ2F+QP San Diego, California",
+                "global_code": "8544WQ2F+QP"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJszvcEvwG3IARqvFPtI646ao",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 632
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2335 University Ave, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7483084,
+                    "lng": -117.1391773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74963882989272,
+                        "lng": -117.1377271201073
+                    },
+                    "southwest": {
+                        "lat": 32.74693917010728,
+                        "lng": -117.1404267798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Communal Coffee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106364178328364087816\">Bertrand Nocella</a>"
+                    ],
+                    "photo_reference": "Aap_uEBiygcSj4M4u7TIctoPg84eTCoguPzDALud-4CSphyHSGeLve1mZyNQeHvhC7kyNe7_CWOVhPF0ZELAPtNU6ApWrDjcHbKOy-pFeJNvLZyjbaChbIsqMwJBAIxviKfVWXu5YFTUWrLlcSSgK5e1ZVHu5VDWt8dtg67BG45E-QoZl5iD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJ3YYMu5U2YARY3qheaa1Dlc",
+            "plus_code": {
+                "compound_code": "PVX6+88 San Diego, California",
+                "global_code": "8544PVX6+88"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJJ3YYMu5U2YARY3qheaa1Dlc",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 943
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2911 University Ave, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.748283,
+                    "lng": -117.1306754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74968422989272,
+                        "lng": -117.1293235201073
+                    },
+                    "southwest": {
+                        "lat": 32.74698457010728,
+                        "lng": -117.1320231798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Holsem Coffee",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115669913533142343685\">John Teo</a>"
+                    ],
+                    "photo_reference": "Aap_uEDZ0XoUEfrrmCE_unPLf2AaEZ8I5gl1eNfE_W0kvjGFQbH4AD-_fD3WAhi1PeKJnMUbiJsYPQIuMM4JmxJavmy9MssEy9Zpg5BJRQAHWoM2woQMq0dZC9Gy5lz-U2jx4Mac68vlwbV-P7eS1gR5RTDdolR0zp1ecrWZVOQ9BRRK8NXw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJbR3nnvZU2YARyQIkkFcEiH4",
+            "plus_code": {
+                "compound_code": "PVX9+8P San Diego, California",
+                "global_code": "8544PVX9+8P"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJbR3nnvZU2YARyQIkkFcEiH4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 633
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1735 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7623107,
+                    "lng": -117.1466482
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76373822989272,
+                        "lng": -117.1453035701073
+                    },
+                    "southwest": {
+                        "lat": 32.76103857010727,
+                        "lng": -117.1480032298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Meraki Café",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102330294009146773607\">Anatoly Petkov</a>"
+                    ],
+                    "photo_reference": "Aap_uEBxqJRwh19YzY7yGNjgLWl7paJPK69XNb51EFfFZXHofywupv1A1NhIYpW8b-zfGzen9cJNh_yO09T8PkNsKjMlWsGgKb8Nn_nCX-I1UReGDsU2t7toXysVEqEq0Q7BpjFAN3kz3k5FO6wJmwH4kHODT1xu_AZWDev5hnkuPvRIVHzy",
+                    "width": 2742
+                }
+            ],
+            "place_id": "ChIJR4SQVh5V2YARPVvX7v3V5rg",
+            "plus_code": {
+                "compound_code": "QV63+W8 San Diego, California",
+                "global_code": "8544QV63+W8"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJR4SQVh5V2YARPVvX7v3V5rg",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 248
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4340 Genesee Ave UNIT 110, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8220621,
+                    "lng": -117.1843455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82357997989272,
+                        "lng": -117.1828648701072
+                    },
+                    "southwest": {
+                        "lat": 32.82088032010728,
+                        "lng": -117.1855645298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Forum Coffee House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 800,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107721404123505875377\">albert lee</a>"
+                    ],
+                    "photo_reference": "Aap_uECqvDNNz-FB8Lr2Z7rXz5q0_l1VlJo3Rqmes2ZeMWPj8kDJBHCL8VqloQvWjlPFkNwbnXbIUEbVnlTaBN731kwy7WrZjWQZlrC1hZFZiPt4JDdrxbbXRgZ8w_KO45XuaCFksGUXr4ut2wWXmLaOwCA8MuTwmKmMPvbZpWLnG1nHz-UI",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJhVr-MHAA3IAR2F9JiPmiqQ4",
+            "plus_code": {
+                "compound_code": "RRC8+R7 San Diego, California",
+                "global_code": "8544RRC8+R7"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJhVr-MHAA3IAR2F9JiPmiqQ4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 555
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "777 Sixth Ave #105, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.713107,
+                    "lng": -117.159018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71454137989272,
+                        "lng": -117.1577892701073
+                    },
+                    "southwest": {
+                        "lat": 32.71184172010727,
+                        "lng": -117.1604889298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Chiefy Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103440390082100813701\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLJjygurTiYl4XzSw3WRGjxYKEB47PMjiGP99ww737TgEZVmuWVL3_jggLAxigZpez9GJigfXA8DWy_ePgnmXHBQeB1T1_QNMKfaAUCHkJFNiPwBaSzmAx8dsNkQJKzYoBx3N473AE0-B0a5RNN0ysGyzaG0OuyW0KMANdHG25bJ1S",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJrbU3VYlT2YARfAHGSEfNR0Q",
+            "plus_code": {
+                "compound_code": "PR7R+69 San Diego, California",
+                "global_code": "8544PR7R+69"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJrbU3VYlT2YARfAHGSEfNR0Q",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 201
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2355 India St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7290754,
+                    "lng": -117.1704674
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73043267989271,
+                        "lng": -117.1691162701073
+                    },
+                    "southwest": {
+                        "lat": 32.72773302010727,
+                        "lng": -117.1718159298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "James Coffee Co.",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115873067149329760784\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDodwZNgxjkKFnDltgTDRI4_iLmcwNFfcpMlKt_G9FClQ9-2vHXDUfJAM0R6PqW80GgerBRHEr-SZBScyZwkG1uUBaFilkNwQokTZh2twfrCr7NED3XnsmbPNrM2ltf2-cajzB3nZvrnrcX_jIHKl_5Z0cZnVe2bDl0x1xCmcJ24v3D",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJSRO9Y7RU2YARNpVwYA2lG9s",
+            "plus_code": {
+                "compound_code": "PRHH+MV San Diego, California",
+                "global_code": "8544PRHH+MV"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJSRO9Y7RU2YARNpVwYA2lG9s",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1044
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12045 Carmel Mountain Rd UNIT 302, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9832794,
+                    "lng": -117.0754536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98458187989272,
+                        "lng": -117.0740325701073
+                    },
+                    "southwest": {
+                        "lat": 32.98188222010727,
+                        "lng": -117.0767322298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Mostra Coffee",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108022199989332360571\">Max Hughes</a>"
+                    ],
+                    "photo_reference": "Aap_uEAUFTJHDKd3AzNDs-hYNylRxj7_yIBq07NHRY-BlZKfq4Th-eyraTsD6yKU9YarAdkPh5-YXjIXu1ME6Rm8EdFlk3S1FSo4vmk3g5ddO2qKjnFzVmILpYX7glBYrf5DcREbhQv2x2mBJoE2UFutzl8qUK03szqWXy0UdGsXxycK-Q_r",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJAz21iqnw24ARnMe5suPM0Cc",
+            "plus_code": {
+                "compound_code": "XWMF+8R San Diego, California",
+                "global_code": "8544XWMF+8R"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJAz21iqnw24ARnMe5suPM0Cc",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 617
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "302 Island Ave Suite 101, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7105668,
+                    "lng": -117.1616112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71179047989272,
+                        "lng": -117.1605490201073
+                    },
+                    "southwest": {
+                        "lat": 32.70909082010728,
+                        "lng": -117.1632486798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Cat Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116816312293577669425\">Leighton Luckey</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLVNhPjXV-so72yAtNaDERIPfPiXgT44QUE4bR6ulRiw_O-WYYnOV9EdLR_jnTMn2w39ShIUz91WhmD1YrvkdT0LJhH-9x-US_zIx7CM08CyzLOMBTfvA1gYfokiYuZcgkJ5-xL6TIdb5ejcZ_AGMAxoc-WWnvTkPxjuwPafG0hX7W",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJ0SGGW1dT2YAROOUV5ZU8Mc0",
+            "plus_code": {
+                "compound_code": "PR6Q+69 San Diego, California",
+                "global_code": "8544PR6Q+69"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJ0SGGW1dT2YAROOUV5ZU8Mc0",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 788
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4496 Park Blvd, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7589365,
+                    "lng": -117.1464236
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76029132989272,
+                        "lng": -117.1449931701072
+                    },
+                    "southwest": {
+                        "lat": 32.75759167010727,
+                        "lng": -117.1476928298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Lestat's on Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100345344331961873205\">Ryan Johnson</a>"
+                    ],
+                    "photo_reference": "Aap_uECVY2Kn76ccMdERzMm7A4mC770OzDi5MKA3JyWiAYWm3stq7nv4M3oIo9OO-UQTQAYniF5Ufajyul27eUQ_dWSinH0VnblyKecUJ_QF8l8qXFzgCCARHm-h57DCXOikh7kl7irUaop38VGet4xtL0SvaH5oD4QOur4VjZM3EAIC8bqb",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJX7Iyz-FU2YARY4tpsJ3gvxk",
+            "plus_code": {
+                "compound_code": "QV53+HC San Diego, California",
+                "global_code": "8544QV53+HC"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJX7Iyz-FU2YARY4tpsJ3gvxk",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1062
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2860 Sims Rd, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7409609,
+                    "lng": -117.2113414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74229142989272,
+                        "lng": -117.2099940201072
+                    },
+                    "southwest": {
+                        "lat": 32.73959177010728,
+                        "lng": -117.2126936798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Moniker Coffee Co",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106537004352478137587\">Damian Samolej</a>"
+                    ],
+                    "photo_reference": "Aap_uEA8eUR-MVkRDQtD5O_pmi6nSm9utw-E8TdOI_BHVVce8vd_mNwEpJqShgAJVgyWgBHIO2ABysFZ84WOfvDZiORxoyaIWdq9IaQYG9j4Wz4fo77HJFcakRkFc0kuT27LMm_9DS2mya-hcdcxhji-7_NJ_9MY1cVIausXZS49nVqrIHCB",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ6UTYDAOr3oAR3q5-4yjbvl8",
+            "plus_code": {
+                "compound_code": "PQRQ+CF San Diego, California",
+                "global_code": "8544PQRQ+CF"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ6UTYDAOr3oAR3q5-4yjbvl8",
+            "types": [
+                "cafe",
+                "home_goods_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 354
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11611 Rancho Bernardo Rd, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0233578,
+                    "lng": -117.0819059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02472162989272,
+                        "lng": -117.0805607201073
+                    },
+                    "southwest": {
+                        "lat": 33.02202197010727,
+                        "lng": -117.0832603798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Elmisa Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2942,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115360188194673732527\">Dan Edwards</a>"
+                    ],
+                    "photo_reference": "Aap_uEBP_UT1N1y-j1xQqN6QckZpepJyVWIEJTyWIeVuLH91xBdoHgTdHcZQx2pb3JPEFNmq-6RxwrcZElinNzxrpnn-ZG-NysZpux1XmYxl7d_qV3zFgeSVGpw52DEXNJFBTkRGxh5G8gTc_r6gCE1l4UqI7qWr9U3rvwSF-HIwqnKJQ_rA",
+                    "width": 2942
+                }
+            ],
+            "place_id": "ChIJR_Xn1QX324ARsPZ4gElDxeM",
+            "plus_code": {
+                "compound_code": "2WF9+C6 San Diego, California",
+                "global_code": "85542WF9+C6"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJR_Xn1QX324ARsPZ4gElDxeM",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 139
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "631 Ninth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7118579,
+                    "lng": -117.1563494
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71319732989272,
+                        "lng": -117.1550783201073
+                    },
+                    "southwest": {
+                        "lat": 32.71049767010727,
+                        "lng": -117.1577779798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Invigatorium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112108462535869254184\">Keith L.</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-DQUZnux9PT_-b7Qy1ggvHZwXZtt09DWhQIj1QORwASJSaq9PtCwTbxVwR-5VKLyBD9cT62xZMqC9GYoJa0XGhe_Y6yr_b4sxW_h0ahpez-RnMNY2eSP-euSSo-388-WYAJv6OxYOqKSqexrtqge9JuhQz4YxMwRfNYyRi2HgcP2b",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJW_57LUlT2YARRRwiZU7ZX7A",
+            "plus_code": {
+                "compound_code": "PR6V+PF San Diego, California",
+                "global_code": "8544PR6V+PF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJW_57LUlT2YARRRwiZU7ZX7A",
+            "types": [
+                "cafe",
+                "bar",
+                "liquor_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 207
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2295 Kettner Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7280124,
+                    "lng": -117.1709463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72938082989272,
+                        "lng": -117.1696538701073
+                    },
+                    "southwest": {
+                        "lat": 32.72668117010727,
+                        "lng": -117.1723535298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Bird Rock Coffee Roasters",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106537004352478137587\">Damian Samolej</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-gXJn-mw9z1TkAWG1e8Whxa4nJoxKZj1Mcx7dv10GNxscxpYdX7wiYLdzuxHjC-Wjjg26pkduT1Xro6fHA7UZYqPUrDKW-BixgvxWOqLDOI4pJdQs4oS8FuIzGOEc40ZQYEyLQUYkyk7XcwX7HuLGCmTlzYHYrrypaAu9H_jYeEAC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJqyG-ebNU2YARbQPtVxO5Nwg",
+            "plus_code": {
+                "compound_code": "PRHH+6J San Diego, California",
+                "global_code": "8544PRHH+6J"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJqyG-ebNU2YARbQPtVxO5Nwg",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 643
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3088 Fifth Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7375277,
+                    "lng": -117.1604973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73888042989272,
+                        "lng": -117.1590909701073
+                    },
+                    "southwest": {
+                        "lat": 32.73618077010727,
+                        "lng": -117.1617906298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Cafe Bassam",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3002,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118417939282901838818\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECl8CLftMuNhUiEKtkdhuLdb1w8p3nK_Y6KkvhlhJQeLqsHeqD0LZbhBmVqmM8sQ5WMSFu0ATMsMfKTXntS88PqHb4s7drYneC8OScH1nmWMNGHTEHLTEbDurM5rwgLuG8XMC6tjgOaUZhe67ovz63oxORIcxEMLoj1WWY6ri1TOAGK",
+                    "width": 4003
+                }
+            ],
+            "place_id": "ChIJidkdx8dU2YARH-ZfDf-lp0k",
+            "plus_code": {
+                "compound_code": "PRQQ+2Q San Diego, California",
+                "global_code": "8544PRQQ+2Q"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJidkdx8dU2YARH-ZfDf-lp0k",
+            "types": [
+                "cafe",
+                "art_gallery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 845
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2873 Adams Ave A, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7627539,
+                    "lng": -117.1320113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76411277989273,
+                        "lng": -117.1306745201073
+                    },
+                    "southwest": {
+                        "lat": 32.76141312010728,
+                        "lng": -117.1333741798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Dia Del Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106010650814475146264\">dglockler</a>"
+                    ],
+                    "photo_reference": "Aap_uECROGDB0KHNyYkmaK-VKE-FAQmPU_fBArX6SgMxmcamh6LgCtF_7Vjv0aRppnvpEEosyhG6Mo3hFSC4eXO4MURj61XtmmXS0UEUVeUhGtHJUtX_nmydPbYKIEbIMepkK_UNoQYEGr3oO3Z730BfX_4p1ES3jHs3Ftj8KClvZiwxSvHv",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJO6pwAl9V2YAR-rJZyCbuvQs",
+            "plus_code": {
+                "compound_code": "QV79+46 San Diego, California",
+                "global_code": "8544QV79+46"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJO6pwAl9V2YAR-rJZyCbuvQs",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 111
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "801 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7481204,
+                    "lng": -117.1570149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74962102989272,
+                        "lng": -117.1556693701073
+                    },
+                    "southwest": {
+                        "lat": 32.74692137010727,
+                        "lng": -117.1583690298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Better Buzz Coffee Hillcrest",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2813,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106447521204101666961\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBJMvs61qGU-s0AuWAqtor1nA_gjoj0twwdz1MnGwVoFhtzRRodImCwyg0wwroC_lYo80pOA70dabp0PNTFBpNRI2cameziDLV8XHFRJKiYtuXA2wQNww5Abd80egCjJOB9xyhg7PiqA3pG2IUEc7OcEV5qsDIDL7nG_sl4_g8k_m8t",
+                    "width": 3841
+                }
+            ],
+            "place_id": "ChIJiZB7QdtU2YARBz7sv-2hm7w",
+            "plus_code": {
+                "compound_code": "PRXV+75 San Diego, California",
+                "global_code": "8544PRXV+75"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJiZB7QdtU2YARBz7sv-2hm7w",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1213
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3019 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7627692,
+                    "lng": -117.1297307
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76417797989272,
+                        "lng": -117.1283696201073
+                    },
+                    "southwest": {
+                        "lat": 32.76147832010728,
+                        "lng": -117.1310692798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Hawthorn Coffee",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102733704284338606066\">Duceani Davila</a>"
+                    ],
+                    "photo_reference": "Aap_uEC6W8ClDV0eKC4b_OWz1fqAi95fuGlV_s09si7P9w9r9K5-Hp4eWs8PUl7WQE6JZWn-KNqXSZV1NI1XpVzpYNlVCaK7diGO5GKGJN-hRs0XEdS8GVoZIIHhVkIZi7bF8U_-K88g2Hu4IMyM9k1LaTA0mqOZ4gZhpUpg4XWeuCTHIW0l",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJIfLGNf5U2YARnC_Y8Wx3MrM",
+            "plus_code": {
+                "compound_code": "QV7C+44 San Diego, California",
+                "global_code": "8544QV7C+44"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJIfLGNf5U2YARnC_Y8Wx3MrM",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 288
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3562 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7634863,
+                    "lng": -117.1159506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76477682989272,
+                        "lng": -117.1146028701073
+                    },
+                    "southwest": {
+                        "lat": 32.76207717010727,
+                        "lng": -117.1173025298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Dos Palmas Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113175252967785213916\">Jeremiah Ramon</a>"
+                    ],
+                    "photo_reference": "Aap_uEDEj9r2_I_BzT5ybsSFbehbCokycD4sDI43l4w7wZiU1JRm78BOOEbphPvfs86S9AxODCE2Bp_ZompZ2OqAS-ypQNtkK6P1X0g9KcLaxc7r_84MD3kV9wK9EqzEG8x-oRIHgoOHRdYABPiG7IvXtZD3ncybLEN7GwK4J26IVuypsv6x",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_3VhaVJU2YARPr6do5CQ-7c",
+            "plus_code": {
+                "compound_code": "QV7M+CJ San Diego, California",
+                "global_code": "8544QV7M+CJ"
+            },
+            "price_level": 1,
+            "rating": 4.9,
+            "reference": "ChIJ_3VhaVJU2YARPr6do5CQ-7c",
+            "types": [
+                "cafe",
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 224
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6225 Mission Gorge Rd, San Diego, CA 92120, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7880909,
+                    "lng": -117.0974227
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78926397989273,
+                        "lng": -117.0959867201073
+                    },
+                    "southwest": {
+                        "lat": 32.78656432010729,
+                        "lng": -117.0986863798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "S3 Coffee Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117218900904881078243\">Jamie Pullman</a>"
+                    ],
+                    "photo_reference": "Aap_uEByjw4b0eLrTeVTxQLWJnuPhbAfTX75inUukl9-chPpr1Th2sSepBvOmZDIwGroOo-5MmrC26uCKgIoHjrqTmthB_x3tIeu5IDfY4IRSimMWLQLVv5ezmfpCosqa8TXWNNLl2WyTw7Ib-MFTATryzB-kUI6M25sXTJWML7CtwcS8e37",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs8dorMZV2YARJ9OOZ_Q70-4",
+            "plus_code": {
+                "compound_code": "QWQ3+72 San Diego, California",
+                "global_code": "8544QWQ3+72"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJs8dorMZV2YARJ9OOZ_Q70-4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 347
+        }
+    ],
+    "status": "OK"
+}

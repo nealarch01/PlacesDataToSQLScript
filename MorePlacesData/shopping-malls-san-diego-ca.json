@@ -1,0 +1,1034 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAmfi1pcKVT6CKgfKHRLsm9qhl9dBUYzJYFcOFrTHpxB0d3WV-82g-8886_P4iORX22sA_UJzY-di1eP2r0UcPu9gksWdkXWcS_oKFLpULjws2PpMpMPRLriBA_o7ZUT_Eii2URKAFVKbP0mlMy7s60HK-5Pe-rUWii1gTb3DTotghFjUn7cYmwwxQXRNJ2Fq3hxlqceH0AayzM7Rpx8C8Kho2OhnjnNFgKsn5iLLf6GdN1Nzjqyl8Fw3ZxQ9QVjZrPn6OcFoljIVq6H4XHLsZrd4z8bDqw9M8X3tEJtzV4WtASx-YJudZPpX_UCyL8BX39L5LCJgowTmn4yX6KgPP-r4no5hr_7zixFcKuW9T8PMOQOiajoP_8BoXJvSWjrwXHJ1gWe5YraHuPSv11xffahAcWThWmZTXTHKo",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1640 Camino Del Rio N, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.76839,
+                    "lng": -117.1484115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77291665,
+                        "lng": -117.14170005
+                    },
+                    "southwest": {
+                        "lat": 32.76479605,
+                        "lng": -117.15607585
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Westfield Mission Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113063636063313609403\">john brown</a>"
+                    ],
+                    "photo_reference": "Aap_uEBa7kfBTTidKUdvkAE9gX4cvbl6cpxxfL8z_dK8AQwdcWSKsPzT1MZ4rHCBlFctc8LU08lgvYyMJgBqcF2N-gHb-NJNCPRhBzlcq1d3uqDsEo0c0c2FizaA08OP5IHWjCGaCEnWWh92wh_pZWeknK-0tjy7gMQ2j13SXrV4ZrAgBP8n",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs2n-qRlV2YARq_acCtnYnGA",
+            "plus_code": {
+                "compound_code": "QV92+9J San Diego, California",
+                "global_code": "8544QV92+9J"
+            },
+            "rating": 4.3,
+            "reference": "ChIJs2n-qRlV2YARq_acCtnYnGA",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "movie_theater",
+                "shoe_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 12463
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7007 Friars Rd, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7681182,
+                    "lng": -117.1667284
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77180835,
+                        "lng": -117.15973575
+                    },
+                    "southwest": {
+                        "lat": 32.76421575000001,
+                        "lng": -117.17472515
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Fashion Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109789129062692613917\">Rob McKee</a>"
+                    ],
+                    "photo_reference": "Aap_uED6FE7SyzTszOoDD4FCZzYFqyFtdBL-DOR2fE8bqNqdAXai4-hse40yp5pGqpi3-_D708S7cEIpDhoWI54T94saam7FBhFYipT7z_65PxmfTYmxJXtCmVTFlc0Elwmbr3fCYO7y7GIBdqDNno6-ZQ5r6TVwwtI6ec10WKYSL4Mw5KzX",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-Vi3YjFV2YARwrGaFNvAayQ",
+            "plus_code": {
+                "compound_code": "QR9M+68 San Diego, California",
+                "global_code": "8544QR9M+68"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ-Vi3YjFV2YARwrGaFNvAayQ",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14100
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7610 Hazard Center Dr, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7708649,
+                    "lng": -117.1584995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77271007989272,
+                        "lng": -117.1557116
+                    },
+                    "southwest": {
+                        "lat": 32.77001042010727,
+                        "lng": -117.1594288
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Hazard Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116696814553331361535\">San Diego Johnny Surf</a>"
+                    ],
+                    "photo_reference": "Aap_uECx7he6OIlHzYZ-5NAXZ05f2FEK32dysuuXHCpf89NUAJo_sI4gNOnpq7n_EmVw3LX9NDTXyGoxcKOTvM1B75QB9_pvRBL8mtyJa9yT-3U4thQP5RvY-3GG1FdNgdWDm69fehtMHS3Wwwmoj0OZd5qFqEpky7h6D6aH38-E6wE29QEV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJUdl3tDtV2YARcNhVCjBL5n0",
+            "plus_code": {
+                "compound_code": "QRCR+8J San Diego, California",
+                "global_code": "8544QRCR+8J"
+            },
+            "rating": 4.2,
+            "reference": "ChIJUdl3tDtV2YARcNhVCjBL5n0",
+            "types": [
+                "shopping_mall",
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2427
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4545 La Jolla Village Dr Ste E-25, San Diego, CA 92122, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.87105460000001,
+                    "lng": -117.2114223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.87685215,
+                        "lng": -117.20522875
+                    },
+                    "southwest": {
+                        "lat": 32.86391395,
+                        "lng": -117.21361735
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Westfield UTC",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111730951099835560454\">Doug Orr</a>"
+                    ],
+                    "photo_reference": "Aap_uEBfa62ZxHnx774waCZyogRHeWYdYVY4bJRUdtJGf1fZdd5BMqy0abTp2OLOD3Wo9tlRj47TzaCmhrWynQO7Oen2npHr_qtIa4eLhZTFo_4d3SNvC5H6k6KL6Uk_N-pMgGsbepz-mt70aObP-avgKulOzXu8uQ22OesHWtGjt7eTBM-V",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ9YPXLNMA3IARmF2_yZ7j3os",
+            "plus_code": {
+                "compound_code": "VQCQ+CC San Diego, California",
+                "global_code": "8544VQCQ+CC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ9YPXLNMA3IARmF2_yZ7j3os",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "movie_theater",
+                "shoe_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 10395
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5401-5605 Balboa Ave, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.819205,
+                    "lng": -117.1788223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82054737989273,
+                        "lng": -117.1775151701073
+                    },
+                    "southwest": {
+                        "lat": 32.81784772010729,
+                        "lng": -117.1802148298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Balboa Mesa Shopping Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110315481778794549103\">Carlos Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uECFamLVZ5efFy4qT9016yYjxif3nREtrgY960uv6qhScQVNbBbPjkLb5xo11FFCg-Q1ydtuzkiqWHjQUE9K5A3OgO9K6xqhhk11l_urMTk3r4qryIPiWYUIB328KIlRcEKTsKD7A2wvAKtEG65w8SSTSZ46k7LwtAH6_y14GjLM77tt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJo30Nc3QA3IARfPpHn_dKaMk",
+            "plus_code": {
+                "compound_code": "RR9C+MF San Diego, California",
+                "global_code": "8544RR9C+MF"
+            },
+            "rating": 4.3,
+            "reference": "ChIJo30Nc3QA3IARfPpHn_dKaMk",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 3331
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "849 W Harbor Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7090645,
+                    "lng": -117.1709366
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71090757989272,
+                        "lng": -117.16835055
+                    },
+                    "southwest": {
+                        "lat": 32.70820792010727,
+                        "lng": -117.17190275
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Seaport Village",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2432,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117475452657534621939\">Jorge Teran</a>"
+                    ],
+                    "photo_reference": "Aap_uECD5HBUTX1lqVj3wOL7fL6YYDropXlxtV1xMGwAlKNR9ybj6RWzdd1xG1aKVzQfN_0pwK43uqMAwOu-nEaxpMInMmX9QKnSzQ_bN8HMwswm1JYgoHMAWLpxl03DQOgFSek4Fier31XTJcrxYFizdlXOVn2qkAtmGK7IiGq3bIlMfHWC",
+                    "width": 4320
+                }
+            ],
+            "place_id": "ChIJj6yU_VRT2YARRK_XY0FcTD4",
+            "plus_code": {
+                "compound_code": "PR5H+JJ San Diego, California",
+                "global_code": "8544PR5H+JJ"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJj6yU_VRT2YARRK_XY0FcTD4",
+            "types": [
+                "shopping_mall",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22093
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8110 - 8340 Mira Mesa Boulevard, 10750 Camino Ruiz, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9143507,
+                    "lng": -117.1467635
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91558182989272,
+                        "lng": -117.1454723201073
+                    },
+                    "southwest": {
+                        "lat": 32.91288217010727,
+                        "lng": -117.1481719798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Village at Mira Mesa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117115218348289644639\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAuD4jDJienBZ-swe7HFtF1RLasCBKoSstRr-9F2-b2MKzdazPvuOf3Zh0GXQGVoh96Io74UduzyEA_CknVE58peNAIoGyUpFsHJ4R6cywThVz1JSv1by1XlRdQrQHIXwCVdt4XCRQWkQj06mvoayULrgX2WXSsE71TCpu-7DtacvcB",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ7VwAw-v424ARLcRmjp5g9rA",
+            "plus_code": {
+                "compound_code": "WV73+P7 San Diego, California",
+                "global_code": "8544WV73+P7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ7VwAw-v424ARLcRmjp5g9rA",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2923
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12925 El Camino Real, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9522222,
+                    "lng": -117.2325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95745819999999,
+                        "lng": -117.2264765
+                    },
+                    "southwest": {
+                        "lat": 32.9467326,
+                        "lng": -117.2376917
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Mar Highlands Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101926704675145784416\">segorov</a>"
+                    ],
+                    "photo_reference": "Aap_uED7NS48uoIYc55OOelldigX_2Yc362n7RZGyoc4wXoTH8NnOgnLSJIlwwmFDf7GviIi0O0URIJY550oQWirFCjqgWXyLFJF5RsPy7813uoQEDxmVnBoQzfLi9hUSyqSDIC39jHF-Ird1IPBRTP0z0P32BtZrMTfrCIunm2RLb_n5BPG",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJAzaa1ZwI3IARheNs8Rneqbo",
+            "plus_code": {
+                "compound_code": "XQ28+VX San Diego, California",
+                "global_code": "8544XQ28+VX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAzaa1ZwI3IARheNs8Rneqbo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2289
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11602 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9797098,
+                    "lng": -117.0817682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98120727989272,
+                        "lng": -117.0803562201073
+                    },
+                    "southwest": {
+                        "lat": 32.97850762010728,
+                        "lng": -117.0830558798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Carmel Mountain Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112998238308021944911\">Yuriy Kravchenko</a>"
+                    ],
+                    "photo_reference": "Aap_uEDbMqr99QPVsaUQVAehtyBbsIjx_UDpwJ51uNjaW7asvA7VzFIVypQIHWDu5R3UszYKT7GZKqQbrfLcichyAzJX3eun9mXNJ4EjoQ5y3VJfPtP4tDxJ7Bc5DugU5YNzDuOLTrJvD8t5vY-jBjOj_kI8CYbSovAusclNmCV93ZLVtARz",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJx2QDUOj724ARj2KI7Zit-qM",
+            "plus_code": {
+                "compound_code": "XWH9+V7 San Diego, California",
+                "global_code": "8544XWH9+V7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJx2QDUOj724ARj2KI7Zit-qM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3042
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4821 Clairemont Dr, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8303572,
+                    "lng": -117.2033988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83637744999999,
+                        "lng": -117.19852455
+                    },
+                    "southwest": {
+                        "lat": 32.82487445,
+                        "lng": -117.20864675
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Clairemont Town Square",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110315481778794549103\">Carlos Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uECH6EmbRujnTYg7aAr5coXAEMkm6Asuks5Z3PZtI-vuWeCWL65iJOMfY8ylGlDzEXB3bR8ySMjv5bP9gOtfmRNLTAMG6JFLedxa-oIlcU94SW595iDpU_Kadd5CBFokqAh-V-KqtQ7LPftuJLY5rY82tvKgLb5j1OiMcVCtZfx_5Uao",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJA4D7BPYA3IARYPEkR8XNvkM",
+            "plus_code": {
+                "compound_code": "RQJW+4J San Diego, California",
+                "global_code": "8544RQJW+4J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJA4D7BPYA3IARYPEkR8XNvkM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3981
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4211 Camino De La Plaza, San Diego, CA 92173, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.5442297,
+                    "lng": -117.0411319
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.5465094,
+                        "lng": -117.0317695
+                    },
+                    "southwest": {
+                        "lat": 32.5422634,
+                        "lng": -117.0506595
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Las Americas Premium Outlets",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102334931854743885618\">Jacqueline Rodriguez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDCC30liJEMVuS3W4ZzdBiPXZtMgCX_LwChRCDQ70Lwu0XlRjtHPKIkSQRaqPVpGQIslPpCO0eANSLyNajMRJlanTWpGxgII3AlOJle6-hfujEAf1dFgN2XoHqjwroqKS92FKU6yDH51Md7ond-1jV7-9iBlV6ByOLDsUhTU_6HF4is",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJka06sBpJ2YAR9T9ROsIgisk",
+            "plus_code": {
+                "compound_code": "GXV5+MG San Diego, California",
+                "global_code": "8544GXV5+MG"
+            },
+            "rating": 4.6,
+            "reference": "ChIJka06sBpJ2YAR9T9ROsIgisk",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19416
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2345 Friars Rd, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.781183,
+                    "lng": -117.127398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78254592989272,
+                        "lng": -117.1260305701073
+                    },
+                    "southwest": {
+                        "lat": 32.77984627010728,
+                        "lng": -117.1287302298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Fenton Marketplace",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116180150695772922309\">James Henry</a>"
+                    ],
+                    "photo_reference": "Aap_uEDNLH3gghc-ZmAFfx8QcalhmTTsOBBH5QXnds4SRZpB6r7obj-D3LESZUab0GYaGwGqD--tsRUZIrGh53HJfM7AYHlKrLhQnK0zs75ulnaOkmO_tQvHhNRB05vl76_qSW3uf8jSyy7ncWzCOBKYUWMVjfF070Xf3BkyVP-kSkx1S73b",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJfxMkyhNV2YARxngneWvYbjo",
+            "plus_code": {
+                "compound_code": "QVJF+F2 San Diego, California",
+                "global_code": "8544QVJF+F2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJfxMkyhNV2YARxngneWvYbjo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4886
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10511-10543, 4S Commons Dr, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0195407,
+                    "lng": -117.1128561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02083637989273,
+                        "lng": -117.1115666201073
+                    },
+                    "southwest": {
+                        "lat": 33.01813672010729,
+                        "lng": -117.1142662798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "4S Commons Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115007107661037693620\">GL Brannock</a>"
+                    ],
+                    "photo_reference": "Aap_uEB_TQ53Cbq2vxOeokk8ptlg2NoF146Rp-e5d76vdtM4t9usIyZtTkgwK3Ys1ejtktcHWYTcd-j7OYL7XaiSg6V6xd7u8HKAXyKHHbJPn1C7YktiNuQugOGVE0MVdWrQe8HPk-pXkVWl_mbY8Qe1evz8XjUujaqBAhe9LNUuY4-3r_Wp",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJD126lOL224ARbHHpEh3Ha_8",
+            "plus_code": {
+                "compound_code": "2V9P+RV San Diego, California",
+                "global_code": "85542V9P+RV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJD126lOL224ARbHHpEh3Ha_8",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1737
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3555 Rosecrans St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7497847,
+                    "lng": -117.2047651
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75114672989272,
+                        "lng": -117.2035345701072
+                    },
+                    "southwest": {
+                        "lat": 32.74844707010728,
+                        "lng": -117.2062342298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rosecrans Shopping Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107912982902446183203\">David Janisch</a>"
+                    ],
+                    "photo_reference": "Aap_uECbJ6C396zhrrUHj14cIfun5dOFNYZB1SVszjGLXVa5T9FN_yMfNQ6kjjXC31WfguykI7tWNwimS1EHfYvyAvl7OFF61iGgD4O4g3CvkfVXCZrSU_6qIYVhd0k3yAXBlMEROdpm7FNERUzn6_8RPispvgVeyZTp2SOcWNut1aAkzkBu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ2T7LpOOq3oARNqUnm4tjvY8",
+            "plus_code": {
+                "compound_code": "PQXW+W3 San Diego, California",
+                "global_code": "8544PQXW+W3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJ2T7LpOOq3oARNqUnm4tjvY8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 518
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5604-5698 Mission Center Rd, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7754966,
+                    "lng": -117.1553845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77747710000001,
+                        "lng": -117.15241905
+                    },
+                    "southwest": {
+                        "lat": 32.77204589999999,
+                        "lng": -117.16006045
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Friars Mission Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106150946696244046287\">Diane Felder</a>"
+                    ],
+                    "photo_reference": "Aap_uEDRXKWCS0yn9AIiZnqAuDvlGykFxoQs-zam1V33KAxDRxicY_C-7bRYXgvT887GzqfGx1KA10d_wxHCyLThNSoU_aGCR0EB0EVAHW4tH4vxdBPGI70ULogv8tLe56s6q39x55fzuD7v4xRQzWumKKZioFG_-OMLYNmsUebcfXtWuvqU",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJsUaDNTlV2YARlj6XnYJ3U98",
+            "plus_code": {
+                "compound_code": "QRGV+5R San Diego, California",
+                "global_code": "8544QRGV+5R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJsUaDNTlV2YARlj6XnYJ3U98",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2253
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2461 San Diego Ave, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7521416,
+                    "lng": -117.1944266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75357947989272,
+                        "lng": -117.1929466701073
+                    },
+                    "southwest": {
+                        "lat": 32.75087982010728,
+                        "lng": -117.1956463298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Old Town Esplanade Shopping Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111147679647020656845\">Andrew Woulfin</a>"
+                    ],
+                    "photo_reference": "Aap_uEAo-SMB56bcQFgb1C0mikOCuxkN3FO1_TaoCcrM2dtnwJ49BsCiz4uloPvCYKEbGAI3PXygJdq2GjUm024MsLxfz2gWut0geZnKQ6lXJGcS87nfmepqYvVN0t78HelcjZNn9mC4nm27qh6Fzq51TyslQ-6t5Zvd6C9NwG-hLEHB_KHC",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJu0m-Wd6q3oARuylsptSPnRc",
+            "plus_code": {
+                "compound_code": "QR24+V6 San Diego, California",
+                "global_code": "8544QR24+V6"
+            },
+            "rating": 4.7,
+            "reference": "ChIJu0m-Wd6q3oARuylsptSPnRc",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 176
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3327 Rosecrans St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7478363,
+                    "lng": -117.2057935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74979232989271,
+                        "lng": -117.20296405
+                    },
+                    "southwest": {
+                        "lat": 32.74709267010727,
+                        "lng": -117.20862225
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Loma Square",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112210108439925277434\">Juan Pablo Abascal Aguirre</a>"
+                    ],
+                    "photo_reference": "Aap_uEAiFKQrss2ANdDNVIXAdKNRWKnvhADClwDz0fSzWCg2F30M1gDlMGhbJc5sJc-A_xfnmuvOrYx435q0_tUTZ3z0ZEwESFHNeIV10vqV1ABpqYhLzE02zUN717j3wEL0Z86cbB1WX8IMSEztpijYLIs-Kr87Yuyux5OAmok0aV5uqoRB",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJp8HeWyer3oARmuQtS8p4nUw",
+            "plus_code": {
+                "compound_code": "PQXV+4M San Diego, California",
+                "global_code": "8544PQXV+4M"
+            },
+            "rating": 4.2,
+            "reference": "ChIJp8HeWyer3oARmuQtS8p4nUw",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1858
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Horton Plaza, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7129462,
+                    "lng": -117.1596788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71436002989272,
+                        "lng": -117.1583561201073
+                    },
+                    "southwest": {
+                        "lat": 32.71166037010727,
+                        "lng": -117.1610557798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Gaslamp, San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115791597474707239078\">Fabien Bornancin</a>"
+                    ],
+                    "photo_reference": "Aap_uEAvzwaSIh0e9MaTSYpDVFiy4HMUvkUGZiIJmA4tQmMB3aqk2654VeDXIj0NnetIbxnZ8piFmbEnVCJxKlp_Ujs_Oq9czFj5bo-48kgEfyMzdvYaOcETTmBBZTN9JyL72iCQW2Ex9xhTnVKVl0dK1G3TVhI8OzVPM4vB5zLA-1mDnwMf",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ6SIRGVhT2YARIr1h_oQB_zM",
+            "plus_code": {
+                "compound_code": "PR7R+54 San Diego, California",
+                "global_code": "8544PR7R+54"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ6SIRGVhT2YARIr1h_oQB_zM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 527
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8915 Towne Centre Dr, San Diego, CA 92122, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8673554,
+                    "lng": -117.2063733
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.86848552989272,
+                        "lng": -117.2051860701073
+                    },
+                    "southwest": {
+                        "lat": 32.86578587010727,
+                        "lng": -117.2078857298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Renaissance Towne Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115401670334670369503\">Hatsumi Watanabe-Smith</a>"
+                    ],
+                    "photo_reference": "Aap_uED8__SY08fg_wdsrscfSNapZ6Cwp4gFOEpM6JYKd_msBVnnU8muccpb_1n9aK5kLD8UsMppGBfXAuvXMyP43OlDXj7cZmqpBaBdVwv7xaoU_hk5QYrEjWQXMpXHaNhjKL_lnwJuD_TSOSsU189Cd8QEbIJwVAO8rEMXL_NG7ldzIaue",
+                    "width": 1960
+                }
+            ],
+            "place_id": "ChIJ_V1NyM0A3IARGyqO-L2GV08",
+            "plus_code": {
+                "compound_code": "VQ8V+WF San Diego, California",
+                "global_code": "8544VQ8V+WF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ_V1NyM0A3IARGyqO-L2GV08",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 205
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8915 Mira Mesa Blvd, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9141752,
+                    "lng": -117.1306836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91555422989271,
+                        "lng": -117.1293663701073
+                    },
+                    "southwest": {
+                        "lat": 32.91285457010727,
+                        "lng": -117.1320660298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mesa Shopping Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101649932154893070751\">Silver Bridge</a>"
+                    ],
+                    "photo_reference": "Aap_uECLfiEHnrj9j-UARG9T5jfcJjTcuYA4N09uh4pOHD-_JGQV9GR2GjurB8CHEMHQeZSG0EiEY1b_W3m-giHc2wdUb7jwEAGIhQwc8HDQnc8MenpfYVxZs3iYR910r11mPhNb7lQNfgqBkgrIaZVdsEQwZH9l8U99i750t9aoBAKu6nk",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJuSmqXeH424ARr72sTJ2m25o",
+            "plus_code": {
+                "compound_code": "WV79+MP San Diego, California",
+                "global_code": "8544WV79+MP"
+            },
+            "rating": 4.3,
+            "reference": "ChIJuSmqXeH424ARr72sTJ2m25o",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1257
+        }
+    ],
+    "status": "OK"
+}

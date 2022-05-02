@@ -1,0 +1,979 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uECOh0WHhmazsKWOJjle4BZgfvxtyQbo2g6H9tdjk3vGQt3ewWd3z0RaNL_8Rv5915zclMgxnQjvibr9hCzKpcgRlABIjfKhmlUvcAYaF_JyDWStcEGw5iPdS2GK84D0zW5ppavP7D1VGJj8bXxjU1HxNB-CQ_ygK1oi-hCtEn6UyYvGE6VJZXnq9Fna3WiODF4G2W2WAoYUHo_6GPfdR1FZQ50DbtqRqvXrdAonE9qLPIzhP7Hme7QI8HlEFl0lBx_lYBBmh403TWsceKsuiSAmSDVHNaaxsKo1sQdnuCA1QJncVb3L9FzdpdnhEHK69m3POQfGPOvNPJC3Hux02-A3UXGo5kYeru4gRGA_68ZWsRYOSgm4Jmamv36Xpp2QcyNnKoTcNqTo9hNmOzVtpD_76nIqeSEupl5ZcbIAYoYo6EKxPXDW8dEimhU",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "251 N City Dr, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1347481,
+                    "lng": -117.1594537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13610162989273,
+                        "lng": -117.1581887201073
+                    },
+                    "southwest": {
+                        "lat": 33.13340197010728,
+                        "lng": -117.1608883798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "San Marcos Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 724,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108494589557075736131\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBSkCSnVPLquuUjFSCcE4Q0MRVX76p3Q-eSG726QVldHl6OnUxupmW2cE2YJ_xxPI9aRqv4FXWuLYgc7cY9gubg3DWNUeaBQ1O6SaIPKqnSxdE2tSoT1sj5DDRYU192dcPYKdt7H_5dfq7XfGmdeSQxYEsDlFW7A0m2A-86qOAjPBLG",
+                    "width": 1086
+                }
+            ],
+            "place_id": "ChIJWdih-ZmL24ARKV_BVejbnF4",
+            "plus_code": {
+                "compound_code": "4RMR+V6 San Marcos, California",
+                "global_code": "85544RMR+V6"
+            },
+            "rating": 4.2,
+            "reference": "ChIJWdih-ZmL24ARKV_BVejbnF4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13330 Paseo Del Verano Norte, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.032605,
+                    "lng": -117.0473883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03414202989271,
+                        "lng": -117.0459877201072
+                    },
+                    "southwest": {
+                        "lat": 33.03144237010727,
+                        "lng": -117.0486873798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Farmers market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109158180167263692278\">Nicole Johnson</a>"
+                    ],
+                    "photo_reference": "Aap_uEBvMzy_33tTIRnT1lIhwslpMJHVWjCLsf1akZkZ8t_YIKMWiRbf4PqOPCMx2NSUNMkXnkf_GNZoEdPyF1_nwWUwpD9BItD42WUU_0uXGxulKvMZBokmPCSBzIyIxx3e2ntTkbIp5EPR8RlVrLq2V_Jd9z4KMnIrFf1bkZSj5XLJHOc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJo_Yz0ZH324ARtRm1BjG0tiI",
+            "plus_code": {
+                "compound_code": "2XM3+22 San Diego, California",
+                "global_code": "85542XM3+22"
+            },
+            "rating": 3.8,
+            "reference": "ChIJo_Yz0ZH324ARtRm1BjG0tiI",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "325 S Melrose Dr, Vista, CA 92081, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1897132,
+                    "lng": -117.2544445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19107267989271,
+                        "lng": -117.2529997701073
+                    },
+                    "southwest": {
+                        "lat": 33.18837302010727,
+                        "lng": -117.2556994298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Vista Farmer's Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107986919321649051033\">LiveThe LVLife</a>"
+                    ],
+                    "photo_reference": "Aap_uECki8iv5R_iTsd9qyeFmnv4SiV8ipjl9Zngz0oRy1nzUQWVqDDh7qwJfny58kRqomAI_VdCl_XdLkIlh1H5ijqwkxtjndFzOkkgCrBj52QlQg0G1tVm31BbjI6rhCt2E16rpGhXTCuL1XVwmIicLaHrmOXwMpYmgqFwi1tka5QXckgu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJv89ypgJ03IAR1N22nMNdc_Q",
+            "plus_code": {
+                "compound_code": "5PQW+V4 Vista, California",
+                "global_code": "85545PQW+V4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJv89ypgJ03IAR1N22nMNdc_Q",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 650
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "185 Union St, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0579108,
+                    "lng": -117.2972201
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05935302989272,
+                        "lng": -117.2958861701073
+                    },
+                    "southwest": {
+                        "lat": 33.05665337010728,
+                        "lng": -117.2985858298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Leucadia Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117571100832522218124\">sigilfredo ricardo garcia gonzales</a>"
+                    ],
+                    "photo_reference": "Aap_uEDfTmceIf3joHwizgbxoxfzGCyYbQc0it112d4uhnAPbmCGQ49M_opqWC4h3w-Cx1hvbT9yP0pdy8n1ZxMCZ_6W1lLWrKzBRjPzt6bsIiKg3ZEcfNml8rX3DujDHPK-Q9zS9zs-Kh3TKRHRzlPZflAtLOeAEWBvW8FQ6ypHSi_2zBsw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJqcp2rVgM3IARgzCwX7FZAdM",
+            "plus_code": {
+                "compound_code": "3P53+54 Encinitas, California",
+                "global_code": "85543P53+54"
+            },
+            "rating": 4.7,
+            "reference": "ChIJqcp2rVgM3IARgzCwX7FZAdM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 353
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "262 E Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1233932,
+                    "lng": -117.0791968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12463567989272,
+                        "lng": -117.0777300701073
+                    },
+                    "southwest": {
+                        "lat": 33.12193602010727,
+                        "lng": -117.0804297298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Escondido Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117079588563874196123\">Pete Barraza</a>"
+                    ],
+                    "photo_reference": "Aap_uECKMZUjWzs26MHrZa8cAwjb44tm0GTOJ6srjxssTesbDOzFPIXiIZ5BI4uEv-uoHsXOLZK9RAoHjyhiEHZCcKP3jc3_7gziKUv9WkNUoO7tbyB7ofIPDyiZCwsjI5UAfsX2jEx0aqlbCKztZzsLuUgJpJK8UItysdOXmCGNPejJL0i7",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJl-UUf2Lz24ARkIES4m_5gOU",
+            "plus_code": {
+                "compound_code": "4WFC+98 Escondido, California",
+                "global_code": "85544WFC+98"
+            },
+            "rating": 4.4,
+            "reference": "ChIJl-UUf2Lz24ARkIES4m_5gOU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Civic Center, 1050 Camino Del Mar, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.955161,
+                    "lng": -117.2640221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95649512989272,
+                        "lng": -117.2627348201073
+                    },
+                    "southwest": {
+                        "lat": 32.95379547010728,
+                        "lng": -117.2654344798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Mar Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111425477160526303414\">Adela Ramirez</a>"
+                    ],
+                    "photo_reference": "Aap_uEBUCtL9k8fY3kDCS3rrWe--qIW_asvgF8shgNxC4k9KQ4uN09xyCr9aNafdGFjg-LJjOHd1nBg5q5rsHJoEG_rQ72t-l9UEO7dE76ZNonHX2wpkLkMGz3SJNpqc-VkDmYDQmB8NkWt8o5kvRwgGzElVSIDTzmVN1OoJOiiZ1gvvb7Px",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ-26xggAJ3IARQNQWYqeOuMI",
+            "plus_code": {
+                "compound_code": "XP4P+3C Del Mar, California",
+                "global_code": "8544XP4P+3C"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ-26xggAJ3IARQNQWYqeOuMI",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 126
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2115 Miller Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0923855,
+                    "lng": -117.0803134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09374062989272,
+                        "lng": -117.0787907201073
+                    },
+                    "southwest": {
+                        "lat": 33.09104097010728,
+                        "lng": -117.0814903798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Farm Stand West, Gluten Free Bakery, Fresh Produce",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105901989988684567905\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBGgDiFEQKC1HYOcztO6qRvj8jqk9wxk1-U_ie_Uj-S5Iz6Knj4Gm9vCS2jc3qmE1NTNuSogfCicJOAS2qJeqyyV8RnJ0e9cT9GWdY-zSWpz9LibFnEEzoxKIJVfPR0gdy1oW-j7BdHBGa4nrfSBSa4eU2LW_4gqcVznVN5-0NldHIj",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJvdv87HX024AR2jUUUe4gcf4",
+            "plus_code": {
+                "compound_code": "3WR9+XV Escondido, California",
+                "global_code": "85543WR9+XV"
+            },
+            "rating": 4.7,
+            "reference": "ChIJvdv87HX024AR2jUUUe4gcf4",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 132
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "444 S Cedros Ave, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9869441,
+                    "lng": -117.2692131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98831102989272,
+                        "lng": -117.2679615701073
+                    },
+                    "southwest": {
+                        "lat": 32.98561137010728,
+                        "lng": -117.2706612298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Solana Beach Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101194124224124890187\">Solana Beach Farmers Market</a>"
+                    ],
+                    "photo_reference": "Aap_uEB5f_sRw59PKZ5VyTisTMjHCGpTrLKBKlI78wEq2Dkhf9qDoEhFkl95zQkvQwXQGrWb5QGYlCDP1rY1g67Tk5Az8moofbPD1YBlSZNTrw8rVtdUyRxKyOWtVOMckwnBRAK96GnJhS70eWMP1u0PlQr5WwwmF4aMqBFaKcmrAm_Zo_KJ",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ7QD2YNMO3IARcZogXMFqRa0",
+            "plus_code": {
+                "compound_code": "XPPJ+Q8 Solana Beach, California",
+                "global_code": "8544XPPJ+Q8"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ7QD2YNMO3IARcZogXMFqRa0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 179
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "21345 San Pasqual Rd, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0969352,
+                    "lng": -117.0214101
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09832577989272,
+                        "lng": -117.0198258201073
+                    },
+                    "southwest": {
+                        "lat": 33.09562612010728,
+                        "lng": -117.0225254798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Roadrunner Organics / Hernandez Family Produce",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107911800960072025654\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBqBIGpZV2oaGSTne58k3DVFhCenJx6hvvaGaNO1FEtBl9MyiSwujKHsujjHJmsL0cwXr8gIabaiFMj_VIsBIG8s9Ypwl1B0IVXRNpZHnmIpriHUYuXC4a8ixBFJ4fLuNBYKrW89kboijpc_JbU2WCbf9_e_UzRaxcUlpDeZJ6OwyB4",
+                    "width": 632
+                }
+            ],
+            "place_id": "ChIJlx58Bzry24ARMgb3iP6dyCI",
+            "plus_code": {
+                "compound_code": "3XWH+QC Escondido, California",
+                "global_code": "85543XWH+QC"
+            },
+            "rating": 4.6,
+            "reference": "ChIJlx58Bzry24ARMgb3iP6dyCI",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16079 San Dieguito Rd Suite A3, Rancho Santa Fe, CA 92091, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9903777,
+                    "lng": -117.1968089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99176472989272,
+                        "lng": -117.1953505201073
+                    },
+                    "southwest": {
+                        "lat": 32.98906507010727,
+                        "lng": -117.1980501798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rancho Santa Fe Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100849566520692200061\">Alexei Kremliovsky</a>"
+                    ],
+                    "photo_reference": "Aap_uEBUdohMctL2l8hvM8davOd6AlfYyvH9j2ztssQ62VEdH-iPDq1unoYtrWppjgjgE9ELgC2FjaqPfZlTacq8MDIvTiC_yo0N5RrVcTXG59ScXjsGYm46jvCh27GgCe32haQL8fNH4LyLIjzbCoH867Y01Q5MkrO65DF6qlCXd3I70moq",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVxOT1jcI3IARFburzQKxZaM",
+            "plus_code": {
+                "compound_code": "XRR3+57 Rancho Santa Fe, California",
+                "global_code": "8544XRR3+57"
+            },
+            "rating": 4.7,
+            "reference": "ChIJVxOT1jcI3IARFburzQKxZaM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "642 Utah Way, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1010182,
+                    "lng": -117.0772469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10228837989272,
+                        "lng": -117.0758680201073
+                    },
+                    "southwest": {
+                        "lat": 33.09958872010728,
+                        "lng": -117.0785676798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Pykes Pantry",
+            "permanently_closed": true,
+            "place_id": "ChIJU37SuYfz24AREFAIO3zPsj8",
+            "plus_code": {
+                "compound_code": "4W2F+C4 Escondido, California",
+                "global_code": "85544W2F+C4"
+            },
+            "rating": 0,
+            "reference": "ChIJU37SuYfz24AREFAIO3zPsj8",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6120 Paseo Del Norte q1, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1193743,
+                    "lng": -117.3182083
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12079537989272,
+                        "lng": -117.3167962201073
+                    },
+                    "southwest": {
+                        "lat": 33.11809572010727,
+                        "lng": -117.3194958798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Carlsbad Ranch Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1155,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117545581101239403767\">Carlsbad Ranch Market</a>"
+                    ],
+                    "photo_reference": "Aap_uEB3N5nWICxluzVT5KNwZakMYvOOjWQ5rjjJMtQ3Iu21-JeqOJYwfRcHvzsuxO0vRNjxBrcXvwHzXgcNV--m9N-YpTLD4d0rYSyOvC0QF7gGDQaILqVaKcOCh3pVLejNdsvmOGMVvyItrrNC_V9FuKbPohgSFnzDV_x7i9dUvDaRoxlP",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJhcl8bOFy3IARARtLI4kPlkY",
+            "plus_code": {
+                "compound_code": "4M9J+PP Carlsbad, California",
+                "global_code": "85544M9J+PP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJhcl8bOFy3IARARtLI4kPlkY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 124
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14053, 14065 Midland Rd, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9691181,
+                    "lng": -117.0361391
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97046802989271,
+                        "lng": -117.0347517201073
+                    },
+                    "southwest": {
+                        "lat": 32.96776837010727,
+                        "lng": -117.0374513798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Poway Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115179654948689707343\">Nicole</a>"
+                    ],
+                    "photo_reference": "Aap_uEDxu-2kCig0sD4MkpEtxCWEFwUV1rHbGjQusMzn5-UqDHlvEbsKrym-_WZGik8rIQ7SHV8N2UmWd-hbOzCsE9HH213mHxCTH902UxTNsgW_XrIog_8gJWqQt0FKF2Zkz7fMIaNUDxRXsgjE9PhpI702APXNdxYGIPexRa0hFcDbjl1K",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJg4pOrDX724ARNd4fyfveY6g",
+            "plus_code": {
+                "compound_code": "XX97+JG Poway, California",
+                "global_code": "8544XX97+JG"
+            },
+            "rating": 4.7,
+            "reference": "ChIJg4pOrDX724ARNd4fyfveY6g",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 163
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10045 Carroll Canyon Rd, San Diego, CA 92131, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9031623,
+                    "lng": -117.1107398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.90451957989272,
+                        "lng": -117.1093348701073
+                    },
+                    "southwest": {
+                        "lat": 32.90181992010727,
+                        "lng": -117.1120345298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "NEW Scripps Ranch Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100455466357538578085\">Antonette Avelino Tuazon</a>"
+                    ],
+                    "photo_reference": "Aap_uEAVV0woY_9VPtRVE3ISAc0VGOxzxRDFelQ2qsbGaSFTuvTV9sLC39VOryUCIwmRLH6IUAq1FwSU2HQ39UsNZwmIvbrFJ8wChwg-qW2WOYpJX_Czy41J54H4ep0Z3WCb7IQkp5sJtbCSK28u0OS0dc0LlG7_Oy9rt7d3OBCGjTt2LXMS",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJf2-E4WL524AR_JIY07uzKgc",
+            "plus_code": {
+                "compound_code": "WV3Q+7M San Diego, California",
+                "global_code": "8544WV3Q+7M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJf2-E4WL524AR_JIY07uzKgc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10510 Marauder Way, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9108684,
+                    "lng": -117.1402544
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91219147989272,
+                        "lng": -117.1388172201073
+                    },
+                    "southwest": {
+                        "lat": 32.90949182010728,
+                        "lng": -117.1415168798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mira Mesa Farmer's Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117449046079059629557\">Hunter DePolo</a>"
+                    ],
+                    "photo_reference": "Aap_uEDQfr9tMAe2SHb_qnPeIxPhg0X07XcaTpqbJFnWBs3QGMDHFU3ziv17qUtXNgY-iDvZ0cNZ-LFytj0T5wmPImy61jLqm_JBAWTI0BIOdFQDqPLklFcAWSPhlOgpZb1xPTylOMnnGv-Q6PPiw2FLPgWunszoNOEKQMokwUU1rR87OSCQ",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJ44Tzuej424ARjE46SxdMX7I",
+            "plus_code": {
+                "compound_code": "WV65+9V San Diego, California",
+                "global_code": "8544WV65+9V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ44Tzuej424ARjE46SxdMX7I",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1980 Summit Dr, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1074723,
+                    "lng": -117.0447329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10890697989272,
+                        "lng": -117.0435178701073
+                    },
+                    "southwest": {
+                        "lat": 33.10620732010728,
+                        "lng": -117.0462175298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Fran's Original Farm Stand",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2560,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109528979642379685346\">Yvette Alexander</a>"
+                    ],
+                    "photo_reference": "Aap_uEDwBUZSeoL6yyVs8uqceE03u3Szx3MBzbYsU_Hiv5woHuZbzdt3EHg7L36htwz1FN_Sg6Elpb0styIzN3Oehx4jLuj0I_3KjO4PLBVCzauZqSVdjBUaO7QnsuT1ZlmekLAlaXvdzWlvuA7AmXqRzEu5ItGQJVEbBbQQHZwz9FTeLXyk",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJc3b1TqXz24ARl-YG60ICFDc",
+            "plus_code": {
+                "compound_code": "4X44+X4 Escondido, California",
+                "global_code": "85544X44+X4"
+            },
+            "rating": 4.7,
+            "reference": "ChIJc3b1TqXz24ARl-YG60ICFDc",
+            "types": [
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2907 State St, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1603959,
+                    "lng": -117.349536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.16174282989272,
+                        "lng": -117.3481334701073
+                    },
+                    "southwest": {
+                        "lat": 33.15904317010728,
+                        "lng": -117.3508331298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "State Street Farmers Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109985041960281560588\">Layla Bauder</a>"
+                    ],
+                    "photo_reference": "Aap_uEAAcBmsFdnexFhIwUUnf9XrCtflPLcf_A-wVDTR0ewlVO0jWZGM6HxfI3ovlsx-TRDzjRFMZ5hbMWz56nMAQmfvz-OAgFYOVK7OulrEZN6H2NgdcPOVpKS5OhO2_x5iLTHsXRQqzKceUqVMlbM6fKhgOb_WPi8TLLHzNGGE7a3wlBVI",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJp5cjvRpy3IARBV0FZUEmqPc",
+            "plus_code": {
+                "compound_code": "5M62+55 Carlsbad, California",
+                "global_code": "85545M62+55"
+            },
+            "rating": 4.6,
+            "reference": "ChIJp5cjvRpy3IARBV0FZUEmqPc",
+            "types": [
+                "tourist_attraction",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 252
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17050 Del Sur Ridge Rd C210, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0179622,
+                    "lng": -117.1225705
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01902292989272,
+                        "lng": -117.1213168701073
+                    },
+                    "southwest": {
+                        "lat": 33.01632327010727,
+                        "lng": -117.1240165298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Sur & 4S Ranch Community Market",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJa4wtW_7224ARr00QU_u42a4",
+            "plus_code": {
+                "compound_code": "2V9G+5X San Diego, California",
+                "global_code": "85542V9G+5X"
+            },
+            "rating": 0,
+            "reference": "ChIJa4wtW_7224ARr00QU_u42a4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "6939 Linda Vista Rd, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7851738,
+                    "lng": -117.1698036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.78650592989272,
+                        "lng": -117.1684265201073
+                    },
+                    "southwest": {
+                        "lat": 32.78380627010727,
+                        "lng": -117.1711261798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Linda Vista Certified Farmers' Market",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110017415041578953660\">sean maschue</a>"
+                    ],
+                    "photo_reference": "Aap_uEDGXI5PAF5nSdbXTa_O__ehMLubwOXFJ5cpudvfqqyBWaNmnAl7qb-YGIvk2m4qYD8Rxp0uvEi8fiVhT56uOOFLncb0EFCQ8ldjKY_LIrMOFRPY5B9RSXPNKkReuxgpSXv6xehj3X2PfvxYPDTdMIdxfmhPBPHzsDAn1YNp25xdfWix",
+                    "width": 1840
+                }
+            ],
+            "place_id": "ChIJ1TyvkU1V2YARPei6NPdweW0",
+            "plus_code": {
+                "compound_code": "QRPJ+24 San Diego, California",
+                "global_code": "8544QRPJ+24"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ1TyvkU1V2YARPei6NPdweW0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8175 Del Dios Rd, Rancho Santa Fe, CA 92067, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.041401,
+                    "lng": -117.157355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04279582989272,
+                        "lng": -117.1560848701073
+                    },
+                    "southwest": {
+                        "lat": 33.04009617010728,
+                        "lng": -117.1587845298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+            "name": "Paradise Produce Market",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112871222708387085878\">Robin Shull</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLLhdI6Nsdld3Ihz4rJy7AVpSBEe6dzTNq-bHFYiFZNOUqhZIfNPIdmnHQsI5ysbaQFvvX8xhqqZ8PJ0h7UMJ9BnlfGMRYss_m3tHxdeOyh1YfeAzfBSbCxvZ8Q_ljtT4TZSyUkQLXtad6AI1VxvMrzu1LFY_lGBk6IXB8YSRqP3CG",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ9XqqYA7224ARuVdAMrF0Ot4",
+            "plus_code": {
+                "compound_code": "2RRV+H3 Rancho Santa Fe, California",
+                "global_code": "85542RRV+H3"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9XqqYA7224ARuVdAMrF0Ot4",
+            "types": [
+                "florist",
+                "grocery_or_supermarket",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 54
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,1052 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDhglNYsYSMB6AvGw_6dH5384Dvgw9WRzge87m9QFp6k7lLxpzpTd_Rx9lrWc3e8YJEh2R1Du7-lp86zcydHsXWSQPLnN3lJ63Tqeu7q-dRxGyoOiIMiAML90cb3SFywnOhwrf2fAK-z2OzGmLcaqCHH0ghEeiwnonkQ5wMBzMWDXDgqpQ1MF0-Vp16g8Jqff9gXJJLj3EWa80gnUddTxCb2VHejNMjbGngkbL012VpaEh52uCcxUOvpFHY2xk4XMO0eMdLsEwQgY4X_zK9iFgBaQEfyH704xe1phrt02iaRGypxrWy-4-8XmTXToKeAqMRT_zTw3y3e6DSnNhwugkxTWYutuF_aWMLQhIHuPRSSWsnMEZSJxo9hTkqcHioxfyHEGha0jcL1NswJePtyjy4Gkg7JTgHtb2RgwviBRoUpw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3435 Del Mar Heights Rd D3, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9530802,
+                    "lng": -117.2326572
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95441307989272,
+                        "lng": -117.2314335201073
+                    },
+                    "southwest": {
+                        "lat": 32.95171342010727,
+                        "lng": -117.2341331798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Snooze, an A.M. Eatery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110669205502677650244\">fatalErupti0n</a>"
+                    ],
+                    "photo_reference": "Aap_uEC_B7qVuY4dSNLPyqZ_5nuibuWew5xv8wVqcx0S8eY9gF0Q7gwK_x6LV0LKE3pAMZnMJQmLH7fv2BH0SgBiyeql65UysPAWU6iHFZx_1fh7sp1ppTQpbxo2bGRnztxt8s5swUzGFxSjkomcGhmvsf4AwXOfXQ5NLbUy2ykeNar4dgmx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ5dJosZwI3IAR-IPfkUfnjgM",
+            "plus_code": {
+                "compound_code": "XQ38+6W San Diego, California",
+                "global_code": "8544XQ38+6W"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ5dJosZwI3IAR-IPfkUfnjgM",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1031
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "912 S Redwood St, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1102723,
+                    "lng": -117.0841728
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11157297989272,
+                        "lng": -117.0828913201073
+                    },
+                    "southwest": {
+                        "lat": 33.10887332010727,
+                        "lng": -117.0855909798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pegah’s Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100588251446462761124\">Yazmin Barrera</a>"
+                    ],
+                    "photo_reference": "Aap_uECNT4P2ySIIK499FY8VZd3tfa5DiGiKB-3sw38ECxf5qmkqEJ0Kv5GHGzxQe9bVtv8E01Ezu6Y0nszXtCuaoMk9FmEStYid2-ywrPGiwlcDuXBZpyBmjhojDVfX5JoNdKjktzyU69BmaxRPTu8zHjv3T-z2hibgd2Njiq-BoAwEmBrv",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJ_6Y4w4D024AR1t2_te-Wc6Q",
+            "plus_code": {
+                "compound_code": "4W68+48 Escondido, California",
+                "global_code": "85544W68+48"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJ_6Y4w4D024AR1t2_te-Wc6Q",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 929
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "155 S Orange St, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1188473,
+                    "lng": -117.0851317
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12022477989272,
+                        "lng": -117.0837239201072
+                    },
+                    "southwest": {
+                        "lat": 33.11752512010728,
+                        "lng": -117.0864235798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sunny Side Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112127312188116694839\">Crystal Kamada</a>"
+                    ],
+                    "photo_reference": "Aap_uEBtotw21VIPqdmgvHzrYll0U6V5QliwcnRqbPaplr1al1KOT9VLu01ZsH1lNeNsWb1sAt2AgtQ9Gf10pt3cGoaCfeF0vHnuE60P1iTwPKQa2C6LygIG9Oe5lv28JUR62Ny-gUiTqPCjPUVJp6BZnpDuxnQQ_Pd9HALE9YYEGZyapVNa",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-64MRuv024ARXK4ntfq4lAg",
+            "plus_code": {
+                "compound_code": "4W97+GW Escondido, California",
+                "global_code": "85544W97+GW"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJ-64MRuv024ARXK4ntfq4lAg",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 441
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1205 Auto Park Way, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1067716,
+                    "lng": -117.0967838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10893625,
+                        "lng": -117.0951728701073
+                    },
+                    "southwest": {
+                        "lat": 33.10605005000001,
+                        "lng": -117.0978725298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Vintana Wine + Dine",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 650,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116396963051816212109\">Vintana Wine + Dine</a>"
+                    ],
+                    "photo_reference": "Aap_uEBy2jxPvcZOCycTHYGm1jkTWhJUfg4BrIrOXPQ-TUe93AT6xieelCuLOgHRPLkZ2AYYQcLzMd8UOZBs6yvJntGaXjYWrr_sJs41Rxo2AD8_ghAHUnbx_yyFVUlRpmWgEufyyjWbdoJKRW8cVXFJv7cerHXlNQDTds2Bm2nG28zlJ_3h",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJ2R1niIn024ARUTbpQ6TNOMo",
+            "plus_code": {
+                "compound_code": "4W43+P7 Escondido, California",
+                "global_code": "85544W43+P7"
+            },
+            "price_level": 3,
+            "rating": 4.5,
+            "reference": "ChIJ2R1niIn024ARUTbpQ6TNOMo",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1455
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5800 The Crossings Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.12885,
+                    "lng": -117.3058179
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13019262989273,
+                        "lng": -117.3044702201073
+                    },
+                    "southwest": {
+                        "lat": 33.12749297010728,
+                        "lng": -117.3071698798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Canyons Restaurant at The Crossings at Carlsbad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101901937066294679332\">Haisong Cai</a>"
+                    ],
+                    "photo_reference": "Aap_uEBaRHy_X4LBuod1qTVKC86r7rfYat_wSrV3u_8oB3PYHqU1fbCmYCraxVpM_GhSI0obvq75mvbGf0vLW02PP5qAugPfP7IBHTolP-ZZg5XNaUNLUzu4NkzoQ_vtAVgoWDs9mMsSo8GNKEu1byM_e8PXLE3f9pwfmXbza8IUuygLU4Bt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ1cdG1hpz3IARc-NbtQGq7zc",
+            "plus_code": {
+                "compound_code": "4MHV+FM Carlsbad, California",
+                "global_code": "85544MHV+FM"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ1cdG1hpz3IARc-NbtQGq7zc",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 334
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5970 Avenida Encinas, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1240548,
+                    "lng": -117.3242144
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12545397989272,
+                        "lng": -117.3229117201073
+                    },
+                    "southwest": {
+                        "lat": 33.12275432010728,
+                        "lng": -117.3256113798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Toast Gastrobrunch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5422,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109371039678620464876\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECMyUQ0Wfg2i2j-H2v1kzTlgKt-Pv3JhGOQcJaPSb1jk1zS19csdZji2obfZpvHUxs8waIHrhuGnCxK3qcpcohPHpunSztTQeEZeW3ZvtHAzFPZeuNudut9vWxpN4TTrmM-tVIBagpYN7l3qi2AxV7L1_lRTnM4pXj5piVkiYL5woyt",
+                    "width": 8133
+                }
+            ],
+            "place_id": "ChIJe-MaKi9z3IAR2VZbx5pI0eA",
+            "plus_code": {
+                "compound_code": "4MFG+J8 Carlsbad, California",
+                "global_code": "85544MFG+J8"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJe-MaKi9z3IAR2VZbx5pI0eA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 458
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1002 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.06627539999999,
+                    "lng": -117.3030899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06761152989272,
+                        "lng": -117.3016651701073
+                    },
+                    "southwest": {
+                        "lat": 33.06491187010727,
+                        "lng": -117.3043648298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Le Papagayo",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114844268895648149643\">barbara tanksley</a>"
+                    ],
+                    "photo_reference": "Aap_uECuRNwZ_nyHDs9XRs-bNM6-IE1bPN8rMTz3kAyukCdDOftOPy6FEObqNWqkMngI1PqynP_i7lvLrG618XHta0hFk2AMiamTeCInD7FGJGUlcwkJD3rfWtsYSNCr19CpeJJ39uMqVjcrBt_2PtOVSta3SWdQ4VLL8qoOFBtd2e3GdRvo",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJmXBRp_oM3IARtGfOJDKge2A",
+            "plus_code": {
+                "compound_code": "3M8W+GQ Encinitas, California",
+                "global_code": "85543M8W+GQ"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJmXBRp_oM3IARtGfOJDKge2A",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1462
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "517 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0456822,
+                    "lng": -117.293543
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04700952989272,
+                        "lng": -117.2923144201073
+                    },
+                    "southwest": {
+                        "lat": 33.04430987010727,
+                        "lng": -117.2950140798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The Roxy Encinitas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109654948018943729084\">D Lyons</a>"
+                    ],
+                    "photo_reference": "Aap_uEBFdFI4c_OOViyDx9jHjubqizFH8C_h5B2yMgsRW_OU9EXTstS2PyXxskxjrnho2711i-W1JM5mW5o0UGCQf8EdmE5nu9H5Ouzn4bmwp4gymltZkaG3zexZiLTk6VKuAjEl2A8yKsQ7FtQ8C-AFf0FUQbKzSZ6bA_DYJx_HevycEiHU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJHTNdUUIM3IARjbaUXuPBzqw",
+            "plus_code": {
+                "compound_code": "2PW4+7H Encinitas, California",
+                "global_code": "85542PW4+7H"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJHTNdUUIM3IARjbaUXuPBzqw",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 596
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Ponto Rd, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0974798,
+                    "lng": -117.3154053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09854632989271,
+                        "lng": -117.3139540201073
+                    },
+                    "southwest": {
+                        "lat": 33.09584667010727,
+                        "lng": -117.3166536798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Chandler's Oceanfront Dining",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2658,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110867952125244654428\">Yen Nguyen</a>"
+                    ],
+                    "photo_reference": "Aap_uEDR_bKzMohVwB6almwbHuEA6Yf4LK3MUui0CD7oBenzBA5_upC7lvwm-zQdyHxX8dk3UIySKPEkIZPuksxl9iBfY-jnPzcxGPUvbfYXd1dq2JiTlNNMzBsac-intiPvel6QIdMZ0VUUTNAZFg5tZRf6muHRHQMKF1SpIRNfhbY07D0U",
+                    "width": 3952
+                }
+            ],
+            "place_id": "ChIJJ2_BVtVy3IAR_acysSdqw5o",
+            "plus_code": {
+                "compound_code": "3MWM+XR Carlsbad, California",
+                "global_code": "85543MWM+XR"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJJ2_BVtVy3IAR_acysSdqw5o",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 451
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "925 W Mission Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1262466,
+                    "lng": -117.0976337
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12772812989272,
+                        "lng": -117.0962602201073
+                    },
+                    "southwest": {
+                        "lat": 33.12502847010728,
+                        "lng": -117.0989598798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Farmer Boys",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118034254179853937355\">Stephanie Nelson</a>"
+                    ],
+                    "photo_reference": "Aap_uEBH5ya7QsoY84t6mIV_gCnOOMsTptYgGim_H-eO3HW6Kh30wjILpFxaRYljzDEVzdwrd5Nbbvi22qhrECeVPRbGPekiKH3gPJJ31vlGllDK68ceBJTSu_e7XVVZmu7TK1xUioxLvGNPPmnzRuWoEnRjVI3ttMINjQQY-5FktwKhFtGx",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJ_VvMHL7024ARhWTigasL-kA",
+            "plus_code": {
+                "compound_code": "4WG2+FW Escondido, California",
+                "global_code": "85544WG2+FW"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ_VvMHL7024ARhWTigasL-kA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1332
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5480 Grand Pacific Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1305981,
+                    "lng": -117.3093707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13166022989272,
+                        "lng": -117.3078169701073
+                    },
+                    "southwest": {
+                        "lat": 33.12896057010728,
+                        "lng": -117.3105166298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "20|Twenty",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114313481447848654036\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDXUX4i4d8l1SZFAKmYFkHnWcsTkh-P3Gi_xRMuntyQBU9vRhZUnHxl7TcKF-og2twx4KX2SzVgRRP1NIhom5rCsAZnOB71GaWh8At5AHzdIqPTZorE9qWoOUJp1ENHpZ3lPLEX3BgBwWr-PFcleivUNZ6IToGI60ypJWso7m0_j9Sq",
+                    "width": 6720
+                }
+            ],
+            "place_id": "ChIJNydyYwNz3IARrowNespBECE",
+            "plus_code": {
+                "compound_code": "4MJR+67 Carlsbad, California",
+                "global_code": "85544MJR+67"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJNydyYwNz3IARrowNespBECE",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 259
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "510 W Mission Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1285432,
+                    "lng": -117.0926365
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13001947989272,
+                        "lng": -117.0911822701073
+                    },
+                    "southwest": {
+                        "lat": 33.12731982010727,
+                        "lng": -117.0938819298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Denny's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118245334160342303476\">Sarah Olsen</a>"
+                    ],
+                    "photo_reference": "Aap_uEAkLwhG9AHbHFKwQQAV94_5OxvU4mNtNVUZL3ZQtsgDAl4MOqMxK-1a5wDuf0tHDqFHa6dexIvTP0H3f72OUqSt1wwVmb6bHOFz5sxi3dWa7NUihXcObQclNcwbaeUz-GJIZniwD5qe8yUY7IArzmNOLXNg4ruLpNCcAWnT0VfGvYLi",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJNyl1RL3024AReXyYG7f0x6g",
+            "plus_code": {
+                "compound_code": "4WH4+CW Escondido, California",
+                "global_code": "85544WH4+CW"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJNyl1RL3024AReXyYG7f0x6g",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1402
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1831 S Centre City Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1017393,
+                    "lng": -117.0750498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10307422989272,
+                        "lng": -117.0737280701073
+                    },
+                    "southwest": {
+                        "lat": 33.10037457010728,
+                        "lng": -117.0764277298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Better Buzz Coffee Escondido",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104467819109782012218\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDy9yYYSO2ByRqkR_8xc09ADI5xTnCH0rn3XVHPe2gXHsy3Nczsu536eUBEcKJfEzzELRqmTCA5YiPJhAtHX5t0acqR1xfs16W-QGp3nke_gYewpKnIUNROcuJwXQdDQZSzRJu_h7Q7WlPbKjtwm7gnhX0fnzv5Yfk8Yv-dAYiZHNS6",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJd4D4olDz24AR4aoaFwny0Ck",
+            "plus_code": {
+                "compound_code": "4W2F+PX Escondido, California",
+                "global_code": "85544W2F+PX"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJd4D4olDz24AR4aoaFwny0Ck",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 239
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8861 Villa La Jolla Dr #509, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8694222,
+                    "lng": -117.2325269
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.87051242989272,
+                        "lng": -117.2312052701073
+                    },
+                    "southwest": {
+                        "lat": 32.86781277010728,
+                        "lng": -117.2339049298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Snooze, an A.M. Eatery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3021,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114982071425892848034\">Pooja S</a>"
+                    ],
+                    "photo_reference": "Aap_uEDeh5U7llBKODXbPTcdwVMMeYHR-0ztsgwiYP9UfZHDcULPEeuGdQpWW_o0GjmA6YWYnR_pnA6-URhI0uWjkHZTh6kPnFQXjNe0UFu2bGrPWhPytMAxXB2fi8g_WBwYSyW-3HoKEd0JdpraEJXBDJ7MfaVxCadYV2ngaSWVioY9cNVr",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJG5bu9s0G3IARdYlm-aqn9q4",
+            "plus_code": {
+                "compound_code": "VQ98+QX San Diego, California",
+                "global_code": "8544VQ98+QX"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJG5bu9s0G3IARdYlm-aqn9q4",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1005
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1802 S Coast Hwy, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1750806,
+                    "lng": -117.3618917
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17648092989272,
+                        "lng": -117.3606503201073
+                    },
+                    "southwest": {
+                        "lat": 33.17378127010728,
+                        "lng": -117.3633499798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Beach Break Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108525406380956065644\">Joel Bean</a>"
+                    ],
+                    "photo_reference": "Aap_uEBV_ZujGJnGZAKcV2XUO5vZ7BO090acDHFAYIo3CB6HFJboeK2961T8vqxfGGGcq9lPAuDqdBsCzF_NDhIlO2utR-BzjNKHxbVvoaW-bTrAFVWxjmMd36FwxtS8iyky25_WnZufIpsARlQbbFe5DTc1xflk-itmMcRSLnv7YiGq4mw7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJcch14_1x3IARcOxBReM-8Dg",
+            "plus_code": {
+                "compound_code": "5JGQ+26 Oceanside, California",
+                "global_code": "85545JGQ+26"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJcch14_1x3IARcOxBReM-8Dg",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2065
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1260 Auto Park Way, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.110998,
+                    "lng": -117.098959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11251477989272,
+                        "lng": -117.0975160701073
+                    },
+                    "southwest": {
+                        "lat": 33.10981512010728,
+                        "lng": -117.1002157298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Huckleberry's Breakfast & Lunch",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 1201,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112658769696793700581\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDcFy1mTQA-ufVSHpSr6yp3xDvIiPQzbZMh5i0Gq2drGr6HYoui7aYNhJh3R9ult3EChaHo6PFJZXcFqegpBorMf_l4cUyV5BtkN9sENWI1OwfBJO3jP3MHlYLJK7HdS4uPX7W1iRrQ-PT5IxupLgE1fLKgLFXmrg-a6r-CwqEuNNyO",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJKV1cwtr124ARtbj7ipcstQA",
+            "plus_code": {
+                "compound_code": "4W62+9C Escondido, California",
+                "global_code": "85544W62+9C"
+            },
+            "reference": "ChIJKV1cwtr124ARtbj7ipcstQA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "251 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0520996,
+                    "lng": -117.259982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05347672989272,
+                        "lng": -117.2587034201073
+                    },
+                    "southwest": {
+                        "lat": 33.05077707010728,
+                        "lng": -117.2614030798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Breakfast Republic",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113443899674038034543\">Breakfast Republic</a>"
+                    ],
+                    "photo_reference": "Aap_uEBMVxA6chU5CYTgipzWULvPNV3YSsv7mbpxMLcXmL9B3X5XlCmeRQFd1DBMutynh1E6DLFU2QN3qmDcF72shSAe5JCf7vExpPIOsoCAFE6X2nkKRFActazpA_dYiJXv27ddQRrhA9n4nl8hkOuk11cV49jqz17tJzXkPh8h0fUYEBs",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ2Q_bK_UM3IARLpgEJ4aMCQA",
+            "plus_code": {
+                "compound_code": "3P2R+R2 Encinitas, California",
+                "global_code": "85543P2R+R2"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ2Q_bK_UM3IARLpgEJ4aMCQA",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 961
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "740 Nordahl Rd UNIT 114, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1341361,
+                    "lng": -117.1194115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13551067989273,
+                        "lng": -117.1181191701073
+                    },
+                    "southwest": {
+                        "lat": 33.13281102010728,
+                        "lng": -117.1208188298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Debbie's Restaurant & Pie Shoppe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112099435363601809172\">Ellen Daniel</a>"
+                    ],
+                    "photo_reference": "Aap_uEB6NhQff0HaEudH-elN_bNhVtVJ5Fk4-zrkPf6_G_q6Y1HhoDx30yw1AOnI3A61PvZkllaE_rdKGyG-IbSM6rND4FuyOX6DXRxs1QdJGmaO_QRk2TxbcJryeu8CAZhGDZtmxFjI0FErAfZ0UbAUzf2F-X1hPU9B3iMPVOz_qlXDiYLs",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJ9KRIdH024ARcl69uA53_Dc",
+            "plus_code": {
+                "compound_code": "4VMJ+J6 San Marcos, California",
+                "global_code": "85544VMJ+J6"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJJ9KRIdH024ARcl69uA53_Dc",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 456
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "503 W Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1186025,
+                    "lng": -117.0871314
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12001177989272,
+                        "lng": -117.0858124701073
+                    },
+                    "southwest": {
+                        "lat": 33.11731212010728,
+                        "lng": -117.0885121298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Swami's Cafe Escondido",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3360,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105940859590248861939\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBJe31ssU5O-LFtsJbLPvYB3sax6_gOTKfSKvMoD-OL6JNd2UsgVsu1kc10Jz1Ke1rRRAjOESn8x3Apuq79l7X2WF77HasqGH-K_BzYfhTVtpHBtRlGw4BJ_s6I2R5CNpI9AqU7ImHiX_Poffa-Ad-PR7y2pYhmWPtYDhBSrB09Jyn4",
+                    "width": 5040
+                }
+            ],
+            "place_id": "ChIJcRXCfzP124ARuVNGxpDKOi4",
+            "plus_code": {
+                "compound_code": "4W97+C4 Escondido, California",
+                "global_code": "85544W97+C4"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJcRXCfzP124ARuVNGxpDKOi4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 915
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11630 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9794731,
+                    "lng": -117.0814679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98107537989272,
+                        "lng": -117.0800683701073
+                    },
+                    "southwest": {
+                        "lat": 32.97837572010727,
+                        "lng": -117.0827680298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Broken Yolk Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116370670299592020027\">The Broken Yolk Cafe - Carmel Mountain</a>"
+                    ],
+                    "photo_reference": "Aap_uEDVPehfm28x4RrQ_n70A1I7leuoXm_7r-4yq_1vf-4m6Y-Dneoj8piXYiDvGNi7_BbhQwhWK1E0gm6yVc7UvGcj2knjWjJBJn6l0P0ckaPBhpJLORnerCLeqYLmduM9jWz5zOJ1OXmtuBoG_6xKHFWtjXAw8cre3nvRUXcbHl2VzpFn",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJFTttO__524ARso2lgwe4l9g",
+            "plus_code": {
+                "compound_code": "XWH9+QC San Diego, California",
+                "global_code": "8544XWH9+QC"
+            },
+            "price_level": 2,
+            "rating": 4,
+            "reference": "ChIJFTttO__524ARso2lgwe4l9g",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 747
+        }
+    ],
+    "status": "OK"
+}

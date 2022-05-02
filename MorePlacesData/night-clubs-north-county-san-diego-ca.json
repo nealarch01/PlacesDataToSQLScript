@@ -1,0 +1,969 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uED_ttW8ixtbVhQpV7EB6us6ROI7O0nikDO-8P3ex1OdYUJ8Ai0__W7IcrfNSTF27SaCfiSXLm2gzJcDA7mdAfridY_m5xC8LB45Ker1MJUllnvX_XadvIRMqzR0RYA5gE8bhgHWRFkY_3qqeNBFv0TQko4MX3HYE1S_eTxwSqE3Sm3TUcUnC2bIwG-tDiB4b1mGOlx72F5tDWMWLvohbM1ty9b0Y3lMR_M92gusoCekcMFPR1SzsleVbkfnRI3n53x6ZZe6MpmE8kszzqN-XPoKtzZvoHhXPw_OWHrJ5CPaRN3agzDwxuGALmBGJoGgySkmD1GiTlaRh3TIZMvB9-1X2KEnbU2SC6BqQJVpGcBcST_JdvJGxp-mLDYMleafpzujf7PX9L3hiGts5N4ncEgrmYCYSbQBRmNakQrw86TU65ShyOzy",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "740 Nordahl Rd bldg 125, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1347682,
+                    "lng": -117.1190245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13600372989272,
+                        "lng": -117.1179689201073
+                    },
+                    "southwest": {
+                        "lat": 33.13330407010728,
+                        "lng": -117.1206685798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Club Tropics",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110538011535819510156\">Rosa Amelia Jimenez</a>"
+                    ],
+                    "photo_reference": "Aap_uEBZ65yUKMzZfd0euiFo7s_hphtiOCb7CzKND9x-s72qlwVQcoVB430p0lMZ4g54nKHiSYb6GE8a3dQMlENvyajoB0dBVt3qpYxJrot_wy7RYccGtm5GPa1LVIVGMPOoMl-ydTtGFrD_pxpwzD0eltE8MjfNNihV6zk0Jo_DMNHTh8Ok",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJFcSt2Gr124ARCOJpbm_Xh4w",
+            "plus_code": {
+                "compound_code": "4VMJ+X7 San Marcos, California",
+                "global_code": "85544VMJ+X7"
+            },
+            "rating": 3.7,
+            "reference": "ChIJFcSt2Gr124ARCOJpbm_Xh4w",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "395 Mission Villas Road, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.142167,
+                    "lng": -117.143783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14365212989272,
+                        "lng": -117.1419715201072
+                    },
+                    "southwest": {
+                        "lat": 33.14095247010728,
+                        "lng": -117.1446711798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Jaxy boy",
+            "permanently_closed": true,
+            "place_id": "ChIJIQ9IYMmL24ARbWc2q9_4txs",
+            "plus_code": {
+                "compound_code": "4VR4+VF San Marcos, California",
+                "global_code": "85544VR4+VF"
+            },
+            "rating": 0,
+            "reference": "ChIJIQ9IYMmL24ARbWc2q9_4txs",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "610 W 9th Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1112149,
+                    "lng": -117.0836166
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11262267989272,
+                        "lng": -117.0821534701073
+                    },
+                    "southwest": {
+                        "lat": 33.10992302010727,
+                        "lng": -117.0848531298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "De Las Tinieblas a La Lux",
+            "permanently_closed": true,
+            "place_id": "ChIJVeavH4H024ARQ_n1at9qEFg",
+            "plus_code": {
+                "compound_code": "4W68+FG Escondido, California",
+                "global_code": "85544W68+FG"
+            },
+            "rating": 0,
+            "reference": "ChIJVeavH4H024ARQ_n1at9qEFg",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1286612,
+                    "lng": -117.3134205
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13014437989272,
+                        "lng": -117.3127173701073
+                    },
+                    "southwest": {
+                        "lat": 33.12744472010728,
+                        "lng": -117.3154170298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Adventurer's Club",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112522652111081115200\">Jihye Bajkor</a>"
+                    ],
+                    "photo_reference": "Aap_uEBJd--GqYd00qM3TacN73CwSUYbF_Z5I2FINa392kQYeJO-GD2lx0sWG00w44Mzt_sYayhKJQul8QEeFXtw6_8_0QboXgM0D1Swy0nSgrwJXdrAvWuhwsk3S1D6JhzB_XzuRNq-t9cP6pS1Ko35ed3rY23VZtdHwGRWcii3OOzU8kNQ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJReRshiNz3IARQM6PPRh2_Bw",
+            "plus_code": {
+                "compound_code": "4MHP+FJ Carlsbad, California",
+                "global_code": "85544MHP+FJ"
+            },
+            "rating": 4,
+            "reference": "ChIJReRshiNz3IARQM6PPRh2_Bw",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "628 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7120072,
+                    "lng": -117.160273
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71336597989272,
+                        "lng": -117.1588627701073
+                    },
+                    "southwest": {
+                        "lat": 32.71066632010728,
+                        "lng": -117.1615624298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "San Diego Club Crawl",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 394,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111987130716546045585\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECBHObvoFpd466ZYqNgrPIYjfhiHqrEzhmqO5rOWbd35xnohFKW3_mziYRqYUnGDy8eMlTqBnLLiHLrvlfT2JFwuminVBL7BDVwXX7E-cwqWCGRnqGui2_6mahhN8LFint1LMxeJbJI7doKIqjQ6U-a6rMkJuTe_foLqF13GNPADssY",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJffYH-FhT2YARdoGlVsiPSXw",
+            "plus_code": {
+                "compound_code": "PR6Q+RV San Diego, California",
+                "global_code": "8544PR6Q+RV"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJffYH-FhT2YARdoGlVsiPSXw",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "526 F St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7137288,
+                    "lng": -117.1594775
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71505827989272,
+                        "lng": -117.1581181701073
+                    },
+                    "southwest": {
+                        "lat": 32.71235862010727,
+                        "lng": -117.1608178298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "F6ix",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 660,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107185021788619152190\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECPHv58OOLNzhQOWPTSV8mxX13YpjRNfhObIfmpg_bc7lBD3y0_Qse8Ff6sVpGNZK7QgAdETHJxLqhiD0F4vu56bW-JvbTsjhj554MLuQEFglGicI-Ep0bZirWzb-lj7eT_EcfLSNrlONDn6Alb2aQtYgk6NzsY_LHEPMJe1lTDuuo4",
+                    "width": 990
+                }
+            ],
+            "place_id": "ChIJlT-GQlhT2YAR8PEtT14x6Ng",
+            "plus_code": {
+                "compound_code": "PR7R+G6 San Diego, California",
+                "global_code": "8544PR7R+G6"
+            },
+            "price_level": 2,
+            "rating": 3.2,
+            "reference": "ChIJlT-GQlhT2YAR8PEtT14x6Ng",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 119
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "379 Fourth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7092063,
+                    "lng": -117.1609005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71055877989272,
+                        "lng": -117.1595703701072
+                    },
+                    "southwest": {
+                        "lat": 32.70785912010727,
+                        "lng": -117.1622700298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Fuse Nightclub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJN2RXGlpT2YARrZ2EGCiFZtA",
+            "plus_code": {
+                "compound_code": "PR5Q+MM San Diego, California",
+                "global_code": "8544PR5Q+MM"
+            },
+            "rating": 3.5,
+            "reference": "ChIJN2RXGlpT2YARrZ2EGCiFZtA",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "852 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7143742,
+                    "lng": -117.1603214
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71570792989272,
+                        "lng": -117.1588962701073
+                    },
+                    "southwest": {
+                        "lat": 32.71300827010727,
+                        "lng": -117.1615959298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Onyx Room Nightclub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3837,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114272468371384810525\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBzOuDBM7KR_KL6QA-w22p_ZD-0-_Z1mCtPklfbloj2fJTwd9r_Rm_uKUymhK8hLq9sYz28h4MS8Grvn6P51l_UyGKYtTWh6nFnkmcQitzgO1koajD2x5APSKjzl5LhaCaoKF6AiAKvTXpFQz1YSXQkw5EpfYErs8yG08eAMTg4P9Ky",
+                    "width": 5755
+                }
+            ],
+            "place_id": "ChIJX03LclhT2YARlOFa6VHiNbI",
+            "plus_code": {
+                "compound_code": "PR7Q+PV San Diego, California",
+                "global_code": "8544PR7Q+PV"
+            },
+            "price_level": 2,
+            "rating": 4.3,
+            "reference": "ChIJX03LclhT2YARlOFa6VHiNbI",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 486
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "615 Broadway, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.715472,
+                    "lng": -117.159096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71691672989272,
+                        "lng": -117.1575941701073
+                    },
+                    "southwest": {
+                        "lat": 32.71421707010727,
+                        "lng": -117.1602938298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Parq Nightclub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102381449495144889203\">Kyle Petzinger</a>"
+                    ],
+                    "photo_reference": "Aap_uECyHfIOVnXZXO37yCRjuWwQZsp42XsH3F111KYOql7EDw-9H12mFrIMtI62BGnCPQd5gVlu5QSa_bhJp3DipzXD-sEO-XWW_jYJxNI8N11xToIFY5-GT-d7-dbgG5VU1kClE_Aj0zG7El7WhUxu8QKnwqaU_C6dKlcgXgG_VCU_n7ai",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgxHDg6dU2YARkJ5bgTsd40M",
+            "plus_code": {
+                "compound_code": "PR8R+59 San Diego, California",
+                "global_code": "8544PR8R+59"
+            },
+            "price_level": 3,
+            "rating": 3.6,
+            "reference": "ChIJgxHDg6dU2YARkJ5bgTsd40M",
+            "types": [
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 245
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "536 Market Street between 5th &, 6th St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7116687,
+                    "lng": -117.1594024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71295277989272,
+                        "lng": -117.1580516201073
+                    },
+                    "southwest": {
+                        "lat": 32.71025312010728,
+                        "lng": -117.1607512798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Side Bar",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4082,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115878228921270936753\">Yaneck WASIO</a>"
+                    ],
+                    "photo_reference": "Aap_uEBtyMWhCSKbFpySnOUcEeFUS0s9r-SRoUblljUjtb77cYN5nIX3mH4VihdHKV5-WhoUqzNn_TTuXJlvudI1d86sPogVvBUUzOUioQukpVEjsYEF9nQtoR5TJT8lCdz81U4GF3lTzav9xgQdFDE5OtLDLJkBpK6Ck46pCCYpMXgWjdCM",
+                    "width": 6123
+                }
+            ],
+            "place_id": "ChIJrR33pFlT2YARUqOqj1ULudI",
+            "plus_code": {
+                "compound_code": "PR6R+M6 San Diego, California",
+                "global_code": "8544PR6R+M6"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJrR33pFlT2YARUqOqj1ULudI",
+            "types": [
+                "bar",
+                "night_club",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 370
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "672 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7124052,
+                    "lng": -117.1602868
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71375732989272,
+                        "lng": -117.1589310201072
+                    },
+                    "southwest": {
+                        "lat": 32.71105767010727,
+                        "lng": -117.1616306798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Brig",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJF3qW7rFT2YAR26exnjnRQ90",
+            "plus_code": {
+                "compound_code": "PR6Q+XR San Diego, California",
+                "global_code": "8544PR6Q+XR"
+            },
+            "rating": 5,
+            "reference": "ChIJF3qW7rFT2YAR26exnjnRQ90",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "353 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.708928,
+                    "lng": -117.1599707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71027722989272,
+                        "lng": -117.1586182701073
+                    },
+                    "southwest": {
+                        "lat": 32.70757757010727,
+                        "lng": -117.1613179298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Sevilla Nightclub of San Diego",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115776178232856637516\">Denise Hopeful</a>"
+                    ],
+                    "photo_reference": "Aap_uECCqUoGSMqfp9Enbkf-wEIORRrgLQEQr9rcEpbk_sFNu458KOj07X2OwhgDvBs7AVIY8y5oxTextsmDafC927_r6UqN0GzgQjqg0jN-zRfnj7G96sHkE0bhlaHkfpcNjP-wFd7E3HzVVicr1hUYE7f7QeM8O-nyimAa2rOefaS60YdJ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJNaC4O1pT2YAROsUaoQG7LfM",
+            "plus_code": {
+                "compound_code": "PR5R+H3 San Diego, California",
+                "global_code": "8544PR5R+H3"
+            },
+            "rating": 3.6,
+            "reference": "ChIJNaC4O1pT2YAROsUaoQG7LfM",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1051 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7482679,
+                    "lng": -117.1540374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74968222989273,
+                        "lng": -117.1527097201073
+                    },
+                    "southwest": {
+                        "lat": 32.74698257010728,
+                        "lng": -117.1554093798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Rich's",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108229204237159307114\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDBVsR4l3fV_lKgxCB5WxuegLwRiTcyEiO0gC1jJ3Fj_sfsBeLyo0y33Mo8DP5ARaLSfqA9rTuqsVlD_x9duuZYBeDyjLPKpQAr8juBNbCqtVqBUDUiBjxUN-wYNDsC2xUUJ0MN5qQAur5Qk3NoVXhHXwOexLuq0XE0WjErV-h6ZeOW",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJQ2H_xdxU2YARiSdmIOpaJ3c",
+            "plus_code": {
+                "compound_code": "PRXW+89 San Diego, California",
+                "global_code": "8544PRXW+89"
+            },
+            "price_level": 2,
+            "rating": 3.6,
+            "reference": "ChIJQ2H_xdxU2YARiSdmIOpaJ3c",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 154
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "143 S Cedros Ave, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9905893,
+                    "lng": -117.2704865
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99192922989273,
+                        "lng": -117.2690381701073
+                    },
+                    "southwest": {
+                        "lat": 32.98922957010728,
+                        "lng": -117.2717378298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Belly Up Tavern",
+            "photos": [
+                {
+                    "height": 6144,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111740611275297940608\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDk3pTlV1GnNeP5ToFWZPo-gNxxIBoBgDYZ0u9uwqv7aoRSfF91xb16ll73z2y_jem4b9EOuZxnWsm0G0mf39YJGm-pcmGMZ7MTWWg8UCL40kYjIaF5OpzYkuLv-5maXaT-kSELAZiqvGM1cSShqy_5pKZr3KXa5He4RqW9gAPGQauY",
+                    "width": 8192
+                }
+            ],
+            "place_id": "ChIJz_479dIO3IARSSMZDsd_eH8",
+            "plus_code": {
+                "compound_code": "XPRH+6R Solana Beach, California",
+                "global_code": "8544XPRH+6R"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJz_479dIO3IARSSMZDsd_eH8",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1751
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "435 Fifth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7099611,
+                    "lng": -117.1599711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71131247989273,
+                        "lng": -117.1586709701072
+                    },
+                    "southwest": {
+                        "lat": 32.70861282010728,
+                        "lng": -117.1613706298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Oxford Social Club",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 691,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107853035045583750721\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECPHBQ5OafRxO218AlF_koEZawzz76b8E27UxshPkvk-AmDooWIxXNG-qKzJDQytj5cTLnERgjNA18lhblOOnkaNbxRLxxYix0XGJICjyDiSfhrojVnqFBwLcAm9s5j7RMAzCMj0gcTii28B06_6gQFANPJimPEFufW3CYVblBk1d18",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ0e0Bi1lT2YARGaqV0P9X_XA",
+            "plus_code": {
+                "compound_code": "PR5R+X2 San Diego, California",
+                "global_code": "8544PR5R+X2"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ0e0Bi1lT2YARGaqV0P9X_XA",
+            "types": [
+                "night_club",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "126 Chesterfield Dr, Cardiff, CA 92007, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0200801,
+                    "lng": -117.281162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02139937989272,
+                        "lng": -117.2798539701073
+                    },
+                    "southwest": {
+                        "lat": 33.01869972010728,
+                        "lng": -117.2825536298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "The Shanty",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111218675941922755635\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEABxbX4WweM5TkzVGnJZqDycvUpp1Q-SUE4sjVRUs-s09MtuwMNoLUHZW5uXNz3Gn86Qc2KIzoig2CmWZts29wX-TFs-SKU5vEKoJt0OwCNRLG0yLHAVEo-omDvnmWj9CeZlkdiL9VEW4Okc7nWFxCiPOt61Mx8i6sQUMslY8L_aVQ2",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJdXpIjKcO3IARKVHMQ39TaTg",
+            "plus_code": {
+                "compound_code": "2PC9+2G Cardiff, Encinitas, CA",
+                "global_code": "85542PC9+2G"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJdXpIjKcO3IARKVHMQ39TaTg",
+            "types": [
+                "bar",
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 197
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "200 W El Norte Pkwy #7, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1398092,
+                    "lng": -117.0916791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14110317989272,
+                        "lng": -117.0903150201073
+                    },
+                    "southwest": {
+                        "lat": 33.13840352010728,
+                        "lng": -117.0930146798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "North Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106697209428904895365\">Alfonso Rosas</a>"
+                    ],
+                    "photo_reference": "Aap_uEADjA6luZ75Xf0v2T0u4jKezRl0WLH3-RJTSa4wAWPhS1nTsonFZN-rEgufujI4LFRm1DDH0t8n0qK3YS9a7123PegpROhLbV1jueKtFNCTjErluQ-ZGGUkV98qy3LKuEK-Zg-riTHCOISY2rvdZIl9g7vM9k_VQG7IW2dGBJoXBl6n",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJ4TZtObD024ARgp8IXGWUnlU",
+            "plus_code": {
+                "compound_code": "4WQ5+W8 Escondido, California",
+                "global_code": "85544WQ5+W8"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJ4TZtObD024ARgp8IXGWUnlU",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 225
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "454 Sixth Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7101458,
+                    "lng": -117.1595032
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71149677989273,
+                        "lng": -117.1580030701073
+                    },
+                    "southwest": {
+                        "lat": 32.70879712010728,
+                        "lng": -117.1607027298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "NOVA SD",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5304,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117210511480175113918\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC3bWZ2-YYQmEq2scdirxAbecqJgQgU8LQWTHtRY_pHDoWwEo-9b0KbFjUBVZEuofSpko3MnF3reb3K3SHsv6CMrPZvzRIVqtWCLFSAM-49yLn4TxYNvyERN3U7IN-rLMtdgL6Vagki99YWBxWrm4pIx9MKUWdvzurIoY50RFQD7nII",
+                    "width": 7952
+                }
+            ],
+            "place_id": "ChIJc4NNmPNT2YARRELYEyX1irg",
+            "plus_code": {
+                "compound_code": "PR6R+35 San Diego, California",
+                "global_code": "8544PR6R+35"
+            },
+            "rating": 3.3,
+            "reference": "ChIJc4NNmPNT2YARRELYEyX1irg",
+            "types": [
+                "night_club",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2738 Imperial Ave, San Diego, CA 92102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7065106,
+                    "lng": -117.1350263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.70780767989272,
+                        "lng": -117.1336761701073
+                    },
+                    "southwest": {
+                        "lat": 32.70510802010728,
+                        "lng": -117.1363758298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "New Name Club",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJB1gVC3FT2YARA-tMRYeK7bA",
+            "plus_code": {
+                "compound_code": "PV47+JX San Diego, California",
+                "global_code": "8544PV47+JX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJB1gVC3FT2YARA-tMRYeK7bA",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2028 Hancock St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7445416,
+                    "lng": -117.1881384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74579027989272,
+                        "lng": -117.1868551201073
+                    },
+                    "southwest": {
+                        "lat": 32.74309062010728,
+                        "lng": -117.1895547798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Spin Nightclub",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 478,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112756004776864636940\">Spin Nightclub .</a>"
+                    ],
+                    "photo_reference": "Aap_uEDs0P4lVy5y3G7hUR8iQpicR14OPgKdjUy0B9LT42hYXuihkjTWSyiqnLrv5-JFABcVUmKB0o9WCfkn0oauFmS95_LA2npCRiT25l01OhhkpdsVST-DVuMd0iVJd3Q1CuxGEP4ofCXfx8J8gzzNAFv1FZjaOx0agtHYtfVInnsII3eR",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ5RkxLSSr3oARh2IH3nJD0Lg",
+            "plus_code": {
+                "compound_code": "PRV6+RQ San Diego, California",
+                "global_code": "8544PRV6+RQ"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJ5RkxLSSr3oARh2IH3nJD0Lg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 236
+        }
+    ],
+    "status": "OK"
+}

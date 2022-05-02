@@ -1,0 +1,1010 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEChoBWeyYPNOthDLOXgb6m_FunrA4fEJvP1BwcVnZb55SEE472QL4WWW7rbHwLvH-h1A0UqHjsXhdc6-lr49Eyw9SPtycYHSY8Ek2EJcAfIcJqJtv-cf-YDF_9B53tK6VVsttFnxMmm1qbmyG0P7OCf2JWQiVTRs5XQeXBhNEy33kw9zcU3MEmTHORWbZzyITHsWkXnTRuXt0dTlvg74bCaJPGMajRZ-JeccYJwOP_KlYg9u9Ts0y8GnDbsIJF5YVtD_JqIdgOzjPiXx86CrmYDyWTMhK_HvSBJ1XqxRe29LD6_4rcBhsYlGVLHT62FjCwrGYHtqe7NDjWfhxKuQvnKdY-FBkS8xDLRWoPWJ6VDTizwumyrU-k3FBzSPza6xcLn13Gfm5z0G4mVB-f0nV1U1Y_H00S3Blt5gM7MO8h1GWk",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "One Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1260894,
+                    "lng": -117.3106256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12724857989272,
+                        "lng": -117.3093649701073
+                    },
+                    "southwest": {
+                        "lat": 33.12454892010727,
+                        "lng": -117.3120646298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Awesome Arcade",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJeY-SwoJz3IARwbXVWFcZjdc",
+            "plus_code": {
+                "compound_code": "4MGQ+CP Carlsbad, California",
+                "global_code": "85544MGQ+CP"
+            },
+            "rating": 0,
+            "reference": "ChIJeY-SwoJz3IARwbXVWFcZjdc",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2501 El Camino Real, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.17846919999999,
+                    "lng": -117.3294159
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17937377989273,
+                        "lng": -117.3282238201073
+                    },
+                    "southwest": {
+                        "lat": 33.17667412010728,
+                        "lng": -117.3309234798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dave & Buster's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113102180702421154805\">Christopher Soria</a>"
+                    ],
+                    "photo_reference": "Aap_uEBpx3fUrBvL4dD1U3f2H2CToENkooVqmemXpBDqlDNPa2yl8NJZbi_FggbgFLg0RP74Yq41wNcH6tMNH5sc0JnhkwonmNi_Sivtcb5bOsnOR4mn-85G9X4nmt5pxnCtce5cvy0Hn8MsKaA0D14pTzmDT9O7MO10t9quwCUV3mpHsWY",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJRZ4W_Ihx3IARFsJ8AZX5JOU",
+            "plus_code": {
+                "compound_code": "5MHC+96 Carlsbad, California",
+                "global_code": "85545MHC+96"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJRZ4W_Ihx3IARFsJ8AZX5JOU",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1721
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "821 S Tremont St, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1872044,
+                    "lng": -117.3737203
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18861837989272,
+                        "lng": -117.3722624701073
+                    },
+                    "southwest": {
+                        "lat": 33.18591872010728,
+                        "lng": -117.3749621298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The GRID | VR Arcade",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 683,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111129330069089383409\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECXmpmIyTdOvGwF98rQ_PaKu2UDYbkXso40MMWbhjl3Jqi--7BejhnPZmQ0DhCxIz36KlDzdkAzjrTHuca2Tkan6t_Yf19Unxoe8XlnPptmN1jjcP07B04TgYj45mnldquHyARWeg70hkd25lMKY8W4UsVn0XnmbNEZ1XvjjXlWwJPR",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJU3RVTxpy3IARj6zBMHJXdls",
+            "plus_code": {
+                "compound_code": "5JPG+VG Oceanside, California",
+                "global_code": "85545JPG+VG"
+            },
+            "rating": 4.8,
+            "reference": "ChIJU3RVTxpy3IARj6zBMHJXdls",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2365 Marron Rd, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1767982,
+                    "lng": -117.3287997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17823977989272,
+                        "lng": -117.3274908701073
+                    },
+                    "southwest": {
+                        "lat": 33.17554012010728,
+                        "lng": -117.3301905298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Escape to VR - Escape Rooms From The Multiverse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117933640672671105581\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECY_Z2zQ4sYkngcQy7SiUstKbO1Jepa-GwrzHgjbHrRotRw3mAq8foeE_txUyjqFvkhpi-6_BMLirRn8I9xbRnPdDCP4XJ3yWng1N_4SssmuE-LOPF8MTGg88E9r1L1lTIiPXC5i7BL_J3WBFQxVpDJ9slHzNnU1thL7iQCa333qPKO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJPezx9sgL3IARqGuqPSBIP6g",
+            "plus_code": {
+                "compound_code": "5MGC+PF Carlsbad, California",
+                "global_code": "85545MGC+PF"
+            },
+            "rating": 4.9,
+            "reference": "ChIJPezx9sgL3IARqGuqPSBIP6g",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "272 E Via Rancho Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0711646,
+                    "lng": -117.065617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07230552989272,
+                        "lng": -117.0646815201073
+                    },
+                    "southwest": {
+                        "lat": 33.06960587010727,
+                        "lng": -117.0673811798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Let's Play! VR",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104439769284115407875\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBZ5kdy2tigHh7W__UVOnxxBZoVpzMh-tOypBrRbCJ9y1P7L6LGBJlFf4Y9ifKSQRFfCtCXTpp1hZrG2AmdJDb2gE0OAIzfhSxBRd4OQPpEUO6oGRZn17gFAt-Vl97wZo9agQYbmI4BpcFkdI7CRwINLJDpT7SVicPhEXrFCFXpcMB2",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJpbz4JKnz24ARzeKMsTldLGg",
+            "plus_code": {
+                "compound_code": "3WCM+FQ Escondido, California",
+                "global_code": "85543WCM+FQ"
+            },
+            "rating": 4.9,
+            "reference": "ChIJpbz4JKnz24ARzeKMsTldLGg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1525 W Vista Way, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.191983,
+                    "lng": -117.2737657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19348172989272,
+                        "lng": -117.2723112701073
+                    },
+                    "southwest": {
+                        "lat": 33.19078207010728,
+                        "lng": -117.2750109298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boomers Vista",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106060288081777370303\">Chris Waufle</a>"
+                    ],
+                    "photo_reference": "Aap_uEA4Jwpwq7eBJLGNrK93dZKqMtzRkxnWb8XK19zJ47w1h6XeFYHOkzW4RssUqz5vz32IS4pXa6q1-T8EfPr26oJcMWwk6AJ3B6_VmQjrlDFvEKdd_gTeWVLoV7vVMFjVG7y92vHvhPE4SXGaIslPqveVoplAEgU62naNS1lq7_vYOHeD",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJqxwMm1Zx3IARGxxowvtKqUo",
+            "plus_code": {
+                "compound_code": "5PRG+QF Vista, California",
+                "global_code": "85545PRG+QF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJqxwMm1Zx3IARGxxowvtKqUo",
+            "types": [
+                "amusement_park",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1320
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2100 Palomar Airport Rd suite 214-27, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1267884,
+                    "lng": -117.2787256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12793947989272,
+                        "lng": -117.2774146201073
+                    },
+                    "southwest": {
+                        "lat": 33.12523982010728,
+                        "lng": -117.2801142798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "GAMEWORDEN INC",
+            "photos": [
+                {
+                    "height": 668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101633299390735186743\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECYe1YbpQuH2rBfhIMaLMByYRLYpVvM58aqhQPv5a2sMduHvkPYzS33YZsQ5cHoxc140v-N58ThQdQrMK3AexQbWI6F9gD3HWvRMFLsBHqYCS9czNFlmDEG2x9EUJdKiVgHgBR8zb4u9lYyFdbZf8N58tqsR0wpe3haS6csuG1gfrDt",
+                    "width": 667
+                }
+            ],
+            "place_id": "ChIJnWllEZpz3IARtzCbZhxc550",
+            "plus_code": {
+                "compound_code": "4PGC+PG Carlsbad, California",
+                "global_code": "85544PGC+PG"
+            },
+            "rating": 5,
+            "reference": "ChIJnWllEZpz3IARtzCbZhxc550",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8670 Miramar Rd, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.89429870000001,
+                    "lng": -117.1373626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89569687989272,
+                        "lng": -117.1359721701073
+                    },
+                    "southwest": {
+                        "lat": 32.89299722010728,
+                        "lng": -117.1386718298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Brewski's Bar & Arcade",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 633,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104992759825542500507\">Brewski&#39;s Bar &amp; Arcade</a>"
+                    ],
+                    "photo_reference": "Aap_uEABwfU208hNWQbkx3Q0mBFEKLP6HWRULbos4h57agvi3Z6HkkhX-nnoI4xOug7MGVpRp-D3EcDypjpnPqroCAqRRrYCQRhtYyHSI_AJiapsL5z9LHOOuDQ7u-1H5cYfImjw96lpo_St-_1CFg1DWV4xQYE8cdYAqZiYmKqH69MwL6my",
+                    "width": 1123
+                }
+            ],
+            "place_id": "ChIJq6tj-dH424ARjcYFNuh7PqU",
+            "plus_code": {
+                "compound_code": "VVV7+M2 San Diego, California",
+                "global_code": "8544VVV7+M2"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJq6tj-dH424ARjcYFNuh7PqU",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 991
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2931 Camino Del Rio N, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7728643,
+                    "lng": -117.1318117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77403807989273,
+                        "lng": -117.1303729701073
+                    },
+                    "southwest": {
+                        "lat": 32.77133842010728,
+                        "lng": -117.1330726298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Dave & Buster's",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106090769506218633555\">Dmitry Brin</a>"
+                    ],
+                    "photo_reference": "Aap_uECj5SOVkF38BWOBxrii7v8J3lRZMM9Ju5vieWepTtP25v8jHowGDNEzgGgA55DmrLlkIvsoSNZOd3v50HI4QgZSQ3SOOQSFIlQdsUp6wquwu1COxOyaq7Zbweg6EWnF_QN9CgtibcQuIMbYeN7EFUxuYH4ci-4hGcGKT19ODfJ1nC8U",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJSTDVAwZV2YARKDn3B-TvS20",
+            "plus_code": {
+                "compound_code": "QVF9+3C San Diego, California",
+                "global_code": "8544QVF9+3C"
+            },
+            "price_level": 2,
+            "rating": 4.2,
+            "reference": "ChIJSTDVAwZV2YARKDn3B-TvS20",
+            "types": [
+                "restaurant",
+                "bar",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5915
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3146 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7711722,
+                    "lng": -117.2520786
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77260037989272,
+                        "lng": -117.2507525701073
+                    },
+                    "southwest": {
+                        "lat": 32.76990072010727,
+                        "lng": -117.2534522298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lazerblast Arcade",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113098344465622413271\">Troy Payette</a>"
+                    ],
+                    "photo_reference": "Aap_uEA62Ccn-i73J9FfwTehCd0UGZvXQ1uWqDrv024L6rRuxi4IFlbOvt7tAYQOkK8fnoD7JvQvqKlNVqQB4hh6lE4Uqd1BGkUXWSwIqU2aHSsa7bZrifBRDIFTsT96dFf49Twl_NUYHrP9nytdJEUjCYipwKoqTwO3iJRVvcPOXtuyyHwH",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ5xx1vg6q3oAROU1KDsMF-zU",
+            "plus_code": {
+                "compound_code": "QPCX+F5 San Diego, California",
+                "global_code": "8544QPCX+F5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ5xx1vg6q3oAROU1KDsMF-zU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "880 Armorlite Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.144248,
+                    "lng": -117.181615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14565787989272,
+                        "lng": -117.1802305701073
+                    },
+                    "southwest": {
+                        "lat": 33.14295822010728,
+                        "lng": -117.1829302298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Area Amusements",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113942774757496286936\">Area Amusements</a>"
+                    ],
+                    "photo_reference": "Aap_uEBrmGYakw0u6nLgcAMkr19QUZO1DY5hmk-vrJ2flPk0KJYmx9U3LGfLAK2btX8qpSx295IAiCCa2OHu6eUzT-L5Pgpn7mx1Z-1Cua1eAoSrHkRG1qXYF-xRUU4k3mwbQHYlqxnZS_dm-Ch5Owjsio6ZpvOsvcgptALZ_17xpsyrhwv7",
+                    "width": 1510
+                }
+            ],
+            "place_id": "ChIJMXOvQlx13IARANQQ8Uw6Du0",
+            "plus_code": {
+                "compound_code": "4RV9+M9 San Marcos, California",
+                "global_code": "85544RV9+M9"
+            },
+            "rating": 5,
+            "reference": "ChIJMXOvQlx13IARANQQ8Uw6Du0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1290 W San Marcos Blvd #101, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.133481,
+                    "lng": -117.197846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13479382989272,
+                        "lng": -117.1962176201072
+                    },
+                    "southwest": {
+                        "lat": 33.13209417010728,
+                        "lng": -117.1989172798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Invasion Laser Tag",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109215267289534256737\">Stephen Cerruti</a>"
+                    ],
+                    "photo_reference": "Aap_uEDyS1md01hOgJj5KCpYQ-pi3_twRu0VXqNuQge36-DYZbH8Mah76AHGx6VmUXS9ymOe0hlq9D0K6ipo60s-rDIKkHW7M8EkQT-vaRKuimti-0LKUqKuAibVVTaSVqyUsYz6Guvr295LIWHju1n-LXtb_fa-pS_tXGWz6mYgHR50Igtt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJYfBC9zd13IAR9IqH66_oLkg",
+            "plus_code": {
+                "compound_code": "4RM2+9V San Marcos, California",
+                "global_code": "85544RM2+9V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJYfBC9zd13IAR9IqH66_oLkg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 234
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3926 30th St, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7490542,
+                    "lng": -117.1303197
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75040162989272,
+                        "lng": -117.1289358701073
+                    },
+                    "southwest": {
+                        "lat": 32.74770197010728,
+                        "lng": -117.1316355298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Coin-Op Game Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2184,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107752646697140044234\">Forrest Rider</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPLQC2Y0WIOrd3AjrfwlRuV2FOQ0C6EVkMX4oxWNOKNWb5zJYUBrsNa18Hqv-_btb6UpZvRi-sTPPbW_WIrc5yP9ZobgXwo3ph-lAKhkJ-NY3ruHBCjVXxsVVWIwAWOQ3qeSlWNwazbe-xXi3T6-gU7iVTHgQNq-rPNvN4RwJCHtK6",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_eT0k_ZU2YAR_Bpap6q7R3c",
+            "plus_code": {
+                "compound_code": "PVX9+JR San Diego, California",
+                "global_code": "8544PVX9+JR"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ_eT0k_ZU2YAR_Bpap6q7R3c",
+            "types": [
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1058
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1267 Highbluff Ave, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.10236,
+                    "lng": -117.196424
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10348722989271,
+                        "lng": -117.1949720201073
+                    },
+                    "southwest": {
+                        "lat": 33.10078757010727,
+                        "lng": -117.1976716798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Game On Party Game Truck",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105583349926342421662\">Game On Game Truck of San Diego</a>"
+                    ],
+                    "photo_reference": "Aap_uEApyLvr-b3Ygu7Zr5BJXvTbb_3sU0borYtfxnxqHXxNwR7E6N_CvLdUn-AAdofTEK0y2krh2oAKGmeEGXJ8OEO6nzjzJS4FUxkx0JyJKUXyvWM6bLOcB7CG_6azSaDrhqtmY4xLS70i0Mt1QtKvLTeU2xUwEQLam1nlbqY52AaW2_ME",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJAaj1UJUK3IARwdCkYx9tp1A",
+            "plus_code": {
+                "compound_code": "4R23+WC San Marcos, California",
+                "global_code": "85544R23+WC"
+            },
+            "rating": 0,
+            "reference": "ChIJAaj1UJUK3IARwdCkYx9tp1A",
+            "types": [
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5830 Oberlin Dr #303, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8943604,
+                    "lng": -117.1932914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89578987989272,
+                        "lng": -117.1920517701073
+                    },
+                    "southwest": {
+                        "lat": 32.89309022010728,
+                        "lng": -117.1947514298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Escape Era Escape Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108982033651051104223\">Robert Vega</a>"
+                    ],
+                    "photo_reference": "Aap_uEC22Y1pmJDZ1dcmTysFP4LIfcfVfST-9Yw7S6QKJe1IVIW1gN6R7XmHhY9Ewu4Id34cwa6IAtaJTdjP8bkBSOJR-1s7qWzHF0Ft2bzeftxKJzhmooCmYev1Po80lKhs5OxKXyM1T5Xp-W3AxZw6K-Z1wADeJ5lcJ2O9p626Ca7jBefm",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJl5dKzkEH3IARuxqmGpwTrKg",
+            "plus_code": {
+                "compound_code": "VRV4+PM San Diego, California",
+                "global_code": "8544VRV4+PM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJl5dKzkEH3IARuxqmGpwTrKg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7370 Opportunity Rd STE G, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8255882,
+                    "lng": -117.1598872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82691002989272,
+                        "lng": -117.1586397201073
+                    },
+                    "southwest": {
+                        "lat": 32.82421037010727,
+                        "lng": -117.1613393798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "GameSync Gaming Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 480,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103002846672307688309\">San Diego PC Help LAN Gaming Center</a>"
+                    ],
+                    "photo_reference": "Aap_uECg-IR4s9tAMwed8GGidF1S5SsBdUCCuhjUVRfj4AVt0FusejGGd8Ez8IZY237Ak7e1Bj3pBJeO_u6j_dNcJUiA8fuRNLwZfncJ6Dv1tATmh5RfCTq0TbpBFzv_2qocIGqxLM8x0Yi6VLSpxrRtERm8DUfxgcsjZ4hK8A5Z3MXLU-Ue",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJL8WkQLb424AROChhLJzQZEA",
+            "plus_code": {
+                "compound_code": "RRGR+63 San Diego, California",
+                "global_code": "8544RRGR+63"
+            },
+            "rating": 3.8,
+            "reference": "ChIJL8WkQLb424AROChhLJzQZEA",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 218
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "945 W San Marcos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.13395,
+                    "lng": -117.18573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13522677989272,
+                        "lng": -117.1846082201073
+                    },
+                    "southwest": {
+                        "lat": 33.13252712010727,
+                        "lng": -117.1873078798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bowlero San Marcos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109092876119639887002\">girija bhagwat</a>"
+                    ],
+                    "photo_reference": "Aap_uEBc_yNu-3wAu5oFWeBwjQS2DcsF7o_68UYptdVxit9MV9JJXHCPSGxIL15D07Jjo8rIPH4wrOSZhOKSiQraWZOgGImMWlEkR40JdT_YUigZD04NPa1by-U88yOpQGfh8r2Gld8guWeru2NbJ4X6e8QpkFK8c_aWfbqKSbjkMnx-3bXx",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJp7Tk46-K24AR7POepsuSXRI",
+            "plus_code": {
+                "compound_code": "4RM7+HP San Marcos, California",
+                "global_code": "85544RM7+HP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJp7Tk46-K24AR7POepsuSXRI",
+            "types": [
+                "bowling_alley",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1271
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1280 Fletcher Pkwy, El Cajon, CA 92020, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8082059,
+                    "lng": -116.9786294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80955897989273,
+                        "lng": -116.9773409701073
+                    },
+                    "southwest": {
+                        "lat": 32.80685932010728,
+                        "lng": -116.9800406298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boardwalk",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101361219760278957996\">Bob Hood</a>"
+                    ],
+                    "photo_reference": "Aap_uEBKIITSZeCXcBke42tzuJhXUrIxpaVAXdA2OCZ2JEoHgw-rA9lFo14ThIN0IBsooUJeX8xOpCGViuRmmglLJM1hxMKgQRWnphCXfA_enHd32mpL7C6yPgkXKb1rVuWcq_qbRjSGVFNWla_ZSfB3702BcCtB_Zx_TSo8NPFtlj6i9VEB",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "plus_code": {
+                "compound_code": "R25C+8G El Cajon, California",
+                "global_code": "8545R25C+8G"
+            },
+            "rating": 4.2,
+            "reference": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "types": [
+                "amusement_park",
+                "bowling_alley",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2206 Balboa Ave 2nd Floor, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8017887,
+                    "lng": -117.2292935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80305147989272,
+                        "lng": -117.2279801701073
+                    },
+                    "southwest": {
+                        "lat": 32.80035182010727,
+                        "lng": -117.2306798298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Geeky Lounge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100172937018331778692\">Sarkawt Ismail</a>"
+                    ],
+                    "photo_reference": "Aap_uEAep4uYxB4KbVh6H397rzd69SeSkohx6eJgOFH_i9MhP448SRvPOrNLWo71MnJzYh5fakBHBpw7dQ8HqeYJDMwdR2ZszyMh5eB6TqN131asXUKC-G7MN6wtKrjGbaE3koF2OOm6idmiiSvZ8KiUCX3RFfbfYIg4DW9SarqoZZpxDM6h",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJ9-HY7IB3IARJMjuq868dVQ",
+            "plus_code": {
+                "compound_code": "RQ2C+P7 San Diego, California",
+                "global_code": "8544RQ2C+P7"
+            },
+            "rating": 4.9,
+            "reference": "ChIJJ9-HY7IB3IARJMjuq868dVQ",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8361 Allison Ave, La Mesa, CA 91942, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.765958,
+                    "lng": -117.0176162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76732322989272,
+                        "lng": -117.0161995701073
+                    },
+                    "southwest": {
+                        "lat": 32.76462357010728,
+                        "lng": -117.0188992298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+            "name": "Coin Haus",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105212597935098366738\">Coin Haus</a>"
+                    ],
+                    "photo_reference": "Aap_uEAr8XfcAkjmxcmBe9FlIFUaNvYY0dj6H8Ny3VrSfG7uNodNeYRIaUE_NzyLaalbeUV-8wOCCFZ7zRULO1nWn1VXMsHury3DZsmZY4fXjiE7iMvHpwQsortpSu6x0NhV3tdc16o0MaFph_v--6qDaODhU1SgFfyql_WleyobRV7pb_0",
+                    "width": 768
+                }
+            ],
+            "place_id": "ChIJUynRVzxX2YARpAGS19-SKcY",
+            "plus_code": {
+                "compound_code": "QX8J+9X La Mesa, California",
+                "global_code": "8544QX8J+9X"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJUynRVzxX2YARpAGS19-SKcY",
+            "types": [
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 648
+        }
+    ],
+    "status": "OK"
+}

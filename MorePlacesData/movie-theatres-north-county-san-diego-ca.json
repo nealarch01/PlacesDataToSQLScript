@@ -1,0 +1,953 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAxciEZPqsOCglROMzj9AUacfZQDjyWI8T4TVAizDzKT0wxcyxaHhaJwp1t-VkGLPPnYI6SVxp1jdzEC8tjFgHvLKeXsU47jE8qRGS-e0Mn5Axo4nRZbToYVZeLRStku8733NAcXWYHn11rKBLmpWClTQY0SOUKue6NC777zPZAbTEWy7hQhdUiSNkuQ8TtXjRUmIKG67n6EkRkNKIoQUstS6AfUfahhdOp_2tQCXyC4LrPEB-qKWT9Wk-uOw1-q8NqApCssTrveaqAYAjfOqPR8HU6GHY_j1iHmWZhbv2FYdDnVhPjXJrzrHgsPuKq_9-8_4F07QB8bC898r6JkvaR9LLclP3zMa6rxJ2nzclAbNWZw91J1m6-eJlox7qc0dozFFu2kZ4-2uW5DB0Cp9VFQIfn7KeOm_rezu7e7tryjzWznppq2I3g",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "350 W Valley Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.12165,
+                    "lng": -117.08676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12302787989272,
+                        "lng": -117.0853391201073
+                    },
+                    "southwest": {
+                        "lat": 33.12032822010727,
+                        "lng": -117.0880387798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Regal Escondido & IMAX",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108129474620652179638\">D Jassal</a>"
+                    ],
+                    "photo_reference": "Aap_uECraKjLhulbwlaeWRTXNkas6uF6RskkfVb_ERentXphlUMxX7xmBKu8lQkkpay388NWcdUDLCk_aVzNWWLS5NNfs0QpttDqEdAG6zM30O_6hXuhIy6eIQGCot-fRiXjUkwj9Gn1HLRJ7WqyQb4EF2lX6JJycsdF2CcrO5XN5rUvFmND",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgfl2vJv024ARNvsTU6m2v7k",
+            "plus_code": {
+                "compound_code": "4WC7+M7 Escondido, California",
+                "global_code": "85544WC7+M7"
+            },
+            "rating": 4.3,
+            "reference": "ChIJgfl2vJv024ARNvsTU6m2v7k",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1958
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11620 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9812136,
+                    "lng": -117.082019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98241062989272,
+                        "lng": -117.0807377201073
+                    },
+                    "southwest": {
+                        "lat": 32.97971097010728,
+                        "lng": -117.0834373798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Angelika Film Center & Café - Carmel Mountain",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 638,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115998729245070031368\">Angelika Film Center &amp; Café - Carmel Mountain</a>"
+                    ],
+                    "photo_reference": "Aap_uEASnQyxsc1jG6Up16d3DR2WK8wTJ6lSpto5AD6AIga3PACr-Ru2NLYaXqgh5Uz5pFnjB6s5qsxK8hTrLwcU3XmA6-cVOerfJTP_Mi88pucoYV1-OxsMTKRLVkjxQVe9JUDDm00OOmR5omvGuPfiTsi3JfufhMGukzTBiL4Uz_9F9cAU",
+                    "width": 933
+                }
+            ],
+            "place_id": "ChIJLzMUqv_524ARGBng4NoCCQ8",
+            "plus_code": {
+                "compound_code": "XWJ9+F5 San Diego, California",
+                "global_code": "8544XWJ9+F5"
+            },
+            "rating": 4.6,
+            "reference": "ChIJLzMUqv_524ARGBng4NoCCQ8",
+            "types": [
+                "movie_theater",
+                "meal_takeaway",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1488
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12905 El Camino Real, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9520666,
+                    "lng": -117.2324149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95359957989272,
+                        "lng": -117.2307775701073
+                    },
+                    "southwest": {
+                        "lat": 32.95089992010728,
+                        "lng": -117.2334772298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinépolis Luxury Cinemas Del Mar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1353,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111573436585424410092\">Cinepolis Luxury Cinemas - Del Mar</a>"
+                    ],
+                    "photo_reference": "Aap_uEAnjJS60khC7SYk5nA4PnZe80KeojugGSclrA2dbTwXfYkYv2IFgrn2aSN7SNsfIUngr34wO9c7vzn0QhwPJME4RwrqTE2kR533OtMliK_sLVhkEeuyPAjXdQZybzxlntLgI-d_pNb39OtuYozEJi6UR19bPnxxnTNPoT_VuFE29Z58",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJsaotNYMI3IARcwYmiG5tuQo",
+            "plus_code": {
+                "compound_code": "XQ29+R2 San Diego, California",
+                "global_code": "8544XQ29+R2"
+            },
+            "rating": 4.5,
+            "reference": "ChIJsaotNYMI3IARcwYmiG5tuQo",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1056
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1180 W San Marcos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1346444,
+                    "lng": -117.192433
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13597917989271,
+                        "lng": -117.1910259201073
+                    },
+                    "southwest": {
+                        "lat": 33.13327952010727,
+                        "lng": -117.1937255798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Regal Edwards San Marcos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107971914835955701777\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEANZe5-jV3xo_DQQCLMZnhWV1_3kMXXU1dZpkSlmp6HbzF7Rxh3SURRYyju3l5_qzAMOGDiNabavk_IyrHremve4thM7Sydl1Bod1Y1oPzfL0QdkV8xw3d1QR6oH9MG4FpuWnH8raVdc9Q4KjH-1bRYR7qTKe2a0j5dDpr0KJJgpqT0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV4j2uEh13IARs5wMWxxdQCs",
+            "plus_code": {
+                "compound_code": "4RM5+V2 San Marcos, California",
+                "global_code": "85544RM5+V2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJV4j2uEh13IARs5wMWxxdQCs",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2102
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6941 El Camino Real, Carlsbad, CA 92009, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1041287,
+                    "lng": -117.2688839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.10560152989272,
+                        "lng": -117.2676916701073
+                    },
+                    "southwest": {
+                        "lat": 33.10290187010727,
+                        "lng": -117.2703913298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinépolis Luxury Cinemas La Costa Paseo Real",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 965,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115027286096822577705\">Zed star</a>"
+                    ],
+                    "photo_reference": "Aap_uEBsn9bh317n9NetVKZ5bwTtkGNKmJe8G-0dnxQlVlN-kcHFxcw7NoKWN-dvUd5W16BTa7wsuFSVsJH2MVo-qj-jnizD-17mAaQ6uGMYf2WFRxINT8VjnYI01CuPPtSpQ_l6TTkLrvdXrzOp4JOztF1udD8EH8jUuRm4rvlMX4Rxq1G-",
+                    "width": 724
+                }
+            ],
+            "place_id": "ChIJcQP6ZFUL3IARh3_fAKt8CIw",
+            "plus_code": {
+                "compound_code": "4P3J+MC Carlsbad, California",
+                "global_code": "85544P3J+MC"
+            },
+            "rating": 4.5,
+            "reference": "ChIJcQP6ZFUL3IARh3_fAKt8CIw",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 753
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "471 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0463693,
+                    "lng": -117.293718
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04762337989273,
+                        "lng": -117.2923940701073
+                    },
+                    "southwest": {
+                        "lat": 33.04492372010728,
+                        "lng": -117.2950937298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "La Paloma Theatre",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100844269068329292081\">sandy</a>"
+                    ],
+                    "photo_reference": "Aap_uEAqa8u7fpAreKZWxcbS4vveOQ8eN6XrVlL7rusQPZCBvMt1aMO9p_1ihJr-MHaj7NfINgGkZ-mAXfqQ_zen9leD9CjInfqKdXIkLLi6Sy9C0xa4jbWY5UQ7tx8u2zWt6l62d-wQ_6JPCx5647flWBHCxNUNsfrZCXCvJwPFRXSsXubk",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJRdCY_kIM3IAR8Ly6d5NrSrc",
+            "plus_code": {
+                "compound_code": "2PW4+GG Encinitas, California",
+                "global_code": "85542PW4+GG"
+            },
+            "rating": 4.5,
+            "reference": "ChIJRdCY_kIM3IAR8Ly6d5NrSrc",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 230
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2501 El Camino Real #200, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.178293,
+                    "lng": -117.3289158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17961127989273,
+                        "lng": -117.3277887701073
+                    },
+                    "southwest": {
+                        "lat": 33.17691162010728,
+                        "lng": -117.3304884298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Regal Carlsbad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101897236152742117547\">Greg Herr</a>"
+                    ],
+                    "photo_reference": "Aap_uEDVRqu_N6Lz1ps8bzyridX1hiiBrkeTNscEWVzGTPcqb1YfptEVtEUh1TiotB4rsmTTUwR8bS_HSlFR4GJ3zDYa5YGcyRks3yRULgwv6u2iMiw5p93TMR4QCJ333WximoMpnA1WEb8tPpxG0lVZOCmkRCuqarY0XLDq-RZEC6q1POhn",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJRZ4W_Ihx3IARWT-nvuVlenk",
+            "plus_code": {
+                "compound_code": "5MHC+C9 Carlsbad, California",
+                "global_code": "85545MHC+C9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJRZ4W_Ihx3IARWT-nvuVlenk",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1863
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13475 Poway Rd, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9548136,
+                    "lng": -117.0397793
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95609882989272,
+                        "lng": -117.0383909701073
+                    },
+                    "southwest": {
+                        "lat": 32.95339917010728,
+                        "lng": -117.0410906298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "AMC DINE-IN Poway 10",
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109215409502666984019\">Charlie Luis</a>"
+                    ],
+                    "photo_reference": "Aap_uEDpUn6-Mrg26tq904e2RkPEjt3H5EiQwt7s2g_t8hJScKXbTKE2kfRJncOVsl1HHNTF1Ma1Q9oeocdZrJI0gnhAcSLZ41H33Pf_I-Tj-9xHJFGYcthGid0fqNOn876Eauiwhz_AH9etS_BypuZyDI92o2ICxRoY9jImCS1um8RaF4ez",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJb4_roVP624AR-brjmkG30Rg",
+            "plus_code": {
+                "compound_code": "XX36+R4 Poway, California",
+                "global_code": "8544XX36+R4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJb4_roVP624AR-brjmkG30Rg",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1430
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10733 Westview Pkwy, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.91519,
+                    "lng": -117.11787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91659207989272,
+                        "lng": -117.1166760201073
+                    },
+                    "southwest": {
+                        "lat": 32.91389242010727,
+                        "lng": -117.1193756798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Regal Mira Mesa 4DX, IMAX & RPX",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100643421712692000021\">Lamar Coles</a>"
+                    ],
+                    "photo_reference": "Aap_uEBJMl8IvPcAwR0uF2as6xRuTqLXRFymOvJvca03DBA_-JCEl-bmSYeLYT_Ng6BsP2Hf9jylgqaX-CHljTjyH_hOA3UErJQ0W91vGndYE3xb3Toq3mJZFLJHdg8UR6A8y7FGDwxxVT9i8wgww791-ZiWeMN_WisJ1VimyLIwsYQcliju",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjZLN_hj524AR7E04q49JBMw",
+            "plus_code": {
+                "compound_code": "WV8J+3V San Diego, California",
+                "global_code": "8544WV8J+3V"
+            },
+            "rating": 4.5,
+            "reference": "ChIJjZLN_hj524AR7E04q49JBMw",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2408
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3434 Via Mercato, Carlsbad, CA 92009, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0827641,
+                    "lng": -117.2340908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.08419247989272,
+                        "lng": -117.2324715701073
+                    },
+                    "southwest": {
+                        "lat": 33.08149282010728,
+                        "lng": -117.2351712298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinépolis Luxury Cinemas La Costa Town Square",
+            "photos": [
+                {
+                    "height": 312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116604808539434634589\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECl-p0fXid0DxOD_AmtPUohE46oFpFotWz_zDumJPF3jwkYE2zsYBhE8-4r53KD64peVi0kuV7xf0p8ayJL_ukqMIBuiLNSmFX15Zm-61DZHs_mWsoXvaGSLPlUm5JPThnBOA9H0f9jlSn0XH2lIFvg9CoBo3Heu8UZ-22QindynK7X",
+                    "width": 820
+                }
+            ],
+            "place_id": "ChIJ43gsI4UL3IARDBCzW2nBawY",
+            "plus_code": {
+                "compound_code": "3QM8+49 Carlsbad, California",
+                "global_code": "85543QM8+49"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ43gsI4UL3IARDBCzW2nBawY",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1718 Village Run N, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0516492,
+                    "lng": -117.2516055
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05291087989272,
+                        "lng": -117.2501899201073
+                    },
+                    "southwest": {
+                        "lat": 33.05021122010728,
+                        "lng": -117.2528895798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "B and G Movie Nights",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJTx2a24oL3IAR7PorJAdJwRE",
+            "plus_code": {
+                "compound_code": "3P2X+M9 Encinitas, California",
+                "global_code": "85543P2X+M9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJTx2a24oL3IAR7PorJAdJwRE",
+            "types": [
+                "movie_theater",
+                "art_gallery",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "301 E Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1230237,
+                    "lng": -117.0783774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12435647989272,
+                        "lng": -117.0770247201073
+                    },
+                    "southwest": {
+                        "lat": 33.12165682010728,
+                        "lng": -117.0797243798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Ritz Theater",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113040577724237652350\">Christine Tang</a>"
+                    ],
+                    "photo_reference": "Aap_uECrI5NHpnz4TGHAhAu0RY-fwpvrnfaICTL9B_SCc0mX_BSM0AL4i58EQZ5UK3R1l-m-vrS_vCTTGXnmOgMDAP9YGULRglTXx1bqRu4F-_oE_xG7WiGU7KjVWIqfp223VnKd29gUeycqWe24UfGqW0rJTbU3pasoFUDgwIXP_zrx3RoB",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ2fJ0ZGLz24ARYYvlYXhlhIs",
+            "plus_code": {
+                "compound_code": "4WFC+5M Escondido, California",
+                "global_code": "85544WFC+5M"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ2fJ0ZGLz24ARYYvlYXhlhIs",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12905 El Camino Real, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9522773,
+                    "lng": -117.2323565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95368482989272,
+                        "lng": -117.2312017201073
+                    },
+                    "southwest": {
+                        "lat": 32.95098517010728,
+                        "lng": -117.2339013798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinema Investments Inc",
+            "place_id": "ChIJwTosy5wI3IAR2cw2lsS05Qs",
+            "plus_code": {
+                "compound_code": "XQ29+W3 San Diego, California",
+                "global_code": "8544XQ29+W3"
+            },
+            "rating": 3,
+            "reference": "ChIJwTosy5wI3IAR2cw2lsS05Qs",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "25 Main St, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2002436,
+                    "lng": -117.2443591
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.20166662989272,
+                        "lng": -117.2432139201073
+                    },
+                    "southwest": {
+                        "lat": 33.19896697010728,
+                        "lng": -117.2459135798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Cinépolis Cinemas Vista Village",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114384363243334958107\">Michael Snyder</a>"
+                    ],
+                    "photo_reference": "Aap_uEANo8fbLfgnp8BRexEzie7QJ4eOquM_XVULXADriTL-KEjdU4rIW5UDAWxx47qCsUX1lD4ojmAI0oNGmElBgy8pz3Y4dyo1DLu_J-xV618ZTNTSg5c6fHamEsMmZ1N3FNf_igHa23uX2QULGggSCVP6DvsMTuVvHhwS0QLKNtTP8aCe",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJv9GyqZh23IAR17F7DjqS9o0",
+            "plus_code": {
+                "compound_code": "6Q24+37 Vista, California",
+                "global_code": "85546Q24+37"
+            },
+            "rating": 4.4,
+            "reference": "ChIJv9GyqZh23IAR17F7DjqS9o0",
+            "types": [
+                "movie_theater",
+                "bar",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1970
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2242 Moore Ave, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.888714,
+                    "lng": -117.1267945
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88991147989272,
+                        "lng": -117.1254374201073
+                    },
+                    "southwest": {
+                        "lat": 32.88721182010728,
+                        "lng": -117.1281370798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Bob Hope Theater",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110680867881186011398\">Hyper Sonic</a>"
+                    ],
+                    "photo_reference": "Aap_uED4Hp2Fe6pQwwFhMvmqHSyTBGW8xiRF9Q8_uMhPkTZngThUSNIt6ypDUWbx_MdbokXTiCUys9-woo73qMHUAsqeHPkfhSpbsq-rny3ucWYM5DaFVe-NLKWKmmfRjVf4voAjV0-de6d39CgiMgmhpjnJfZ89VL87pQGCL25x-AL0xOIC",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJw413oSr_24ARJmjqhtnr6cE",
+            "plus_code": {
+                "compound_code": "VVQF+F7 San Diego, California",
+                "global_code": "8544VVQF+F7"
+            },
+            "rating": 4.5,
+            "reference": "ChIJw413oSr_24ARJmjqhtnr6cE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 292
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "401 Mission Ave, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1950968,
+                    "lng": -117.3799005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19665862989273,
+                        "lng": -117.3787363201073
+                    },
+                    "southwest": {
+                        "lat": 33.19395897010728,
+                        "lng": -117.3814359798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Regal Oceanside",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111116255982595206909\">killer three wheeler</a>"
+                    ],
+                    "photo_reference": "Aap_uEAMbEDtI7rQqh-b0vyH3rlx2WUnH2o8c0kUa3N7L_1s8MmL0Rx-ws9UhqrkKAmMNw1Uj5PiwpaabFkCHTrajWF9OhhC0-9PzHXsQRHwwtHx5HnuiYZl7c0qVlmnIjWzQsog_g52Ft-khljx-QEOWHQXVYZoKJKuB8pkW1bsBr1jElCJ",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJt0GxRTdu3IARsxEazWpRuc8",
+            "plus_code": {
+                "compound_code": "5JWC+22 Oceanside, California",
+                "global_code": "85545JWC+22"
+            },
+            "rating": 4.1,
+            "reference": "ChIJt0GxRTdu3IARsxEazWpRuc8",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1294
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10733 Westview Pkwy, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9152406,
+                    "lng": -117.1175591
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91659292989272,
+                        "lng": -117.1165203701073
+                    },
+                    "southwest": {
+                        "lat": 32.91389327010728,
+                        "lng": -117.1192200298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Edwards Cinemas",
+            "place_id": "ChIJf4y1Rhj524ARkPVLjhC8fc0",
+            "plus_code": {
+                "compound_code": "WV8J+3X San Diego, California",
+                "global_code": "8544WV8J+3X"
+            },
+            "rating": 4.7,
+            "reference": "ChIJf4y1Rhj524ARkPVLjhC8fc0",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Town Square, 4665 Clairemont Dr, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8293572,
+                    "lng": -117.2053931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83073297989272,
+                        "lng": -117.2039719701073
+                    },
+                    "southwest": {
+                        "lat": 32.82803332010728,
+                        "lng": -117.2066716298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "Reading Cinemas Town Square",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110803314500914642295\">Roman One</a>"
+                    ],
+                    "photo_reference": "Aap_uECgtUwDJ4ufv2bZOufddAgMsbpCtdEV5jsmpC-brHflwZkHx0TZtINCDUouL71_YfouO-nXgppb10jdgcqqC5iuERamh3f9rv3TOvahQlLlpBvAlpyTVnvf2w0W4fk7hckG7E_rcStlaOPv-HeOPfQa4-uK2ca5-dPBJiI4nUaVPZVN",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJp4xTYlgA3IARr56GtmZt4iU",
+            "plus_code": {
+                "compound_code": "RQHV+PR San Diego, California",
+                "global_code": "8544RQHV+PR"
+            },
+            "rating": 4.3,
+            "reference": "ChIJp4xTYlgA3IARr56GtmZt4iU",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1186
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1640 Camino Del Rio N, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7681327,
+                    "lng": -117.1485626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76927902989272,
+                        "lng": -117.1471091701073
+                    },
+                    "southwest": {
+                        "lat": 32.76657937010728,
+                        "lng": -117.1498088298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "AMC Mission Valley 20",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101119067278835515538\">Gabriel Trujillo</a>"
+                    ],
+                    "photo_reference": "Aap_uEAJbdwoX-EXE-ECp-HonsuLh3nz9BJBuOvmwyZihKaG0v39ZO2_WV_OvCLZBepq_349RL8ZXEWYe-RIiMatSHpMOGvhORr0o0OCfy64UPMxkeW8v9TxPKLJxF_2V5rahhbGt6tURZFEJddFEv-aTxzTISuvCVb9N2LHisbbvg7GlTgG",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs2n-qRlV2YARJ1xqGPL-d2Q",
+            "plus_code": {
+                "compound_code": "QV92+6H San Diego, California",
+                "global_code": "8544QV92+6H"
+            },
+            "rating": 4.2,
+            "reference": "ChIJs2n-qRlV2YARJ1xqGPL-d2Q",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2806
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4425 La Jolla Village Dr, San Diego, CA 92122, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8711691,
+                    "lng": -117.2118487
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.87284442989272,
+                        "lng": -117.2100452201073
+                    },
+                    "southwest": {
+                        "lat": 32.87014477010728,
+                        "lng": -117.2127448798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+            "name": "AMC UTC 14",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116267851128272955796\">Diana Mendez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDk_NvoGyxRvZJN2E0cpz7TPLfJEdgC33B0fEOWSwShUB4IqbzRph7tKFrtaJU8hviDci6EatDQRLdjWsKWwA3uTgEnKznMxmCJYwxqQ5sYk3XgQOi0mp2ZggmAVmOQioCwKhdoQP0Og6oTE6BNy2eEX9o6NgULzosCKl5_HqDUmLAL",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ927zo08H3IARP224wjgn1Rw",
+            "plus_code": {
+                "compound_code": "VQCQ+F7 San Diego, California",
+                "global_code": "8544VQCQ+F7"
+            },
+            "rating": 3.1,
+            "reference": "ChIJ927zo08H3IARP224wjgn1Rw",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        }
+    ],
+    "status": "OK"
+}

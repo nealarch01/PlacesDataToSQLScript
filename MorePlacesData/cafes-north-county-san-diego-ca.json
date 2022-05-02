@@ -1,0 +1,1058 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBz3XdXI-qCjJoquBbzAH_yc2cdSHoXZmkeXZnIalnn3P_ZHOL4Tk-34D-OeZU76fz3UHzZ0DYBCppeDddom48IYld7o5F8NnufOlR-gSTzHED1qcEGfQ0S4ePXjaswLSmMMgsjAFGPSXEdopTfpPCRiPzvhnzBqV1YkOPC143IbqUm7IOP9KfW1pH3PBj1ojI-Sb96nHWbYyiOzWLsPTiRc471HrmhMNy9_G6TIt9rkl6m8FB4RGyyemLHLEbHOrPe5-x5iqz7XU7ky-8C5nA0hws37wR6OCaZqfz8aTzZGcaynk-DU4wPt3vuzQzyczflIHaR1-GK3asMXcidWeapGoBEgt6HIEzdnWeqphY6PJu3tmQl3Aqfqiobik8wcLP0mqmE7aMBD6GKEQnR71qAS7OfoAXsFxq3OXjk4Utx",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1030 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.06664250000001,
+                    "lng": -117.303215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06800032989272,
+                        "lng": -117.3017831201073
+                    },
+                    "southwest": {
+                        "lat": 33.06530067010728,
+                        "lng": -117.3044827798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "A Little Moore Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109760462059369356610\">Adam Litchford</a>"
+                    ],
+                    "photo_reference": "Aap_uECfFIL0llDcZHWBDnlkoxAhNXU5cNvI-mWx1srcp2pw6YMakmBQj1FBewxjOF3e9E9SqrbY_rg7GTBCTdt371PQ--uS3s7HKyAgExbmfgBE_WazUacf-NP2rI4y9CGYASc3vUnSxT49N53gMpd_zzq7sIY-cMRGieh5qoWVtxZjkVzM",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJPyunqPoM3IARXuYiqquGf8Y",
+            "plus_code": {
+                "compound_code": "3M8W+MP Encinitas, California",
+                "global_code": "85543M8W+MP"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJPyunqPoM3IARXuYiqquGf8Y",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 225
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13330 Paseo Del Verano Norte S2, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0328078,
+                    "lng": -117.0469739
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03409482989272,
+                        "lng": -117.0458577701072
+                    },
+                    "southwest": {
+                        "lat": 33.03139517010728,
+                        "lng": -117.0485574298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Manzanita Roasting Company and Coffee House",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1512,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107181535850589477359\">Manzanita Roasting Company</a>"
+                    ],
+                    "photo_reference": "Aap_uEBR88VnvRGV4iW1QAj8g5p5gePpwX0XYtMxJ3wbz18SDvLWdpxOFuS7t5DBK7psa0pToN3zqjjVX-mPOSL5Cf3c3kblXnm4IIReWKCtsJcN1IXTHULQau2eXDQDhY-r9Bn_uoPPrZsiNU1aEyyZlkMz8ftHjcOm912PGRjE1DGcVGNI",
+                    "width": 1512
+                }
+            ],
+            "place_id": "ChIJ8UmXfeLw24AR1Ey1qXpn9og",
+            "plus_code": {
+                "compound_code": "2XM3+46 San Diego, California",
+                "global_code": "85542XM3+46"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ8UmXfeLw24AR1Ey1qXpn9og",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 80
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "477 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0571471,
+                    "lng": -117.2613252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05849717989273,
+                        "lng": -117.2601651201073
+                    },
+                    "southwest": {
+                        "lat": 33.05579752010728,
+                        "lng": -117.2628647798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Cafe 477",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108788460674325607331\">shawn ferguson</a>"
+                    ],
+                    "photo_reference": "Aap_uEB29mSr_fB37TU3OZWk9UdsXav5yI3UxL5ZRd5-iY3f2SQvOKtZ5DliUYM0aGbxxfceHQCfmVMmEIDDG8HT4QEYhlcwPTUIZ1q1BQbUFzFBkrDdLuLZck8G1xe9I7mANHW_OM5ojw64BJVoPPaT6wnACg9T5a3aOYhv9gUWqNHaUUGL",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJC_ZP_YUL3IAR6sg5fYvs3ag",
+            "plus_code": {
+                "compound_code": "3P4Q+VF Encinitas, California",
+                "global_code": "85543P4Q+VF"
+            },
+            "rating": 4.9,
+            "reference": "ChIJC_ZP_YUL3IAR6sg5fYvs3ag",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "288 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0537958,
+                    "lng": -117.2626637
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05506517989272,
+                        "lng": -117.2612733701073
+                    },
+                    "southwest": {
+                        "lat": 33.05236552010728,
+                        "lng": -117.2639730298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Naked Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110023981085684503435\">Pavel A Manzyuk</a>"
+                    ],
+                    "photo_reference": "Aap_uEC2VprZcyjaX8dmVJAipTVVdeW5aJEptIWvUrMO3p1gaeu66eIhcb-BnJNZauic_bu3vj_YPz_mmOE6a-xfYTjg-qiO7CFadrpoUTBB9u6lkfT5Lc_BKPksMZcVIeVL1GtNgUtJRC8RHrvtAeOv42x9N0S_-ff7nsBkYiLWad0dvogz",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJ1TDf2YgL3IARY0CRWkGmh3E",
+            "plus_code": {
+                "compound_code": "3P3P+GW Encinitas, California",
+                "global_code": "85543P3P+GW"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJ1TDf2YgL3IARY0CRWkGmh3E",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 178
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "970 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0656287,
+                    "lng": -117.3029425
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06697302989271,
+                        "lng": -117.3015823201073
+                    },
+                    "southwest": {
+                        "lat": 33.06427337010727,
+                        "lng": -117.3042819798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Coffee Coffee",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110242012295636893027\">John Abrahamson</a>"
+                    ],
+                    "photo_reference": "Aap_uECOSBOUg-u2txooIoRM_2ZVEfsFH-JnOpZRNbmUbRd8t-lwMwEdAheBMJ0F9kI6KL5lyojxbdlCP6BM2Bu7eGHlVMo0_drCOyCrymrY0tjqtHRv4pQRmT0q7kPWjuouSdnXYNezj3TsyUvtQo--NcuIk3p7f0apgG1T1QU9-A9H5fyM",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJHQBQdvAM3IARry7_w9K_Lio",
+            "plus_code": {
+                "compound_code": "3M8W+7R Encinitas, California",
+                "global_code": "85543M8W+7R"
+            },
+            "rating": 4.5,
+            "reference": "ChIJHQBQdvAM3IARry7_w9K_Lio",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 315
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "458 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0465475,
+                    "lng": -117.2941814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04791287989272,
+                        "lng": -117.2927206201073
+                    },
+                    "southwest": {
+                        "lat": 33.04521322010727,
+                        "lng": -117.2954202798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Ironsmith Coffee Roasters",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3447,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102517366433985426478\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBf8sEXWlvJECsFQ1VfsshVbhR4uweUpKZclG_kFabndbEy-KWebMw-yVylqTnYKavyBRiUVCJoKqZkbcSfW9Qs39FmdzWq423COZ43OBharwTE5tEVGLWr0KADEi3fREJWkFV378S9Zlrgs_pDI8zggi-jLIack2iN_2M8VPKoOnB5",
+                    "width": 5170
+                }
+            ],
+            "place_id": "ChIJN9iZAkMM3IARifSQvvG4ENg",
+            "plus_code": {
+                "compound_code": "2PW4+J8 Encinitas, California",
+                "global_code": "85542PW4+J8"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJN9iZAkMM3IARifSQvvG4ENg",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 174
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1882 W El Norte Pkwy, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1555358,
+                    "lng": -117.1247819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15687202989272,
+                        "lng": -117.1234495201072
+                    },
+                    "southwest": {
+                        "lat": 33.15417237010728,
+                        "lng": -117.1261491798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Blue Mug Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1920,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111138599854142723929\">David Herbert</a>"
+                    ],
+                    "photo_reference": "Aap_uEDodXnCP78-UmlQX6w-Ai5n6SsEZE9NtR4-Xn1ztNq3Q4FRYRIgVXpYgH3CE8fSViajtSjl668-WQGIkf-6doQW3dHdUAak-KFhbhmzYi6FEMeh-8eEZ-HFP8PhJW2DPFp9aNIzeVuqRkepLp2iVNCBnIAuohZMSPBeTzI6cg3Lm0wr",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJQZMuRyeL24ARNdkOgUtUzE4",
+            "plus_code": {
+                "compound_code": "5V4G+63 Escondido, California",
+                "global_code": "85545V4G+63"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJQZMuRyeL24ARNdkOgUtUzE4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 317
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "293 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0537831,
+                    "lng": -117.2611013
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05514847989272,
+                        "lng": -117.2597569201073
+                    },
+                    "southwest": {
+                        "lat": 33.05244882010728,
+                        "lng": -117.2624565798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Friendly’s Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2104,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116707463462446715290\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECEKCScxMhcbcYpmip46pSc2Ggkr8DqYbkFETnfeBR5ZgetKAc1JWUy6yT9Mnmo988fyG0_FEv3OD9UkxtwZj-xNN5BUhmXipCfPke4-DK22LEtBy-zgHuKtz85Gj1t8q6NwHS86qwPEY7YICP84NDz3GvlxpEVeZxarsvKAlikHIge",
+                    "width": 3737
+                }
+            ],
+            "place_id": "ChIJPcJjbV8L3IAR4Alkfs9nCA4",
+            "plus_code": {
+                "compound_code": "3P3Q+GH Encinitas, California",
+                "global_code": "85543P3Q+GH"
+            },
+            "price_level": 1,
+            "rating": 5,
+            "reference": "ChIJPcJjbV8L3IAR4Alkfs9nCA4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1350 Poinsettia Ln, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.110951,
+                    "lng": -117.294726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11200102989273,
+                        "lng": -117.2931861201073
+                    },
+                    "southwest": {
+                        "lat": 33.10930137010729,
+                        "lng": -117.2958857798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Story Caffe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110084931603766072390\">Liz M.</a>"
+                    ],
+                    "photo_reference": "Aap_uEAuukKuPOyg8nGiyEZneRSwWhpFe165pRa_i8jgdnRtpRp12IKD-lzqE4emGCIeMhVRS8SDRLmh--cXM5M3z53ZWvFzFuDpU66Ry0vzev6BXmlu4BLIaI-rEDzJXfWfrpK133ncTtIomDnFg8Yy_5qAnFWMkqayPUoc3Dac1G2EPAkw",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJxa7sgjdz3IARvGgpyTaEQQU",
+            "plus_code": {
+                "compound_code": "4P64+94 Carlsbad, California",
+                "global_code": "85544P64+94"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJxa7sgjdz3IARvGgpyTaEQQU",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1260 Industrial Ave, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.11987939999999,
+                    "lng": -117.1061329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12100507989272,
+                        "lng": -117.1048891701072
+                    },
+                    "southwest": {
+                        "lat": 33.11830542010728,
+                        "lng": -117.1075888298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Leap Coffee - Roastery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107652712988870775419\">Haley Boyd</a>"
+                    ],
+                    "photo_reference": "Aap_uEBRx4up0aNLldDFRBpxQuFkYi2zjoadAsDA0Z5oaouY1QGk83ugABvreSGb9MihtlvDNcImoQwJSCvkz8bXDAgkRmrJ6VDPncNm32_LrVXPM9heVsB64eMRYPJ-QsczzPb8wpWdI_WPnJ3JJpTYwCwzLAzyp6nsGMkZfUQCxt5p6XVf",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJbWvHkHtz3IARhBAMZJBA1A4",
+            "plus_code": {
+                "compound_code": "4V9V+XG Escondido, California",
+                "global_code": "85544V9V+XG"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJbWvHkHtz3IARhBAMZJBA1A4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 223
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "782 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0629063,
+                    "lng": -117.3019698
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06427387989273,
+                        "lng": -117.3005459201073
+                    },
+                    "southwest": {
+                        "lat": 33.06157422010728,
+                        "lng": -117.3032455798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "MRKT Space",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109094497086454830724\">Scott Murphy</a>"
+                    ],
+                    "photo_reference": "Aap_uECF1eKTW95F9g4nzsU7GzkIW2Jyy1WlGVvOsZWGhEVFzNQOWhyWVvhcQRv9Jrq6GBEnrZWbe_wErpHSITgjepZkLHp90vk47y0TDPgvp8FMZb0zz2F-0NAoWabmw03-ihlwHG6O3rdBzpMRahQ2CAO0nf7gwUAcayXvzowJH3pvzmU_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJQxlWCAQN3IAR5Av2___n_O0",
+            "plus_code": {
+                "compound_code": "3M7X+56 Encinitas, California",
+                "global_code": "85543M7X+56"
+            },
+            "rating": 4.7,
+            "reference": "ChIJQxlWCAQN3IAR5Av2___n_O0",
+            "types": [
+                "cafe",
+                "bar",
+                "liquor_store",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "578 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0448752,
+                    "lng": -117.2938744
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04627002989272,
+                        "lng": -117.2925893701073
+                    },
+                    "southwest": {
+                        "lat": 33.04357037010728,
+                        "lng": -117.2952890298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Better Buzz Coffee Encinitas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118417939282901838818\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEABHtk_1zPFiVERszWkyg6d9Bpo7RDjZ8phkvwr6jW8QL7woPcqj5XmXSIdFfwzHwRxpfIffyuhd2Cg4po2AHXYMtOU1fTGL9UflC8wS_LVXuBBE9A6fzQx5hkUVS7-uQXv5Ag-zR0FCWo2-SHd1lhxNnvYHJQyTdWn5Mlz5oi--QEz",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJke3jSkIM3IARCwfy32VJGjU",
+            "plus_code": {
+                "compound_code": "2PV4+XF Encinitas, California",
+                "global_code": "85542PV4+XF"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJke3jSkIM3IARCwfy32VJGjU",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 886
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "190 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0524395,
+                    "lng": -117.2959754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05386457989272,
+                        "lng": -117.2944730201073
+                    },
+                    "southwest": {
+                        "lat": 33.05116492010728,
+                        "lng": -117.2971726798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Queenstage Coffee House",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108958924080800260840\">Abby Gustaitis</a>"
+                    ],
+                    "photo_reference": "Aap_uEC4CQ10BFwfej0csRpv9_2wpFUNqZ7WihaTJpefGlYoj22FLqZ21Mjc4ChqzY0Ebq-MVMNnxMiVOfGmF-dKxrkDlPr4_eI_tWmz35IuAMadUUbNuVVbvVlaRud2Au447tdDAnEitE7jegVAwoLdy58_ocQVXVUnu11SNjo8wZ_IjEnh",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ65s-X-kN3IARYwbSsY-IGGc",
+            "plus_code": {
+                "compound_code": "3P23+XH Encinitas, California",
+                "global_code": "85543P23+XH"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ65s-X-kN3IARYwbSsY-IGGc",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1080 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1344825,
+                    "lng": -117.190941
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13586412989272,
+                        "lng": -117.1894657201073
+                    },
+                    "southwest": {
+                        "lat": 33.13316447010727,
+                        "lng": -117.1921653798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Old California Coffee House and Eatery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117631700075858812169\">Michael Wood</a>"
+                    ],
+                    "photo_reference": "Aap_uEC75K1Nit5x3KNCFD3Q3a7jx7kZn3165zPuZO9HUA8cKoNebZd1ynzJYENGsg6dy9Shp3nryiFo2dH1ds4eClo7CaWql-LX6XR43i1KJsIXmLOOVedgGs5k8SbjaayNm4SsZFOu5hXW2TNFE63PBtnKWgevCGTpZvM97JAkOK36Li5T",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrzgoTE913IARtzc1I057zAY",
+            "plus_code": {
+                "compound_code": "4RM5+QJ San Marcos, California",
+                "global_code": "85544RM5+QJ"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJrzgoTE913IARtzc1I057zAY",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 399
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3091 Roosevelt St, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1590863,
+                    "lng": -117.3470027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.16040942989272,
+                        "lng": -117.3456238701073
+                    },
+                    "southwest": {
+                        "lat": 33.15770977010727,
+                        "lng": -117.3483235298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Café Topes",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101944136273225380987\">Justin Davis</a>"
+                    ],
+                    "photo_reference": "Aap_uED8WcGSqwOvLUixcMaTjoAguovhNthMONOayx1oaWerBTt7ySDZWloy2uJtw7Bt9b61i4Aasfq36aNM9NVze2bX3Ugx11-PAG-LATEr9cfmqjzChGnWKYmmjIJ0EuFvVQ0GM-IxTCpyFrAl17tsk7FauyPhHtOZR97ViPZv2byn_t3O",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ7cS6WRBy3IARyMd7hVfgmdc",
+            "plus_code": {
+                "compound_code": "5M53+J5 Carlsbad, California",
+                "global_code": "85545M53+J5"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ7cS6WRBy3IARyMd7hVfgmdc",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 632
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "803 S Twin Oaks Valley Rd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1229412,
+                    "lng": -117.1653021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12434922989272,
+                        "lng": -117.1639490201073
+                    },
+                    "southwest": {
+                        "lat": 33.12164957010728,
+                        "lng": -117.1666486798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Hob Coffee San Marcos",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102677310770554958952\">Алина Филиппова</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPfyVCzvujys36iP8LQ9DEkQS91-L3FZcYpNyQfCGT3ro1lXw8UXMNpC3NGKK58U5ZBJsfXsBTbrZ5VkyAEdbf7blP4pjutbJmrrtYWHxOKFAG2Cw8ZdV02lN0RjD5N8FGhGn3gLwTzPTe218S7RemMkJQ9pRPOkkrnoEuVly6ZW87",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJ5eaS55L124ARRniQDGcsdPM",
+            "plus_code": {
+                "compound_code": "4RFM+5V San Marcos, California",
+                "global_code": "85544RFM+5V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ5eaS55L124ARRniQDGcsdPM",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "133 N Twin Oaks Valley Rd Ste110, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1398633,
+                    "lng": -117.1625062
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14127082989273,
+                        "lng": -117.1612734201073
+                    },
+                    "southwest": {
+                        "lat": 33.13857117010728,
+                        "lng": -117.1639730798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Ryan Bros Coffee of San Marcos",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116366026298231076054\">James McCrory</a>"
+                    ],
+                    "photo_reference": "Aap_uEAjoo6RT8gpZ8WQ4GyAY3EGT5l7rGRZk7Fl8hbA2R2VSZsZ0ulAIYzFfM9EQjVamn3HYvMABq-MKRsnVO7MAGCeC4Smq5DXHs_RyyhRBmvmmkmjGGeCH05AIvBjRuOXjtm1onHWU_HRRuB4qKc9G0CFIsrG7xszzWZm2CkPVATCCdH3",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJFXsnzq-K24ARQUKCbyRN6bA",
+            "plus_code": {
+                "compound_code": "4RQP+WX San Marcos, California",
+                "global_code": "85544RQP+WX"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJFXsnzq-K24ARQUKCbyRN6bA",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 214
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6806 Embarcadero Ln, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1096091,
+                    "lng": -117.3180983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11093992989272,
+                        "lng": -117.3167971201073
+                    },
+                    "southwest": {
+                        "lat": 33.10824027010728,
+                        "lng": -117.3194967798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "INVITA Café",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117852376485129514182\">Invita</a>"
+                    ],
+                    "photo_reference": "Aap_uECIxoUkcGeDGy8ATZ_hv5ORJ720AvsxuLGOW8RyuyY0i-xGFxPe9hdx6_rW1yNXzpr6g0m20pCm7sIR4hGd7Ki0xqInb64rZYTHKJOVAOXBSsQOLg4l6JhsHYuIiaHOccDgMxLevAwm0yepCEYtaRRVSqyeGy7bW0NgamTNR6cded2W",
+                    "width": 3600
+                }
+            ],
+            "place_id": "ChIJb81K-9hy3IARpva6l8zOR_0",
+            "plus_code": {
+                "compound_code": "4M5J+RQ Carlsbad, California",
+                "global_code": "85544M5J+RQ"
+            },
+            "rating": 4.4,
+            "reference": "ChIJb81K-9hy3IARpva6l8zOR_0",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 89
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11385 Poway Rd UNIT 110, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9451511,
+                    "lng": -117.0844578
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94653287989272,
+                        "lng": -117.0831011201073
+                    },
+                    "southwest": {
+                        "lat": 32.94383322010728,
+                        "lng": -117.0858007798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Hob Coffee Sabre Springs",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115247723056904175225\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDYqLVoRYgJdtRWzCFMdCpbK0d_DPIDb1_3zL-AaetrBqdrSplStsjlEWrr1uCjieiKwNVz8brbaYB6MKbZBwvXvc9OR1imTULugwQmAmHP1J-JM7INaNtFp3RV0M99qx5ScW7aYoqw5TwwSndVq649zTtp1OJwSxs-v0FaqI_Km1Bh",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4ewiZ4H524ARRUe9hj1bu-o",
+            "plus_code": {
+                "compound_code": "WWW8+26 San Diego, California",
+                "global_code": "8544WWW8+26"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJ4ewiZ4H524ARRUe9hj1bu-o",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 255
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11611 Rancho Bernardo Rd, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0233578,
+                    "lng": -117.0819059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02472162989272,
+                        "lng": -117.0805607201073
+                    },
+                    "southwest": {
+                        "lat": 33.02202197010727,
+                        "lng": -117.0832603798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Elmisa Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2942,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115360188194673732527\">Dan Edwards</a>"
+                    ],
+                    "photo_reference": "Aap_uEDvZPkY1Cgp6TJxD6poxe_DanX4bghUhwhwHyRiiH36LmRHiIOz3SKcJyAisHmqUGqG3qEY0Fo7HqFC-lyiFjLXVMGCeXY48pYnnBoAiZkJhitSwPYIupgogEKy_sI7SCFROqq1racaQ9W0WexEhtRdqf1pGC3gtFZi7fR6_aBNExqg",
+                    "width": 2942
+                }
+            ],
+            "place_id": "ChIJR_Xn1QX324ARsPZ4gElDxeM",
+            "plus_code": {
+                "compound_code": "2WF9+C6 San Diego, California",
+                "global_code": "85542WF9+C6"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJR_Xn1QX324ARsPZ4gElDxeM",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 139
+        }
+    ],
+    "status": "OK"
+}

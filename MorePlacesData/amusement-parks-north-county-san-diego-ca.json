@@ -1,0 +1,997 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBIMAJ7b93SiSS5bzWSwcX2CGaE_F8G3b8W3yJPUPpS6b1kgTVUNoUBDaE85IlNn8HPLWmHivRTgg1qaioIXhP4qzqoPhUlau07IncsTMmi5qHJtZvzj__m6amRynZ32qckr4a05jtdpikWAeuNx4nUuUs2WOP004EiQv0CHbeYaQZMLJnJK8D8Va5zgZk82HErAgPaYtVtaOc54cXcsBIjFBAzEf8SBsaLKKRT5fEy15DSuABTiGZhKuvLvUk962b5Z-cmoDqIqK4R2yEgMfXkBcwWbEbJVPnxirXstTmnLPoeW1mHYj_g2AZK_5UOjN7ZZHTcC0uG3V7xp06T5EASd1QEDqHnr0fEQgSmgAUyHyFiYVOP9jHP6d9kgYH7eijJT2_PEfQwJ8AlspDUS_lkgZ4kjMFehB131rEgEIM_XVzMTrvVwJ4VMA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "One Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1262796,
+                    "lng": -117.3115883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12741502989272,
+                        "lng": -117.3103197201073
+                    },
+                    "southwest": {
+                        "lat": 33.12471537010728,
+                        "lng": -117.3130193798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Beginning",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105281864217740361832\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDQVSVH0gFQIXo8kRZOtZ0BKucue3qKCmc9dnoHmusX7wQiBJQkEEV_zwBgFrjcRpjrLx4v_oQ22Qx0JLKCQF06lQSxR_rl_pWwsa8a31mjQBM0wHe_hW0SZyb4ZeD5SzN9Vg0jgJL1P_0AJrjuB2VGUepD9ZrGlMKxLzyOIlnBk5fM",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJHQn6IB1z3IAR9xkYC7M1BH0",
+            "plus_code": {
+                "compound_code": "4MGQ+G9 Carlsbad, California",
+                "global_code": "85544MGQ+G9"
+            },
+            "rating": 4.6,
+            "reference": "ChIJHQn6IB1z3IAR9xkYC7M1BH0",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 76
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0142145,
+                    "lng": -117.1418577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01556502989272,
+                        "lng": -117.1403613701072
+                    },
+                    "southwest": {
+                        "lat": 33.01286537010728,
+                        "lng": -117.1430610298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Memorial Day Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGT22tVP324ARgfSz2ovlA0M",
+            "plus_code": {
+                "compound_code": "2V75+M7 San Diego, California",
+                "global_code": "85542V75+M7"
+            },
+            "rating": 5,
+            "reference": "ChIJGT22tVP324ARgfSz2ovlA0M",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1525 W Vista Way, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.191983,
+                    "lng": -117.2737657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19348172989272,
+                        "lng": -117.2723112701073
+                    },
+                    "southwest": {
+                        "lat": 33.19078207010728,
+                        "lng": -117.2750109298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boomers Vista",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112592015925319910078\">Jasmine Sabet</a>"
+                    ],
+                    "photo_reference": "Aap_uEAYaDKNTIyOvsn-fbWDWVK4vcx_YdUfYxU97Hy1yjkCiSa5r_XVsk0diW-B-J3tNHefVb_g357AfxmO-8p-_Kc_uP5evxuuR2htkIWrT1CbbjOsTEJts-Gm_ceoW-m-K3F_ifsMtQrYSBen8MsEuqlu4QI0qyNl1vOqzEoAS1VrMiPv",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJqxwMm1Zx3IARGxxowvtKqUo",
+            "plus_code": {
+                "compound_code": "5PRG+QF Vista, California",
+                "global_code": "85545PRG+QF"
+            },
+            "rating": 4.1,
+            "reference": "ChIJqxwMm1Zx3IARGxxowvtKqUo",
+            "types": [
+                "amusement_park",
+                "bar",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1320
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1640 Camino Del Rio N, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7689372,
+                    "lng": -117.1445983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77028687989272,
+                        "lng": -117.1432484701073
+                    },
+                    "southwest": {
+                        "lat": 32.76758722010727,
+                        "lng": -117.1459481298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Inflatable World",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103814060101898984698\">Xplasma</a>"
+                    ],
+                    "photo_reference": "Aap_uEBeRHm6KWbu56Sh0TjRSTlwMXO6O4CpNCrWG_oXwlsUNypldz9aE42cDNqxRqbRe3VJZz0-8OLth7sKmZY9VehRdPXYecLxkT-W-ArFjpCJ3j9V3N-EXtkIZQH-_R-lsJipGBRDaMRqzPDW1mdwPVbCGyE5Tj2JSHWikqWs8Q5XxhuP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs2n-qRlV2YARmorir8-PqrY",
+            "plus_code": {
+                "compound_code": "QV94+H5 San Diego, California",
+                "global_code": "8544QV94+H5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJs2n-qRlV2YARmorir8-PqrY",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1277391,
+                    "lng": -117.3121239
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.128843,
+                        "lng": -117.3113220701073
+                    },
+                    "southwest": {
+                        "lat": 33.1244274,
+                        "lng": -117.3140217298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Miniland USA",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114155622677728723689\">Fabiola Herbert</a>"
+                    ],
+                    "photo_reference": "Aap_uED3rgsMNeB-7nXoE_oJz0uqCm7wd6FSMVBGedJnA_8YgOPFT0HPqBP6F7CN7YyIsMC4UL6Y5DAZdjZXdzkCkxmV16sGyXwSxPO9o8U_KNU9MaaCv8LubthC5CCIILmDIeiIXoW89usHx1t9DV1M0qCeK1Lbi3xndp-5NM8uBouUS-vU",
+                    "width": 3984
+                }
+            ],
+            "place_id": "ChIJybNUKwNz3IARfQL1MRPBatI",
+            "plus_code": {
+                "compound_code": "4MHQ+35 Carlsbad, California",
+                "global_code": "85544MHQ+35"
+            },
+            "rating": 4.7,
+            "reference": "ChIJybNUKwNz3IARfQL1MRPBatI",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 687
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3146 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.770895,
+                    "lng": -117.2518979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77281122989272,
+                        "lng": -117.25029855
+                    },
+                    "southwest": {
+                        "lat": 32.77011157010728,
+                        "lng": -117.25347795
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Belmont Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDjMgfPDh6I1TIOtkkXFiycByPCHLjaquvof9Gwis6qncwphADnKlVyK-mzfAdPk9GAVls9aLRykiZ7Esy0SW-2Cfnq0aopAP3wsTg_cYH4pGjeppkQ-4uOa6Kjcx1fDZ6wjwaB96xBoCDO_NhmRNRFEiFI7MgWld-gs4t8r_QPD8nE",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJGZfrmeJU2YARL4VJe0IZZRQ",
+            "plus_code": {
+                "compound_code": "QPCX+96 San Diego, California",
+                "global_code": "8544QPCX+96"
+            },
+            "rating": 4.5,
+            "reference": "ChIJGZfrmeJU2YARL4VJe0IZZRQ",
+            "types": [
+                "amusement_park",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13706
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1280 Fletcher Pkwy, El Cajon, CA 92020, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8082059,
+                    "lng": -116.9786294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80955897989273,
+                        "lng": -116.9773409701073
+                    },
+                    "southwest": {
+                        "lat": 32.80685932010728,
+                        "lng": -116.9800406298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boardwalk",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103389093459982484551\">Aimee Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDigT1_rfWW3O_DCLgO8cDAoC0Z4XYgJD5mfN4W7bL8ttyhzVUwOcXjsDX15ETb8RbpkDzFT8iT0yYg-WGsdgeJDFUr_OBn0q6aEP8ecBClvbKXbftQbJ8r5sxWJ2yB8iWeiBv7gEh_iT-aSankXXrm3gnFhZ-lpy5rp4BB3MdL9HeU",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "plus_code": {
+                "compound_code": "R25C+8G El Cajon, California",
+                "global_code": "8545R25C+8G"
+            },
+            "rating": 4.2,
+            "reference": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "types": [
+                "amusement_park",
+                "bowling_alley",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "101 Wave Dr, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.199568,
+                    "lng": -117.24573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.20091587989273,
+                        "lng": -117.2443786701073
+                    },
+                    "southwest": {
+                        "lat": 33.19821622010728,
+                        "lng": -117.2470783298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Wave Waterpark",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117916355318942295682\">Peter Beczek</a>"
+                    ],
+                    "photo_reference": "Aap_uED6KeLkYSDX7I3h9kefPtxtLSH0dFnVOf19--jxoaOM2nErUUKLrj5oVwNnzMtj2KVKTnM5MjXCwHgdQA6BkkrZAMPGxbFrI0LoQ4KuavVClmpZO0GVEG2PbWQlgQIjQZdyq6cm4md3s88vHfhgkomWUH130sxnbTjXB7GxHwWtT-eT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJt6MWKaJ23IARz3lVhbyixeY",
+            "plus_code": {
+                "compound_code": "5QX3+RP Vista, California",
+                "global_code": "85545QX3+RP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJt6MWKaJ23IARz3lVhbyixeY",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 380
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1278,
+                    "lng": -117.3132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12887892989272,
+                        "lng": -117.3124595
+                    },
+                    "southwest": {
+                        "lat": 33.12617927010728,
+                        "lng": -117.3154215
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Fun Town",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101595749757161985912\">Joseph C</a>"
+                    ],
+                    "photo_reference": "Aap_uEDBPwF6Amv0edCQotFFqZNYN2tJj49MAxdrRJxEypwJyqTz8jX4B-MG_2irytGPkbkFZeNLMDMHtDR0q1uSJPVF4-d88PAKgev9rrs5oR8bqdN61s0XiUmXD6kIaLn42GeOI4-WAqs_9mB81SNCBTRmUGF1973cmnq8uTL9rAE9nZEm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJXX93twJz3IARrNOL6BIaSIA",
+            "plus_code": {
+                "compound_code": "4MHP+4P Carlsbad, California",
+                "global_code": "85544MHP+4P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJXX93twJz3IARrNOL6BIaSIA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1137
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2052 Entertainment Cir, Chula Vista, CA 91911, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.58763,
+                    "lng": -117.0107593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.58896667989272,
+                        "lng": -117.0091012201073
+                    },
+                    "southwest": {
+                        "lat": 32.58626702010728,
+                        "lng": -117.0118008798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sesame Place San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104163131502672830703\">Daniel Adams</a>"
+                    ],
+                    "photo_reference": "Aap_uEAMLoM4obK6Om3GTtvIXY26QvQCv2uPNmLfvMwNtGgGBZtnoZmvxZIbB3Zdc2qs2bZD4FyBmT2x7bpubgNZoKFgqBhPnprn0aXhN0hSXqeJQSJ7BIOLSA526upngaiuToeuo50FFpO1EB21VucvT65QZXT-d2dE8dxyLM92sE_B0y3N",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJJ8hieUtP2YARQ4BL-650ZWY",
+            "plus_code": {
+                "compound_code": "HXQQ+3M Chula Vista, California",
+                "global_code": "8544HXQQ+3M"
+            },
+            "rating": 4.2,
+            "reference": "ChIJJ8hieUtP2YARQ4BL-650ZWY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3211
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "One Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1262316,
+                    "lng": -117.310507
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12724347989272,
+                        "lng": -117.3093215201073
+                    },
+                    "southwest": {
+                        "lat": 33.12454382010728,
+                        "lng": -117.3120211798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "LEGOLAND California",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3265,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108737916171772625608\">Michael Kadie</a>"
+                    ],
+                    "photo_reference": "Aap_uECJ4m2XFiCclu_1X-ZO3VU7PHOT4bQULJhPBq1n5jX2jESHG0C43B3m_LsH5gtRRk6UCr06m8rFDjmedh7MdtBuzftQNJSk9-eUhOeqe0kDI2zX3UJvVt-4Mp3DruSGnEJXs7AHQyejGSbXiISSQ8JsWAZUB9fVFoL3F5EiHYVnWiHC",
+                    "width": 4898
+                }
+            ],
+            "place_id": "ChIJ8xsjntZz3IAR2PcwE3R1vB4",
+            "plus_code": {
+                "compound_code": "4MGQ+FQ Carlsbad, California",
+                "global_code": "85544MGQ+FQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ8xsjntZz3IAR2PcwE3R1vB4",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28032
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7641326,
+                    "lng": -117.2262952
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76490717989272,
+                        "lng": -117.22384045
+                    },
+                    "southwest": {
+                        "lat": 32.76220752010728,
+                        "lng": -117.23353825
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SeaWorld San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117638761275785938950\">Thomas Evans</a>"
+                    ],
+                    "photo_reference": "Aap_uECiiVkHc5_MLABCjQDhsSTWjNh6z9ebTx9x9zct955WMQ0BJBl7U5KCQYxuINfn4BXkzoanj_A8ZiPcjRpGt9VxGiG7J8awJktvSCI7gNP00YSrq5aiD3TWNMWdJXqgm8fniwzAYEbUGF_nAhjkgvnIGsQ9WkG06Nzd6q_qOba-Abxs",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "plus_code": {
+                "compound_code": "QQ7F+JF San Diego, California",
+                "global_code": "8544QQ7F+JF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "types": [
+                "zoo",
+                "aquarium",
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38155
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6133 Innovation Way, Carlsbad, CA 92009, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1281963,
+                    "lng": -117.260355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12941372989272,
+                        "lng": -117.2588587201073
+                    },
+                    "southwest": {
+                        "lat": 33.12671407010727,
+                        "lng": -117.2615583798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sky Zone Trampoline Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110795957903250155801\">Tabetha Martin</a>"
+                    ],
+                    "photo_reference": "Aap_uEAtIlYS5I5j7xMf5HzrSYLN97Gs0zxxxYiGQ5KpJyFB52GCz_6DEhfI38zW6BlLpwl9t1iJvV75svGdC3Fahex2YCpiIGahgfzIawwntsy2y_MLwdyEtQa_lQ7S0u2Tokgr_kYwUKDXL_hrYEqJvjADtcxU-vRGQ3qC-8yUULqvdoU5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJKeS4EBl13IARLk-73FGZJ3o",
+            "plus_code": {
+                "compound_code": "4PHQ+7V Carlsbad, California",
+                "global_code": "85544PHQ+7V"
+            },
+            "rating": 4.7,
+            "reference": "ChIJKeS4EBl13IARLk-73FGZJ3o",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1280437,
+                    "lng": -117.3096109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12939352989272,
+                        "lng": -117.3082610701073
+                    },
+                    "southwest": {
+                        "lat": 33.12669387010728,
+                        "lng": -117.3109607298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lost Kingdom Adventure",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103145002697537020146\">kirkwmeyer</a>"
+                    ],
+                    "photo_reference": "Aap_uEBvcvnkLgvAUSUsXDq6huZRO2ups2jmdP9EkI9E5wIFdIBWFYiPceousHY7b8J7ITzwADsplKul_jm2t4hFryfQRLf16IR2XAXT8kU7_U7tfiwvjlfX17HXAKnbXol120alhhHw1_qPXbWb_8pegFWwb5y1K5r2PdVmNYIdWPdKhlQp",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJkWC8shxz3IARFzYiT64MbA0",
+            "plus_code": {
+                "compound_code": "4MHR+65 Carlsbad, California",
+                "global_code": "85544MHR+65"
+            },
+            "rating": 4.6,
+            "reference": "ChIJkWC8shxz3IARFzYiT64MbA0",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.76545249999999,
+                    "lng": -117.2266416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76621755,
+                        "lng": -117.2256307701073
+                    },
+                    "southwest": {
+                        "lat": 32.76303775,
+                        "lng": -117.2283304298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Skytower",
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103243624284629002313\">Todd Lewis</a>"
+                    ],
+                    "photo_reference": "Aap_uEBIV8GcfWIff_O63m4Q2JaNQCvpc2AY6NLiR17O7TI2Nvog-6JF-bGbFaG1mlFOXTqxRJToX6jJxcD7gyDKTZJv3oS_CIROwi728LLw_OskCMCoG6LU_C8tfqKw4f3zLk46WhI_yCAyiMuxLmrShSpvdNTWB8pSuScKgCf--X9PcWfG",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJpy6fzWaq3oARPnyW7oGncRY",
+            "plus_code": {
+                "compound_code": "QQ8F+58 San Diego, California",
+                "global_code": "8544QQ8F+58"
+            },
+            "rating": 4.1,
+            "reference": "ChIJpy6fzWaq3oARPnyW7oGncRY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1279536,
+                    "lng": -117.3097919
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12885087989272,
+                        "lng": -117.3079619201072
+                    },
+                    "southwest": {
+                        "lat": 33.12615122010728,
+                        "lng": -117.3106615798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Beetle Bounce",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103145002697537020146\">kirkwmeyer</a>"
+                    ],
+                    "photo_reference": "Aap_uECxxe13IrVqBbKe-zr1hknIgKZ00bhWBsZAmgJQTCdHCISia9S_gJJj_xfge1p8lj4hdAtFuOc7vUZYVsMrdKHAsflRNYtwa5yzFz9r6qt1hYxaFef6mL_Tn-MF51qBRK8-ZFAKzA8TdcBxnXa2wGQSLyFuPQV5nokVfp6h8f2lPJUn",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJrf4ArSBz3IARVzbR0Z3QkOw",
+            "plus_code": {
+                "compound_code": "4MHR+53 Carlsbad, California",
+                "global_code": "85544MHR+53"
+            },
+            "rating": 0,
+            "reference": "ChIJrf4ArSBz3IARVzbR0Z3QkOw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "600 E Bay Ave, Newport Beach, CA 92661, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.6029,
+                    "lng": -117.899932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60423332989272,
+                        "lng": -117.8985964201073
+                    },
+                    "southwest": {
+                        "lat": 33.60153367010728,
+                        "lng": -117.9012960798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Balboa Fun Zone",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113382351368267021728\">Rob Neppell</a>"
+                    ],
+                    "photo_reference": "Aap_uEApSu3v4-5ZQTKBHfnrUMptB4tlkiCLexjtPL3E2bUTYZBzi1IdF5vN9Sq9uMhywLmmrIa2iUvPuklYvy6dTN0srqfZ2czF8MpZ0bFvyHcxiuVvQRW4NHNWlYGghsBNW2FAGlvvfqJW1fsywM8J-CeD4zPaTJWeu0RmygH8wkdGYWu5",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ51tnpGzg3IARec1KYeERw5M",
+            "plus_code": {
+                "compound_code": "J432+52 Newport Beach, California",
+                "global_code": "8554J432+52"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ51tnpGzg3IARec1KYeERw5M",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 565
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1290318,
+                    "lng": -117.3119816
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13145579999999,
+                        "lng": -117.3105077701073
+                    },
+                    "southwest": {
+                        "lat": 33.12822380000001,
+                        "lng": -117.3132074298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pirate Shores",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107614124255767920297\">Matt Karls</a>"
+                    ],
+                    "photo_reference": "Aap_uEAv1c8q2cuBxBtP1q-HsTnt5u1CuhucNtIgHtF7kZgODGv8dy1xcfN0oxl2Cimlqmav67hr8fHTwVgGOiyGn1jLHSDAsETFdEEdTCyT7L8R-90RZRMzcGmoH57p3qF4bOqAth3KWlCBSbGQjb6T9nX6dCYuafKOkWzwQYtWUYpq65I8",
+                    "width": 5376
+                }
+            ],
+            "place_id": "ChIJ1Tlx5gJz3IAR7hu9fzx6Oxw",
+            "plus_code": {
+                "compound_code": "4MHQ+J6 Carlsbad, California",
+                "global_code": "85544MHQ+J6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ1Tlx5gJz3IAR7hu9fzx6Oxw",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 357
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1 Legoland Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1273787,
+                    "lng": -117.3123439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12830230000001,
+                        "lng": -117.3114317201072
+                    },
+                    "southwest": {
+                        "lat": 33.12460789999999,
+                        "lng": -117.3141313798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kid Power Tower",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100927181317553880134\">Devan Williams</a>"
+                    ],
+                    "photo_reference": "Aap_uEB7YKO9oq2etdasI3mReEUWnlTOeSJNbVFKdLKFUlWzZTo__rJqpkxATkNw0cW41xhJ1KJDwyCYui62yCzLrY_Lnpu5gcAWbJzo-ZEhf3t6k_O4mF5UsK6PcBrgJzklTL1U7TPFVxn4xQ3ch80-hV3a63LP4nZ-hyKiIuL3iak0Jg5p",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJJcrbQsNz3IARMMu-Fy-OmJ4",
+            "plus_code": {
+                "compound_code": "4MGQ+X3 Carlsbad, California",
+                "global_code": "85544MGQ+X3"
+            },
+            "rating": 4,
+            "reference": "ChIJJcrbQsNz3IARMMu-Fy-OmJ4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5885 The Crossings Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1272619,
+                    "lng": -117.3102506
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12849197989272,
+                        "lng": -117.3081516500001
+                    },
+                    "southwest": {
+                        "lat": 33.12579232010728,
+                        "lng": -117.31095025
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Lego Movie: 4D – A New Adventure",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112020880900507718918\">Cacee Belton</a>"
+                    ],
+                    "photo_reference": "Aap_uEDpcIIrh3QXAxHpL6uwnXH4AN-RUOiMWAwD47hO8ZuggAhsbtCSDwn1CLsawbnwwg1AR7I_TwxuWA8SqWZDDr-4YSxU161Jpe_jNT_qpCHxUxEaYXTU_H3cBgAc8VSRRrivDnwolcKe0gQm28v3O35ojCrc8-E7br3ZTymJV6P--jr8",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ8xU0wRxz3IARBDajP4H9V2o",
+            "plus_code": {
+                "compound_code": "4MGQ+WV Carlsbad, California",
+                "global_code": "85544MGQ+WV"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ8xU0wRxz3IARBDajP4H9V2o",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 544
+        }
+    ],
+    "status": "OK"
+}

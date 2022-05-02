@@ -1,0 +1,1017 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBYCwGQGImXj7OFR100mBc1NSrjOUhsXpLbpsx_DXVLjQq-QzrA39w4cFXIaoIpZoSg0nAHrISxpph7gEfvR7polBixaXAD1z8FyUnCVdBHd1dXyUIXzXVepWtC75XWNHH6pAr7CUtucDIozyUVqCQmO4NEqx7p37H0FeeQNKjZe3fhQCAwbRklCXlK8ryvnuSO-nMnf5-Pf0pZ843hmdKTXKx78Z2Hcx-vZmYs4U2rJpmZi6AzStbyjUlsVIs01ODekjSGnE4zKX8u5VhrWShGn-_XFrwohmFfFdB8fg-C9iyU9lBUayngRufqmlz_bK7S4F4mYGahNZIznqBpalRfquylatY5ryokkK3WZbPZkRWyrrL859gY3TtdAnObEdQEK7NwkRE-GZXdIv4QmTE7RyPszYAds6DXLfF1-osS08yFkKCJcEGP",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "272 E Via Rancho Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0715439,
+                    "lng": -117.0653704
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07246587989273,
+                        "lng": -117.0645639201073
+                    },
+                    "southwest": {
+                        "lat": 33.06976622010728,
+                        "lng": -117.0672635798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Westfield North County",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 315,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116779128521690820412\">North County Shopping Center</a>"
+                    ],
+                    "photo_reference": "Aap_uEBvkzM_UdSN7dCpo1ThE1eqE3RSqx8XdBAXsDHblMeNftb9tv8YK3XQFKFoBO5L-_g06UblxztC2gb1TLhmYUuiuNxDWUMIjgU-Du1q0nRoUDkU-_UWB5jeRCDW4LKsNwa35dKD49bZPe5xFeIM6Ur5fn7t75VuqsKwCuZW7-l_U08b",
+                    "width": 403
+                }
+            ],
+            "place_id": "ChIJ968rNFjx24AR1OjYH85S7YA",
+            "plus_code": {
+                "compound_code": "3WCM+JV Escondido, California",
+                "global_code": "85543WCM+JV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJ968rNFjx24AR1OjYH85S7YA",
+            "types": [
+                "shopping_mall",
+                "department_store",
+                "shoe_store",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 6982
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11602 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9797098,
+                    "lng": -117.0817682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98120727989272,
+                        "lng": -117.0803562201073
+                    },
+                    "southwest": {
+                        "lat": 32.97850762010728,
+                        "lng": -117.0830558798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Carmel Mountain Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112998238308021944911\">Yuriy Kravchenko</a>"
+                    ],
+                    "photo_reference": "Aap_uEDItTINS7kPUAmMpHKN6s_MFUacZeCrdq9xat1-KeqEVoyk0o0XEVe4cuXiY3iZlvbVp-d1Ttbs884mLYZluYvJGzGNMf6-jV5rr_bfkBW_CiKmaSG4lNaB-_qKl4XNoD744Ziv63JY90SH_VmuXgiVXFdw1zrAl-OhL8w8V8YkYll_",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJx2QDUOj724ARj2KI7Zit-qM",
+            "plus_code": {
+                "compound_code": "XWH9+V7 San Diego, California",
+                "global_code": "8544XWH9+V7"
+            },
+            "rating": 4.4,
+            "reference": "ChIJx2QDUOj724ARj2KI7Zit-qM",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3042
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0341755,
+                    "lng": -117.059374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03550517989272,
+                        "lng": -117.0582820201073
+                    },
+                    "southwest": {
+                        "lat": 33.03280552010728,
+                        "lng": -117.0609816798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Oaks North Plaza Shopping Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110134057057634556330\">Darlene Judd</a>"
+                    ],
+                    "photo_reference": "Aap_uED_XA-8Qtk_sFkg_Q0RVqOREdh1L3NsNDqla0vJ-5rmY5lsiaXLdQq_VspSCQGkVc5JBqUtQT8SzXA4E5bU3oc8MFRCXkN71HjWbdDctlE2EWY1rPLAMoAiaNeJuumtLTDySxikitYjAC3EIAc5FelqXhJhHUIV6LxJF-wuo2ijk3Zr",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ7yoerCHx24ARS5XGnliFtk8",
+            "plus_code": {
+                "compound_code": "2WMR+M7 San Diego, California",
+                "global_code": "85542WMR+M7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ7yoerCHx24ARS5XGnliFtk8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12925 El Camino Real, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9522222,
+                    "lng": -117.2325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95745819999999,
+                        "lng": -117.2264765
+                    },
+                    "southwest": {
+                        "lat": 32.9467326,
+                        "lng": -117.2376917
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Mar Highlands Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101926704675145784416\">segorov</a>"
+                    ],
+                    "photo_reference": "Aap_uEAiXw523aJ8KS5Bba0QOsDeq18GMThR4gnxQGaAX56TDz6Mo-VLYAm7jACyfRsiTAnxL8_Z-G35FH5M6_DDMSnWIL-hp9UpFVQMbFztJcG9Q5eah-lLi-cy_9uZ2IfwLmlFhcbjtX1LRDLzpqGYH5TOPtrR-G9YZgR0-uzj0eb9AJGi",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJAzaa1ZwI3IARheNs8Rneqbo",
+            "plus_code": {
+                "compound_code": "XQ28+VX San Diego, California",
+                "global_code": "8544XQ28+VX"
+            },
+            "rating": 4.4,
+            "reference": "ChIJAzaa1ZwI3IARheNs8Rneqbo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2289
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1200 Auto Park Way, Escondido, CA 92029, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1120178,
+                    "lng": -117.0980502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.1176026,
+                        "lng": -117.09534885
+                    },
+                    "southwest": {
+                        "lat": 33.1054018,
+                        "lng": -117.10176305
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Escondido Promenade",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102743030340302535794\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDGDkJ3BE6ULVY9At_5B1AdmjI97iz3Ph-nnQPa_Eb6VbV8qpFcfwmIcgzWwi48MuJfN3snzmL4Fbb-Imurckz80LSWVAoKnRY3WYdbe6md5Tztts-16U8X63438f4B-CPp60tin11p1vpVCmkVBWZAXdOySS1zZyDyBDQO4KOJoDX8",
+                    "width": 2333
+                }
+            ],
+            "place_id": "ChIJRbkMSoz024ARVsyczkcB1T8",
+            "plus_code": {
+                "compound_code": "4W62+RQ Escondido, California",
+                "global_code": "85544W62+RQ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJRbkMSoz024ARVsyczkcB1T8",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2289
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "147 Mercy Rd, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.937676,
+                    "lng": -117.1129517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93906772989273,
+                        "lng": -117.1116230701073
+                    },
+                    "southwest": {
+                        "lat": 32.93636807010729,
+                        "lng": -117.1143227298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Canyonhill Center",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118412065116467667660\">ROBERT HENDON</a>"
+                    ],
+                    "photo_reference": "Aap_uEB5xi0JYce_ff6PFx0hIbQGS-d7Vwva3q-5E1Q9l83LMKmlZeyIvANKz3Ls1fwogeyUuCAjuGWRrYjlMZiAxuzfMzo_sF5DhSQp7x248lXBMrJIVXE_k-DsU_Jo0aZM0hjGAOMcEJqea6Jl91FVRvLd82rkUUuhZ2V6bNY-JBky3g4z",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJaWexS6b524AR5wDi0NWwcZs",
+            "plus_code": {
+                "compound_code": "WVQP+3R San Diego, California",
+                "global_code": "8544WVQP+3R"
+            },
+            "rating": 4.3,
+            "reference": "ChIJaWexS6b524AR5wDi0NWwcZs",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12750-12950, Carmel Country Rd, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.954013,
+                    "lng": -117.2298901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95536452989272,
+                        "lng": -117.2285280701073
+                    },
+                    "southwest": {
+                        "lat": 32.95266487010728,
+                        "lng": -117.2312277298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Carmel Country Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110247299703886300379\">Aryo Pinandito</a>"
+                    ],
+                    "photo_reference": "Aap_uEAfxCRA0YkyE-JSxcoOh7ohMRvTUKJirKBcOiVZ8uC7rFtFWVTDroKGWnGlfU9W8dAqdTUzLye9M6ECbgefdyXXgJtVDkeCYqYHxBOdDtZLBmY6Y-u_l0ULg_34OSwmCMaMn38ghcAlNeqvoLP95otDALnBkUa7z6XkY2GpYeJIw7-X",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiQLej4QI3IARtTubwWPQG30",
+            "plus_code": {
+                "compound_code": "XQ3C+J2 San Diego, California",
+                "global_code": "8544XQ3C+J2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJiQLej4QI3IARtTubwWPQG30",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 175
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11922-11987 Bernardo Plaza Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0206909,
+                    "lng": -117.0734547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02202657989272,
+                        "lng": -117.0721031201073
+                    },
+                    "southwest": {
+                        "lat": 33.01932692010728,
+                        "lng": -117.0748027798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rancho Bernardo Town Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103757360332110094084\">Sunny Roland</a>"
+                    ],
+                    "photo_reference": "Aap_uEDA47XFp-NxpmR2-LIFa7at1LY9rDjGP9GKgnl2RxaZFtUSCjc7FqJ96Hth_eIiWa9EYN3KAJw8xxOhkfPOr-Sl4FnzZXgn15xh-04uJOlDs9jJI9IQO0vchCcNh_uyOr8KWGp4DWtbRWA9zNTpjPKtEa7F8XCJp8_AIdgrSe3aXAQ3",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJZfaDb9Hw24ARuBNyCnqF77E",
+            "plus_code": {
+                "compound_code": "2WCG+7J San Diego, California",
+                "global_code": "85542WCG+7J"
+            },
+            "rating": 4.4,
+            "reference": "ChIJZfaDb9Hw24ARuBNyCnqF77E",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 719
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2720 Via De La Valle, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9813845,
+                    "lng": -117.2507069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98249342989273,
+                        "lng": -117.2492817201073
+                    },
+                    "southwest": {
+                        "lat": 32.97979377010729,
+                        "lng": -117.2519813798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Flower Hill Promenade",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1519,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106447521204101666961\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECxGxn3p6osOJM891f6s7lgGeUr3kvZyLR-DIpQLyV_HXmsUVPNLsb-I5IHZsePYzmir8wqXI2WXb2Kv0QV9tbr_u-uRANiBj9Ygwe_hfLchdLuBCxtk6c2omiCsGFmLBQw-1BRsoYG7CLtfbf_Zn70kY1r7CjGINo_KLvfmkHF4an_",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJUX1W090I3IARdONZsCT9apc",
+            "plus_code": {
+                "compound_code": "XPJX+HP Del Mar, California",
+                "global_code": "8544XPJX+HP"
+            },
+            "rating": 4.4,
+            "reference": "ChIJUX1W090I3IARdONZsCT9apc",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1068
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2707 Via De La Valle, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9791654,
+                    "lng": -117.2491913
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98047357989272,
+                        "lng": -117.2480100201073
+                    },
+                    "southwest": {
+                        "lat": 32.97777392010728,
+                        "lng": -117.2507096798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Mar Shopping Center",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106767397128415784635\">Rosemary Hernandez</a>"
+                    ],
+                    "photo_reference": "Aap_uEAvtYdJcJWPrDednSNFDp5CQ3CcUue10ggM7rcvVkXgxFwDidBmLfjt0ZWhHyOd0jiUO1a4YZ5RCmYLWkm-1ykLDqLVWF-2HB3qGWyzIkBBkkG2izJ7KoxhJ2G2_y-idCHtS0LlnPlvSyMGLNyHUFRIRMSsv6a1joI4PYwM7L8-r0wO",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJB8F8adwI3IARTUCKE8NSzBI",
+            "plus_code": {
+                "compound_code": "XQH2+M8 Del Mar, California",
+                "global_code": "8544XQH2+M8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJB8F8adwI3IARTUCKE8NSzBI",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 978
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "201-205 W Mission Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1292472,
+                    "lng": -117.0874051
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13056387989273,
+                        "lng": -117.0860406201073
+                    },
+                    "southwest": {
+                        "lat": 33.12786422010728,
+                        "lng": -117.0887402798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Mission Escondido Shopping Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2618,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102070349868371996757\">Rafael Buelna</a>"
+                    ],
+                    "photo_reference": "Aap_uECkfl67hE8wv_Z_y82vujCR1Dinny4PN_wfZi4kk0hDIHpNM4EoJyfHauyrlr0M_oUnR1MBXckyf5EpNUx-LLn32m6Ix8kw4MxTHyz8-x6YfkTUcKGrbW7IlJVtW3FOei0ZjUsSg6NI9r0C8qpCCttROZ2p27diAxguwfS5-FlMpYM4",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJCQ4w7qL024ARKMlB_Ux2YUg",
+            "plus_code": {
+                "compound_code": "4WH7+M2 Escondido, California",
+                "global_code": "85544WH7+M2"
+            },
+            "rating": 4.2,
+            "reference": "ChIJCQ4w7qL024ARKMlB_Ux2YUg",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 272
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "322 W El Norte Pkwy, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1427437,
+                    "lng": -117.093966
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14777249999999,
+                        "lng": -117.09207415
+                    },
+                    "southwest": {
+                        "lat": 33.1381045,
+                        "lng": -117.0974207500001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Norte Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114426932066037980865\">Emery Smith</a>"
+                    ],
+                    "photo_reference": "Aap_uEBwTyW3QKNlD1BsurEYK0_oWjSPH3imzDB-soKYwyeJwTCOO9DfuEzHCwDb-DiS8TUpx3ISgLOvTfnHq_at2oOumK0HNE08_cKWraW3DzOajgkTWgyMbmQ8U5chaoy8k1b7IHbIWhbMesBQlID0QO797rpg4eo8902vmgq1EXh6N6q3",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJcX88c7H024ARRCEsKYIe_fo",
+            "plus_code": {
+                "compound_code": "4WV4+3C Escondido, California",
+                "global_code": "85544WV4+3C"
+            },
+            "rating": 4.2,
+            "reference": "ChIJcX88c7H024ARRCEsKYIe_fo",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1112
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1841 University Dr Suite 140, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1715557,
+                    "lng": -117.2183861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17290512989273,
+                        "lng": -117.2170580701073
+                    },
+                    "southwest": {
+                        "lat": 33.17020547010728,
+                        "lng": -117.2197577298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "North County Square",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112170781864531713710\">Kristen Craig</a>"
+                    ],
+                    "photo_reference": "Aap_uED-OxR9Q8rJjWmdUiI2k2U7cpqNAlsYL3G7HI-KTnwuMgTuUTUns01ytZ35dOyGkRWYIU0hoZ11ZdnqhlyhNJp-rK7_IQCp-7Jb-QGhiT_DEPWr2YebYSAX18hC_fo86lXTI91gzpikMD-VxsJ8hRWiEdDQYlnYBAbhrjFeGGCzIWZM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJd-5Koat13IARcLVlFxJHmsc",
+            "plus_code": {
+                "compound_code": "5QCJ+JJ Vista, California",
+                "global_code": "85545QCJ+JJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJd-5Koat13IARcLVlFxJHmsc",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1858
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1555 Camino Del Mar, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.96006390000001,
+                    "lng": -117.2649918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96126927989273,
+                        "lng": -117.2635243201073
+                    },
+                    "southwest": {
+                        "lat": 32.95856962010728,
+                        "lng": -117.2662239798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Del Mar Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112958947480506580960\">terriedj</a>"
+                    ],
+                    "photo_reference": "Aap_uEC6sb00yzJ_tR8Z5Hge-0jzuzEj14iBNvuiW_HrMzQ_bJosWd2GbbOOYKk_0VxmPoL375cspSWi1mDoSjOjI5eTOKh2pJK0264EkVeBd1WhUxIgIao1_HLCm1zCV5wkTUWEBc8Haq3W2Oc6nXZKU-gNDaGbIRdXZXvJEnJFprl4yu4w",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJS9i-CrUI3IARHNSQsn48JXw",
+            "plus_code": {
+                "compound_code": "XP6P+22 Del Mar, California",
+                "global_code": "8544XP6P+22"
+            },
+            "rating": 4.5,
+            "reference": "ChIJS9i-CrUI3IARHNSQsn48JXw",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 647
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10511-10543, 4S Commons Dr, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0195407,
+                    "lng": -117.1128561
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02083637989273,
+                        "lng": -117.1115666201073
+                    },
+                    "southwest": {
+                        "lat": 33.01813672010729,
+                        "lng": -117.1142662798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "4S Commons Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115007107661037693620\">GL Brannock</a>"
+                    ],
+                    "photo_reference": "Aap_uECRuu_ZXYVEr8zd6l-GR9geH9425E6jyjfDpHEH26pXJNLWT38qEQRaw3Ui4aJAYSE3ZVrej03ASfZ2euLl4UhdRe3spBW0WEsBVOY9ao9vDiXMetJuEJx6vtYfPcIC44hrpzux6clao2VwbD2ECjpjvSxmUsu-Af1W-XEM8XjHfJat",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJD126lOL224ARbHHpEh3Ha_8",
+            "plus_code": {
+                "compound_code": "2V9P+RV San Diego, California",
+                "global_code": "85542V9P+RV"
+            },
+            "rating": 4.4,
+            "reference": "ChIJD126lOL224ARbHHpEh3Ha_8",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1737
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2525 El Camino Real, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1782271,
+                    "lng": -117.3324166
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18178269999999,
+                        "lng": -117.32153055
+                    },
+                    "southwest": {
+                        "lat": 33.1747987,
+                        "lng": -117.34216195
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Shoppes at Carlsbad",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101029653320374329366\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAIagV2i33nkIp3YRS7EaZYDoV-ZNSXsxoi3uetVW5ZT9pjOdIMqE60oBvr69MKVeS-PDk_tvrvdUpqmK--XGCOryAX8Io9yAmkBfk9F-fWPU9fmIy4sDYxiTYKgAETbYA2pbGle8i-8updFV0QLUeT9sqOLyk_NJVyini_PbnrVPd_",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJEwz0D4lx3IAR7qUT96yL9GE",
+            "plus_code": {
+                "compound_code": "5MH9+72 Carlsbad, California",
+                "global_code": "85545MH9+72"
+            },
+            "rating": 4.2,
+            "reference": "ChIJEwz0D4lx3IAR7qUT96yL9GE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3774
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "964-1042 W El Norte Pkwy, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1486349,
+                    "lng": -117.1064463
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15035005000001,
+                        "lng": -117.10335905
+                    },
+                    "southwest": {
+                        "lat": 33.14585545,
+                        "lng": -117.11050165
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "El Norte Pkwy Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106658417560129843881\">Blake Wilson</a>"
+                    ],
+                    "photo_reference": "Aap_uECQ6u58HjcPKBLSVJGO6tOqB0C1Gj2cPOdniFiFGY13MmPnVNRcm7ldkgs4d1fPZn6v7b1qskHuRZ-VSfV17dseU4GFUt4d2QKqSs7kjg0irzy6o_y5n-rczLOjFheZunGgP7Owmzfh8F21YnmtgvLQUmbdZwERVf1U2wceAUoxyxT8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJP8TASTSL24ARARUjW9ZXDuI",
+            "plus_code": {
+                "compound_code": "4VXV+FC Escondido, California",
+                "global_code": "85544VXV+FC"
+            },
+            "rating": 4.2,
+            "reference": "ChIJP8TASTSL24ARARUjW9ZXDuI",
+            "types": [
+                "shopping_mall",
+                "grocery_or_supermarket",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1281
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "555 W Country Club Ln, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1583333,
+                    "lng": -117.1
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15998092989273,
+                        "lng": -117.0985996701073
+                    },
+                    "southwest": {
+                        "lat": 33.15728127010728,
+                        "lng": -117.1012993298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Escondido Hills Shopping Mall",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114992333740608293442\">Stefan Rudolph</a>"
+                    ],
+                    "photo_reference": "Aap_uEB8miqfgvxIiwDKp-RREumJHth0HGUJ01ysUHTFZRPIycgwJOLyG_V8JHdrNQ9AwU29TnsNZTy5vrTHgvognk8_gvL_OEPp6zxQhUhL8fm2ScCep9FKZHO2m8coRgcUan2-F2kaTHoFHBnuGYap2Q3cAUaJiZIdVYvyvkqZqnsrgCYe",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJA7FRr0eL24ARKnYuXicjXhY",
+            "plus_code": {
+                "compound_code": "5W52+82 Escondido, California",
+                "global_code": "85545W52+82"
+            },
+            "rating": 4.4,
+            "reference": "ChIJA7FRr0eL24ARKnYuXicjXhY",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11815 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9808902,
+                    "lng": -117.0760154
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98173897989272,
+                        "lng": -117.0751151201073
+                    },
+                    "southwest": {
+                        "lat": 32.97903932010728,
+                        "lng": -117.0778147798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Carmel Mountain Ranch Town Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115076003494006671829\">deepaksethi16</a>"
+                    ],
+                    "photo_reference": "Aap_uEArhNGVcC4r8CoNvkRwZgiGo7IWyQCIQBTBpB9E2DQzhs5T9Znd-jmsyjiZ7BPCv6eDyrvWTNSUU-J48-lgG6HbAxCoEUIRjswUZi1r5dWs6r4j7iUmDV_wXvoLh60gI5XQahuQFe6jF5TjYmfDaR0u2X1SixGJ0KiMakwMNiDViwLP",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJy9j_JQP624AR49vWziHOb78",
+            "plus_code": {
+                "compound_code": "XWJF+9H San Diego, California",
+                "global_code": "8544XWJF+9H"
+            },
+            "rating": 4.4,
+            "reference": "ChIJy9j_JQP624AR49vWziHOb78",
+            "types": [
+                "shopping_mall",
+                "parking",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1404
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8110 - 8340 Mira Mesa Boulevard, 10750 Camino Ruiz, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9143507,
+                    "lng": -117.1467635
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91558182989272,
+                        "lng": -117.1454723201073
+                    },
+                    "southwest": {
+                        "lat": 32.91288217010727,
+                        "lng": -117.1481719798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Village at Mira Mesa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117115218348289644639\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBbo19JbjVi4Y1HMj7l_bljuDr-XCrIQt9dGDmKRtw7FEmJn2-zCnk-5kI9lhmxMgKm2DPwc75xhes4AMq64PXI5vAZolCORio57n_sXJNnySBL-xmNC501za_ltyfc9ei3jNokc1eevWuXnLigdICuJ-gzkCgaoZYIDqE582ycUWN8",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ7VwAw-v424ARLcRmjp5g9rA",
+            "plus_code": {
+                "compound_code": "WV73+P7 San Diego, California",
+                "global_code": "8544WV73+P7"
+            },
+            "rating": 4.2,
+            "reference": "ChIJ7VwAw-v424ARLcRmjp5g9rA",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2923
+        }
+    ],
+    "status": "OK"
+}

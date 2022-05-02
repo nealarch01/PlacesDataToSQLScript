@@ -1,0 +1,877 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uECFYLsVEgrf8TRog7_SrRbt5MhDjQNNOvOVNR2xa_C-F5mWtUFQV9YSRWnILhMSMxn5PVSQ7FpgZnQhFBJyR0beptSTmLslliTxlwGXPzkYlA1UTqQpsjAbOameR4VoAujvnF80CMEDOyxDo9PM_UF4QZJyAGJddX3yUKh1pus3_v7gnjA6F6XqvvEXcblrG8YCq4xSKijYqEt9lPaFXQrGouClnRZPJEauOT2Cz-M31wr5k7b1i11Vd1qJHtiCRnoRe8ZOVrVAxWsiqsxbmJbmLnh4vYE01oNq-p3SeZyoY5ZpxLId82DxMiugdDJJznnWz9yKWcwI05AxCGRGXgQxCcfgGLu3z6RawXQV2HqEE55BMth0jwGTtFJA0eNlzl0OjltYoAH4xdd-B9keVOIUt-uztQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "South Mission Beach, San Diego, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7601127,
+                    "lng": -117.2522813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7694954,
+                        "lng": -117.2362739
+                    },
+                    "southwest": {
+                        "lat": 32.750729,
+                        "lng": -117.2682887
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "South Mission Beach, San Diego",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105760362658625592886\">Kawa Taqiyaddin</a>"
+                    ],
+                    "photo_reference": "Aap_uECG5XuBx4-3fHBSH_-zhz3hn6Jg3L9tbTllij5zrGoIT6CR5CH3t_qpuNRN6RUDZO1d8Qh2eIupU8buB8oHc32_H-gI6QqGQz0xxUf4h9OygGSC3fNZ-c5Nkju8-1MX7KYtf7_mb7zl3Fh-z1EVhmeI7wNeMYgHYES2I7X2C2iv2BrM",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJBwIFkxaq3oARXK9KvC9PUpM",
+            "rating": 4.7,
+            "reference": "ChIJBwIFkxaq3oARXK9KvC9PUpM",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 2355
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ocean Beach City Beach, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7400499,
+                    "lng": -117.2553148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7494348,
+                        "lng": -117.2393074
+                    },
+                    "southwest": {
+                        "lat": 32.73066410000001,
+                        "lng": -117.2713222
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ocean Beach City Beach",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110167524468109552414\">Nicole Julian</a>"
+                    ],
+                    "photo_reference": "Aap_uEDh8hg1OwRYHCSUXeKP8-duLyMqQ3m-fuMkXui7hpDEB1mcAh-QVOVDc7Zd6TFmUYAjPOevLrw7LTamwlzqgf_Gg5goPWaWQaAXHe-CdGHjasqOfdCJYxwIRshxfCbdoah9THAH54Pz-IwBcBKtWp80m4JYnZQ3darbfjl77x1YRfGv",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJETN--TGq3oAR8cixlZQor1I",
+            "rating": 4.5,
+            "reference": "ChIJETN--TGq3oAR8cixlZQor1I",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "La Jolla Shores Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8570992,
+                    "lng": -117.2574626
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8664717,
+                        "lng": -117.2414552
+                    },
+                    "southwest": {
+                        "lat": 32.8477257,
+                        "lng": -117.27347
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "La Jolla Shores Beach",
+            "photos": [
+                {
+                    "height": 660,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108968855092430287005\">Paula Fabor</a>"
+                    ],
+                    "photo_reference": "Aap_uEDGneVH6FIEQoMuUmqLNTXPJ2TF4fUMtFsaI7S5IyCyaceiPa-rud1UKKsWj68A6uZ3B5clCzF8z_m_AwyE65xh5C4zl1WZ-G1mEHXUqeLrCEbmrofJ5w4Rbxrjb4Ju_WfPgKryKzy2XlTpFkvi9VsNwIJJmR_Io3JdqMzU3c9cwY9p",
+                    "width": 1061
+                }
+            ],
+            "place_id": "ChIJyc0E81IB3IARgYYCcL6davg",
+            "rating": 4.7,
+            "reference": "ChIJyc0E81IB3IARgYYCcL6davg",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 3473
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Bermuda Beach, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7374939,
+                    "lng": -117.2551515
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.746879,
+                        "lng": -117.2391441
+                    },
+                    "southwest": {
+                        "lat": 32.7281078,
+                        "lng": -117.2711589
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bermuda Beach",
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105454124960891086585\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEByB8wgeSGosKIboXG6cQODN-sU6jd_FEHi0bPsIdBYj4dzmnByEiCpTlb-GeIE5Xtn80KY7iDAjhwW22dVc1kzO7rUXAyQwlax8FRIswY2juXnzXsmaj8NqKLnC001ofRn2raMU-IiLTnLILth2IDXq-3hYRmDJUUQEz3no_kc9MGD",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJOWPwZDKq3oARiAgcpN45JOI",
+            "rating": 4.7,
+            "reference": "ChIJOWPwZDKq3oARiAgcpN45JOI",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "North Cove Beach, 539 Hummingbird Ln, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7759531,
+                    "lng": -117.2376045
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7853342,
+                        "lng": -117.2215971
+                    },
+                    "southwest": {
+                        "lat": 32.766571,
+                        "lng": -117.2536119
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "North Cove Beach",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106543694240362467896\">Andrea Gallo</a>"
+                    ],
+                    "photo_reference": "Aap_uEBb0Db33xHgmG9hS-q6wRx1eVBABDgUMCBLDlLcFaH-9w7UDN6HCs_rQe77rIntugG7W4gvo4Wr7xxB0JcHwKseUxLXKvB55cp6M4XXsFDTij33UgQu0-Pwj-rSp9dne94F_jRCcz8Dx5UPH_ZQxKIZEVNvaSeopjf3G6DYfNEMxzI-",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJYx6g7Xaq3oARVI2FNyZtwGQ",
+            "rating": 4.4,
+            "reference": "ChIJYx6g7Xaq3oARVI2FNyZtwGQ",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3000 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7680765,
+                    "lng": -117.2519959
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76940772989272,
+                        "lng": -117.2501660201073
+                    },
+                    "southwest": {
+                        "lat": 32.76670807010728,
+                        "lng": -117.2528656798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mission Beach Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101574079582141554531\">michael morissette</a>"
+                    ],
+                    "photo_reference": "Aap_uEBGmDO3-aGr64ioewsSw8bIx1Et3s0qDLkaMWzkTez1Kowh9YeJ2wI_IK4kiNK2bCKHXknSqSGm72BiLZ66XBAwqGEE2QCiKIsmCfm-SxwS5iBzEJ3opuddD0949AkERIz8xdOcrxrwTyjY_jLMphO0j5q_6Z7ef_TYexwAnTb2ridF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJK71LWw6q3oARewR-TecYfhE",
+            "plus_code": {
+                "compound_code": "QP9X+66 San Diego, California",
+                "global_code": "8544QP9X+66"
+            },
+            "rating": 4.7,
+            "reference": "ChIJK71LWw6q3oARewR-TecYfhE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5919
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Mission Beach, Surfrider Sq, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7749214,
+                    "lng": -117.2529754
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7843026,
+                        "lng": -117.236968
+                    },
+                    "southwest": {
+                        "lat": 32.7655392,
+                        "lng": -117.2689828
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mission Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108705997783344310960\">aaron anderson</a>"
+                    ],
+                    "photo_reference": "Aap_uEDgO5CjsmIV2OVECcUI6_-ixiccVAQx6kEsYyJLVOi8AZZfKAjlX_N6z2joAPPA1XqmGrNMuEhLZv4tRNzaNTO3XDpCQ1nsMiuRsNIY_hN9dWcJxzEEUuOhLytU_eZPPHOveidfD6HWIa5Xwkc4R1cXpULAjbkwsqQOFkiI2UiAe3Nc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJawm12Qiq3oARbysd6QCyDI4",
+            "rating": 4.7,
+            "reference": "ChIJawm12Qiq3oARbysd6QCyDI4",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 152
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Windansea Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8311587,
+                    "lng": -117.2811488
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8405339,
+                        "lng": -117.2651414
+                    },
+                    "southwest": {
+                        "lat": 32.8217825,
+                        "lng": -117.2971562
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Windansea Beach",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113315486356580099652\">Amy Tryon</a>"
+                    ],
+                    "photo_reference": "Aap_uEAZszeD8XP1kx5YWJtPxhyljWtotTaWYXyiFUFmRKwsruTn_FHMqNevmvnWrGEYWhbcPIHO1n8UJn81dZBPKLmGxlhzDiEwdUcp1mn6LYWs0UcekpDwdjUasYgbYRdfmubnGCKGSFgH-8l2lY3PPPAKrvaLTWx24RFETGny2V7ysCQk",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJgVVa6cID3IARgK2sdPMI6aw",
+            "rating": 4.8,
+            "reference": "ChIJgVVa6cID3IARgK2sdPMI6aw",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 304
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Kellogg Beach, Point Loma Way, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.71014,
+                    "lng": -117.23675
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.719528,
+                        "lng": -117.2207426
+                    },
+                    "southwest": {
+                        "lat": 32.700751,
+                        "lng": -117.2527574
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Kellogg Beach",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3072,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106704317686732830436\">Bob Graham</a>"
+                    ],
+                    "photo_reference": "Aap_uEBHbYSxXLXny1YAcf0A-DGI3-lsVJ29UHyNkV9jhlCsVqf0IDFMveZCCIbHtpPM4hZuZ2yZUQtFpYd-BLVjR8BcxzQMO7UMPDwkbuDmsbK2GTURvBJJLaRgJsYaVlUAHV3kzFZL4UlDdoy66gy_SZ2DJoNSZlPX-hzw8IJ_Xzh2Xtfg",
+                    "width": 4096
+                }
+            ],
+            "place_id": "ChIJfdhUdZGr3oARe-Ncb4t-JKQ",
+            "rating": 4.4,
+            "reference": "ChIJfdhUdZGr3oARe-Ncb4t-JKQ",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 133
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tourmaline Beach, 601 Tourmaline St, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8053716,
+                    "lng": -117.2619803
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8147496,
+                        "lng": -117.2459729
+                    },
+                    "southwest": {
+                        "lat": 32.7959926,
+                        "lng": -117.2779877
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tourmaline Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106493197569832016405\">tom voight</a>"
+                    ],
+                    "photo_reference": "Aap_uEC1KHHBcPCP0HKSPgwkYtO6fBcBFzbSw1qc9vIUr47TJYad2xazCCdRBQ4lspJE0_x9-pozwIwfVnwHR7GTx0KLUdJthmG07QQdQTcW3jmLJBC0J_atLtTanVGWBaA4fc0M6DyJq_da3XzoVOxdTbhxay87PYCUZUE-xcuz2sGh1ZOR",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJud-osogB3IARp7GvJUjHHJc",
+            "rating": 4.7,
+            "reference": "ChIJud-osogB3IARp7GvJUjHHJc",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 430
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Torrey Pines City Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.877269,
+                    "lng": -117.2511478
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8866394,
+                        "lng": -117.2351404
+                    },
+                    "southwest": {
+                        "lat": 32.8678976,
+                        "lng": -117.2671552
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Torrey Pines City Beach",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105619717461980380038\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEApoNdU2lDss9-CbmieScYCXxMRTeg9vhJLkrnXSLd0iYOFqB1teLJyXO9hjH_ufnO0-ZjCjW30AjIZTqglgQPusKZy_fur62A45AhDSZ5xv0U6RFvIGjq9u2Nc1EdiFsAfJbjjoWSElx3Q3eBl_fhh99oTGCn5sHHV2XEypLfKFzn-",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJMfzBE7wG3IARt0TQOu1505w",
+            "rating": 4.9,
+            "reference": "ChIJMfzBE7wG3IARt0TQOu1505w",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Coronado Shores Beach, San Diego, CA 92118, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.6764413,
+                    "lng": -117.1744776
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.6858329,
+                        "lng": -117.1584702
+                    },
+                    "southwest": {
+                        "lat": 32.6670488,
+                        "lng": -117.190485
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Coronado Shores Beach",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115449171156789886181\">aatif hashmi</a>"
+                    ],
+                    "photo_reference": "Aap_uED8TyXo4dS9n2ym8L4q_fSMA0AwywEE5_k0v1wrd8nAGMg0f0cPx5KTKFQGGqC5eoyRzinFG-80Pu2Yutv2NmKwqb-bTnIdRDpAseFPnZJqIKcinnulXB0NOOeB9J8As8tEAbAY2yIFocbmh1vRmMe0HqYjS5zbOYoWf82K3aLvMJY9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzZ3zONOs3oARl84Y4FtO4e4",
+            "rating": 4.8,
+            "reference": "ChIJzZ3zONOs3oARl84Y4FtO4e4",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Fernando Pl, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7676209,
+                    "lng": -117.2524788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76899777989272,
+                        "lng": -117.2510438701073
+                    },
+                    "southwest": {
+                        "lat": 32.76629812010728,
+                        "lng": -117.2537435298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Mission Beach, San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100451507127150303389\">Armando Tafoya</a>"
+                    ],
+                    "photo_reference": "Aap_uEA64f0rJ01kva2qlS4SxyE3S0JYZfSHSXiwSYQ3Fnk8GCeW3Qbww_xEfBsi_bOz2uS6IjIlnZxBVmwK5dTIkyJVikite9a0PgRnuMC5ICrT3AyuFTPhLFobqMFVIx2RvG-yZbAWdc0H2DclcQ0ITOuGp3fbpCWveFXcKkyLJcGM-bg9",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJW9dWRg6q3oARcs5hR42RFGQ",
+            "plus_code": {
+                "compound_code": "QP9X+22 San Diego, California",
+                "global_code": "8544QP9X+22"
+            },
+            "rating": 4.8,
+            "reference": "ChIJW9dWRg6q3oARcs5hR42RFGQ",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 673
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Law Street Beach, 671 Ocean Blvd #601, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8016827,
+                    "lng": -117.2597965
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8110611,
+                        "lng": -117.2437891
+                    },
+                    "southwest": {
+                        "lat": 32.7923033,
+                        "lng": -117.2758039
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Law Street Beach",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2991,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113722420922363227513\">Noah</a>"
+                    ],
+                    "photo_reference": "Aap_uEDj_dymQE0qfpVetgdU-RdkMvnLtHse4YkRD49Ni5etklACCtc2jxpD_Gu1Oef8i3R9p90P71W_jwORRzHDt2Zngoo6F3D3thGNL_CVqTwrZiulqKyvIEZXFQKb9qdHSPumr4tuLwB-2pQarzd5zIl6dJVSUfqPQvQQx7hF7ZtuPPst",
+                    "width": 3989
+                }
+            ],
+            "place_id": "ChIJZ9kJhY4B3IAReDxgu65w8Tk",
+            "rating": 4.7,
+            "reference": "ChIJZ9kJhY4B3IAReDxgu65w8Tk",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 915
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Windansea Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8281279,
+                    "lng": -117.280381
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8375035,
+                        "lng": -117.2643736
+                    },
+                    "southwest": {
+                        "lat": 32.8187513,
+                        "lng": -117.2963884
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Windansea Beach",
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103725482466133129390\">Diego Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDJ6ETsu7FH-inB9a9wA6akVz9CjIxeMg15u17p_5m8cqYMuHoTPx0-ex5xvV22jFrdzwr3Tc21UYfY4pUtF86byTis_uOroQWdN0Se5kK1xZDe86OEhkZ3wS9lC4aGhPnAV17zfM90ZO2gIkK1WAVZaxQAuWR8AV3K3Om8BHkQay9c",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJewAoUFaYNjQRkUe-RZwUXxE",
+            "rating": 5,
+            "reference": "ChIJewAoUFaYNjQRkUe-RZwUXxE",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Whispering Sands Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8404719,
+                    "lng": -117.281604
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8498462,
+                        "lng": -117.2655966
+                    },
+                    "southwest": {
+                        "lat": 32.8310966,
+                        "lng": -117.2976114
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Whispering Sands Beach",
+            "photos": [
+                {
+                    "height": 613,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106289886184455201739\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBpjkGGWzBr70kBc8Dv8Blg7r23v6ym6OqFjYKclKKyjnju-kTb5F6yup9auYDM30x8pg9WUpXryKukdQ7wjZQ-dZyyqUjfhQdf49gTuXZ3SVK7IlP2uNfEwFoxVl02qWr6lTNzP68nvDOp7M0dSQNLmzsC2x50bNLFE91c9JHfXbNg",
+                    "width": 817
+                }
+            ],
+            "place_id": "ChIJQZDmB-8D3IARI7LmMXUtpT8",
+            "rating": 5,
+            "reference": "ChIJQZDmB-8D3IARI7LmMXUtpT8",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Ski Beach, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.775898,
+                    "lng": -117.2330531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.7852791,
+                        "lng": -117.2170457
+                    },
+                    "southwest": {
+                        "lat": 32.7665159,
+                        "lng": -117.2490605
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Ski Beach",
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101183189993115226419\">cmilton111</a>"
+                    ],
+                    "photo_reference": "Aap_uEAnmV27NPoCAVPJnEPRB4cuRfVwFaYxI5p0Jj8aselUEPCxxPoiuky9ip1HM75Z5NwaKKRm6-IjNGPdI3OI9eS_ErZoEkCkM5YMJ-DJGwY-_lSIJnYlv_ptLxtMSvS2Ub1FMQYWOzjHuP1-uOleZ2T8QZBfxhS78b3Vd0JYleCtclZI",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJU7ccrnCq3oAR1ukSTuHS2DY",
+            "rating": 4.4,
+            "reference": "ChIJU7ccrnCq3oAR1ukSTuHS2DY",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 56
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Boomer Beach, San Diego, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8507233,
+                    "lng": -117.2740469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8600965,
+                        "lng": -117.2580395
+                    },
+                    "southwest": {
+                        "lat": 32.8413491,
+                        "lng": -117.2900543
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boomer Beach",
+            "photos": [
+                {
+                    "height": 2848,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102500855291943726259\">Patrick BANTIGNY</a>"
+                    ],
+                    "photo_reference": "Aap_uECQnJgA0oKybhS2J6ZDQJ_C3G_KacBeqJ4LT0TxbPHX2Kj_apNMcHzxkIsb2OT71oADjO6jagUXQ-MTJ8COc130FmBpFE02zNNKFXBuCMiQLUJfNVZWbplEHfep2SQzoiBrq2-OvIHd48B6S-o3-QLOZN5sQToiCVWZ0f9t9tsX822K",
+                    "width": 4288
+                }
+            ],
+            "place_id": "ChIJI3PvRPkD3IARTJLuX8QEW3w",
+            "rating": 4.3,
+            "reference": "ChIJI3PvRPkD3IARTJLuX8QEW3w",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 66
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Coronado Beach, Coronado, CA 92118, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.6847742,
+                    "lng": -117.1878115
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.6941649,
+                        "lng": -117.1718041
+                    },
+                    "southwest": {
+                        "lat": 32.6753825,
+                        "lng": -117.2038189
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Coronado Beach",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104478491081091452681\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDKicno0e0tsubVRXZyvgdcOg-aRnBXEQWL9dGM1VhJYTQXvmy2uTEoNN_G0qeLpDrDRjIBBxBunkKLeaR9yhIV3D4e6R2ZaMyKHbkGC94dQ8A_vMTXaoDbGy2eWxWgrXsXRl7T78gJ06AbqRw9ya04etYHlklFpPU7VfxrFrNIzdi_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ3YSRU8as3oARdlVzZ2EfuRE",
+            "rating": 4.8,
+            "reference": "ChIJ3YSRU8as3oARdlVzZ2EfuRE",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 1141
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Tourmaline Surf Park, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8051352,
+                    "lng": -117.2622363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.8145132,
+                        "lng": -117.2462289
+                    },
+                    "southwest": {
+                        "lat": 32.7957562,
+                        "lng": -117.2782437
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Tourmaline Surf Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105033852898332174494\">Vinh P</a>"
+                    ],
+                    "photo_reference": "Aap_uEDGj-Hg_QkVzMPhKJZIvOqBw-6i8vVYNQdwQVx8N0fz4jTSwFjRZT__VUej_p0502rRL2L6O8jVuazn4Y4zCZtI9Q0v1Opv-os5Ur60ZOQ4vSxPgsPjFoLMt8MvxaQXb_4iGwALyMKCZ7YIahfIv_22SFAUew0uoBh6GAOyZZn3g_U",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJQXoIsYgB3IARBmkshbu9Ijs",
+            "rating": 4.6,
+            "reference": "ChIJQXoIsYgB3IARBmkshbu9Ijs",
+            "types": [
+                "natural_feature",
+                "establishment"
+            ],
+            "user_ratings_total": 416
+        }
+    ],
+    "status": "OK"
+}

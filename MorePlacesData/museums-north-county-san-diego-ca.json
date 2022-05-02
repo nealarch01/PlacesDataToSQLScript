@@ -1,0 +1,1003 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDcrI6sbYsEFxiSoHO1WmABHzFVh3AS9juYt78rd-K_io4PhkhFRpiBSbZIZSg6MniM0AZIy9P-Ow0Fa8aEWZEckV4f50L7nr3yZz1gjwFh1zVSAsAi8IiJL7HACDj-pElV3tGDAs-hTwCEy7ARGxIhlvuvFl4zHGgvmeinlG2qtFs30LqLC3bVSu2NhsiTqin_50lVsj5pDOBjAVOWlggleLy7hxBIOX8Tnj_O5gXMNIdQ2qpCdmAcnlYmKNp8smKgITRMVtyealLXZ5PQOUtFpKa7RwVEwlDu8eTGAWSlf_sC4igA9AjUsplXVrM7CbmPFGJ4k2THFipU7KkTcJjFbUd7_6QNeJzaLyfiRXkjGmDoIH4ldELGmgvb9qxxuGLw3Rnj2B06y51u_6c6rBxG_k6bpJk4DEClC74M2Pmpyg8",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "320 N Broadway, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.124522,
+                    "lng": -117.0823439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12586127989272,
+                        "lng": -117.0810695201073
+                    },
+                    "southwest": {
+                        "lat": 33.12316162010728,
+                        "lng": -117.0837691798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Children's Discovery Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105958481394270953621\">Megan Benjamin</a>"
+                    ],
+                    "photo_reference": "Aap_uEBnPFDVREktPsRttttY3wSE414WJJZ7bzctCEcTKxP8GVLkl6C4ocFM-Mr8G7ls1OIUGJs5KAOgRNLZ97H74kO61V3PaZiiQhHve9LPwWPeMOiXJt-c1RthLZVgP6_MZsBMM4rpvSy3PBKuXeLICs0QaSuYWWRL4hf1SQoCOrDGqfOb",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJh8vtApz024AR5iQWnfbFYFM",
+            "plus_code": {
+                "compound_code": "4WF9+R3 Escondido, California",
+                "global_code": "85544WF9+R3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJh8vtApz024AR5iQWnfbFYFM",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 898
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1555 Camino Del Mar Suite 310, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9605403,
+                    "lng": -117.2646034
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96190557989271,
+                        "lng": -117.2635619201073
+                    },
+                    "southwest": {
+                        "lat": 32.95920592010727,
+                        "lng": -117.2662615798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Art + Play Space (The New Children's Museum North County)",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113273862258110914053\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAY8EVO1g0yJy7vdtm79Y5dqt_w1W4dfckreigWb0lpqv_FOGO9aajcE-EIP1byTpMOBcUssldN-C4dkJvYJcCj-iBqWjKAkfS8PF5A7EB5i4wG3DHbqjH23iJ1K3dcsTTyggS-LTQS9HG82lYqcw0gPRdUj_xkl0h4d0GNA8OU7UgR",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJ26qITTwJ3IAReg9sTPDKLUE",
+            "plus_code": {
+                "compound_code": "XP6P+65 Del Mar, California",
+                "global_code": "8544XP6P+65"
+            },
+            "rating": 3.7,
+            "reference": "ChIJ26qITTwJ3IAReg9sTPDKLUE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "450 Quail Gardens Dr, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0571249,
+                    "lng": -117.2797837
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05818807989272,
+                        "lng": -117.2782403701073
+                    },
+                    "southwest": {
+                        "lat": 33.05548842010727,
+                        "lng": -117.2809400298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Dieguito Heritage Museum at the Heritage Ranch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2716,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106083181923719884123\">Jay Clark</a>"
+                    ],
+                    "photo_reference": "Aap_uEBEQBdz7niTeDWdB9O0Oa0kbQRep0vwjSdMNVGUuZiCpmU5PLCPeKNUNyuzz4LDCXr9dLy6cjurpkIxfeWkQJQ-3PccUeyYLQfBHxqj3JZPYNbS24QRtFHNZmhfbWmp2oI-UcZoFRSfNHRyHVrFd-DeuCOQfc-w1GCaUTG4YAPzM548",
+                    "width": 4219
+                }
+            ],
+            "place_id": "ChIJsZceqGQM3IARWjNe_5jWAR8",
+            "plus_code": {
+                "compound_code": "3P4C+V4 Encinitas, California",
+                "global_code": "85543P4C+V4"
+            },
+            "rating": 4.5,
+            "reference": "ChIJsZceqGQM3IARWjNe_5jWAR8",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "29200 Cole Grade Rd, Valley Center, CA 92082, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.242546,
+                    "lng": -117.024457
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.24389442989272,
+                        "lng": -117.0227076701073
+                    },
+                    "southwest": {
+                        "lat": 33.24119477010727,
+                        "lng": -117.0254073298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Valley Center History Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1794,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112658906956683996492\">Chris B</a>"
+                    ],
+                    "photo_reference": "Aap_uEBG0VLzRS4it_h_QxHhMKZcYkt8e5OWRigd3tkMFtttaqrgucFE-F05oTHX_dvy5hEsONz3sKwz63LjpvHkjcubAqWs9Ok262hkp-ijs_LAGm8yU7-zDVxF6raciyk95w7z7XN6D7LxdYrk_kjoPdgwfuJZzn85_k-hhoe3m7ZgZNKT",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJf_7X2NaN24ARRkw_VHNEmIc",
+            "plus_code": {
+                "compound_code": "6XVG+26 Valley Center, California",
+                "global_code": "85546XVG+26"
+            },
+            "rating": 4.8,
+            "reference": "ChIJf_7X2NaN24ARRkw_VHNEmIc",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "250 N City Dr #9, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1354545,
+                    "lng": -117.1593791
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13678067989272,
+                        "lng": -117.1578380701073
+                    },
+                    "southwest": {
+                        "lat": 33.13408102010727,
+                        "lng": -117.1605377298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The CADO",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105503535212117976779\">HB</a>"
+                    ],
+                    "photo_reference": "Aap_uEBOsbrGo2ZI058GhBYNLpI7Ke6-Rq6NM814CMcXADsKPmePq19jsGLO6r0FnBd4nENNsZxyQ163E0QwvGxtP6lML2XcAinNbelygiKPjbk6eLnXROu4HhiUhDc___SUKRkEQH-x34oGnuiUlMXumP3nXbrCHRs66CNi_PuY6Y7SUw9e",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJb_b9StCL24ARRqulXBcLSbU",
+            "plus_code": {
+                "compound_code": "4RPR+56 San Marcos, California",
+                "global_code": "85544RPR+56"
+            },
+            "rating": 3.1,
+            "reference": "ChIJb_b9StCL24ARRqulXBcLSbU",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3190 Lionshead Ave, Carlsbad, CA 92010, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1328587,
+                    "lng": -117.238173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13399502989272,
+                        "lng": -117.2368822701073
+                    },
+                    "southwest": {
+                        "lat": 33.13129537010728,
+                        "lng": -117.2395819298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Craftsmanship Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115767314657093209165\">Karen Vranjes</a>"
+                    ],
+                    "photo_reference": "Aap_uECMK_4Q90PUgGZtjznQJFvNOYVTGb5zm6NYHd1mNxfohhThLJ7RzcjhpDR1wMAVmTmx-8PRK78S9EhaCdDXRIkAnXGwx7njtNXoD9O1FuS9zMoVnZ2oQ_eycZjjdlYle7bgTJKGNZEdOBj-5tIgodlWlqsYp8nh_BTrtOErizsj17L8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJEbh3J8J03IARl6uS8IpXZeg",
+            "plus_code": {
+                "compound_code": "4QM6+5M Carlsbad, California",
+                "global_code": "85544QM6+5M"
+            },
+            "rating": 4.9,
+            "reference": "ChIJEbh3J8J03IARl6uS8IpXZeg",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 293
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16666 San Pasqual Valley Rd, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0892216,
+                    "lng": -116.9809112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.09028107989272,
+                        "lng": -116.9794680201073
+                    },
+                    "southwest": {
+                        "lat": 33.08758142010728,
+                        "lng": -116.9821676798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Archaeological Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109738658348078160049\">Nara Cox</a>"
+                    ],
+                    "photo_reference": "Aap_uECFmF-V6qG20AFS8DDvEzhaqLvKf-QYPQ3GyR1oTjIun-IQ8vkhG_1cR4zKVlmshVfbstS1jHRbREsX8hq-0P4-kXYKEfq2iNzwPpmPMupOLnL1o85tmbPukBjUHysLo8mjotbY-Ih8o1GUuGG4LejgboswPCUXqcKzGDkstMe26WA0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJDTzNBwfu24AR_dz3R-Kyjj8",
+            "plus_code": {
+                "compound_code": "32Q9+MJ Escondido, California",
+                "global_code": "855532Q9+MJ"
+            },
+            "rating": 4.3,
+            "reference": "ChIJDTzNBwfu24AR_dz3R-Kyjj8",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2260 Jimmy Durante Blvd, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9737022,
+                    "lng": -117.2610048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97505852989273,
+                        "lng": -117.2596517701073
+                    },
+                    "southwest": {
+                        "lat": 32.97235887010729,
+                        "lng": -117.2623514298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Beyond Van Gogh San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118309322009147416297\">Greg Ehlert</a>"
+                    ],
+                    "photo_reference": "Aap_uECL2nvOXwY4MJKKjHRZIjQF_rZREvjRMsJSyoywH10D3EylT5MunnyiVhyo9eL8IivNerDlqgBrWdQEKzsOWtHOGX9UJBhBn19a6S56QcfBYEQp2fhBtTLYrDZqzbTRW2Ipa7PH4atHrjt7jpUgBzuVHMxdW41WkZN3qt2x0tIGzFzC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJhY8IJRAJ3IARjdpLeskabeU",
+            "plus_code": {
+                "compound_code": "XPFQ+FH Del Mar, California",
+                "global_code": "8544XPFQ+FH"
+            },
+            "rating": 3.9,
+            "reference": "ChIJhY8IJRAJ3IARjdpLeskabeU",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 192
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "641 E Pennsylvania Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1263561,
+                    "lng": -117.0747329
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12779867989272,
+                        "lng": -117.0734256201073
+                    },
+                    "southwest": {
+                        "lat": 33.12509902010728,
+                        "lng": -117.0761252798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "EcoVivarium",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 539,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101971585118617582235\">EcoVivarium</a>"
+                    ],
+                    "photo_reference": "Aap_uEDkdcLNmnCzGas5IBQKhiAyNxPqGdaVf0-U5l3t2h7GzJz_rpxs_kK6j4iv1pQ2pEwiBoeRCAup1zNv-sOUmoC9VSx_tJCx7vYS9oDJXcu5PNwLUOwi4vfd8rO8Utnf61s9_XLY-MgdjWU1n71r5EJW_kZBuk0_iCEOClssFTnUhb3g",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJs45LimLz24AR7F34TFSEvt0",
+            "plus_code": {
+                "compound_code": "4WGG+G4 Escondido, California",
+                "global_code": "85544WGG+G4"
+            },
+            "rating": 4.9,
+            "reference": "ChIJs45LimLz24AR7F34TFSEvt0",
+            "types": [
+                "zoo",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 93
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12655 Sunset Dr, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0672852,
+                    "lng": -117.06712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06867907989272,
+                        "lng": -117.0658426701073
+                    },
+                    "southwest": {
+                        "lat": 33.06597942010728,
+                        "lng": -117.0685423298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Sikes Adobe Historic Farmstead",
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106836842577003764296\">Sikes Adobe Historic Farmstead</a>"
+                    ],
+                    "photo_reference": "Aap_uECNF-Grit5O42ZYbNi3VK4MLQ-XKxY5_GT8K70WLwqZgXoSjKb_29iEdC2OxYKi_eU1YCXoG37J5mFmfWitrkV_r7PQOoxVmCW4LTTfiPwU8-ByS6ty1unAd8v4NW2SU28b7PoDvTg386dFxD6MKeHYsSdbdK4kbQvJYaOJFF1MlABT",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ83rXyFnx24AREozg28gd9I8",
+            "plus_code": {
+                "compound_code": "3W8M+W5 Escondido, California",
+                "global_code": "85543W8M+W5"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ83rXyFnx24AREozg28gd9I8",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "321 N Broadway, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1246514,
+                    "lng": -117.0831478
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12604662989272,
+                        "lng": -117.0816512701073
+                    },
+                    "southwest": {
+                        "lat": 33.12334697010728,
+                        "lng": -117.0843509298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Escondido History Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2952,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103398672698545138322\">86christine SD</a>"
+                    ],
+                    "photo_reference": "Aap_uED-mkr4hLh4BqeDqWK4P9hCdnWN3Jd3Fu1uI7t1S2tsJpRDDzkP7uF64tXiK4g5CT26cq0JG3Yly0V48rlbUreoA0cQrheULs_1HcGcKaRz8EJJ1HoBuN2_s3qo831QcLO6PA02Zm9rzomig_iCTbVZEJu30eBV9l59Y0Tn-VgnFikS",
+                    "width": 5248
+                }
+            ],
+            "place_id": "ChIJsbs2hZ7024ARQWaK3krx1vo",
+            "plus_code": {
+                "compound_code": "4WF8+VP Escondido, California",
+                "global_code": "85544WF8+VP"
+            },
+            "rating": 4,
+            "reference": "ChIJsbs2hZ7024ARQWaK3krx1vo",
+            "types": [
+                "library",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2040 N Santa Fe Ave, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2297255,
+                    "lng": -117.2524635
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23107602989272,
+                        "lng": -117.2511142701073
+                    },
+                    "southwest": {
+                        "lat": 33.22837637010728,
+                        "lng": -117.2538139298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Antique Gas & Steam Engine Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1067,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115832186362330352760\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECx-GQ3-iTESg8ZTwPsh2MCeyCTq9KrIXxl6-nc9QDzNl-e_2DM8Ux4wTrBbWjeqgXmkCR4kDdTOPmxYinanKCDsGaa1X2fdsU8G-asYUh6h6O46XNGdPGS947iGjPgnogT6LPP71iZrmRP-PHbLFmASxJcbDVGG4XaR2u1Dg8baauU",
+                    "width": 1897
+                }
+            ],
+            "place_id": "ChIJbyj009t23IAR9f63r2AMpg8",
+            "plus_code": {
+                "compound_code": "6PHX+V2 Vista, California",
+                "global_code": "85546PHX+V2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJbyj009t23IAR9f63r2AMpg8",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 505
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "340 N Escondido Blvd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1226667,
+                    "lng": -117.0848605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12382847989272,
+                        "lng": -117.0838767201073
+                    },
+                    "southwest": {
+                        "lat": 33.12112882010728,
+                        "lng": -117.0865763798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "California Center for the Arts, Escondido",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109575018151770415074\">gina</a>"
+                    ],
+                    "photo_reference": "Aap_uEBbXlBp3P8PmAxVOXTwpCEzM9D5Xhf3My0v3s8hNiefFg1J5nl0Dh1kp2T1P43NK88qof1_VzA6-KO8lNG1iRR6m9iTpKhzZmrWf2VLttYb6-GfRG8mWwg-CdiLT6xynb_EpZGaIQFjgAayMpuls6gQkOQYuDPm1tdCm6KTfdowYakk",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0YA5EJn024ARToLWxx0Fc2w",
+            "plus_code": {
+                "compound_code": "4WF8+33 Escondido, California",
+                "global_code": "85544WF8+33"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ0YA5EJn024ARToLWxx0Fc2w",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1628
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1550 S El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.027386,
+                    "lng": -117.256158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02875337989272,
+                        "lng": -117.2546999201073
+                    },
+                    "southwest": {
+                        "lat": 33.02605372010728,
+                        "lng": -117.2573995798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "ICA San Diego / North",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110207764864114719830\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC0PJrNWJtszJz6wrbQTAvc5A2giv-BC-HpHG2NaFJIOJpc9WpT5d9RcWQq8LAXpa-T6EhrUsJ610ze_eB_ZMFfNhAI1VIVBpuVBK86wmnXV3GfmYT32OgIu24mmkKtvfR5wiJJMNRJsi59HnisWu06koppDSY_gl08eLacFJOXGfzf",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ1zxiteIL3IAREu0UgfrRYb8",
+            "plus_code": {
+                "compound_code": "2PGV+XG Encinitas, California",
+                "global_code": "85542PGV+XG"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ1zxiteIL3IAREu0UgfrRYb8",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5790 Armada Dr, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.127439,
+                    "lng": -117.3167412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12879217989272,
+                        "lng": -117.3153839701073
+                    },
+                    "southwest": {
+                        "lat": 33.12609252010728,
+                        "lng": -117.3180836298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Museum of Making Music",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106126478242704774684\">Jennifer Keane</a>"
+                    ],
+                    "photo_reference": "Aap_uEAIyqImzcsIakwP2JcB1lf-yXwj-7HZhI0gEi0oQmLHcrmOooy_fR50jed7tz0xHqkuv2Q9JtA5fIAuwFp6rpGKo3Qsm9xB7hDkeNLQx3XKr4uykBCGeXfPtGMNKqlotCnr3UPaxPWMYYq_uUD5MZUetNqrdewE-Gl-BZ3HsrWFei2s",
+                    "width": 3036
+                }
+            ],
+            "place_id": "ChIJ6zl6O_1y3IARXI1YnTlteP4",
+            "plus_code": {
+                "compound_code": "4MGM+X8 Carlsbad, California",
+                "global_code": "85544MGM+X8"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ6zl6O_1y3IARXI1YnTlteP4",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 575
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "704 Pier View Way, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1980604,
+                    "lng": -117.3786432
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19933682989272,
+                        "lng": -117.3771750201073
+                    },
+                    "southwest": {
+                        "lat": 33.19663717010728,
+                        "lng": -117.3798746798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Oceanside Museum of Art",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116934108972205095570\">Carlos Montes</a>"
+                    ],
+                    "photo_reference": "Aap_uECrVkSuq3DWaBTWhxaoIG5u4tQDVLSSoFfH-HsxbKsg2xWGaHe52NEnTqE0oySSM_jCCfO8JBO4_BjMaPeex7VHgu2M4MrtU2OadfF5hGHFOnw8f3z5vtmNmWLwr6hkeVSgMdpOsy8TpvwcEQ3oOcSC0aT4M6qlNeepk731Uiwp1tRg",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJhVFRKDFu3IARDZcnQu6RVCU",
+            "plus_code": {
+                "compound_code": "5JXC+6G Oceanside, California",
+                "global_code": "85545JXC+6G"
+            },
+            "rating": 4.6,
+            "reference": "ChIJhVFRKDFu3IARDZcnQu6RVCU",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 337
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3333 Bear Valley Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.080202,
+                    "lng": -117.0628704
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.08170202989272,
+                        "lng": -117.05961165
+                    },
+                    "southwest": {
+                        "lat": 33.07900237010728,
+                        "lng": -117.06395665
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Queen Califia's Magical Circle",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 531,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109407870193358455581\">Jorge Vismara</a>"
+                    ],
+                    "photo_reference": "Aap_uEDHGZzrohFPKrIHzLX-I57ApMafKlRQyEwUJr7uYODI38KSFzgrB-Vf7ecrcgVSclXE6AAU49Syfo4Z_rVcn39kR8kv5tQOICxLf3-6Z-SPFUEtUx7y3uuKMJ9usgug9gKQ0m-lZE2biHtBQlJrLO8FCRUtGtsxNygCOGCLOjUF8vBi",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ69rjxeXz24AR8vdp1oIIKPE",
+            "plus_code": {
+                "compound_code": "3WJP+3V Escondido, California",
+                "global_code": "85543WJP+3V"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ69rjxeXz24AR8vdp1oIIKPE",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 276
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "312 Pier View Way, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1962392,
+                    "lng": -117.3815618
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19754222989272,
+                        "lng": -117.3801268201073
+                    },
+                    "southwest": {
+                        "lat": 33.19484257010728,
+                        "lng": -117.3828264798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "California Surf Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118270783539146040328\">chris kuduk</a>"
+                    ],
+                    "photo_reference": "Aap_uEBg-wWu7NF860oiB4ASJZLnB6fOlC5RanDySK0T3AldPCjhRI_0qvyAyAkcLlL19M9OZmBTT8i0OG1wipfpVfIdVD8NwH0WU60LNPGDWHvGnjkPnkujGxRnYhnzTrEVlpgSXt401i7V0Ke5D97N20oyTjYrjte6Kv3nVcK0gqUDpCw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJJf63ETdu3IARtvttv6ZqKN8",
+            "plus_code": {
+                "compound_code": "5JW9+GC Oceanside, California",
+                "global_code": "85545JW9+GC"
+            },
+            "rating": 4.7,
+            "reference": "ChIJJf63ETdu3IARtvttv6ZqKN8",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 251
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "345 County Hwy S21, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0477015,
+                    "lng": -117.2936615
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04906867989273,
+                        "lng": -117.2923297701073
+                    },
+                    "southwest": {
+                        "lat": 33.04636902010728,
+                        "lng": -117.2950294298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Carter Yarborough Memorial",
+            "permanently_closed": true,
+            "place_id": "ChIJC6iM6nkN3IARyoLTRw8SxvY",
+            "plus_code": {
+                "compound_code": "2PX4+3H Encinitas, California",
+                "global_code": "85542PX4+3H"
+            },
+            "rating": 0,
+            "reference": "ChIJC6iM6nkN3IARyoLTRw8SxvY",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "220 Peyri Dr, Oceanside, CA 92058, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2350975,
+                    "lng": -117.3211126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23647857989272,
+                        "lng": -117.3198997201073
+                    },
+                    "southwest": {
+                        "lat": 33.23377892010727,
+                        "lng": -117.3225993798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Heritage Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108748586248746520524\">Vernon Stephens</a>"
+                    ],
+                    "photo_reference": "Aap_uEANFPXFbFfxwS9eOqWUFZFw6wXsyvQgwQZQeFb1_VEruEJOqoAGM3JcwYVR2TxMLCMQQ69gvmH5WJaZtgD-K9w9rFmMCQFNqPDCs25p6hpJcNQgEWOQUS17tJYOiXGeJyX-EHP6pwsTjPqTQ42nwrdu9y4BY7J8WktVpQ4IJK2UhfOe",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJU9jpdVxw3IARrvBllAMax1E",
+            "plus_code": {
+                "compound_code": "6MPH+2H Oceanside, California",
+                "global_code": "85546MPH+2H"
+            },
+            "rating": 4.5,
+            "reference": "ChIJU9jpdVxw3IARrvBllAMax1E",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 155
+        }
+    ],
+    "status": "OK"
+}

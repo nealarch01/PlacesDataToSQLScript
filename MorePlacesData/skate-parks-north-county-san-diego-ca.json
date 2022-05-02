@@ -1,0 +1,969 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBzZl1iETbBNxpUCGSKQbR9evDOOfyHz3m64_aQK0t8iswHURtfW5ccHROYjV0l05OLwD1C-ic0gffErkaI7SEhfcO72qZ8GxjzNaVySfCcn_ExDZm4pNh_r-Y6Kx0iKr_gfWyFO_XKcc7InxeQHcDUD3IpLQ4q7CFRoqg0l0JsYGSRlQOBqNs503bxbSKmbD3IuKP5Pc_7ifQ0hdVhtg3oT7uQ4W6ldT1fSdMMkrdQ-HVfjSO7FDR8b3a7mI82PUMPYfGxJV-GE2AbPGyR9PiB-8zOi92N8NBvt3KW4dJaBRhwlqbAbK6yIbzYjICZCONXFfT7j0FN89zkLUF2Jl_XU0fqxpeHT-5nECXiA-S-CtfPRJPPVZCFYefbyGYXqKheiDJl6m5Wt9-X_5PBfxd_0aF9jTLyFvHgGpqJHLhk-HpFSOPC",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10111 Carmel Mountain Rd, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.960571,
+                    "lng": -117.1097767
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96195842989273,
+                        "lng": -117.1084244201073
+                    },
+                    "southwest": {
+                        "lat": 32.95925877010728,
+                        "lng": -117.1111240798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Rancho Peñasquitos Skate Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118371624358272456705\">Нино Фрканец</a>"
+                    ],
+                    "photo_reference": "Aap_uEBUpUtzP9PRwai1ZDC5qbOV_MAkDFogLmw89vaeUVUNi9Ohqe94lYRljF1qkw9xKt_EhdnBi66nIGHCWGxGdkyO-8qHoXjg2BdIFhRm6RZbOZhPQKry5qa26HHnfyWX1sNJfYn6z7VAaQBhnlxC9yPXvDM6LG6ehOsp0nsiQz1x-Uxp",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJE7cL3tH524AR-ScjZ3isRmg",
+            "plus_code": {
+                "compound_code": "XV6R+63 San Diego, California",
+                "global_code": "8544XV6R+63"
+            },
+            "rating": 4.4,
+            "reference": "ChIJE7cL3tH524AR-ScjZ3isRmg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 116
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12600 El Camino Real, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9477877,
+                    "lng": -117.2377547
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94904927989271,
+                        "lng": -117.2362297201073
+                    },
+                    "southwest": {
+                        "lat": 32.94634962010727,
+                        "lng": -117.2389293798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Carmel Valley Skatepark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110097891543596089821\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAMpIHFSrA2CYP13ePyVBWDc3A2UUYgtfbOD9_Q-vEAnKMSwsTTXIn0k5W5XbS2aPq4fvH9TtAXIfb_wi-wZDDH99QHU0bBNoUaYnPpNpKhvDVueUxugoSoX-ZXFV1lMRX2Yvw1C5TQO2V5EqfCZ0wN6IBiUHag6Hz_JCbbd8-_kFU_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJE1Mn-p0I3IARlvsp9YWUJCQ",
+            "plus_code": {
+                "compound_code": "WQX6+4V San Diego, California",
+                "global_code": "8544WQX6+4V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJE1Mn-p0I3IARlvsp9YWUJCQ",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 76
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12 Mission Hills Ct, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1459513,
+                    "lng": -117.1446885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14726612989272,
+                        "lng": -117.1436551701073
+                    },
+                    "southwest": {
+                        "lat": 33.14456647010727,
+                        "lng": -117.1463548298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "San Marcos Skateboard Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3264,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103494955719719105752\">jim liu</a>"
+                    ],
+                    "photo_reference": "Aap_uEAVxRswGBbxvyXYPO78_CmOxlNEAevG8-ak7yY2SIkMujx8w68eAKhQ0CDLFAK8_03xtXYsYaafBPYslBChy0--_6bfUHgEPQZLAp2eMM755oSqaRRXb5dRj4HwiPV6amAVOUFg4sBF-qGPi6WhM3U9Upc1FQEjWFkwnQNsic-AP0ES",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJeRrZqMiK24ARBNb02eAv7Wg",
+            "plus_code": {
+                "compound_code": "4VW4+94 San Marcos, California",
+                "global_code": "85544VW4+94"
+            },
+            "rating": 4.2,
+            "reference": "ChIJeRrZqMiK24ARBNb02eAv7Wg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "200 Saxony Rd, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.053296,
+                    "lng": -117.287839
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05463517989272,
+                        "lng": -117.2859587701073
+                    },
+                    "southwest": {
+                        "lat": 33.05193552010728,
+                        "lng": -117.2886584298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Encinitas YMCA Skate Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106519286410700303544\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDEJCnrkElDOCZVIlMEi2v-Nbio8PD58zstUpV_qZHfAdgnaMKNmYfluRr191PZh6cn880SELSLs9RDtPlDKXgGBtVr5m8LiDFob0_DB4geUhD9hXa4rGg951ku58-tlW3Qmir3254L2pzSXFv42vMhdSM_G_uvBgQAG-paJG7Uafd0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVwnWGmYM3IARN61UtcH54pw",
+            "plus_code": {
+                "compound_code": "3P36+8V Encinitas, California",
+                "global_code": "85543P36+8V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJVwnWGmYM3IARN61UtcH54pw",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13100 Civic Center Dr, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.955026,
+                    "lng": -117.0471553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95623942989272,
+                        "lng": -117.0458096701073
+                    },
+                    "southwest": {
+                        "lat": 32.95353977010728,
+                        "lng": -117.0485093298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Poway Skate Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109333617520447351267\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLtUEIBWfdBuQEQzCHyeJTbFieIrzrg4sWiqMDGpZNjWNb0vFUmoL94eHfZR_G8uwWkbUrCFVDpX1hR-xgD_9NrLr4X5tA9xo8NEN2KCWNO6sbtU78MWx6HSpxaWDsm9YXfS0OLQ-6sY5Bd_DowZfs260Sr__5D2GxrzaXBoCU03aC",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJC3RHDk3624ARE3EQHrJh1Is",
+            "plus_code": {
+                "compound_code": "XX43+24 Poway, California",
+                "global_code": "8544XX43+24"
+            },
+            "rating": 4.5,
+            "reference": "ChIJC3RHDk3624ARE3EQHrJh1Is",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 77
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4215 Lewis St, Oceanside, CA 92056, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1954706,
+                    "lng": -117.2861954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19695247989272,
+                        "lng": -117.2848443701073
+                    },
+                    "southwest": {
+                        "lat": 33.19425282010728,
+                        "lng": -117.2875440298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The John Landes Skatepark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107118386502001607170\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECMOnAII286wBD9QsNACY-wS_VPLuoG14nDS2HsuQk_zL9JaZeIJgZfD-Z-jfHGD-wEuoivws61hrufQ0xAq1odEwYFSt7uSCxC8MrKf1k5oXigzkzH9RC6UGOhLPrmyfZ-VkVFccP1q49pju1X67ic1Jg5t51oDYHgGZHagZG_aBDe",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJSZoJvlxx3IARWr7_5jPoM5c",
+            "plus_code": {
+                "compound_code": "5PW7+5G Oceanside, California",
+                "global_code": "85545PW7+5G"
+            },
+            "rating": 4.1,
+            "reference": "ChIJSZoJvlxx3IARWr7_5jPoM5c",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 250
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2548 Orion Way, Carlsbad, CA 92010, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1369508,
+                    "lng": -117.2663327
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13842637989272,
+                        "lng": -117.2650097201072
+                    },
+                    "southwest": {
+                        "lat": 33.13572672010728,
+                        "lng": -117.2677093798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "City of Carlsbad Skateboard Park (North)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103154331527357971083\">niko rosse</a>"
+                    ],
+                    "photo_reference": "Aap_uEBCwUGlA1psKXf7VKNsh5p8FVa83ds5DdEAJydxB--9VI6zVsTxkF3JeC6IAUSz7GsrAWt1u0--MKsldYZOmJATqc8JTjA_HMqF_T3R-9yni9sI2MX3glWPA6FdTjVK9btwa6DJoGb9CLm3Q0rK-L9TxDAzLDJAyMUvD8rJOb869GH0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJBT5Vap103IARQ07HUfVLdL4",
+            "plus_code": {
+                "compound_code": "4PPM+QF Carlsbad, California",
+                "global_code": "85544PPM+QF"
+            },
+            "rating": 2,
+            "reference": "ChIJBT5Vap103IARQ07HUfVLdL4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "429 Santa Fe Dr, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0340906,
+                    "lng": -117.2825192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03551322989272,
+                        "lng": -117.2811740701073
+                    },
+                    "southwest": {
+                        "lat": 33.03281357010728,
+                        "lng": -117.2838737298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Encinitas Skate Park, (Poods)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116176573977959980342\">jay are</a>"
+                    ],
+                    "photo_reference": "Aap_uED_WWdOg-zrtyRRBiL-Y8ZufiSORvFEqE5CCMKm-RdDdwVomF92f-Fw5OczYu46fx0y3sasa2JjVABlLHOArxFDN6oa0FHVE8OJEk5vBUxo31dl-haP8tSRduC5p_piBjzkeir76_GYH3F_AXk2pXktWTMClxk89RFE9QgUgRAd6QHy",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJL8F9CREM3IARMabIrb7Vjlk",
+            "plus_code": {
+                "compound_code": "2PM8+JX Encinitas, California",
+                "global_code": "85542PM8+JX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJL8F9CREM3IARMabIrb7Vjlk",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 247
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "400 N Santa Fe Ave, Vista, CA 92083, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2051648,
+                    "lng": -117.2453252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.20651397989272,
+                        "lng": -117.2438304201072
+                    },
+                    "southwest": {
+                        "lat": 33.20381432010728,
+                        "lng": -117.2465300798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Vista Skatepark",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113675091076133520344\">Dan Callahan</a>"
+                    ],
+                    "photo_reference": "Aap_uEA48DRsvh41D7ZkTN479HXj5rCZBnaJfvKJXIxZsJ1ogsfgWjMpaApRsOCIFGHmvTb8Uew8oGQ0SpLSmg4zPYGDZnqPvZRq8ST2LFSK4VF0MrNi9oYuhM1H05QpvrhEMD2-cAq574UZGqPnLOTfdCO8a_kmLbo0Dl3E1dwrGamNNHmV",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJwxRnt6J23IARskZp6HY4-2M",
+            "plus_code": {
+                "compound_code": "6Q43+3V Vista, California",
+                "global_code": "85546Q43+3V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJwxRnt6J23IARskZp6HY4-2M",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Alex Rd &, Foussat Rd, Oceanside, CA 92058, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2218765,
+                    "lng": -117.3449114
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.22290722989271,
+                        "lng": -117.3438259201073
+                    },
+                    "southwest": {
+                        "lat": 33.22020757010727,
+                        "lng": -117.3465255798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Prince Memorial Skatepark “PrincePark”👑",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 462,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110624880938723714192\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDDlvpG6RksdzwBwlTLGBdn1fp5Xp6EQvN5qlp6zMJfqeYqMtKOgLkmqdxX6SAQzsW-NDePhoxRSvKFLeFtjOwow1Jjvd4_dwnM6dABz-6PLOfChV-r92CeyIb3VsmLuePMBS8Nnf-xqR1WvpDlz4c2QhFeU1DSMPoE4d-VerSBmYts",
+                    "width": 828
+                }
+            ],
+            "place_id": "ChIJO_1f2TBw3IARhQdFg0ECaNU",
+            "plus_code": {
+                "compound_code": "6MC4+Q2 Oceanside, California",
+                "global_code": "85546MC4+Q2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJO_1f2TBw3IARhQdFg0ECaNU",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 160
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5306 N River Rd, Oceanside, CA 92057, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2572712,
+                    "lng": -117.2903657
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.25861907989272,
+                        "lng": -117.2889656201073
+                    },
+                    "southwest": {
+                        "lat": 33.25591942010728,
+                        "lng": -117.2916652798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Melba Bishop Skatepark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113533882510002282390\">Rebecca Fuller</a>"
+                    ],
+                    "photo_reference": "Aap_uECtIxYSqDrCQMjOp3ReNp2fpmSOU8JB8XZN-0iImv3eA334AzJRBZ_eIgjP7tHoMcWLg9pOF7gcz5yX66SCrbYAKCB1UjFgs-uNFaBw5GtDZ1pfmmCvcpcIr9lCeSZ5SOolce2m2_D-WRu9ByMNrqEIvFk6lRo3awSMUIYJrxG3hO2l",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJCTxiUr1w3IARI5_x4GyTImo",
+            "plus_code": {
+                "compound_code": "7P45+WR Oceanside, California",
+                "global_code": "85547P45+WR"
+            },
+            "rating": 4.4,
+            "reference": "ChIJCTxiUr1w3IARI5_x4GyTImo",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 89
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Alicante Rd, Carlsbad, CA 92009, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1183977,
+                    "lng": -117.2625076
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11971342989273,
+                        "lng": -117.2610749701072
+                    },
+                    "southwest": {
+                        "lat": 33.11701377010728,
+                        "lng": -117.2637746298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Alga Norte Skatepark",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113533882510002282390\">Rebecca Fuller</a>"
+                    ],
+                    "photo_reference": "Aap_uEDFf4r420X_3lKgrZJ0ZMnSDwrLTzKeAz0PMHZ_3rDYXAAF2Y2mJcJtAunz64cO_7oMzX92JmV9pXt-dy7vRFeRlncYTLpjwy_Fe1tPiyVu7Ghv7OHwrBj1hTypN4sikz3jh7UNZoKyVa7WEUjMQ0ZUCm8b_rBL62i3FIWe1BrDKkzE",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJa09sM7d13IAReT-zNr9ILRw",
+            "plus_code": {
+                "compound_code": "4P9P+9X Carlsbad, California",
+                "global_code": "85544P9P+9X"
+            },
+            "rating": 4.8,
+            "reference": "ChIJa09sM7d13IAReT-zNr9ILRw",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4300 Mesa Dr, Oceanside, CA 92057, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2168354,
+                    "lng": -117.3044263
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.21798822989273,
+                        "lng": -117.3030028701073
+                    },
+                    "southwest": {
+                        "lat": 33.21528857010728,
+                        "lng": -117.3057025298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Martin Luther King Skatepark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1728,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103341717452367102750\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDIRhI76fuTYyyWs-dI1vbqlJx6SL4ebH_2aOLfCQlFUA99mDUBs-np0dmP5IEqFS7xIunpqlM6rLti_tcBXdTXeCbqsla-CjHFVIZkeJjn7LiAZ-7edH3yefoZ2b9BPZNKeWv0cQ0rL08ttBsLTVjX1Kn34n67-Xou5NVN_x7mac3x",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJTYgMlgRx3IARw82nImrgE0g",
+            "plus_code": {
+                "compound_code": "6M8W+P6 Oceanside, California",
+                "global_code": "85546M8W+P6"
+            },
+            "rating": 4.3,
+            "reference": "ChIJTYgMlgRx3IARw82nImrgE0g",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 171
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Del Sur Neighborhood Park, 15820 Paseo Montenero, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0161074,
+                    "lng": -117.1412703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01741387989271,
+                        "lng": -117.1398058201073
+                    },
+                    "southwest": {
+                        "lat": 33.01471422010727,
+                        "lng": -117.1425054798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Del Sur Neighborhood Park",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117949737711502268673\">Meghna Shah</a>"
+                    ],
+                    "photo_reference": "Aap_uEBB4_g4SCnbVXxuGKl3R4v57CBEEyFSQENnIPo39NImDD-9kXwDJPetBqPr8geNghnHZ65WUalYwjG00xE0TyEXgrAI3phtMHAyugKZHTDhhQY2m-NoNidZ6ynOsBzDpxIh9N5QBsksWukxFAWNujeUfIg68GNhAH7B_8FQTOmtuVh9",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiW-7iLn324AR5e5Q2SJkjfU",
+            "plus_code": {
+                "compound_code": "2V85+CF San Diego, California",
+                "global_code": "85542V85+CF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJiW-7iLn324AR5e5Q2SJkjfU",
+            "types": [
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9596679,
+                    "lng": -117.1866727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96104382989272,
+                        "lng": -117.1853583701073
+                    },
+                    "southwest": {
+                        "lat": 32.95834417010727,
+                        "lng": -117.1880580298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pacific Trails Skatepark",
+            "place_id": "ChIJA9qlmJIJ3IARkkbu1I4qOKE",
+            "plus_code": {
+                "compound_code": "XR57+W7 San Diego, California",
+                "global_code": "8544XR57+W7"
+            },
+            "rating": 0,
+            "reference": "ChIJA9qlmJIJ3IARkkbu1I4qOKE",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5977 Village Center Loop Rd, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9595185,
+                    "lng": -117.1871398
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96091762989273,
+                        "lng": -117.1857288701073
+                    },
+                    "southwest": {
+                        "lat": 32.95821797010728,
+                        "lng": -117.1884285298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Pacific Highlands Ranch Skateboard Park",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116112828251710740275\">Take Pills Die</a>"
+                    ],
+                    "photo_reference": "Aap_uEDj5I7tfsvM-N6-pDnZ0wlgiQvhiLNh54zbEzuMD_snEfYasa6OKhZc8bD98t80yZGNRONdMuDQkeCsYLVHs0Hy9w9svqvOjq7zEwKVm8axhMMDV5bVCrK1q3XYGfi9KEAUlgKwHSLa0WYG2MgAL510NWmwQgWbaMHtdv1pLfT-H5Vj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN-adlJoJ3IARVOyZVLkULJA",
+            "plus_code": {
+                "compound_code": "XR57+R4 San Diego, California",
+                "global_code": "8544XR57+R4"
+            },
+            "rating": 5,
+            "reference": "ChIJN-adlJoJ3IARVOyZVLkULJA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "715 Valley Ave, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9866238,
+                    "lng": -117.25947
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98798157989272,
+                        "lng": -117.2583238701073
+                    },
+                    "southwest": {
+                        "lat": 32.98528192010728,
+                        "lng": -117.2610235298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "La Colonia Park & Skatepark",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113533882510002282390\">Rebecca Fuller</a>"
+                    ],
+                    "photo_reference": "Aap_uEBvKYF7G3YK4MfQTa6eLJhm7CeF6h6P4M4mVCaQVNuyDuHcmiF_wm-pOcZjXxdzyiKxwsGRNc6WreGCu9Pt-9XnV5hbnehuZost-SgXDOF6fJaP4HNRhnM1qXpp-VkVIDT5s1WiMo7NAcIJ2d5y_tY_tQOKDqk2ThCpsQXVdn-DSe_V",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJm7nMBykJ3IARP-KR84OoYI8",
+            "plus_code": {
+                "compound_code": "XPPR+J6 Solana Beach, California",
+                "global_code": "8544XPPR+J6"
+            },
+            "rating": 4.6,
+            "reference": "ChIJm7nMBykJ3IARP-KR84OoYI8",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 186
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2560 Orion Way, Carlsbad, CA 92010, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1378764,
+                    "lng": -117.2653777
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13923757989271,
+                        "lng": -117.2641897701073
+                    },
+                    "southwest": {
+                        "lat": 33.13653792010727,
+                        "lng": -117.2668894298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Skatepark",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100544860132813911257\">Krazy</a>"
+                    ],
+                    "photo_reference": "Aap_uEDL6bYpBvrN7OHBwmQHXelF-RzzAUI26Zh0yD0p7bOlm82kQSC8Lkq5QYoxzaQrkS3-2LwYAlS0D6QK0j-ex_2BCSmcYKN0JBd1K2CWmmHKGUKZsShSLdJO0G2o5yaIqAKzDTJ9BzU_OI2nAfjyF--1oJdRDVunDQV-DyrUdgtQ3GOk",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJHVU0a5103IARou2lyUEPz1A",
+            "plus_code": {
+                "compound_code": "4PQM+5V Carlsbad, California",
+                "global_code": "85544PQM+5V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJHVU0a5103IARou2lyUEPz1A",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 122
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6893 Osler St, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7923299,
+                    "lng": -117.1710978
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79381590000001,
+                        "lng": -117.16823025
+                    },
+                    "southwest": {
+                        "lat": 32.79022429999999,
+                        "lng": -117.17270405
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Linda Vista Skate Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107233122771143415189\">107233122771143415189</a>"
+                    ],
+                    "photo_reference": "Aap_uEAUqt4WerVIWU29UeQ2fT-Z0neQYvcHShn_6PQXdJtko31uOAMXaU9QZPz4qwKFEdsZczA5B6LsTSFWHA1mCz84eiVNk0uhCA95qmq_Dem2HsMU421CdER0i92lt9Y10SGaHMIPgHmED9QAreWIIeedoQn0wGTIfH2V4OfU7ITHrF_w",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJB0dxVlRV2YAR0jsCPiDmEQk",
+            "plus_code": {
+                "compound_code": "QRRH+WH San Diego, California",
+                "global_code": "8544QRRH+WH"
+            },
+            "rating": 4.7,
+            "reference": "ChIJB0dxVlRV2YAR0jsCPiDmEQk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 473
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3401 Clairemont Dr, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8048684,
+                    "lng": -117.1990583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80608502989271,
+                        "lng": -117.1978869701073
+                    },
+                    "southwest": {
+                        "lat": 32.80338537010727,
+                        "lng": -117.2005866298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "YMCA Krause Family Skate & Bike Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112577408388486724278\">Jennifer Ward</a>"
+                    ],
+                    "photo_reference": "Aap_uEAT5SSoCo86_-0bIUa9rotc8lSNxJbMm8qgLGH30D6AIcpEomY4I7L2a52Kw9ZNNOTDVg0WIwUjpi-yUomtXKOBzuI5OMhM3nsfteCHB6lwXR_BjnggjqxeiMoeQ2MZSs73kiY1OVmJZ_NJiu1c_Fi6F8-ZJehLc9UjdSvW1N3PAyA4",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJI4SNnj0A3IARkuth-6g7O_M",
+            "plus_code": {
+                "compound_code": "RR32+W9 San Diego, California",
+                "global_code": "8544RR32+W9"
+            },
+            "rating": 4.7,
+            "reference": "ChIJI4SNnj0A3IARkuth-6g7O_M",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 257
+        }
+    ],
+    "status": "OK"
+}

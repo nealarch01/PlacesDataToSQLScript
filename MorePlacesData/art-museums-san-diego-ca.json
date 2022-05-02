@@ -1,0 +1,1030 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBUPjGhpKEcFJRjqyjSTQ7BFjp7CrcV1xcO_dvZWUbcx-yVu8EvZzJV_iWl3JVeT0s4oaoTfjODJdvlUsCpcQ6cHu3L5EJ9YgWntGoA_6TKgtf8NiYr6j9MXUtC93648LJZSMCMsdOGQAV1lBa_gZe0ZA93nXoTqFmiO58-L3AESM0t8g0dV2kiPFniukF9VxZn9gohjXgqABx9ALf8FUpvHe6bI1K259lACfPYzZJBS4qNSvchPPE-j9IP5VWkefAiwOFxxCY0mgXzEJWlcR9TAOSCfFp2eXSLT1RC7GMyD9-0wrPm4bFaanjNqmD1NhU0pMnTUPo7DCHL4Pf7vnaHXxhGeDy9SoF6V2i3Ry67Bm4QfOblEo0wFkK8MF20UcBKe8DguHGk-CBAP0qoPXa6RxyisfkTyeQ",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1450 El Prado, San Diego, CA 92102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.732158,
+                    "lng": -117.15043
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73313912989272,
+                        "lng": -117.1492065201073
+                    },
+                    "southwest": {
+                        "lat": 32.73043947010728,
+                        "lng": -117.1519061798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The San Diego Museum of Art",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2252,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114797588426475063582\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDWP2bsC_hAzJefUcsmoBj-8kwClxz5yKAl6yzOk6rDrq0rJleefgGl0LzkhLdhElWfVydZzQ49nossnbDnxrBLbQavv2RdFr1iIaMDxUxA8pZKRJgx_9XhnL0eC87vVZXn3ovtJC56O4_ABh7XkyEw4OBHbCAS8_AGkJCDMJUh8VC8",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJLyIl671U2YAREAPW56PTL3k",
+            "plus_code": {
+                "compound_code": "PRJX+VR San Diego, California",
+                "global_code": "8544PRJX+VR"
+            },
+            "rating": 4.6,
+            "reference": "ChIJLyIl671U2YAREAPW56PTL3k",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1680
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7341479,
+                    "lng": -117.144553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75186495,
+                        "lng": -117.1208421
+                    },
+                    "southwest": {
+                        "lat": 32.70871155,
+                        "lng": -117.1722057
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Balboa Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117978771650180797022\">Mechelle C Whelan</a>"
+                    ],
+                    "photo_reference": "Aap_uECYuzE3_ic847ELOeD7uSQ13zjJSLPQHa2zadS4WOqHf4z64EgTz007ry_HmBjRFiPgNT0TmjVVo88BsTkDfxwGe8Rb-0Hfa56SaGykuoBLeC2e27UE6SxeDEc4_ns4oxHgEgC32xxlVVOunnCdW4BFehl0-8mMaJwDTbiHSer5ElT6",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJA8tw-pZU2YARxPYVsDwL8-0",
+            "plus_code": {
+                "compound_code": "PVM4+M5 San Diego, California",
+                "global_code": "8544PVM4+M5"
+            },
+            "rating": 4.8,
+            "reference": "ChIJA8tw-pZU2YARxPYVsDwL8-0",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 62802
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1649 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.73111,
+                    "lng": -117.1486199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73245782989272,
+                        "lng": -117.1476308
+                    },
+                    "southwest": {
+                        "lat": 32.72975817010727,
+                        "lng": -117.1511704
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of Photographic Arts",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2131,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105459083842312631808\">Raymond Czaplewski</a>"
+                    ],
+                    "photo_reference": "Aap_uEDZtiqzvNSXiVkBuGB0QjvcvEnxH0ie6xh-l2bcad1iZgSpExYg0Kmj_Ge5ifd7aO-S9eOUxqWbFYISJtmh3q9CVfMTAj-OVq9xIlOyKmreIBMN52Bi8TrBTziDoPE2gX7xV6t925cjT0kZDt8KN07tsKkGgKR_jzJDF5VcRykzrjVH",
+                    "width": 3791
+                }
+            ],
+            "place_id": "ChIJV6IUNpZU2YAR9VQcaQBF5cA",
+            "plus_code": {
+                "compound_code": "PVJ2+CH San Diego, California",
+                "global_code": "8544PVJ2+CH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJV6IUNpZU2YAR9VQcaQBF5cA",
+            "types": [
+                "movie_theater",
+                "art_gallery",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 451
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Balboa Park, Plaza de Panama, 1439 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7311603,
+                    "lng": -117.1508712
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73246182989272,
+                        "lng": -117.1493469201073
+                    },
+                    "southwest": {
+                        "lat": 32.72976217010728,
+                        "lng": -117.1520465798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Mingei International Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112792601312128850756\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDyeSDjxYbpzn5C7j0NJpoTNbakKV70cAodvZ1sq6o3CKDr3eeAFgL5yHrL1p6cy5sVY5evLdVx-_qKlyARVeVCNYOlSJfi80x0A2gObp1_oNrwXJ9OBQZ6mukLnvWRuLlF3KX9WU4pXU-Ew4NNIetu7QPKZUc4a1FpX1tDzUecvlfp",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJmWcp671U2YARlCWX8coNpBg",
+            "plus_code": {
+                "compound_code": "PRJX+FM San Diego, California",
+                "global_code": "8544PRJX+FM"
+            },
+            "rating": 4.6,
+            "reference": "ChIJmWcp671U2YARlCWX8coNpBg",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 271
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "700 Prospect St, La Jolla, CA 92037, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8445066,
+                    "lng": -117.2781915
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.84584172989272,
+                        "lng": -117.2765580701072
+                    },
+                    "southwest": {
+                        "lat": 32.84314207010728,
+                        "lng": -117.2792577298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of Contemporary Art San Diego",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1364,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115287255395642665316\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA0kUgCc_BMWLpWGwTJ184pf4XQBHEJ22EmooryRSpWzsBXZOwlwyk3SOmJWjdV5kO2-kPNMby_yZmUnMizNXvnOb9M9C0Btn1D7XolSwitJ0zM1R-le3TGqPrie5qYBZcqPiMYENE7FmCv16CcT-14bM9jN7weC7sCKJaU8-pwYkZB",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJM1vlt_oD3IARGQNIQLKUskY",
+            "plus_code": {
+                "compound_code": "RPVC+RP La Jolla, San Diego, CA",
+                "global_code": "8544RPVC+RP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJM1vlt_oD3IARGQNIQLKUskY",
+            "types": [
+                "art_gallery",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 116
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "200 W Island Ave, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7106684,
+                    "lng": -117.1651935
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71188112989272,
+                        "lng": -117.1637901201073
+                    },
+                    "southwest": {
+                        "lat": 32.70918147010727,
+                        "lng": -117.1664897798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The New Children’s Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117180190891157685943\">Anne Kehlet</a>"
+                    ],
+                    "photo_reference": "Aap_uEB3u6xnM298uVS8clpKZ8EVBZabbuzkP7lgm-AydV4uzRPAHgqBqe8pK9mXREzfRpM4_Tnfqdk7jN6KodDpxLmsZ_x2DPsmASP370es-TFzA1rKEzEBWHmbIWK9_pHaLEw2Zdhzdi7UTxee6YY9hjWxoech3GPgtpJcsPUdbWtBNUqo",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJldZd-1ZT2YAR0rXTzPlFJ_8",
+            "plus_code": {
+                "compound_code": "PR6M+7W San Diego, California",
+                "global_code": "8544PR6M+7W"
+            },
+            "rating": 4.6,
+            "reference": "ChIJldZd-1ZT2YAR0rXTzPlFJ_8",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2220
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1788 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7323223,
+                    "lng": -117.147364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73384717989272,
+                        "lng": -117.1457799701073
+                    },
+                    "southwest": {
+                        "lat": 32.73114752010728,
+                        "lng": -117.1484796298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Natural History Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110114557309289220728\">Elizabeth Mora</a>"
+                    ],
+                    "photo_reference": "Aap_uEC2-7XV9jTHR8rJC5WcrRerHJoctUNHxtsW4ovf_5SaDWNvos5EVMo-6npL5EFil9RnEyatHNG50dVN5Mg-_zLh4RvKzAuOvqif-o_tRt9cOmuA6Y8Ju7BH_TtN-HRz5AtC8TQc94kNp5_wQVxWVnT8omKMbLBcq_TCbtGs0LgLaUzj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN0BfV5ZU2YARe0K26koVPa4",
+            "plus_code": {
+                "compound_code": "PVJ3+W3 San Diego, California",
+                "global_code": "8544PVJ3+W3"
+            },
+            "rating": 4.6,
+            "reference": "ChIJN0BfV5ZU2YARe0K26koVPa4",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 2739
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "910 N Harbor Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7137398,
+                    "lng": -117.1751265
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71560442989272,
+                        "lng": -117.1725747
+                    },
+                    "southwest": {
+                        "lat": 32.71290477010727,
+                        "lng": -117.1759771
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "USS Midway Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111534072859685627746\">China Girl</a>"
+                    ],
+                    "photo_reference": "Aap_uECLllIhJdR1nQn2iJ-SVGXVW4s7Fe_acplZiAmYxCrr2zyA1ARuQheIjiAjZk5lTN_dWv-3DBnbenqcDmJ9aTLgpgkStkVwH8AvOILlE3dd9WriXK28hmU22oWCeKuZ-L5NnzAieDhtEC8YfdflE57ADOm_9LtvOtuN7mvO2xk45qxT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwYBuKqtU2YARslNFQDCJt_s",
+            "plus_code": {
+                "compound_code": "PR7F+FW San Diego, California",
+                "global_code": "8544PR7F+FW"
+            },
+            "rating": 4.8,
+            "reference": "ChIJwYBuKqtU2YARslNFQDCJt_s",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36053
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1350 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.731517,
+                    "lng": -117.1523677
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73282212989272,
+                        "lng": -117.1511810701073
+                    },
+                    "southwest": {
+                        "lat": 32.73012247010727,
+                        "lng": -117.1538807298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Museum of Us",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117177937691730645478\">UD Addy</a>"
+                    ],
+                    "photo_reference": "Aap_uECZ_8gmwYEFOxVQZLFUVZZ1oPvY_i_1im98-3_8I1Zf7aQaf15cL8oS-B9eFm-sAyimBeXtz_S7rSRh-etziSxvbfnZBHRG6hB1IOXCikk_4zaZUjBUpWvZxioXdUlyeIldqL594sg19kLJh3OdMiQDXqp3EI-jHThSdQsPwARmndPn",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJITq8z71U2YARtcp6IYi3thE",
+            "plus_code": {
+                "compound_code": "PRJX+J3 San Diego, California",
+                "global_code": "8544PRJX+J3"
+            },
+            "rating": 4.3,
+            "reference": "ChIJITq8z71U2YARtcp6IYi3thE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1873
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1875 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7308009,
+                    "lng": -117.1469593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73222507989272,
+                        "lng": -117.1452805201073
+                    },
+                    "southwest": {
+                        "lat": 32.72952542010728,
+                        "lng": -117.1479801798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Fleet Science Center",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 5344,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105840104438096602938\">Pam Simondi</a>"
+                    ],
+                    "photo_reference": "Aap_uECTuYk2UuH2EQd54d2k84fTJREd0lrH7NDYnFpkpUrKzdFmdCZwIMsWGJU7iCSsvDCw_Vy3Ik4LyAn3jUhzpBcvOV6tY2FDf9e_sNuzimtckmzBemucItvZvWizf1MPRluWYpsojGQtcwTAabdLcZRx3BS3NnrX_39uMJ5j-FNUmm3d",
+                    "width": 4008
+                }
+            ],
+            "place_id": "ChIJITml-JZU2YARvg2lEVgD-E8",
+            "plus_code": {
+                "compound_code": "PVJ3+86 San Diego, California",
+                "global_code": "8544PVJ3+86"
+            },
+            "rating": 4.5,
+            "reference": "ChIJITml-JZU2YARvg2lEVgD-E8",
+            "types": [
+                "movie_theater",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2933
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1649 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.73111,
+                    "lng": -117.1486199
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73245782989272,
+                        "lng": -117.1476308
+                    },
+                    "southwest": {
+                        "lat": 32.72975817010727,
+                        "lng": -117.1511704
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Model Railroad Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118231318762199233413\">Tc Lee</a>"
+                    ],
+                    "photo_reference": "Aap_uEC59AnwlhUUYyCCnJYkAnulp3jqbW8zsrWGvDszkTg4nmimtssDp7oevZhTqTKma89Rp_axbPtH3xCmy5n1Zd4Z1sVs0WYShooWyGTJ1p5ZdaUpKLOtq8NXiXvZQf-UDJlWcTM9Ttu6ICgqBUH9sb8A0G_npGWvWBIkOv0AzMCT2cPJ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJV6IUNpZU2YARm65b3WP7zAQ",
+            "plus_code": {
+                "compound_code": "PVJ2+CH San Diego, California",
+                "global_code": "8544PVJ2+CH"
+            },
+            "rating": 4.6,
+            "reference": "ChIJV6IUNpZU2YARm65b3WP7zAQ",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 725
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2001 Pan American Plaza, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7262324,
+                    "lng": -117.1543679
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72778887989272,
+                        "lng": -117.1527191701073
+                    },
+                    "southwest": {
+                        "lat": 32.72508922010727,
+                        "lng": -117.1554188298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Air & Space Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3824,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114926534781665017812\">Gladwin Mendez</a>"
+                    ],
+                    "photo_reference": "Aap_uECLoSM2LUN3iQjvq3syAJatGX_n6EsoUMCPifvtuMlPkZuNgnlKtUiXsikWhFgFh_ksOxeJw_UrZRyeMZoCvMW7S4esdCYXqWXw7HTNukcjDLq-0ZwPQ0_6XnDXUZBOuKqoyHNRAyym_ChYaAxDxPfjXzb6zS9IXhxswvxuHX4YQtoI-A",
+                    "width": 23776
+                }
+            ],
+            "place_id": "ChIJpZPqMqNU2YARvWok4Fl9Thc",
+            "plus_code": {
+                "compound_code": "PRGW+F7 San Diego, California",
+                "global_code": "8544PRGW+F7"
+            },
+            "rating": 4.6,
+            "reference": "ChIJpZPqMqNU2YARvWok4Fl9Thc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3794
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1439 El Prado, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7312839,
+                    "lng": -117.1510908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73260947989272,
+                        "lng": -117.1495370701073
+                    },
+                    "southwest": {
+                        "lat": 32.72990982010727,
+                        "lng": -117.1522367298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "ICA San Diego / Central",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108322152990144431145\">Johan Peleman</a>"
+                    ],
+                    "photo_reference": "Aap_uEBhB6Z0j0hQW8iucAQPt62I9WivBLDuMuHVRxw0YkRKFXeJaxv-rfobJ-2QscxuCjOCtBnd0eKLXewwDWwM2r3SAubB9ApClfH4neNK2QrIdxPqG-fl4UpMBz3QsUpi6WXYxBIyiXIBkS7FJDHU8IMf39-Qtmdah-RNRO1ZdoO2S7zB",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJLd9MMLxU2YAR9cQNPDx7Hfg",
+            "plus_code": {
+                "compound_code": "PRJX+GH San Diego, California",
+                "global_code": "8544PRJX+GH"
+            },
+            "rating": 4.5,
+            "reference": "ChIJLd9MMLxU2YAR9cQNPDx7Hfg",
+            "types": [
+                "museum",
+                "art_gallery",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 112
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1492 N Harbor Dr, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7209355,
+                    "lng": -117.1739873
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72226312989272,
+                        "lng": -117.1722953201073
+                    },
+                    "southwest": {
+                        "lat": 32.71956347010728,
+                        "lng": -117.1749949798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Maritime Museum of San Diego",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 9000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105086700026199637668\">Raul Cantero</a>"
+                    ],
+                    "photo_reference": "Aap_uEAmMWQE3KfB_lracoZ7wSlPopZqr9v6RvTXx2M8mN56k64ApZbdeIhqJJwVqxZ5HsVFo3vLk9F18c5yAED255WCRqf-n9H4ZlUIY-ldhKYwlVRDsT1Wig86HD4eRvOifqh-0tTy4cCNuX7w5qEfL9buEkGfjS4XxcfKMk-qoA7Ycz_F",
+                    "width": 12000
+                }
+            ],
+            "place_id": "ChIJW3MFtlKr3oARYkZGRPnweDs",
+            "plus_code": {
+                "compound_code": "PRCG+9C San Diego, California",
+                "global_code": "8544PRCG+9C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJW3MFtlKr3oARYkZGRPnweDs",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3269
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2476 San Diego Ave, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7527561,
+                    "lng": -117.1946067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75405387989272,
+                        "lng": -117.1933048701072
+                    },
+                    "southwest": {
+                        "lat": 32.75135422010727,
+                        "lng": -117.1960045298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Whaley House Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102853170211116821608\">Steve Azer</a>"
+                    ],
+                    "photo_reference": "Aap_uECURfC0zUDUfs3Tejmcrc0bJyN4jdOTukG7uc7-J2p3AvN-XvwHk6O5BIRK2s4eXOnL8wHCpy4VxH_SqpYevyPKoDWdFS2J9zafMpTwONjL2a3L16rdTf_dZe5MRwv7rZhryFj6hwag-hCWVkFsmNthj2l0q88ZZ83uJU7ylavLYJbm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJVW0qirT_24AR0hR713TZcOQ",
+            "plus_code": {
+                "compound_code": "QR34+45 San Diego, California",
+                "global_code": "8544QR34+45"
+            },
+            "rating": 4.4,
+            "reference": "ChIJVW0qirT_24AR0hR713TZcOQ",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1424
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2080 Pan American Plaza, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7274775,
+                    "lng": -117.1538745
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72875387989272,
+                        "lng": -117.1520855701073
+                    },
+                    "southwest": {
+                        "lat": 32.72605422010728,
+                        "lng": -117.1547852298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "San Diego Automotive Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114023429579210490355\">Michael Mala</a>"
+                    ],
+                    "photo_reference": "Aap_uEA6P_gKHqYPpEXKB0d022hjyCuRUolVEm3Yyf-uE6P0S3158u4w05eyaJJ9t6e2guxg6oTX3rKY5od16Mv7A09ELOWAepTXTz87NKlJ-nEqAmeMFCM1SL0S67Wrz4r9-phjKWCNoGky9UHBANkWCfn4pokCWtLPweDb4QbRWptJybi1",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJKQfx0LxU2YARLRX14eAkak0",
+            "plus_code": {
+                "compound_code": "PRGW+XF San Diego, California",
+                "global_code": "8544PRGW+XF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJKQfx0LxU2YARLRX14eAkak0",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1315
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "340 N Escondido Blvd, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1226667,
+                    "lng": -117.0848605
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12382847989272,
+                        "lng": -117.0838767201073
+                    },
+                    "southwest": {
+                        "lat": 33.12112882010728,
+                        "lng": -117.0865763798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "California Center for the Arts, Escondido",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109575018151770415074\">gina</a>"
+                    ],
+                    "photo_reference": "Aap_uECSHtDz38kxOk2WQxr_jeSUM59VJEykAlHr9l6pBESP0RuKT5KCd-UadZKVvkh_Fb8VQLa5J_IBFE9G67r0orfWCDUA-jO3wZgLqabgcHhMTmiHL6vq6KVp3Xd7lKfOFjrhULP1TgGMoS31upaDmU7THW_yf_RVDWGnxHtFb7vwjGcS",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ0YA5EJn024ARToLWxx0Fc2w",
+            "plus_code": {
+                "compound_code": "4WF8+33 Escondido, California",
+                "global_code": "85544WF8+33"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ0YA5EJn024ARToLWxx0Fc2w",
+            "types": [
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1628
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2825 Dewey Rd #100, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7380082,
+                    "lng": -117.2132088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73931162989272,
+                        "lng": -117.2117948701073
+                    },
+                    "southwest": {
+                        "lat": 32.73661197010728,
+                        "lng": -117.2144945298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Visions Art Museum",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1201,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117383983691733022797\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECmgVduMNO5cPXc_iYvvTwqdDCepTgbrwqqc1k3KRTB9astWTKojmJ7ppd2DatRlKggyWulPOImEDnOG_uaapBuD_Cr_YX4cPRfesBDus5FvJDt50otDHHsTzJdDDFBKcRiy3TarNY1ijoZUO3hiAam3UacwI5akT80T6Yt52S2hmyP",
+                    "width": 2618
+                }
+            ],
+            "place_id": "ChIJL6J1EwSr3oARF4GOoWqtRt4",
+            "plus_code": {
+                "compound_code": "PQQP+6P San Diego, California",
+                "global_code": "8544PQQP+6P"
+            },
+            "rating": 4.7,
+            "reference": "ChIJL6J1EwSr3oARF4GOoWqtRt4",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 50
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2131 Pan American Plaza, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7274772,
+                    "lng": -117.1524075
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72893207989272,
+                        "lng": -117.1511852201073
+                    },
+                    "southwest": {
+                        "lat": 32.72623242010727,
+                        "lng": -117.1538848798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Comic-Con Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2322,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108694769729966786444\">Amy Llanas</a>"
+                    ],
+                    "photo_reference": "Aap_uECwehifofKXBqisHqPl2nGZ_rez5YthIHEC2O_F4OOSjFJMt8uk4ikpRfff7ww-oMFvfB5_2XDeoiWakstMSbzR971QsYZLJ2LJ4U18CKnsHdkkjHn-SHk-XNO4ClkhYt-SBn-1uDjkzGDZ4qub3pXoMrkNgleH5iO9TIGuV9tr5V4h",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJz2BXQZNV2YAR7Rp98JA5FwE",
+            "plus_code": {
+                "compound_code": "PRGX+X2 San Diego, California",
+                "global_code": "8544PRGX+X2"
+            },
+            "rating": 4.1,
+            "reference": "ChIJz2BXQZNV2YAR7Rp98JA5FwE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 341
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2115 Park Blvd, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7258008,
+                    "lng": -117.1487727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.72729717989272,
+                        "lng": -117.1474358201073
+                    },
+                    "southwest": {
+                        "lat": 32.72459752010728,
+                        "lng": -117.1501354798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "The Veterans Museum at Balboa Park",
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105919315821183189216\">George Esguerra</a>"
+                    ],
+                    "photo_reference": "Aap_uEBwooRHyLmJ2U38Ar-dr5G5b6QPqZsgRlTY4wDAq5C4bO7UwmG4Q9zOXJnW93rWFPJRBdRCqzPMsQcH3TjEcz_LduIUvY-nrlnFHyjJIF9k-AadcsJK95MUbYCZtE-tO1WOA9vQ9DoefCXDPFq3CmJ8asbifTJEV8uIbqo2Q2L-YXAh",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJd_VDMphU2YARbv2lCicoFAc",
+            "plus_code": {
+                "compound_code": "PVG2+8F San Diego, California",
+                "global_code": "8544PVG2+8F"
+            },
+            "rating": 4.7,
+            "reference": "ChIJd_VDMphU2YARbv2lCicoFAc",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 243
+        }
+    ],
+    "status": "OK"
+}

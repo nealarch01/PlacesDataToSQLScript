@@ -1,0 +1,1073 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBrU3hZr35hLYLg877DFzpVUaHGXfvbSEgjY9NSkhQ7V4ctc8pU9Cx74oCQUMgHfCaUiXPAkNva3fU6xypK4jNQiDh1LRDaQGwqnTh-6MJI8Ilwn4T5K_oo5ooWSXZpN3M62RTHwbK28N-y2P1Nk1fMfUuwCc_FVUwTsV8LXhFey3coWyW6TaMhYk21GNO-YF2-lY56C_yBH8Q9Vv3IC_omjwH8s8qNjzjXTFrfDc54qDCbAhO5vId48NQtuaU8uWGZIaiWfynH7wlzb7Vr8mjcC-4h8jOiHH86nNk-u348RLgoMQgWjRDHFEagQTONr2e2TtCy2jSdhcfzIdWqE92oUrh9c_jJ4d3v1n6triOLCTenQzyvUmTXQt-UR7AOX6kWc1g3WCY7ggkfdUxt2lEbLyXASBo",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11639 Duenda Rd, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0326236,
+                    "lng": -117.0798715
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03399542989272,
+                        "lng": -117.0785197201073
+                    },
+                    "southwest": {
+                        "lat": 33.03129577010728,
+                        "lng": -117.0812193798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Edelweiss Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109968178313885768788\">Carlos Corona</a>"
+                    ],
+                    "photo_reference": "Aap_uEBuGdXKJp067BdC5AZCCUBP75UIfnfEQKi8sMj7N6xaBKhtB850F88iLBPnkZ6RNWenAZlyUzUk07xAIlduKAUI0mxcs68xi901Q7s0cZx6nHytcm3TnDcFHBODIkj5KObjw-u9SgnDgS8Hz-gj7PHux4PWb-xc42yOLpCz5z2hNhz8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoXy6LdP224ARnE2TiNZWlKw",
+            "plus_code": {
+                "compound_code": "2WMC+23 San Diego, California",
+                "global_code": "85542WMC+23"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJoXy6LdP224ARnE2TiNZWlKw",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 406
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12075 Carmel Mountain Rd #207, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9828695,
+                    "lng": -117.0742327
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98424627989273,
+                        "lng": -117.0730007701073
+                    },
+                    "southwest": {
+                        "lat": 32.98154662010729,
+                        "lng": -117.0757004298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jessie's Bake Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105039828903769209616\">Wan Shi Tong</a>"
+                    ],
+                    "photo_reference": "Aap_uECIot6OopC6YC_CzC2r9zbB3sNdTII4Se-BLSP2ZysZp5_b52A3iy87u5rEFVqTJkXFQOCddz080H9FVDmt8pw90iM6_aiM9USS5JFLCWbNDm61U8BtlUIkEL_cbCK5TYQZX0dYTQ__4CrSejrC8LzvnwW0CgiUh0g1RDJoKunKShIc",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJt_dtKAH624ARPqGOKfUTNio",
+            "plus_code": {
+                "compound_code": "XWMG+48 San Diego, California",
+                "global_code": "8544XWMG+48"
+            },
+            "rating": 4.6,
+            "reference": "ChIJt_dtKAH624ARPqGOKfUTNio",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4961 Clairemont Dr A, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.832098,
+                    "lng": -117.202648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83334322989273,
+                        "lng": -117.2013502701073
+                    },
+                    "southwest": {
+                        "lat": 32.83064357010728,
+                        "lng": -117.2040499298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Arely French Bakery Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106742445510269105965\">Elvis Gonzalez</a>"
+                    ],
+                    "photo_reference": "Aap_uED08UnafF4mSakueHpofPV7YI_FZngSltNUDpGFRM9mSxQ3azZQyNS-Cdwnjwow4mqUvBj3D3kce2zbP9kIDytyWusj0-N-eX9t2tjuTxlW3M1mEh3A8z4QH6M0yo6sx8nd5A5OAorZDJWsCVEeP7WkG25QHVIzbSs26KU-cB4QzgzT",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJswDE3vUA3IARzJMGaCXwQx8",
+            "plus_code": {
+                "compound_code": "RQJW+RW San Diego, California",
+                "global_code": "8544RQJW+RW"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJswDE3vUA3IARzJMGaCXwQx8",
+            "types": [
+                "bakery",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 328
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5575 Balboa Ave Suite 330, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8195739,
+                    "lng": -117.180466
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82082317989273,
+                        "lng": -117.1790139201073
+                    },
+                    "southwest": {
+                        "lat": 32.81812352010728,
+                        "lng": -117.1817135798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "85C Bakery Cafe - Balboa Mesa",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112722829447303345251\">behnam prime</a>"
+                    ],
+                    "photo_reference": "Aap_uEB5Bn5gT869eUZtLKbrEGNWRaSH8FWikwnIki6aIFGkjL0REKRlqzGPBRCwPO9Do1HtIUOvAYbK20dnudJy8Y4g9QnO950UnuG0Bigsf5o19ZfGm-84Vox9ThoWeJeoPl6HuCpAEp4voiBqb7J9iaI0o463F-UzGNOiLpQu0YZDJNC0",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJFS6F5HMA3IARmgi1SKGu8Wg",
+            "plus_code": {
+                "compound_code": "RR99+RR San Diego, California",
+                "global_code": "8544RR99+RR"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJFS6F5HMA3IARmgi1SKGu8Wg",
+            "types": [
+                "bakery",
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1101
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4686 30th St, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7625611,
+                    "lng": -117.1303702
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76391067989272,
+                        "lng": -117.1289780201073
+                    },
+                    "southwest": {
+                        "lat": 32.76121102010728,
+                        "lng": -117.1316776798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Blackmarket Bakery North Park",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 750,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118417939282901838818\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBelV63FnZQM5iLhcxZpMm8-66FDDDaTIGJnflWDvvkESw7OHZGhz_di2AHNUZAnzrMtU7fYwHBtxkwT0Ld-N5xxtoN-G9icbgMMI9jUHXdVBpfGgXec0MQovD_0xPwJLQ99YlZ3rVpiDmtw7Zn0w7eB7K31YaPPbTzR2fiboECBt_X",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJrxwhOf5U2YARwrJFFIdszMo",
+            "plus_code": {
+                "compound_code": "QV79+2R San Diego, California",
+                "global_code": "8544QV79+2R"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJrxwhOf5U2YARwrJFFIdszMo",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 567
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10299 Scripps Trail suite e, San Diego, CA 92131, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9124702,
+                    "lng": -117.0794004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91380667989272,
+                        "lng": -117.0781329701073
+                    },
+                    "southwest": {
+                        "lat": 32.91110702010727,
+                        "lng": -117.0808326298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "The French Oven",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109564081602656455041\">Geno Villafano</a>"
+                    ],
+                    "photo_reference": "Aap_uEAvelkU8jcyo8hyZqFN8_qu7vJNkqU7wB1D8dBQWlctGmlweoIMfHg5F57ZAuPHzuo8a7xxiNZXtnaWGmbwKftj740ocLkQgljiA_hgEyDwRSmtpzgfbDLrCwAbaciKFLXcbjtIK-o_Bgr2hsFlozZB1FMjiFrvVSePR9-VKboMkbZO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_a4vcU7524AR8TSGRT6inrU",
+            "plus_code": {
+                "compound_code": "WW6C+X6 San Diego, California",
+                "global_code": "8544WW6C+X6"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJ_a4vcU7524AR8TSGRT6inrU",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 292
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3925 Fourth Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7487234,
+                    "lng": -117.1614852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75008847989272,
+                        "lng": -117.1601591201073
+                    },
+                    "southwest": {
+                        "lat": 32.74738882010728,
+                        "lng": -117.1628587798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Starry Lane Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103119013288808893969\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECJENQJYY8Wh4jU4v9PyS4su2SfldpSQxo-DBAsVYFJVMWOV6nMQc6E-R4M5ITVn7hFdlawTADS4VmvtcA9DeYNKUDmt5cd8GzC5hbUpFzIpoqHd71u99BY2tBwW8RdvrGkLMKegZ6e2tm09rxX3Kbv64C5AU8fFaX8kcoKpOF5za_l",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJBQa_dwtY2YARaXyWqBPvIis",
+            "plus_code": {
+                "compound_code": "PRXQ+GC San Diego, California",
+                "global_code": "8544PRXQ+GC"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJBQa_dwtY2YARaXyWqBPvIis",
+            "types": [
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 274
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8680 Miralani Dr #129-130, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8966532,
+                    "lng": -117.1372753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89794817989272,
+                        "lng": -117.1360289201073
+                    },
+                    "southwest": {
+                        "lat": 32.89524852010727,
+                        "lng": -117.1387285798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "CAKED",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110613617174934475968\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAJittSDnOxfoTfA4tI8kgbhZ7TIe5A-PTFW_UW1LKCZgh96P62xZC8idLutbcgjFYjhgPUQc_Qghn4EwoXOcx39qAcLNgITAah946IhLKufundaQyeDXO-JW0TTQU25XjH0hJvzTK51HRrnNKaZwylwGl-1RkTqJVz1KwCj627OHJo",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJDcugs-7524ARk9965Ff6TFc",
+            "plus_code": {
+                "compound_code": "VVW7+M3 San Diego, California",
+                "global_code": "8544VVW7+M3"
+            },
+            "rating": 5,
+            "reference": "ChIJDcugs-7524ARk9965Ff6TFc",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 48
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9926 Carmel Mountain Rd # F, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9612673,
+                    "lng": -117.1139703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96261657989272,
+                        "lng": -117.1126235701073
+                    },
+                    "southwest": {
+                        "lat": 32.95991692010728,
+                        "lng": -117.1153232298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Andell's Bakery and Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111804887088196649766\">Samuel dela Cruz</a>"
+                    ],
+                    "photo_reference": "Aap_uED6dD1adLgKIc_2WJmRiI2kV6OUaBUqB3A2cuk9c3wep-xCtg5b-03vJsdmm0ZFX126vtdmZnFmRMOvi1N6F-Yh_MQnK51rNIRntb1_yZp3B6bz4a1bJ9JVgTFBM5E33SuxQXh3YxoTQL7jxliJJV0eX2V2afUPkJIRDqdNyyDsMm9r",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJWwBn4sX524ARySmXGMwYuxs",
+            "plus_code": {
+                "compound_code": "XV6P+G9 San Diego, California",
+                "global_code": "8544XV6P+G9"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJWwBn4sX524ARySmXGMwYuxs",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 51
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3860 Convoy St #112, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8140009,
+                    "lng": -117.1540564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81541917989271,
+                        "lng": -117.1525559701073
+                    },
+                    "southwest": {
+                        "lat": 32.81271952010727,
+                        "lng": -117.1552556298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Sage French Cake & Coffee",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109332461684004858442\">김의겸</a>"
+                    ],
+                    "photo_reference": "Aap_uEBMiPLz5kosFRRWTzLd-Iho1wsgqAKT_eWtf8gu_EcuY8wmTPhTw96cRPLmFI6cX4ozUWHIKWKuK7RsY_DJVPlHzlmsp3fJa0nVvk4Jmh_-nHxgd3gDIIQN1MBTD_pzUcO0TkeV6d69rfJKWft9lfSAFriJ-07q0MVawq_2FeTc0Ohs",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJrzCgFOn_24ARpiI5XRiDru4",
+            "plus_code": {
+                "compound_code": "RR7W+J9 San Diego, California",
+                "global_code": "8544RR7W+J9"
+            },
+            "rating": 4.5,
+            "reference": "ChIJrzCgFOn_24ARpiI5XRiDru4",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 61
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Carmel Business Center, 12265 World Trade Dr suite d, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9869448,
+                    "lng": -117.0727073
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98835027989271,
+                        "lng": -117.0714221201073
+                    },
+                    "southwest": {
+                        "lat": 32.98565062010727,
+                        "lng": -117.0741217798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Jenny Wenny Cakes",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1151,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118204269806441982971\">Jennywennycakes</a>"
+                    ],
+                    "photo_reference": "Aap_uEDPDO6OW1EmZTuE6s_zQXgOltO9FtSWjrPHic_8Ux_NNeRVcDpkGBZt5gkn4nrkQVm55dQMZC6fT_VaCM-FFO-tjLyZD0_mTIqX-jtEkTBbHTDjmQNJ9dpq4SrpM72Fq25Z9lyoWYM1nnXybxGfeNzyLU5jZ1QV_p3ZEpsgiwqkU7Fr",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJG4TZjqnw24AR8V1XDGcj1Bo",
+            "plus_code": {
+                "compound_code": "XWPG+QW San Diego, California",
+                "global_code": "8544XWPG+QW"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJG4TZjqnw24AR8V1XDGcj1Bo",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 62
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9975 Carmel Mountain Rd g2, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9603546,
+                    "lng": -117.1118168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.96174182989272,
+                        "lng": -117.1104612701073
+                    },
+                    "southwest": {
+                        "lat": 32.95904217010728,
+                        "lng": -117.1131609298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "It's A Piece A Cake",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2242,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114553694211353786268\">Zulu Juliet</a>"
+                    ],
+                    "photo_reference": "Aap_uEBHWD8He89GsFiEnvqnzqMIDo1Wwrekia0bZeodaXN6vHYssdXjUHdF_qiCeZdDHRLMZ47X6POZ2AfsnSwZQpBkJrSE9p8n8ElRHSJAzzfGlJGdme3JrN4K3IwX4ZkPLEg3EMhfpE4XOYcFWgDJaK2NvMnI5G8AHO9cRn-Hdq_GjO14",
+                    "width": 3986
+                }
+            ],
+            "place_id": "ChIJ1efLicb524AR_sPyZjZHZ3w",
+            "plus_code": {
+                "compound_code": "XV6Q+58 San Diego, California",
+                "global_code": "8544XV6Q+58"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJ1efLicb524AR_sPyZjZHZ3w",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 107
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12640 Sabre Springs Pkwy #107, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9479223,
+                    "lng": -117.0971341
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94931322989272,
+                        "lng": -117.0957192201073
+                    },
+                    "southwest": {
+                        "lat": 32.94661357010727,
+                        "lng": -117.0984188798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Nutmeg Bakery & Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1364,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100863916454968205145\">Anna Y</a>"
+                    ],
+                    "photo_reference": "Aap_uEDcpp1VGZxu4__tqcFd_3bJM_VtxMGMZa7A32s_EZOo01DMt6MJhjfvh3eRINkQ9Iu7wSqOJqnE7XvmrfnyFbAE6L9wQk8qMIpg3husDWfYoGKuyonsRqruLDhp7MvGcFeq0SvEzQZ6oH-vlnoxbV85olpkFPhMroEys1dW7cJE41Fs",
+                    "width": 1364
+                }
+            ],
+            "place_id": "ChIJi-LND5r524ARlIZu03tnhp8",
+            "plus_code": {
+                "compound_code": "WWX3+54 San Diego, California",
+                "global_code": "8544WWX3+54"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJi-LND5r524ARlIZu03tnhp8",
+            "types": [
+                "cafe",
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 773
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2519 C St, San Diego, CA 92102, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7166243,
+                    "lng": -117.1401112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71798912989271,
+                        "lng": -117.1386563201073
+                    },
+                    "southwest": {
+                        "lat": 32.71528947010727,
+                        "lng": -117.1413559798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Panchita's Bakery",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102171159629928548893\">Eric Ortiz</a>"
+                    ],
+                    "photo_reference": "Aap_uEBhPL81szABH_sPaSYOnatl4RpMznwk-RRkCzyPh65QnYt-EWRIDXH_wLq1JQWoVQySEENpRy8YsOphzkOuPrqhGQmL0KoY1_chUbh2l7ZisRXaOXGjJ0ZR8Y5T5IaAU8x17OXrxH3fE8gYC3mBqfnMc3gEkeuKFyZ6JizQ2vnGjQlL",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJOQ5ZH2NT2YARqoA3i7k7lgw",
+            "plus_code": {
+                "compound_code": "PV86+M4 San Diego, California",
+                "global_code": "8544PV86+M4"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJOQ5ZH2NT2YARqoA3i7k7lgw",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 453
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5921 Balboa Ave, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8190062,
+                    "lng": -117.1775037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82042162989271,
+                        "lng": -117.1761318201073
+                    },
+                    "southwest": {
+                        "lat": 32.81772197010727,
+                        "lng": -117.1788314798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Cakey Bakey",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1668,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106614662287438837361\">gkukai</a>"
+                    ],
+                    "photo_reference": "Aap_uEBZXPnqlr2YXYFWV1EaxfYAH6c9COUiXZYWhX8mrg3Rb2FVu_CWZDqzwWS8j3tzy-g6sk9XMzQKw0U5JHbUM7Gg5sX6U8bfaX7yBe-5PuY31Th1PCrnN2BHTIdQ_9YLkzvJ9LD09wabtcaG8ELTMK7DMFBzaVC-QlRsABLtig2EsqN3",
+                    "width": 1170
+                }
+            ],
+            "place_id": "ChIJAaNKQXQA3IARPTmA5XUW9Q8",
+            "plus_code": {
+                "compound_code": "RR9C+JX San Diego, California",
+                "global_code": "8544RR9C+JX"
+            },
+            "rating": 4,
+            "reference": "ChIJAaNKQXQA3IARPTmA5XUW9Q8",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "350 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7483755,
+                    "lng": -117.1618758
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74971312989273,
+                        "lng": -117.1605399701073
+                    },
+                    "southwest": {
+                        "lat": 32.74701347010728,
+                        "lng": -117.1632396298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Bread & Cie",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1840,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103938120129047626537\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAiTGcXwsAxklypHyOCuSGAc4TBPuxy5b4zRwwU5IfrKPwP7coaGQHS3wqhPQk8F-UNTe3Cu9i7b6_16a3Gt2LK7DVNruufwoBcNIy7ktHF4kCErkWcJBiVfarWPRzoUMRiX1wFipwoTkWRHuDAmSLGGGAR7dLs7Jqtf_gyIeo9ir9T",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ7TBjgNBU2YAR9D8lvmExvpw",
+            "plus_code": {
+                "compound_code": "PRXQ+96 San Diego, California",
+                "global_code": "8544PRXQ+96"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ7TBjgNBU2YAR9D8lvmExvpw",
+            "types": [
+                "cafe",
+                "bakery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 980
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "710 13th St Suite 300, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7127953,
+                    "lng": -117.1529703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71420207989271,
+                        "lng": -117.1515523701073
+                    },
+                    "southwest": {
+                        "lat": 32.71150242010727,
+                        "lng": -117.1542520298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "IZOLA",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 831,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108171414376656922433\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDh6GJOdV8bleNTPxJy4WmT21egDtiheQJaDlclbFFfuFNYfenLXn1QacO4rn6QQYc51PCTubn5KEw71ONgF725UM5ZxZTikcZ8xp20lCMOB78XLBnbVnWyR8sJydoU2-pHYoal9btJxmPqTjcDNZUm5yFDG4-XkQod0kYnIJKuyU9L",
+                    "width": 1304
+                }
+            ],
+            "place_id": "ChIJ61MRFO9T2YARkV2uebOs3js",
+            "plus_code": {
+                "compound_code": "PR7W+4R San Diego, California",
+                "global_code": "8544PR7W+4R"
+            },
+            "price_level": 2,
+            "rating": 5,
+            "reference": "ChIJ61MRFO9T2YARkV2uebOs3js",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 343
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3705 Caminito Ct #0500, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9525664,
+                    "lng": -117.2348248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95396592989272,
+                        "lng": -117.2334457701073
+                    },
+                    "southwest": {
+                        "lat": 32.95126627010728,
+                        "lng": -117.2361454298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "SusieCakes",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113060025517917819155\">Lisa Wynn</a>"
+                    ],
+                    "photo_reference": "Aap_uECtmhgXWDcAoEQKJP88ALX7WnPHH25lnA8Ja16MMES0LRRUQdAK1sSkL-QFt4O8wMkNV7DT9DinBlqZIZOkoMV2QjlUoI4U0GK1IdbD8L0Kt4svjy1W0sRJT-aeGYVdaGZQmxVy9MbFHQOi3SlBMGkiPAeMsFNBBPcf6aype-saBWsj",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJiY5tbo0J3IAR9Aeh2NyGwl0",
+            "plus_code": {
+                "compound_code": "XQ38+23 San Diego, California",
+                "global_code": "8544XQ38+23"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJiY5tbo0J3IAR9Aeh2NyGwl0",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3251 Greyling Dr, San Diego, CA 92123, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8019884,
+                    "lng": -117.1396773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80336712989272,
+                        "lng": -117.1383686701073
+                    },
+                    "southwest": {
+                        "lat": 32.80066747010728,
+                        "lng": -117.1410683298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Bear Buns Bakery",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2528,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102505930464848252960\">Bear Buns Bakery</a>"
+                    ],
+                    "photo_reference": "Aap_uEDqZo-HHVV1XRNROncL6cmSiOG_N9pVhqb6Au2A-LUQKcBCUfvLoAsvq1ZIGDjfKrsJr9BMZdUeOeNSWmanujhEnNFlU_URTPeWHPzQl2dOgqDZrOOhNxZMFDIYgkX8pOzoh-LRZm0MJw7nOWRgCc6rbpdIIiZvklUP9LCO4jARXUA-",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTeIawGJV2YARNm1JLPj-l1o",
+            "plus_code": {
+                "compound_code": "RV26+Q4 San Diego, California",
+                "global_code": "8544RV26+Q4"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJTeIawGJV2YARNm1JLPj-l1o",
+            "types": [
+                "bakery",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 328
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7655 Clairemont Mesa Blvd, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8316858,
+                    "lng": -117.1555148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83309277989272,
+                        "lng": -117.1540318701073
+                    },
+                    "southwest": {
+                        "lat": 32.83039312010727,
+                        "lng": -117.1567315298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Paris Baguette",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117835005169323945790\">parasezen</a>"
+                    ],
+                    "photo_reference": "Aap_uEB3OCblnFwE-Jr5D4OLsKr51V19XfuPsBovtBV5m7NXaX786rrG9_GuTNWObGZxCIViki0_R6XOC5VLK82wRKES791pNDvPMIV1NRRXuvTCYR0BOj5pjc3ksH_1q9WnkaUVA9SS6vRlntzZB5QEjnrJp-Dc7N1bM7jh943cf1zhIDnK",
+                    "width": 3523
+                }
+            ],
+            "place_id": "ChIJmefy5Zn_24AR7bLWOmmUT3k",
+            "plus_code": {
+                "compound_code": "RRJV+MR San Diego, California",
+                "global_code": "8544RRJV+MR"
+            },
+            "price_level": 2,
+            "rating": 4.4,
+            "reference": "ChIJmefy5Zn_24AR7bLWOmmUT3k",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 141
+        }
+    ],
+    "status": "OK"
+}

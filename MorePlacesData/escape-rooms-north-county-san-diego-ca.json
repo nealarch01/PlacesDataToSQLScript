@@ -1,0 +1,986 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDvRkgyd_Hfryce572hgU-oOaTJkA6j46ecrJ2Abi3x-8aCSTO8jxp1qnQCwatp52HRXo7pG8zZbKyCiTSPglVDeY42ls4L8EjYO0Im7pPpT-Or3fs_I0te844tb5bsLX6K57oVieNf8isnsw6486p9pC31Z4AfmdDtaZgVC1FYJz2A9FtBM3TSC5GJ1q5nsjaZgHvPxvTLV9LPYld16xd689w-A2Ll5DDKn87pWOAoF_2cRKZPt8KFxVRMSzpWy24z-ERHrjJrY51JKcFn7TQ_Cku-hc0n80Pto4jPtMbQdm6hXg1fmZuBeFqwaucKhocIRVeCxdbJpjyaaC0yzjR2PGaw6cPlOfHIFzCTeecLMDi227SSqr_mKoiG0KckpKMo6bIiBolAu3MhY0QRKkKYQzd1AgKm09i6-XRtWh2fbnUjQPAnQw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "201 E Grand Ave #2g, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1223266,
+                    "lng": -117.0798097
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12369367989272,
+                        "lng": -117.0785115201073
+                    },
+                    "southwest": {
+                        "lat": 33.12099402010728,
+                        "lng": -117.0812111798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Clue Avenue Escape Rooms",
+            "photos": [
+                {
+                    "height": 506,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107510054935590639308\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECN8RwCWeheZjX8sjdIB5ew1AwCY1dLvQyBRQhK0YiV_ZWw_2YoUa7Kf2WuFN9PUUqweuOT6iOKPCRCo5TccHoKkPaoScr59f6MDaVAoobXJmGxN-xKrXeWQVwVxZkKe61CBJoCbrmR_IJWijWU9D2XgoOrNG8iDHR3fAYq9VtKlVNx",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJMVRjfp3024ARRvJAS54kPsk",
+            "plus_code": {
+                "compound_code": "4WCC+W3 Escondido, California",
+                "global_code": "85544WCC+W3"
+            },
+            "rating": 5,
+            "reference": "ChIJMVRjfp3024ARRvJAS54kPsk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 607
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "317 E Grand Ave #4, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1230911,
+                    "lng": -117.0782419
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12447377989272,
+                        "lng": -117.0769146201073
+                    },
+                    "southwest": {
+                        "lat": 33.12177412010728,
+                        "lng": -117.0796142798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "ArtHatch Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101791325648474211555\">ArtHatch Escape</a>"
+                    ],
+                    "photo_reference": "Aap_uEAuDA5HnOdLZy56gbdwmS7hCRdgamI82UthP1WhCo_jS06u2DibQy7mZuPPFZ1gyt1hOd5Ubn3yeQZjuTuWdibZKrABZ5-m4-v-MEOd2XHEbFp2SDzXzK72nk4gY4P-SvkUdu53LoZHcsH1NEcQjiMvFMUArW2OaH0WbLrtF9fVrb3X",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJceP9YGLz24ARIsub7J_uW9A",
+            "plus_code": {
+                "compound_code": "4WFC+6P Escondido, California",
+                "global_code": "85544WFC+6P"
+            },
+            "rating": 4.8,
+            "reference": "ChIJceP9YGLz24ARIsub7J_uW9A",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "844 W San Marcos Blvd #103, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.13647,
+                    "lng": -117.1836517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13782862989272,
+                        "lng": -117.1822008701073
+                    },
+                    "southwest": {
+                        "lat": 33.13512897010728,
+                        "lng": -117.1849005298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Locked Adventures - Escape Room Games",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102662091000512282980\">Danielle Rasmussen</a>"
+                    ],
+                    "photo_reference": "Aap_uEBKlrRS59kFz8Mm_rUWqslSOYhk0XN94thsNqdi0v2vjkAXPV8QOpqp2wPrVTv_whVlSp5YtpN4KBDACJ2aCtgr-TeXB5jRcxj8tdr0O-rE8SCBLjfZrA49kSAWV-ZcrYBfmLj2cUfo8DRBZcb_-gCCVdREyaT8uwolIcydRoOzgs-F",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX8rucVB13IARD55fogYjkeI",
+            "plus_code": {
+                "compound_code": "4RP8+HG San Marcos, California",
+                "global_code": "85544RP8+HG"
+            },
+            "rating": 4.9,
+            "reference": "ChIJX8rucVB13IARD55fogYjkeI",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12544 Kirkham Ct #5, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.94494299999999,
+                    "lng": -117.0512272
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94620927989272,
+                        "lng": -117.0498897201073
+                    },
+                    "southwest": {
+                        "lat": 32.94350962010728,
+                        "lng": -117.0525893798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Subscape Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 664,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104321482422524737592\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBLWMdKUCsXA3EqcjxXnnNMG7PFO3j5krC_PgUPzj80C6fIbtjLlBnxUxSpEddH3gXsENoc6i4e-vF0VDpu2yPbJzBhjngRzRc5WxBbSNpETSaD0zeFU56MaTlpFQ4C3TvNnWaZcaxiObGN25ofBOgsRAME8IU6GkNCSMAjuAZrQ1SK",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJEw_M7Z3724ARUX-KtUbK02I",
+            "plus_code": {
+                "compound_code": "WWVX+XG Poway, California",
+                "global_code": "8544WWVX+XG"
+            },
+            "rating": 4.9,
+            "reference": "ChIJEw_M7Z3724ARUX-KtUbK02I",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2216 El Camino Real #206, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1861306,
+                    "lng": -117.3273167
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18751092989272,
+                        "lng": -117.3260470201073
+                    },
+                    "southwest": {
+                        "lat": 33.18481127010728,
+                        "lng": -117.3287466798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boss-Play Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105661040762861387588\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC9k2jd8uXzYrqjE1DUj5qXs_EKtVTh6XjrqI6PYWY1kACZU4HavPXJTa4Cqru4Nfnq2wNzNfhwbIr9vNlYHAtZ41Z-W_rd78LQz66fT5T325nv7peq7qx3Tec_zHGExnipoctEeArUgDE0oxE48jZogZz6GTeWhjmjogFsjosSJxpH",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJi80b5Y9x3IARmQZLOfijN1I",
+            "plus_code": {
+                "compound_code": "5MPF+F3 Oceanside, California",
+                "global_code": "85545MPF+F3"
+            },
+            "rating": 4.9,
+            "reference": "ChIJi80b5Y9x3IARmQZLOfijN1I",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 130
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5830 Oberlin Dr #303, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8943604,
+                    "lng": -117.1932914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89578987989272,
+                        "lng": -117.1920517701073
+                    },
+                    "southwest": {
+                        "lat": 32.89309022010728,
+                        "lng": -117.1947514298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Escape Era Escape Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3456,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108982033651051104223\">Robert Vega</a>"
+                    ],
+                    "photo_reference": "Aap_uEBAA0fFbpCHY6hzan3XYCBbBpTA-C1664tTxcwWQdks4QdHrAA2S2cAzuOmu1fWl__hPZHGk3dwAdx3R7ckOQ1qShIwMsTOikW8V1o8pnP0GZQRvDRzq_wdJVl16Up-1r4xrrrbKaUzPYyhC11ymsnWwNl0_svm1oGPDZTkJLvTQdlM",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJl5dKzkEH3IARuxqmGpwTrKg",
+            "plus_code": {
+                "compound_code": "VRV4+PM San Diego, California",
+                "global_code": "8544VRV4+PM"
+            },
+            "rating": 4.8,
+            "reference": "ChIJl5dKzkEH3IARuxqmGpwTrKg",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2365 Marron Rd, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1767982,
+                    "lng": -117.3287997
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.17823977989272,
+                        "lng": -117.3274908701073
+                    },
+                    "southwest": {
+                        "lat": 33.17554012010728,
+                        "lng": -117.3301905298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Escape to VR - Escape Rooms From The Multiverse",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117933640672671105581\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC1YGKP7E4cCgFAz-uLOTVcJHj8SJsMJn87VeAj0DO72equuvIkqSK4FlUWEyhLlrz6oUXvwDUVBiAdL5YSBC-brZXvFnC9zR7dYW7SrvODRRAMgw7Sj3PQ6fl7uAoHAx3C6PuDSXM9gY80rPLLhdIYf8_QbfR1rnWVbtjtTcW_ys83",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJPezx9sgL3IARqGuqPSBIP6g",
+            "plus_code": {
+                "compound_code": "5MGC+PF Carlsbad, California",
+                "global_code": "85545MGC+PF"
+            },
+            "rating": 4.9,
+            "reference": "ChIJPezx9sgL3IARqGuqPSBIP6g",
+            "types": [
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10211 Pacific Mesa Blvd Suite #409, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9033749,
+                    "lng": -117.1903079
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.90468597989273,
+                        "lng": -117.1890281201073
+                    },
+                    "southwest": {
+                        "lat": 32.90198632010728,
+                        "lng": -117.1917277798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Brainy Actz Escape Rooms San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1921,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110021358330417446574\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDDnSqkFw2zgBLPr8d3bqLl-CJi6XlBCzAYLmn4JNzUjvmHA6rX9M9yxgzjFYSML5NNsMcwrLddAEtEbViHwgG0a5ijpNWzIilvWg_sf7OtPW-dQy2cv3ltzy-6kAIqB847fggsUitPPOl5VYTRElriXTjL-sjvhlbNF8pZdMp3mOQw",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJZ8-5Ym4H3IARTVlNMJ1oQpk",
+            "plus_code": {
+                "compound_code": "WR35+9V San Diego, California",
+                "global_code": "8544WR35+9V"
+            },
+            "rating": 4.3,
+            "reference": "ChIJZ8-5Ym4H3IARTVlNMJ1oQpk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 198
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9340 Dowdy Dr UNIT 105, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8912594,
+                    "lng": -117.1472469
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89240102989272,
+                        "lng": -117.1457363201073
+                    },
+                    "southwest": {
+                        "lat": 32.88970137010728,
+                        "lng": -117.1484359798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Great Room Escape San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107698908281107531578\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAm9ah7Ww04B2mofTlOtojqMVd8w2NESZoNEahI0rkzhdTjS4GbO993VKw-rb7MfSt7ueKlDrkJCRpEXwyEbK3e-LmqhiNhq3_EyNKJIefAq4ut7MLmfgrqlk4pe0aR7t5BU5yf5ySHF32i2zSx8oxfc3fovkNICpeRVid6iJWyFp0",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJp3vkzllT2YAReEGhxyQbJaY",
+            "plus_code": {
+                "compound_code": "VVR3+G4 San Diego, California",
+                "global_code": "8544VVR3+G4"
+            },
+            "rating": 4.4,
+            "reference": "ChIJp3vkzllT2YAReEGhxyQbJaY",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 123
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4750 Oceanside Blvd a13, Oceanside, CA 92056, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2166786,
+                    "lng": -117.2717595
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.21799602989272,
+                        "lng": -117.2703553201073
+                    },
+                    "southwest": {
+                        "lat": 33.21529637010728,
+                        "lng": -117.2730549798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Top Tier Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112898336202806122875\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECEranA4DoVSahg6NweWB-G839Zz1Q3p5XapNJn-av-HaYaiUvDfvGTiwe_jkWZPJwT_bBvmVJmpDRbf_hGjb7w5Ae4499xX4-AwAAkR664bTTZYJDKi76_cghE_zOYRwKeqIe9RU6oT3BjSnI60L-pe2MpzI9EqeEdtj7Wx4U2mOhB",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJnVoKOktx3IARvod0UgXWY18",
+            "plus_code": {
+                "compound_code": "6P8H+M7 Oceanside, California",
+                "global_code": "85546P8H+M7"
+            },
+            "rating": 4.9,
+            "reference": "ChIJnVoKOktx3IARvod0UgXWY18",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 338
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5433 Linda Vista Rd, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7676244,
+                    "lng": -117.1945058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76905457989272,
+                        "lng": -117.1932360701072
+                    },
+                    "southwest": {
+                        "lat": 32.76635492010728,
+                        "lng": -117.1959357298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Global Escape SD ( Escape Room Police )",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1702,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106398310913789378162\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDmkFo-z6ua6aIgMniH5kFhIujtCGS9lpO1VkrDDWrrurw4t6_xB1FGgyLYQDFXjMuHqiR3FtNr2TcWkd-vpOpgPEVht0db6gvWzvuHqdCaSnhiqcyUPN52sU716V_gsxGA10jvtPVij3ovvFvmnuwtGh9hMnhHd39ynCcT5RwE5ju6",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJSddVWsCq3oARN_sol1Q_aiM",
+            "plus_code": {
+                "compound_code": "QR94+25 San Diego, California",
+                "global_code": "8544QR94+25"
+            },
+            "rating": 4.7,
+            "reference": "ChIJSddVWsCq3oARN_sol1Q_aiM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 192
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8222 Ronson Rd, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8293124,
+                    "lng": -117.1465885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83064667989272,
+                        "lng": -117.1452373201073
+                    },
+                    "southwest": {
+                        "lat": 32.82794702010727,
+                        "lng": -117.1479369798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "The Exit Game | Escape Room San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 989,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102768623080987868671\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPRJ_OuReFkI7SrAqrkgmummdX-8PH2w-m4k1H30MFUecTnuf7GpAPIq0DPeIVeR-we0WFJaTgUt7EyRIBJ_XmdBn1t6ZbjKXbyBrmnxql-3QK4rQpyzsWB8jnZt4jG5lxttRRphmkWOI38bugIzFe6abAD4QIzxE4yR628DPqURYM",
+                    "width": 1484
+                }
+            ],
+            "place_id": "ChIJKY_aSLz_24ARJfBQQzrp0Ds",
+            "plus_code": {
+                "compound_code": "RVH3+P9 San Diego, California",
+                "global_code": "8544RVH3+P9"
+            },
+            "rating": 4.7,
+            "reference": "ChIJKY_aSLz_24ARJfBQQzrp0Ds",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 157
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7404 Trade St, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8904936,
+                    "lng": -117.1629173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89186672989272,
+                        "lng": -117.1614889701072
+                    },
+                    "southwest": {
+                        "lat": 32.88916707010728,
+                        "lng": -117.1641886298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "MindFox Escape",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109250961401404799260\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAzAtt5rbganT3gXyGpfKAZ-cay2MGfFPERy3Y4AUfGo58BB4DCB_HsGkNUjuJecAG9VCOOYyqLsx41luoiWSJ54fUa46Vs8tRre2l6DazkbX1ZkWjXvWjAzrYGGEn3v5P4DdJqJT0YBKp_SLuU3b4ss3a68lovquJSIGAq--pJa7Kw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJbSdX4sH524ARBGepqeKHZn4",
+            "plus_code": {
+                "compound_code": "VRRP+5R San Diego, California",
+                "global_code": "8544VRRP+5R"
+            },
+            "rating": 5,
+            "reference": "ChIJbSdX4sH524ARBGepqeKHZn4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5575 Magnatron Blvd H, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.83760900000001,
+                    "lng": -117.140364
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.83894302989273,
+                        "lng": -117.1391034701073
+                    },
+                    "southwest": {
+                        "lat": 32.83624337010728,
+                        "lng": -117.1418031298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Subscape Escape Rooms",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 271,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112559947359166531257\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECINtvdwdOZYQK77Ankprp1xaxwzDWH7YDMxDI9dq4OOz3voRoH29T0lJpcuAQ-1ubsFyjdf8OkdCnOgXlY5wQ73KK6Vw7gM2aKOVusBDYcdO59I1akdDQaAs39p2l46d14sJm2LV_4l97pK_z1w0Djq1izD7pbP7itqGo0ZwZMw16a",
+                    "width": 407
+                }
+            ],
+            "place_id": "ChIJkw-UduL_24AR7Y7usbWspA4",
+            "plus_code": {
+                "compound_code": "RVQ5+2V San Diego, California",
+                "global_code": "8544RVQ5+2V"
+            },
+            "rating": 5,
+            "reference": "ChIJkw-UduL_24AR7Y7usbWspA4",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1001 Garnet Ave, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7971736,
+                    "lng": -117.2514517
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79864942989272,
+                        "lng": -117.2501995701073
+                    },
+                    "southwest": {
+                        "lat": 32.79594977010727,
+                        "lng": -117.2528992298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Quicksand Escape Games",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101414943767840856993\">Quicksand Escape Games</a>"
+                    ],
+                    "photo_reference": "Aap_uEBfpxgR5HKi8f79gnzcwWPvhZ2U_7vqD4nV0d7vsDKo7iOP6yRRktnXjFdnKQk6P2yur183rwbQfOXkjvaiGiBaidCwoYRjtBEhnRbjp0UzYkX3njWGkdnzgco9MGJC4GkaiRVqZQ3EMdd1MnWVAf-dVQ-aivzmMd27zuaPGZoDx8cC",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJEXwTuOwB3IARI2-YbuaysIE",
+            "plus_code": {
+                "compound_code": "QPWX+VC San Diego, California",
+                "global_code": "8544QPWX+VC"
+            },
+            "rating": 4.8,
+            "reference": "ChIJEXwTuOwB3IARI2-YbuaysIE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 125
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4685 Convoy St #202, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8258801,
+                    "lng": -117.1541024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82719792989273,
+                        "lng": -117.1529574201073
+                    },
+                    "southwest": {
+                        "lat": 32.82449827010728,
+                        "lng": -117.1556570798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Phenomenal Escape Room",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106500868134063446951\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBRb0NNf0hMle62_8XycrciETwNVGVgRUmM5R4F2eVC26kJQs4J-MQdchno7xQpRc5edvZ8C5QwtNZCgt4Q6anCVTL1dbMdc2dHrBUJArAVB_iTaRTJJdcyIbxdl6bcqoEEMB0NLfS2m0hL0U0Tlf54Lzz6yMWrxvKtmDeAk3ik-qpP",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ16CzC-P_24ARlHpEUwS8YWA",
+            "plus_code": {
+                "compound_code": "RRGW+99 San Diego, California",
+                "global_code": "8544RRGW+99"
+            },
+            "rating": 4.9,
+            "reference": "ChIJ16CzC-P_24ARlHpEUwS8YWA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7007 Friars Rd Suite 212, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7669028,
+                    "lng": -117.1685733
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76878582989271,
+                        "lng": -117.1675222701072
+                    },
+                    "southwest": {
+                        "lat": 32.76608617010727,
+                        "lng": -117.1702219298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Red Door Escape Room Fashion Valley",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106876508810995846621\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDu83OPh3_DeSxuCnDFRnbZ93wMvfQlq6px-H9HLDIjlI2lGT6GBNIcEs2rVQLgsmOcFg-fUfQxGMnDmCNqQM2e5GWml_ls4n1tbo4u5Ey_tfUuw4scHUOh5XKEYVRCeDocyL50896LcPkmzmXcZ-ULM5wqb-xIYoGM1S-sFfi07BqQ",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJAToeQF5V2YARFtzFlAPKBgk",
+            "plus_code": {
+                "compound_code": "QR8J+QH San Diego, California",
+                "global_code": "8544QR8J+QH"
+            },
+            "rating": 5,
+            "reference": "ChIJAToeQF5V2YARFtzFlAPKBgk",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2084
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "7969 Engineer Rd, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8255314,
+                    "lng": -117.1523484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82708592989272,
+                        "lng": -117.1508840701073
+                    },
+                    "southwest": {
+                        "lat": 32.82438627010728,
+                        "lng": -117.1535837298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Lock it Escape",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 756,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110385016897954259534\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECVmAOGVZnHPgWH2CMEHFOYcj_L5QxPcpVAuLiIJDcL-bylb61aIgwbF2DXxBTP-8o6G7htT7dfKBMNCQH5_val92VHgYs0Iy_s9lnh1kkZZjqT-WoYOpiAwJhgjnUysD8rM0LOlUTZedNk-3rqmpu8KzXmT8yxVWEr_OrMGilxYkiO",
+                    "width": 1008
+                }
+            ],
+            "place_id": "ChIJhcPfgbv_24ARofKF6AaFGnM",
+            "plus_code": {
+                "compound_code": "RRGX+63 San Diego, California",
+                "global_code": "8544RRGX+63"
+            },
+            "rating": 4.9,
+            "reference": "ChIJhcPfgbv_24ARofKF6AaFGnM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3116 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7704956,
+                    "lng": -117.2512294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77180992989273,
+                        "lng": -117.2498261201073
+                    },
+                    "southwest": {
+                        "lat": 32.76911027010728,
+                        "lng": -117.2525257798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Escapology San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100511828134948202401\">Sal Testa</a>"
+                    ],
+                    "photo_reference": "Aap_uEBBAI9gvqs654Zuf80Agjd5w_Nx2VtJk7S4VHD0Mp18uJ2hp8osNAdxMhI75z6OowT0bHi5Q5tLht4YuI869c127Km0WkDfiL1WJCIyS0lt9G7lafSKk71Z8t9bj1JJIqLMmZvjRXdOEWuED3sscVsRkx3Ch9dBjFYUBNDhjkrA2T6b",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJTxTYlA6q3oARR0czeQSOqp8",
+            "plus_code": {
+                "compound_code": "QPCX+7F San Diego, California",
+                "global_code": "8544QPCX+7F"
+            },
+            "rating": 4.9,
+            "reference": "ChIJTxTYlA6q3oARR0czeQSOqp8",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 255
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "#D,, 5433 Linda Vista Rd, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7675875,
+                    "lng": -117.1945727
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76904917989272,
+                        "lng": -117.1932809201073
+                    },
+                    "southwest": {
+                        "lat": 32.76634952010727,
+                        "lng": -117.1959805798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Wizard School Room",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 1960,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110410606883779793532\">Raul Magallanes</a>"
+                    ],
+                    "photo_reference": "Aap_uEA-Iq2PlkDJEPRczy4H_FpI-h5TSUDOzSGTsnARqJ3ImAdrUoA4_AedehIqveeUPewbSL9db_lMriLsG47zXvMRKp3Q8nWljTEso0txOLaOpIyXOd-oc1HuJ_DwHcetg904KHQ9f10p1CeKAudIr2QyblSPDw0c6OjbXFMPqsGYuo6Z",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJx_poWsCq3oARL7esuTVm5Es",
+            "plus_code": {
+                "compound_code": "QR94+25 San Diego, California",
+                "global_code": "8544QR94+25"
+            },
+            "rating": 3.2,
+            "reference": "ChIJx_poWsCq3oARL7esuTVm5Es",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20
+        }
+    ],
+    "status": "OK"
+}

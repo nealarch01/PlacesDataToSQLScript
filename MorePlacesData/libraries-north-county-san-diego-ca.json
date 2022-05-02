@@ -1,0 +1,972 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEDVtcpHHJFhK-gRcc8CcAAf5aVyD3t2oLfvm4JdAXy9YiA-NoJGujwzZYK_oUTXSxjC7jx1VFe5hQnvBrxVx19FEITyKXcPVgm6Ba20TeDDY-YqXszUnhAHYuHg4gaXSis2GJgLS0DIm7X8oMF784Qw4uuBbFB8uPj-0-qcKGAfiauJdqOFd_PfhuELYEVU68LpaZOIhYplmUyK5pVLuAGg2RBd1PUUwiRJLR9b-wYIPg0IkTmzyGmqu0zbroTLhz3Wqq9b0yO0DDvAxhj_klp62eyKs4UAgIMLrAQPD6DZ9n751Uz-XOVFvjymcpJgR6Hyh2bhNaufDViy3cprvFqn-ZKLeWZqTXlG-7tshL1JG_GhQ-bi5aMgtsMuP1_SuoqQemmK8z6d4CQcrPH57NuyOJ152YvP0JZKFkXDi7uqZUE4aA",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12095 World Trade Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9816661,
+                    "lng": -117.0737858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98295202989273,
+                        "lng": -117.0726132201073
+                    },
+                    "southwest": {
+                        "lat": 32.98025237010728,
+                        "lng": -117.0753128798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Carmel Mountain Ranch Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114719872514457286565\">Jay Prema</a>"
+                    ],
+                    "photo_reference": "Aap_uEBwP5sKCVXe2wZ3C05ENXOJPQijb5PMwsUYuye4QknbQIhLvmLzS8mvmPDrrMyom-0NgQhbxAMeRJcPxVDYFn0smQ9ih2lyooEUH1rNVng-A7qTZeBiao4AeJOZ6puO2yurYwmhPlYIoE0p1q6L9oPMJfOeI42eFPE5_JZXR4ATlWn4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ49sKSwH624ARHVAmrdfzMRQ",
+            "plus_code": {
+                "compound_code": "XWJG+MF San Diego, California",
+                "global_code": "8544XWJG+MF"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ49sKSwH624ARHVAmrdfzMRQ",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17110 Bernardo Center Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0249197,
+                    "lng": -117.0754087
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02636947989272,
+                        "lng": -117.0740603701073
+                    },
+                    "southwest": {
+                        "lat": 33.02366982010727,
+                        "lng": -117.0767600298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Rancho Bernardo Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117690124077186204959\">Sam Polk</a>"
+                    ],
+                    "photo_reference": "Aap_uEAhhVbV0LpayaLUSndXIugbyrTVmufyoz0Js4HZsC2ds-nN_9DCueBjZHHpGJczexqiVeOEwkQoaBP08jG9pVBvgWDIcQGNvlGQxUF1MOkr8aHnNV1QJEmIC4tlgH3dIJIk5JNGHhwN-xPbCZz5AfzDAKElfxA9FnRlu5dG2nyhhH-N",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJm1jXsNXw24ARGxApvNpRtm4",
+            "plus_code": {
+                "compound_code": "2WFF+XR San Diego, California",
+                "global_code": "85542WFF+XR"
+            },
+            "rating": 4.9,
+            "reference": "ChIJm1jXsNXw24ARGxApvNpRtm4",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "239 S Kalmia St, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1206879,
+                    "lng": -117.079318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12191782989272,
+                        "lng": -117.0780056201072
+                    },
+                    "southwest": {
+                        "lat": 33.11921817010728,
+                        "lng": -117.0807052798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Escondido Public Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108019861067662866765\">Roger Cuadra</a>"
+                    ],
+                    "photo_reference": "Aap_uEDiG9JRJkvf5N_FXCxxAEeWrsLo_JopVd51eIzEXz10aJI-B5QQO1AYEVYD7iXKI6qvgTSsGRCOvq1MgrDw0Vr9GNW-Qq2aiPJmXeovAQ7pW1ltOx7zD6K9VGTPSNkO4mwVJNsF4eqGMWmZOP21blnygB59WIOyty1XgkC4kfAwta8D",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJQwizpmLz24ARjxIcpS46t6A",
+            "plus_code": {
+                "compound_code": "4WCC+77 Escondido, California",
+                "global_code": "85544WCC+77"
+            },
+            "rating": 4.3,
+            "reference": "ChIJQwizpmLz24ARjxIcpS46t6A",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 107
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3919 Townsgate Dr, San Diego, CA 92130, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9522454,
+                    "lng": -117.2306456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95358237989272,
+                        "lng": -117.2292449201073
+                    },
+                    "southwest": {
+                        "lat": 32.95088272010728,
+                        "lng": -117.2319445798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Carmel Valley Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115381001813248200354\">서주현</a>"
+                    ],
+                    "photo_reference": "Aap_uEC3RbjRygiDqZ3zAoEuaX4RebdQesoAfDbAzi7QFVYMDiP5Uw5LHQaiuJ_14qx45ZmMfgy_FOf4FpWkFRS5diL3nrkrA4OITh5Kx3fOEU1AdPClT7IxsiTga9-022aocgjkxJTK5G9tY6x2HSi0zt6nmrYNlOm9p6OPEgqUwSU6XX-a",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJA0UNEoMI3IARv8PaLYk1_AQ",
+            "plus_code": {
+                "compound_code": "XQ29+VP San Diego, California",
+                "global_code": "8544XQ29+VP"
+            },
+            "rating": 4.2,
+            "reference": "ChIJA0UNEoMI3IARv8PaLYk1_AQ",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 52
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "29200 Cole Grade Rd, Valley Center, CA 92082, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2426431,
+                    "lng": -117.0247045
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.24401042989272,
+                        "lng": -117.0228853701073
+                    },
+                    "southwest": {
+                        "lat": 33.24131077010728,
+                        "lng": -117.0255850298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "San Diego County Library – Valley Center Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114331766224368952441\">bangkokbanks</a>"
+                    ],
+                    "photo_reference": "Aap_uEAFxoy7hr56KoyLzpb4zA5EYFezbRuqV-kmW7tEDYDsf6Mk7SYPGZ4PT-5Ok8JiY6_hS42qGrFZJDkLaGheLbVkpu-S5nyUkSzFQAIX0TKsesHvMIlOBm5BvVavVFB_HH3U0-5KaltOG4Ycg_L7LjjpHSwuBsNiqWgojES5HFwtdHVf",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJf_7X2NaN24ARKsu2HpNDmX0",
+            "plus_code": {
+                "compound_code": "6XVG+33 Valley Center, California",
+                "global_code": "85546XVG+33"
+            },
+            "rating": 4.6,
+            "reference": "ChIJf_7X2NaN24ARKsu2HpNDmX0",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2 Civic Center Dr, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.141174,
+                    "lng": -117.1605848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14242602989272,
+                        "lng": -117.1591113201072
+                    },
+                    "southwest": {
+                        "lat": 33.13972637010727,
+                        "lng": -117.1618109798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "San Diego County Library – San Marcos Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111024629082988385507\">Parker</a>"
+                    ],
+                    "photo_reference": "Aap_uEBEK6qh6z6KHBLbQk-DLsh3_qqnGybhRjmQFhWPGavUFak87yXfteaBRk9KbqyKfZg2CjvLOA-GwwTwBX7DJM1n-wlVTOXsJokVYIM6fhYyY2PRCGyRpEbC-zHasI3knjtI9fg3UQHMnpxJGYMOjymlFtFGphqdzM2CgP7oAg8R7ku4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJF-j7FrCK24ARo8s241Bqgvk",
+            "plus_code": {
+                "compound_code": "4RRQ+FQ San Marcos, California",
+                "global_code": "85544RRQ+FQ"
+            },
+            "rating": 4,
+            "reference": "ChIJF-j7FrCK24ARo8s241Bqgvk",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "17110 Bernardo Center Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0248148,
+                    "lng": -117.0753054
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02631977989272,
+                        "lng": -117.0740038701073
+                    },
+                    "southwest": {
+                        "lat": 33.02362012010727,
+                        "lng": -117.0767035298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Rancho Bernardo Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110692433855517232565\">Aishwarya Pullambil</a>"
+                    ],
+                    "photo_reference": "Aap_uECRs-ACgssmlAAdnBtYuNrSTs-zOJ0_Lw9mFGtOuOUgQTGTFF7cOLtFYjWzBjbAD-74E3oUwJg-xF4egi0q-xdGI6Eq1nsAeif89nsjl9FVIglqCh0xblSgSxLVMEm--A_7yCNU8VSdyykx9oxDAmtOlnVNCICaFUjJH4nrTCCO-LFl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJm1jXsNXw24ARbbDpj7Q3VHY",
+            "plus_code": {
+                "compound_code": "2WFF+WV San Diego, California",
+                "global_code": "85542WFF+WV"
+            },
+            "rating": 5,
+            "reference": "ChIJm1jXsNXw24ARbbDpj7Q3VHY",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13330 Salmon River Rd, San Diego, CA 92129, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.957899,
+                    "lng": -117.121879
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95937607989271,
+                        "lng": -117.1207112201073
+                    },
+                    "southwest": {
+                        "lat": 32.95667642010727,
+                        "lng": -117.1234108798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Rancho Peñasquitos Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100961015519520042976\">Justin Lee Arn</a>"
+                    ],
+                    "photo_reference": "Aap_uEAAXGeHHp0U9rbTrCxQycBCFXVsO3iMuuxE7Ks2Fo6Zh4NFdnt1oC1CLRKkbUskWFvh3JsLTQHZn3lE5yLso-dQWD-TDmRjAYt3RBsiwhnYKor8yyEaEthoAk0Iiz10qwXi5gtiNqt9qLOtVaa0N7xHB1Htu8ZwYHtX0G4N-OCdSLGp",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJd-E28Mv524ARThVJ1K0Mqoo",
+            "plus_code": {
+                "compound_code": "XV5H+56 San Diego, California",
+                "global_code": "8544XV5H+56"
+            },
+            "rating": 4.4,
+            "reference": "ChIJd-E28Mv524ARThVJ1K0Mqoo",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "540 Cornish Dr, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0457898,
+                    "lng": -117.2906385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04710522989272,
+                        "lng": -117.2892589701073
+                    },
+                    "southwest": {
+                        "lat": 33.04440557010728,
+                        "lng": -117.2919586298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Encinitas Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108019861067662866765\">Roger Cuadra</a>"
+                    ],
+                    "photo_reference": "Aap_uECl5rcmDShzzu31isq3FrV8kAXOmwdHNrMOhYPhWNqAef5lQqsAlTF0fBR_Uy--F2Z-7xUzDaHDb2im5Qv1pA7CZykT_beyP5UkpMqbLmWk9jnS853pN239WNX19f1fcjf4RiXCQdJ6s4_lDsQS3epviN4tnmerAFb-opg_yTWG0j0y",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJPY92rIoL3IARO7JeStb3ypk",
+            "plus_code": {
+                "compound_code": "2PW5+8P Encinitas, California",
+                "global_code": "85542PW5+8P"
+            },
+            "rating": 4.6,
+            "reference": "ChIJPY92rIoL3IARO7JeStb3ypk",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1309 Camino Del Mar, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9576991,
+                    "lng": -117.2643192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95905457989272,
+                        "lng": -117.2629659701073
+                    },
+                    "southwest": {
+                        "lat": 32.95635492010728,
+                        "lng": -117.2656656298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "San Diego County Library – Del Mar Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105835342094504031302\">Jessica Zeng</a>"
+                    ],
+                    "photo_reference": "Aap_uEDH_MXf9AywwJWmRMEpJ5WwFJBAwHwhfHNKd7ULcaJKdS8Ha7ryuL_oyFB10yzEafRFZ7_Y3ojRfXktXQ_cwgjUeEoRLyYMwU9yD3NmnQTr19dhslRAdcGZm4te0pbNrk3vkxgyuZLVhn-7sedg-DqSdZEcrrzo6aLRW_RyYOznU088",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJI3kvYbQI3IARVwGC128X0KY",
+            "plus_code": {
+                "compound_code": "XP5P+47 Del Mar, California",
+                "global_code": "8544XP5P+47"
+            },
+            "rating": 4.4,
+            "reference": "ChIJI3kvYbQI3IARVwGC128X0KY",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "700 Eucalyptus Ave, Vista, CA 92084, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.2020927,
+                    "lng": -117.232773
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.20344047989272,
+                        "lng": -117.2313699201073
+                    },
+                    "southwest": {
+                        "lat": 33.20074082010727,
+                        "lng": -117.2340695798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "San Diego County Library – Vista Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100978991798425360805\">Dawn Dvorak</a>"
+                    ],
+                    "photo_reference": "Aap_uEC8zpDbFIxG0OJnSIia-UGtQB0hKW6mtOjSqO2FIY61ERQmBUA6QGzVBgW2zswmkoH7wx-Um07SLDQq4shgsglwBKP7cBW6GZPz-tqD9M4SIuVMX1I3EQBp0T424-LcpJl5mtNnb1sN1V0djB9kLCjO7VmxuhMI0ebojgmQ5dEOgm9B",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJoTWGxpx23IARS2uxl-QtKvk",
+            "plus_code": {
+                "compound_code": "6Q28+RX Vista, California",
+                "global_code": "85546Q28+RX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJoTWGxpx23IARS2uxl-QtKvk",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 82
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "157 Stevens Ave, Solana Beach, CA 92075, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.99429230000001,
+                    "lng": -117.2626252
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99556407989272,
+                        "lng": -117.2611583701073
+                    },
+                    "southwest": {
+                        "lat": 32.99286442010727,
+                        "lng": -117.2638580298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "San Diego County Library - Solana Beach",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111981308160371614657\">Gary Shih</a>"
+                    ],
+                    "photo_reference": "Aap_uEB7lllt7rQtR_uQ6t4B3djK53iATActRQk0hGp8j_prOI246wyqnRBmt8czIOLX6-d94OYwEXNquXrCXbmsgZE21E39Mrrm59bIY5xtrvJ_2EDdH7skR7AfwRUbWvobABFIjIJx_4bDcrzpsvbXRlPxLcOd-sPf1V0PH1ilxBcpid2R",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJXUM-S-8J3IARzWM63a2ZfdA",
+            "plus_code": {
+                "compound_code": "XPVP+PW Solana Beach, California",
+                "global_code": "8544XPVP+PW"
+            },
+            "rating": 5,
+            "reference": "ChIJXUM-S-8J3IARzWM63a2ZfdA",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10433 Reserve Dr, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0210606,
+                    "lng": -117.1142123
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02241772989272,
+                        "lng": -117.1128554201073
+                    },
+                    "southwest": {
+                        "lat": 33.01971807010727,
+                        "lng": -117.1155550798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "4S Ranch San Diego County Library Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105424160591190998600\">Sergey Tupikov</a>"
+                    ],
+                    "photo_reference": "Aap_uEDGlJqmnQ9YQR_HU9zatx_V7L-ZYo9Qh5FDFf1FZngKHH32tnk5fR7u5m1OmXnIqmx-UuhivyFp1rt8cA_CDl9NgT6vAHIULOCBjRhqmVeGADLcTZJSvkF-S9BwyLKqTcYHRiUj2jqmQW8lcrGf1n9T3S0zzQ1BMsdSPxHYSgtZBSsb",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJCfTuMeP224ARTO30vYMGfYo",
+            "plus_code": {
+                "compound_code": "2VCP+C7 San Diego, California",
+                "global_code": "85542VCP+C7"
+            },
+            "rating": 4.1,
+            "reference": "ChIJCfTuMeP224ARTO30vYMGfYo",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "247 S Kalmia St, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1206683,
+                    "lng": -117.0791173
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12202562989273,
+                        "lng": -117.0777524201072
+                    },
+                    "southwest": {
+                        "lat": 33.11932597010728,
+                        "lng": -117.0804520798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Pioneer Room Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "place_id": "ChIJeyqup2Lz24AR2GPdcPlwous",
+            "plus_code": {
+                "compound_code": "4WCC+68 Escondido, California",
+                "global_code": "85544WCC+68"
+            },
+            "rating": 0,
+            "reference": "ChIJeyqup2Lz24AR2GPdcPlwous",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2081 Newcastle Ave, Cardiff, CA 92007, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0219226,
+                    "lng": -117.2812764
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.02344327989272,
+                        "lng": -117.2801069701073
+                    },
+                    "southwest": {
+                        "lat": 33.02074362010728,
+                        "lng": -117.2828066298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "San Diego County Library – Cardiff-by-the-Sea Branch",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108019861067662866765\">Roger Cuadra</a>"
+                    ],
+                    "photo_reference": "Aap_uEBbwY6bivLZga22gCd3GIGnKRm8XlMI8Q0Xb8zhXDF_bKhElqGgxTKGEuxuOHGpEW68R3TURo4SqPnokqHU7zi6LO9cR623F27_CtizCBG-3885MkgX3JjLuRVe4_I92uCTKc7FkQw12xmiVC8zkczDn-NEjqsSojvWR5BNAaccVqDG",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJH8W2Ex0M3IAR9QmqOcFUXmg",
+            "plus_code": {
+                "compound_code": "2PC9+PC Cardiff, Encinitas, CA",
+                "global_code": "85542PC9+PC"
+            },
+            "rating": 4.4,
+            "reference": "ChIJH8W2Ex0M3IAR9QmqOcFUXmg",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "13137 Poway Rd, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.955884,
+                    "lng": -117.045636
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95745117989272,
+                        "lng": -117.0443867
+                    },
+                    "southwest": {
+                        "lat": 32.95475152010728,
+                        "lng": -117.0473387
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "Poway Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3936,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103325759781297659500\">Cesar Contreras</a>"
+                    ],
+                    "photo_reference": "Aap_uEBPAKJuZ65tpdjPPK3ErCefY_XO1Ta__eqk-S99IgV9t68l-ZoFkhhZZJWIX9XdP1wnEpUBC9cwIbEjkeWGVc4aRrcoiNY8k_7rGzYi7pfHDsxjgKtka8qYbYNIiPID2370Ts382veZIfRUgn7aSCxks0L5MOweLcsoycq35hsA7n1v",
+                    "width": 5248
+                }
+            ],
+            "place_id": "ChIJT7hGDk7624ARo-SlcHHwuxY",
+            "plus_code": {
+                "compound_code": "XX43+9P Poway, California",
+                "global_code": "8544XX43+9P"
+            },
+            "rating": 4.5,
+            "reference": "ChIJT7hGDk7624ARo-SlcHHwuxY",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 73
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8820 Judicial Dr, San Diego, CA 92122, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.86748,
+                    "lng": -117.199133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.86913697989272,
+                        "lng": -117.1978740701073
+                    },
+                    "southwest": {
+                        "lat": 32.86643732010727,
+                        "lng": -117.2005737298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+            "name": "North University Community Branch Library",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1280,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115381001813248200354\">서주현</a>"
+                    ],
+                    "photo_reference": "Aap_uEBGrDrFHCp8oMqyluaa7gWDwDWGxlfTvEoFW97bwx_x1FoCualFazOVhqx1qZKN7N3VoFDWZyUs1WeKFKg1YMFYiBJg9OOoY0hCkvxdlSM-X0ERL1CH3tX4zr8kYNXY2AOHDHUGQViYZf8Up5QznkAzr8m1Q3ERklgldn6hmtqM_2dQ",
+                    "width": 2560
+                }
+            ],
+            "place_id": "ChIJN-foiMkA3IARh97TSN8EcnM",
+            "plus_code": {
+                "compound_code": "VR82+X8 San Diego, California",
+                "global_code": "8544VR82+X8"
+            },
+            "rating": 4.4,
+            "reference": "ChIJN-foiMkA3IARh97TSN8EcnM",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 59
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "325 S Melrose Dr, Vista, CA 92081, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1914753,
+                    "lng": -117.2550008
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.19279632989272,
+                        "lng": -117.2536082201073
+                    },
+                    "southwest": {
+                        "lat": 33.19009667010727,
+                        "lng": -117.2563078798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "San Diego Law Library -North County",
+            "permanently_closed": true,
+            "place_id": "ChIJazBicB103IARod5QXilsZ1s",
+            "plus_code": {
+                "compound_code": "5PRV+HX Vista, California",
+                "global_code": "85545PRV+HX"
+            },
+            "rating": 4,
+            "reference": "ChIJazBicB103IARod5QXilsZ1s",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "18402 W Bernardo Dr, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0474292,
+                    "lng": -117.0773709
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04877902989271,
+                        "lng": -117.0760210701072
+                    },
+                    "southwest": {
+                        "lat": 33.04607937010727,
+                        "lng": -117.0787207298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Little Free Library",
+            "place_id": "ChIJLZuKnoPx24ARcVTQShAoqEk",
+            "plus_code": {
+                "compound_code": "2WWF+X3 San Diego, California",
+                "global_code": "85542WWF+X3"
+            },
+            "rating": 0,
+            "reference": "ChIJLZuKnoPx24ARcVTQShAoqEk",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Trailbrook Ln, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.943538,
+                    "lng": -117.0827846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94492427989272,
+                        "lng": -117.0814318701073
+                    },
+                    "southwest": {
+                        "lat": 32.94222462010727,
+                        "lng": -117.0841315298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Little Free Library",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112683404693310702120\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDeoOzUEBd-fbMWfVwB9Yh57oSRXupk4B2CfyZhvPy60ics_Vq_ZUGRHcH6XMAV2oLZcWAl1T0yO-F68_A0BmdiagMCduTQ08ezfsx3wYevX-eDgq1TkfaiAn4KIZ48PHk-VScradtGhFTpwEwGzETKOe3vCcw3ZPvDcBOREZHTpZRz",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJgbZZRkL524ARvdMey37-2NE",
+            "plus_code": {
+                "compound_code": "WWV8+CV San Diego, California",
+                "global_code": "8544WWV8+CV"
+            },
+            "rating": 5,
+            "reference": "ChIJgbZZRkL524ARvdMey37-2NE",
+            "types": [
+                "library",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        }
+    ],
+    "status": "OK"
+}

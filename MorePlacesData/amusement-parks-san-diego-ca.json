@@ -1,0 +1,964 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBHlkM_3IwtlSmOs6v4OhPVUxtqGkdTlzAjdlmqi9Mo18OvqPRZJtDYcwEJcFR3NGJLfrSvj-Ig-lJhJdTw8KrJ8AaZh53tkiAUCkLXV8_Dje5xq87TWbF4j-f382z_2ytNTv4tr3UUGIzFNXRw--ea1vmF5CufFAjHELrwDf2j07N0d_bPtGcxYrHSvnqweaaOIG4Q2USoLM35ULQhcKCvPzV5LbXQsn-nbBV6lIHTiuvOe0bz7Djeu8NlWQsZeuAeNl4W2a8fHM6K0_A3rWpBVFpmqWTTsZm5IQxSX3flOfsKNsBJywrY00-95huT2Ca2dQkwWE02sPIibc1pgtazSiBd0QZywCb11lV87B58z67bv7ZEb-T43Wn3GzAjeGJ_ZQPqSnWI48-6ABdm4EGW6qz7q6PKT1CzQiDh",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1640 Camino Del Rio N, San Diego, CA 92108, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7689372,
+                    "lng": -117.1445983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77028687989272,
+                        "lng": -117.1432484701073
+                    },
+                    "southwest": {
+                        "lat": 32.76758722010727,
+                        "lng": -117.1459481298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Inflatable World",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103814060101898984698\">Xplasma</a>"
+                    ],
+                    "photo_reference": "Aap_uEDvc2b-SNh8_yslgO9KtlOCH51AzuIJUbnVBfWIVEGFp6nh4p2a7hLZWM_Zv1yIPE7VaUwkoQHjvAJL1xulRBlMHwb3NOTX4yPEc7oIF_S7r6S32I_xuJetGHRN7abZ_zHL6J6ATOFLPq9xvcvMsEZDcl_OdOzt7BHPK7qwuObXsVCl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJs2n-qRlV2YARmorir8-PqrY",
+            "plus_code": {
+                "compound_code": "QV94+H5 San Diego, California",
+                "global_code": "8544QV94+H5"
+            },
+            "rating": 4.3,
+            "reference": "ChIJs2n-qRlV2YARmorir8-PqrY",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3146 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.770895,
+                    "lng": -117.2518979
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77281122989272,
+                        "lng": -117.25029855
+                    },
+                    "southwest": {
+                        "lat": 32.77011157010728,
+                        "lng": -117.25347795
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Belmont Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111468564568606018646\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECZV3GUpN_mwtbHk97vGTA8woLuBznCT7K-MoozwePUcixIaOasklkChAIWOmvPE02z0h7ZUtkqWuDPLeg71fHDXCSk6Lf2tn9kJXZ3PvFh_kY1TOEAk7LCH27QhZX3aMpWMDa48zuCj-XWgiOFUa3zpTDg6CTFUfYAQO7hh4KB5G5x",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJGZfrmeJU2YARL4VJe0IZZRQ",
+            "plus_code": {
+                "compound_code": "QPCX+96 San Diego, California",
+                "global_code": "8544QPCX+96"
+            },
+            "rating": 4.5,
+            "reference": "ChIJGZfrmeJU2YARL4VJe0IZZRQ",
+            "types": [
+                "amusement_park",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13706
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7641326,
+                    "lng": -117.2262952
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76490717989272,
+                        "lng": -117.22384045
+                    },
+                    "southwest": {
+                        "lat": 32.76220752010728,
+                        "lng": -117.23353825
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "SeaWorld San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117638761275785938950\">Thomas Evans</a>"
+                    ],
+                    "photo_reference": "Aap_uEDWiqFQCes5Mu94mFm--UZG1AgifusazX3_7quxmOxU6V52JGKFFtmEE4J9Fn3xAnquUAg-5dDFNnjEdBEkOUkLcfPfYAs2qYImNstvBYTcyLq68Uzpd01PqA1mJ8bq1kAKeNnvmVWxEM-a4_omHlpsQ43j5JN9QMYKZVQi5TDD3vYw",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "plus_code": {
+                "compound_code": "QQ7F+JF San Diego, California",
+                "global_code": "8544QQ7F+JF"
+            },
+            "rating": 4.4,
+            "reference": "ChIJd-tZsWCq3oAR_sO70namuLg",
+            "types": [
+                "zoo",
+                "aquarium",
+                "tourist_attraction",
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 38155
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2052 Entertainment Cir, Chula Vista, CA 91911, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.58763,
+                    "lng": -117.0107593
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.58896667989272,
+                        "lng": -117.0091012201073
+                    },
+                    "southwest": {
+                        "lat": 32.58626702010728,
+                        "lng": -117.0118008798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sesame Place San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1152,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104163131502672830703\">Daniel Adams</a>"
+                    ],
+                    "photo_reference": "Aap_uED7wxcuHR68kBspH-LJwnFrb_150kiwgXs-4uhYxHGFL7BbIlHkWSNN3cMvxhqIfCkkoW2SSznQEin3McCwzdbe8GOYvxYTSECwGz8K6FN-lZLLYZ7fgS755YO8iAze5SJvTN9hucjBtlpLiAg5cnJTIJiRmthc9a-dirUmi38uJnXe",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJJ8hieUtP2YARQ4BL-650ZWY",
+            "plus_code": {
+                "compound_code": "HXQQ+3M Chula Vista, California",
+                "global_code": "8544HXQQ+3M"
+            },
+            "rating": 4.2,
+            "reference": "ChIJJ8hieUtP2YARQ4BL-650ZWY",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3211
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Surfrider Square, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7713812,
+                    "lng": -117.2521971
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77268902989272,
+                        "lng": -117.2508421701073
+                    },
+                    "southwest": {
+                        "lat": 32.76998937010728,
+                        "lng": -117.2535418298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Surfrider Plaza",
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103846700648185006702\">Richard Rodriguez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDz8gv0xXj_WoJRTIbMu4dAc1gAQenajlnOmQHAPOAq_VaeT9YGDJu6e1H8tghQS0UdWGTox5F9D7Xut1qOkC0avfcInWeYp5Ao1xNwhM4GJl7Vk_HCl1y2enRnXD2okbzZfijPrJdKUGTG0qgynUL8jLcm6i3sH-FroqPiIYAwK3ku",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJedKf5hSr3oAR8PVbzD4fHZw",
+            "plus_code": {
+                "compound_code": "QPCX+H4 San Diego, California",
+                "global_code": "8544QPCX+H4"
+            },
+            "rating": 4,
+            "reference": "ChIJedKf5hSr3oAR8PVbzD4fHZw",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0142145,
+                    "lng": -117.1418577
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01556502989272,
+                        "lng": -117.1403613701072
+                    },
+                    "southwest": {
+                        "lat": 33.01286537010728,
+                        "lng": -117.1430610298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Memorial Day Park",
+            "opening_hours": {
+                "open_now": true
+            },
+            "place_id": "ChIJGT22tVP324ARgfSz2ovlA0M",
+            "plus_code": {
+                "compound_code": "2V75+M7 San Diego, California",
+                "global_code": "85542V75+M7"
+            },
+            "rating": 5,
+            "reference": "ChIJGT22tVP324ARgfSz2ovlA0M",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.76545249999999,
+                    "lng": -117.2266416
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76621755,
+                        "lng": -117.2256307701073
+                    },
+                    "southwest": {
+                        "lat": 32.76303775,
+                        "lng": -117.2283304298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Skytower",
+            "photos": [
+                {
+                    "height": 5312,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103243624284629002313\">Todd Lewis</a>"
+                    ],
+                    "photo_reference": "Aap_uEBHOaV8hiejh-8TiIdfXPDgkDAj8YxrU8RGDPAJI3RoCHDZxDxTFBd2rBNsRkYHDDdTcmN4LmIZZDEnaeXg5-9zLlWZIw_LFZmcRnNbTCt00LoNgJnQuFnIOkHCWJ65f3VVPN7jZyfAocZtUbVZMlQx5CVG-I_n5EeQOVczDxBK9pHI",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJpy6fzWaq3oARPnyW7oGncRY",
+            "plus_code": {
+                "compound_code": "QQ8F+58 San Diego, California",
+                "global_code": "8544QQ8F+58"
+            },
+            "rating": 4.1,
+            "reference": "ChIJpy6fzWaq3oARPnyW7oGncRY",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9939807,
+                    "lng": -117.0660766
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99491172989272,
+                        "lng": -117.0650754701073
+                    },
+                    "southwest": {
+                        "lat": 32.99221207010728,
+                        "lng": -117.0677751298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "RB stadium",
+            "place_id": "ChIJBU3i8QHx24ARhArUr_NicVM",
+            "plus_code": {
+                "compound_code": "XWVM+HH San Diego, California",
+                "global_code": "8544XWVM+HH"
+            },
+            "rating": 0,
+            "reference": "ChIJBU3i8QHx24ARhArUr_NicVM",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3146 Mission Blvd, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7715084,
+                    "lng": -117.2516655
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.77288692989273,
+                        "lng": -117.2503872201072
+                    },
+                    "southwest": {
+                        "lat": 32.77018727010728,
+                        "lng": -117.2530868798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Giant Dipper Roller Coaster",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106763425685927961264\">Kasper Bosscher</a>"
+                    ],
+                    "photo_reference": "Aap_uECjBnfJqSRA9X4hywC69rtXH4V4PbnhCl-LiqENMg8jh3Irqfo0FJctmUOxPD3cHpKBLReB5cPm8hcP-COxCf3xoM7gUsraJmyLnXsHsZzpbgMfDIpsVSk1ByiwJ4I18QdjVf9I7PwFkdYq7I2piZiKlRStflrwHDklNFQrAsNLfj8T",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJGZfrmeJU2YARi4f-1PJX_vA",
+            "plus_code": {
+                "compound_code": "QPCX+J8 San Diego, California",
+                "global_code": "8544QPCX+J8"
+            },
+            "rating": 4.6,
+            "reference": "ChIJGZfrmeJU2YARi4f-1PJX_vA",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 450
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1800 Zoo Pl, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7347534,
+                    "lng": -117.1481028
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73626302989273,
+                        "lng": -117.1468379201072
+                    },
+                    "southwest": {
+                        "lat": 32.73356337010728,
+                        "lng": -117.1495375798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Balboa Park Miniature Railroad",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1520,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100300916016524441032\">KatieandWes Y</a>"
+                    ],
+                    "photo_reference": "Aap_uEBwMuenKbsS3s8QmQ_h-s9t9OfzcXnJ1r8IUijxQBFK8UYfGylczTcpG_abEgqvi5JiV-nTe8kOFgkYxd3jGhyjbKvTFfi_4fUrB1n4fHM3Ag4R0wRlOry9iLxOMP8qsdDDmBNFrBnnKDl0MMEh-5MAhzYtT-LPtax6-p_X2DDo7-v_",
+                    "width": 2688
+                }
+            ],
+            "place_id": "ChIJVd9FlZVU2YARD5E3KE3WZhU",
+            "plus_code": {
+                "compound_code": "PVM2+VQ San Diego, California",
+                "global_code": "8544PVM2+VQ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJVd9FlZVU2YARD5E3KE3WZhU",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 117
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7639473,
+                    "lng": -117.2237973
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76495197989271,
+                        "lng": -117.2222233201073
+                    },
+                    "southwest": {
+                        "lat": 32.76225232010727,
+                        "lng": -117.2249229798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Journey to Atlantis",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105122991726848878533\">Nik Shuliahin</a>"
+                    ],
+                    "photo_reference": "Aap_uEDctqWIZsC-to5hiTd-njpbSI_Ikngp1s-X05fMlZ5jhCRDBHTCj-bnbacRlpTuJwjA8m1I4qCsJQGDLiUHM72p3wufd7lz_mjPEUEwtPnT7fgLK56BbGVq5rNwZCubFfLaWwpTjturDkYjHdrWGK9iAdmb1jRysb7sAFMclXQO1z4q",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJjbMAYGCq3oARC01YEQBNrZI",
+            "plus_code": {
+                "compound_code": "QQ7G+HF San Diego, California",
+                "global_code": "8544QQ7G+HF"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjbMAYGCq3oARC01YEQBNrZI",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1280 Fletcher Pkwy, El Cajon, CA 92020, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8082059,
+                    "lng": -116.9786294
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80955897989273,
+                        "lng": -116.9773409701073
+                    },
+                    "southwest": {
+                        "lat": 32.80685932010728,
+                        "lng": -116.9800406298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Boardwalk",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103389093459982484551\">Aimee Martinez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDrDlMndbB3MZtL8t3tTnCOtPTfOhNjskatNrMPiH8yjz6kt63CWlQGtsXRERXcCkJKSSOLqXkrQwfGt539Bbx0kcMiiU28TU1nDTttXwHxOAzgAuTqBbug0nVhbabCoO_vDEJR_ToojmgnTxcMU_cAeOWlFkaQ7Xblizv_C3R3wONS",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "plus_code": {
+                "compound_code": "R25C+8G El Cajon, California",
+                "global_code": "8545R25C+8G"
+            },
+            "rating": 4.2,
+            "reference": "ChIJl4M-SC9Y2YARPb7prChkeRE",
+            "types": [
+                "amusement_park",
+                "bowling_alley",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 546
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7650701,
+                    "lng": -117.2258669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76641992989271,
+                        "lng": -117.2245170701073
+                    },
+                    "southwest": {
+                        "lat": 32.76372027010727,
+                        "lng": -117.2272167298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Splish Splash",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118070499090755859882\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAHhGNcRLbbv-H0eKaSaHmEBNyu0EVS3POYpF4kwVym9i017ayhGPJG6lCtgPC0o37iItfwGj7IggQjvPOzyVJpwlNU2eM9f-s4TutT_FtTXu0KH0bPKX4ZVCMtDM_ksozt1noJv_tNQUUtkvcARxwaevgB9r8aXAZ9IHsclCy11TG_",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJC_QELGGq3oARNdPfnQM5wEA",
+            "plus_code": {
+                "compound_code": "QQ8F+2M San Diego, California",
+                "global_code": "8544QQ8F+2M"
+            },
+            "rating": 4.4,
+            "reference": "ChIJC_QELGGq3oARNdPfnQM5wEA",
+            "types": [
+                "amusement_park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7676653,
+                    "lng": -117.2280594
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76855727989272,
+                        "lng": -117.22664145
+                    },
+                    "southwest": {
+                        "lat": 32.76585762010728,
+                        "lng": -117.23147525
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Bayside Skyride",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100545446919500128439\">Kevin Chen</a>"
+                    ],
+                    "photo_reference": "Aap_uEBnSX6ZLblYli4Z1VWBwM3BSKixlNt9MqoC1H57Ddf0ndKf5ZiUjjOXDlJ2U19GZKJZ3_EGGHsM2uTwF1iWxiPa2evjRZ4om0zSPv0rqlPRKfGyCy_-fpczkT9S0CwdIDgJmilISFMKWj1eBhU4gkAPBLoUQiyH_jWJ5pMlXLLtYASl",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJBTcqPWSq3oARHAtuWvf_w8Q",
+            "plus_code": {
+                "compound_code": "QQ9C+2V San Diego, California",
+                "global_code": "8544QQ9C+2V"
+            },
+            "rating": 4.2,
+            "reference": "ChIJBTcqPWSq3oARHAtuWvf_w8Q",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7664434,
+                    "lng": -117.2274132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76779322989272,
+                        "lng": -117.2260633701073
+                    },
+                    "southwest": {
+                        "lat": 32.76509357010728,
+                        "lng": -117.2287630298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Manta",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116612656995387381544\">naman pandadiya</a>"
+                    ],
+                    "photo_reference": "Aap_uECcY7xMB3ntdOH23Yu3eNgPuU4tam-iXMQSEEVjrqrZ_rxTGx8kzJsWWtXiP470cbcWHULoi4dUd39fExPloaX_h0ZGD0AhXAlwIrwo-NFhrB9HUEf-azmPoQ_a55QC3VtDeXRdSMFZ3mVpgL6F3kElFAavSdsjWEI2-huOMYHeE8OD",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJv8wIsWaq3oARl3t5pq1XviM",
+            "plus_code": {
+                "compound_code": "QQ8F+H2 San Diego, California",
+                "global_code": "8544QQ8F+H2"
+            },
+            "rating": 4.6,
+            "reference": "ChIJv8wIsWaq3oARl3t5pq1XviM",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7645981,
+                    "lng": -117.2240367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76582527989272,
+                        "lng": -117.22191825
+                    },
+                    "southwest": {
+                        "lat": 32.76312562010728,
+                        "lng": -117.22474285
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Electric Eel",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 500,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103208350040320993889\">Kevin Hicks</a>"
+                    ],
+                    "photo_reference": "Aap_uEBOj95ZartKKbOTR2dvtLSU4FjePDhzF-9u4kHhidf3nuARrgBPv4nR8a3nYG9qbHztud62b5gE3FCtKj5u2chlFNMcTQj1IHxv7N-u9ftKGvt-iBWKArpiaEYtpEQ39maDL5uG6Y1uA_HbGL32MU50ZEnGZCGjMCxGYXLV0T-CZpP3",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJYY_5-XWr3oARTwlOftEOQfs",
+            "plus_code": {
+                "compound_code": "QQ7G+R9 San Diego, California",
+                "global_code": "8544QQ7G+R9"
+            },
+            "rating": 4.4,
+            "reference": "ChIJYY_5-XWr3oARTwlOftEOQfs",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 53
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7645375,
+                    "lng": -117.2256134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76588732989271,
+                        "lng": -117.2242635701073
+                    },
+                    "southwest": {
+                        "lat": 32.76318767010727,
+                        "lng": -117.2269632298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Sea Dragon Drop",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100412631376794611603\">Tanner Rollin</a>"
+                    ],
+                    "photo_reference": "Aap_uEBW3o0gExbO4Synzzj7I8xjsfdEHuslO5MXZ8jqx7f6YyfBlQdMHd_svqgAOg6GMeDfK0b2Vx-Q0-q0BsNLu7iWzitc53ezhclrGMlMqyCptg2VrjwN_kTols92yak6fK7q69A1mFeE5K4wWUGektqvcLdZOMBYOJTtJy95d2iOfRw",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJSSWFohyr3oARaxN1VVRzO8E",
+            "plus_code": {
+                "compound_code": "QQ7F+RQ San Diego, California",
+                "global_code": "8544QQ7F+RQ"
+            },
+            "rating": 0,
+            "reference": "ChIJSSWFohyr3oARaxN1VVRzO8E",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "500 Sea World Dr., San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7645231,
+                    "lng": -117.2254619
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76587292989273,
+                        "lng": -117.2241120701073
+                    },
+                    "southwest": {
+                        "lat": 32.76317327010728,
+                        "lng": -117.2268117298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Octarock",
+            "photos": [
+                {
+                    "height": 1080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100412631376794611603\">Tanner Rollin</a>"
+                    ],
+                    "photo_reference": "Aap_uEArUisCgkaewW2Xm79Te339PbuI6vm4UVGcfgPqIXKfXzhX-Z8gEFGFX7nGrIdTpmUX1PKOj8PWIkcX9DOpdsmdUrTziWAd1HHxKCnEyHljIRNk7AreiDScZxn6XOnUOqVRa135jrjVaF_AADyndQXe_rhRD6z665ycTCFiIlpGKyI",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJa1e8r4Sr3oARd5-kM1KCMQM",
+            "plus_code": {
+                "compound_code": "QQ7F+RR San Diego, California",
+                "global_code": "8544QQ7F+RR"
+            },
+            "rating": 5,
+            "reference": "ChIJa1e8r4Sr3oARd5-kM1KCMQM",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2688 E Mission Bay Dr, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7896953,
+                    "lng": -117.2100084
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.79099332989273,
+                        "lng": -117.2085209201073
+                    },
+                    "southwest": {
+                        "lat": 32.78829367010729,
+                        "lng": -117.2112205798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Seaworld",
+            "opening_hours": {},
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102718556753580690027\">Huma Khan</a>"
+                    ],
+                    "photo_reference": "Aap_uEDkSi3a5EU4DSOw5jI9a6Ig8gFCkG4xzs3KUsMt9Rn4A5aJaTgjrpi_gbdb9rYwJy9x1mdxKx4_IAcKi79PoabjOfh4NU7fv1wAlsDyHXQWh7XM9jIF5f-gbDtURSjXxAAZ0aQYnxe4kYjgsdF9m7fafnNuoNiXJNpfI9BUm4Vgh6Zq",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ9dZdfnyq3oARI_cFYz7QSKM",
+            "plus_code": {
+                "compound_code": "QQQQ+VX San Diego, California",
+                "global_code": "8544QQQQ+VX"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9dZdfnyq3oARI_cFYz7QSKM",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20676
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "Skyfari, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7340331,
+                    "lng": -117.1487276
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.73538292989272,
+                        "lng": -117.1473777701073
+                    },
+                    "southwest": {
+                        "lat": 32.73268327010727,
+                        "lng": -117.1500774298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Skyfari",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115208315313791586189\">Stephanie Castaneda</a>"
+                    ],
+                    "photo_reference": "Aap_uEDhQEIc76mcT_EMas84TM1bQslRscjuGRIBvcAa7pb2SREkyij5bOrhHtCqYttdzigN0RvvjDYSBZCgCL5nRgCFRfW54-pYLtMUH8Nl1abE-yTIoAYVImHbWP1lllWS8ObPd49YdVv-vrOMjoYvWr0xnMDlnwWyeFNPBM4s-D4f_Ydt",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ8_iK6JVU2YARv-Tq-NApceA",
+            "plus_code": {
+                "compound_code": "PVM2+JG San Diego, California",
+                "global_code": "8544PVM2+JG"
+            },
+            "rating": 3.9,
+            "reference": "ChIJ8_iK6JVU2YARv-Tq-NApceA",
+            "types": [
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        }
+    ],
+    "status": "OK"
+}

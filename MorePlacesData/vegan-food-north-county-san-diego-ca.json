@@ -1,0 +1,1050 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEBQhOtJQJt26K9sq1pFLlNbiO5wgNKNcnpIqJGIa-3tKDiroSbW2XaDMHtAhqv_VvL34ESZm7du1SPLFErgOxXO3zOexb_DB7hGyXq9a6Td0s_gogN3MqtFbzndy9jfUAaf5NhyPaf_BP-4Q5zGb2HB-r12_Q40mysHskA953gZlLMwFs2IRdRBFC221cdGy8_22OB36Y5SWpTi0U5eiYerVSENElM-5UR1R9-qQOhngVHefKBY_mvUBZBaLQg6_waUl0kEcVq237liyj_fmLVMdhPOVnOb42jCWFOT3kZ_4HFdmNHLFuyADebGIlat7B53ZHGqkYR5QTbLekMysRsTNs9Y4UlwhsliZxLf8i04sIJ0V_AekVxxxzWTCo6gS2ztzAUaspFiy8q5QcKhU6FmMKucJY2hUpLjCp3KTNdYt0FVHGM",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "242 W Mission Ave Ste D, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1299951,
+                    "lng": -117.0892372
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13124137989272,
+                        "lng": -117.0878455701073
+                    },
+                    "southwest": {
+                        "lat": 33.12854172010727,
+                        "lng": -117.0905452298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Phatties Vegan Mexican Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1786,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112715018470070769733\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAcVf-FH91dDME3TzAPhKuR35Y-p3HuzLnUyj8CppAhfnJwcJIKm5gwee9gO2BxLuN85Q2APrB6XCNNqLGzzXS9aW1_VNnUEFAXq1YPlEkE1zpTBA2OdtLkvnXuY8N2ZGJjyg3Az2SAmrn70tHNVXOLzMSeA_YXzGInXZxUFeNUcVEt",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJHTpFAE7124ARKvqan4jh--w",
+            "plus_code": {
+                "compound_code": "4WJ6+28 Escondido, California",
+                "global_code": "85544WJ6+28"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJHTpFAE7124ARKvqan4jh--w",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 332
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "527 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0455412,
+                    "lng": -117.2936036
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04688827989272,
+                        "lng": -117.2922689201073
+                    },
+                    "southwest": {
+                        "lat": 33.04418862010728,
+                        "lng": -117.2949685798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Plumeria Vegetarian Encinitas",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113880415409640068649\">Autumn London</a>"
+                    ],
+                    "photo_reference": "Aap_uEDuoNAV4ulXqtz399P3j8RyDbtxliLzDBPoCrxIoHa5-QIG7xwWS5hPMB84dbCnfq4d6zZRT-cn8nfabDk1X7BE14qhyzzmacU7130jzmafxErBF1awxj1gpPr-fM5WrfX2zA_yh5-3mRQijymzaOHUwRclhr6Lk9HMHn9xgkGR8XZN",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ60ouoGoN3IAR3lTJNDLzZm4",
+            "plus_code": {
+                "compound_code": "2PW4+6J Encinitas, California",
+                "global_code": "85542PW4+6J"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ60ouoGoN3IAR3lTJNDLzZm4",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 126
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9928 Mira Mesa Blvd, San Diego, CA 92131, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9170368,
+                    "lng": -117.1119183
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91845107989273,
+                        "lng": -117.1105865201073
+                    },
+                    "southwest": {
+                        "lat": 32.91575142010728,
+                        "lng": -117.1132861798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Loving Hut",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2988,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106631286595625412211\">saurabh bondarde</a>"
+                    ],
+                    "photo_reference": "Aap_uEBP9eziczoTaT1GerevVRB3dl6s2fBJVwvUiRYsWHS-t_TZbdTMHM3Fv5xu6mNsG-wC8igCpv41JzVtw60tO653vAkfI9O6ZfuT0z3g6FEiX8NmVHI1hOYn65hmunYYFjyS7jBejIMVASW_EJhG3mhsX1nmmmTdkqQ_G7ReJq4dwnkt",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJE1j6VRb524ARmuomeG4bNmQ",
+            "plus_code": {
+                "compound_code": "WV8Q+R6 San Diego, California",
+                "global_code": "8544WV8Q+R6"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJE1j6VRb524ARmuomeG4bNmQ",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 585
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2690 Via De La Valle, Del Mar, CA 92014, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9811111,
+                    "lng": -117.2505556
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98240762989273,
+                        "lng": -117.2493507701073
+                    },
+                    "southwest": {
+                        "lat": 32.97970797010728,
+                        "lng": -117.2520504298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Flower Child",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115027286096822577705\">Zed star</a>"
+                    ],
+                    "photo_reference": "Aap_uED4qwM1l18Y3SU4aOGEw8Y8TUGz9cFTdEXPFfSoLcPkjEl-PduOb5b9yhNFCiV0iy5LNGk6dqD-5Qa37GrCMJAvbZe5JTDjkHm5pfYj9g1pPpZzCfMPruVEdmpmDnuxDDBgAIOL4ppWAu-Rk0Pgb6Jly6qRKzQkSbAdLVqzorv9prv4",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJF6ZNV9kI3IARaUmFumb9_m0",
+            "plus_code": {
+                "compound_code": "XPJX+CQ Del Mar, California",
+                "global_code": "8544XPJX+CQ"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJF6ZNV9kI3IARaUmFumb9_m0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 341
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "965 Palomar Airport Rd #100, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.121406,
+                    "lng": -117.3138586
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12275012989272,
+                        "lng": -117.3126459201072
+                    },
+                    "southwest": {
+                        "lat": 33.12005047010728,
+                        "lng": -117.3153455798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Veggie Grill",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 741,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107459300067602943597\">Veggie Grill</a>"
+                    ],
+                    "photo_reference": "Aap_uEAPQhXYmtMw0JJOK38HDd2eMxpJP3GqgR235L3vhK73muCD12lBuYJwOj9EBNo955M8BGhAH4M4-XwBTAHSaL28mV6_ltXiOUAPzBLgZ6uNtzBNPHZq5nkVekuKTFfP8NxRDJWcAUKK12nM9RAwD2YiagXC0Scl2rmsk321v3vOiGpo",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJHyPyDx5z3IARdwSxZQ6koR8",
+            "plus_code": {
+                "compound_code": "4MCP+HF Carlsbad, California",
+                "global_code": "85544MCP+HF"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJHyPyDx5z3IARdwSxZQ6koR8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 781
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "765 S Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0418197,
+                    "lng": -117.293037
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.04313157989272,
+                        "lng": -117.2917207201073
+                    },
+                    "southwest": {
+                        "lat": 33.04043192010728,
+                        "lng": -117.2944203798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Lotus Cafe & Juice Bar",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104469396241203127744\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECeREIvhrVBKVSoLZSgheioAB4ha1RpJ6cARFG89npEro-HNKl7GBbvsg1eMrvAsk_KfW_fBQglhaJISApWPEI07_TgVvc9QZ8gLOenOSC13mdK8c1w79jAojlp-q-GJFAfQDIU6oH9YARlMv30DmEBRRg7SZ7eW4sI1boaPYrn5HYT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJw1B_vEEM3IAR5SRu3vhYy0c",
+            "plus_code": {
+                "compound_code": "2PR4+PQ Encinitas, California",
+                "global_code": "85542PR4+PQ"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJw1B_vEEM3IAR5SRu3vhYy0c",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 594
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8665 Miralani Dr Suite 100, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8953142,
+                    "lng": -117.1372648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89660447989272,
+                        "lng": -117.1359905201073
+                    },
+                    "southwest": {
+                        "lat": 32.89390482010727,
+                        "lng": -117.1386901798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Rollin Roots",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111053004326055559111\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC7nWgHWYHLIoHVbNUNJgXIPv5f4YzRqUq7H9cpwr_w_82tUD3Pq0dJz56BovIbO5W58-1QuBakHqO_R943gyrSjuJsqOlFZ9zJw_fJr2Lnr0_TE5EUZ2dT-O6FYOboFFxbeVaZ5xW-Jp-KbAyxshtrI7fl2DK7xZbYcmPKfbj2L8sa",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJIUHkXLj_24ARD5EyPy87Qv8",
+            "plus_code": {
+                "compound_code": "VVW7+43 San Diego, California",
+                "global_code": "8544VVW7+43"
+            },
+            "price_level": 2,
+            "rating": 4.8,
+            "reference": "ChIJIUHkXLj_24ARD5EyPy87Qv8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 95
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12202 Poway Rd #100, Poway, CA 92064, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9512863,
+                    "lng": -117.0676498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.95269177989272,
+                        "lng": -117.0663246201072
+                    },
+                    "southwest": {
+                        "lat": 32.94999212010728,
+                        "lng": -117.0690242798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Greens Please Wellness Kitchen",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1062,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101715102735688486823\">Antonina Ruth</a>"
+                    ],
+                    "photo_reference": "Aap_uEBcuX3g6Zcalc4T49m64NgK3GPyva4LofeWrBGQESdlIHowQ2kny72Ttf6EzeYF8As26B0oY73cFiN7y3iiu_EQ82h9M4jiAuF6vUaUj1EjCAfTJKDUzpAy5Tsfzq8XbkUk-g5pg4g2F45koLpBhArTwDbIc-STrGqSUC3hnJWGp_6J",
+                    "width": 1064
+                }
+            ],
+            "place_id": "ChIJoeOhaIH524ARbG1u0u6gD68",
+            "plus_code": {
+                "compound_code": "XW2J+GW Poway, California",
+                "global_code": "8544XW2J+GW"
+            },
+            "rating": 4.7,
+            "reference": "ChIJoeOhaIH524ARbG1u0u6gD68",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 151
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "302 Wisconsin Ave, Oceanside, CA 92054, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1878454,
+                    "lng": -117.3748971
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.18912952989273,
+                        "lng": -117.3736041701073
+                    },
+                    "southwest": {
+                        "lat": 33.18642987010729,
+                        "lng": -117.3763038298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "ERIS FOOD CO",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110798488245349427793\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBR5e1YzWscZlLW9He3N_3a0yZPH7t6BFIND0pKUzW5q-qgvl2gPkdTAg8Z16IMdE0zBYftsArgoJojN487T7VockLk9zaFXEQIH1lLsMaoaHz3erdDU6xNb0EdpOUXV7W4FuDirF1ZwDxJX27G6T8ul7wvAr3iIcrqvewox7j4dOj6",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJd6HoWbRv3IARJX_wAVu70ks",
+            "plus_code": {
+                "compound_code": "5JQG+42 Oceanside, California",
+                "global_code": "85545JQG+42"
+            },
+            "price_level": 2,
+            "rating": 5,
+            "reference": "ChIJd6HoWbRv3IARJX_wAVu70ks",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "411 Santa Fe Dr, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.03599140000001,
+                    "lng": -117.2839221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.03741902989272,
+                        "lng": -117.2825721201073
+                    },
+                    "southwest": {
+                        "lat": 33.03471937010728,
+                        "lng": -117.2852717798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Plant Power Fast Food",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2448,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110576818332364623403\">Xavier de la torre</a>"
+                    ],
+                    "photo_reference": "Aap_uEB2DiE0khxposfCOzOfvNnaa0CJW9spQE0fmhWpGdQ6uZwGw7Y3coUf1DMrGbSl19mMv6SU4Bvo2B-2sN5Nq5TyvRpDqs9LxsIhdQqub8iJrGnQnBKdsu9vEdrvP_I4QVDaEt8jj3zowWWOiYnJUABf-sc0_GHPXCXgnIB1pSrVfpJ_",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ-4AZ5xMM3IARW3xD2fK7gug",
+            "plus_code": {
+                "compound_code": "2PP8+9C Encinitas, California",
+                "global_code": "85542PP8+9C"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJ-4AZ5xMM3IARW3xD2fK7gug",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 877
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "250 N City Dr #5, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.135126,
+                    "lng": -117.1594245
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13641362989271,
+                        "lng": -117.1580495201073
+                    },
+                    "southwest": {
+                        "lat": 33.13371397010727,
+                        "lng": -117.1607491798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Fresh Healthy Cafe San Marcos",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100366880859939674796\">Amanda</a>"
+                    ],
+                    "photo_reference": "Aap_uEB0QGKuhrzXg4AhSIhyLkFFp50zNnmkC__LbLn9SmDb-FH9XmmI9Cf5kglM8Akmz29SkJwZAVvUyO0fhgBUF-IILpdDh-szZ6MQ5erAdA2wBSspUej6YZ-SUIU0rclx3yeOkTRnDwBZDO_Qm1xtv9iX-d8GvxzT9OpSf6Ma3As63uv9",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJVVVVULKK24AR57UtCtgjH9I",
+            "plus_code": {
+                "compound_code": "4RPR+36 San Marcos, California",
+                "global_code": "85544RPR+36"
+            },
+            "price_level": 2,
+            "rating": 4.1,
+            "reference": "ChIJVVVVULKK24AR57UtCtgjH9I",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "376 N El Camino Real, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0556189,
+                    "lng": -117.2631567
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05692327989272,
+                        "lng": -117.2617480201073
+                    },
+                    "southwest": {
+                        "lat": 33.05422362010727,
+                        "lng": -117.2644476798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Healthy Creations Cafe",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112864934389113779441\">Healthy Creations</a>"
+                    ],
+                    "photo_reference": "Aap_uEB5DaB5-zYroRpq_1uGElWWEly2qqslLx6bUggHcdvVPRw7SgdUzk2q8KhQi5smnIEskyNWv3DjBVgA5Xlt4ftc7HicXqBjSonO2-uhw3XK2IoxskrVqhBljr2ch-gaS607guf0dkkQmQMo37lttkdewDzDxPeQj-9cBuZayI4PVFwC",
+                    "width": 1365
+                }
+            ],
+            "place_id": "ChIJBWdrqIgL3IARhMfeOB7VOfk",
+            "plus_code": {
+                "compound_code": "3P4P+6P Encinitas, California",
+                "global_code": "85543P4P+6P"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJBWdrqIgL3IARhMfeOB7VOfk",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 189
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "948 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0653381,
+                    "lng": -117.3028609
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.06669547989272,
+                        "lng": -117.3014190701073
+                    },
+                    "southwest": {
+                        "lat": 33.06399582010728,
+                        "lng": -117.3041187298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Nectarine Grove",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1067,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103548027239268977087\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDbtoAQT0JD3ksfquQkkePOneK7T8KVQ1_B8NPEwO9S9wNU9gruLc2BVNQhjRyu1ShbosKpVHn0uaH1JI49TO5kO8e1XdoaGmaMsayNoGvTvES4SKogGiyRlHyYZ2KSp4KGksWVpxiz20HAMSUICkhrxOjKn5USfxd2FmyDi3g7V7_K",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJdQV8ePAM3IARraCty7aBNOM",
+            "plus_code": {
+                "compound_code": "3M8W+4R Encinitas, California",
+                "global_code": "85543M8W+4R"
+            },
+            "price_level": 2,
+            "rating": 4.6,
+            "reference": "ChIJdQV8ePAM3IARraCty7aBNOM",
+            "types": [
+                "restaurant",
+                "bakery",
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 412
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "980 Los Vallecitos Blvd, San Marcos, CA 92069, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1417548,
+                    "lng": -117.1853399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.14293522989272,
+                        "lng": -117.1840767701072
+                    },
+                    "southwest": {
+                        "lat": 33.14023557010728,
+                        "lng": -117.1867764298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "goldibox",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1066,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100997926670148529814\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEACPeL_eYKG-fTegAZjOB8rNy1O4CzoX6AeTTSkluj3_h8s8Wk3voMkWb5DwTM19hTDwgsf3n5B3yVGrcxF4S3ofqaReagJ0ummL8PPygtAQsUS89X00x6qUz3WNZLW80SoiOjFGezOtCjFd-UVJr_FnuUdrcecMNLlXbWkqv4W9DaI",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJF3Al9FJ13IARN4PLDwO2OyE",
+            "plus_code": {
+                "compound_code": "4RR7+PV San Marcos, California",
+                "global_code": "85544RR7+PV"
+            },
+            "rating": 5,
+            "reference": "ChIJF3Al9FJ13IARN4PLDwO2OyE",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "242 W Mission Ave Suite E, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1300277,
+                    "lng": -117.089122
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13128832989273,
+                        "lng": -117.0878082701073
+                    },
+                    "southwest": {
+                        "lat": 33.12858867010728,
+                        "lng": -117.0905079298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pink Oasis Juicery is now Vegan Nectar Juice Bar & Mini Mart",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 701,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104994044139661079661\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uECtzVAF58mOovfGqB0jDzPyLNmToZCBYCDj-Bi5PryKlcfQjCLMRWdABKgEUtbf88TO2PkfuCnnAdoiM0hhysh6-wkKfkeECZZIK6lhgjgFGfWFybxOzrPes8M4tQI7W_p6ldhTK6HsMiwghbyaH9yqC03IJjsUBYS_MhsBGjwvtZ18",
+                    "width": 526
+                }
+            ],
+            "place_id": "ChIJP_d2JJ3124ARV--YSUQqi_M",
+            "plus_code": {
+                "compound_code": "4WJ6+29 Escondido, California",
+                "global_code": "85544WJ6+29"
+            },
+            "rating": 4.8,
+            "reference": "ChIJP_d2JJ3124ARV--YSUQqi_M",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "200 E Via Rancho Pkwy Suite 449, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0713525,
+                    "lng": -117.0659539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.07240887989272,
+                        "lng": -117.0648658201073
+                    },
+                    "southwest": {
+                        "lat": 33.06970922010728,
+                        "lng": -117.0675654798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Pioneer Organic Cuisine",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115131436553047015793\">Liv Life</a>"
+                    ],
+                    "photo_reference": "Aap_uEABACjMoJ868jhtZEEDuAuos6QQf9qaOLPy3WYY99tO2XJ4e8Pj8-se0lrj0JsoxLd7YKWW10oqsFbrul9H3KnV9X5VFdkkJoRxMZ0svfNBqanwweHAq4dGq0oQn_AsI6Enn6D8zficJ7NAPGRWJr13gRakyQMJE9A4w8Yn6sOaP-8l",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJBRjwL1jx24ARgXzvVU4QTs0",
+            "plus_code": {
+                "compound_code": "3WCM+GJ Escondido, California",
+                "global_code": "85543WCM+GJ"
+            },
+            "price_level": 1,
+            "rating": 4.4,
+            "reference": "ChIJBRjwL1jx24ARgXzvVU4QTs0",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 97
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "965 Palomar Airport Rd, Carlsbad, CA 92011, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1213768,
+                    "lng": -117.3138546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12270092989272,
+                        "lng": -117.3126307701073
+                    },
+                    "southwest": {
+                        "lat": 33.12000127010728,
+                        "lng": -117.3153304298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Mas Veggies Vegan Taqueria",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1704,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108997862762762568005\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBma1mj03dkSH-uO1uBy-VbXBVOiVhtbo08uMkODTHzu6SaZi_HBHSdFDx5DUfg-0_GPCt4d7euQFL3s56JR0jw2t_yMeQiuzHANdmwePns4RTc3vadVRVv0DmcIMoDjoU_uTuZXWmG1AU27C3UTqKCil94fa2oD09mRZIP0nrhqZNL",
+                    "width": 2272
+                }
+            ],
+            "place_id": "ChIJQWdJOehz3IARsBIzGZbXVNc",
+            "plus_code": {
+                "compound_code": "4MCP+HF Carlsbad, California",
+                "global_code": "85544MCP+HF"
+            },
+            "price_level": 1,
+            "rating": 0,
+            "reference": "ChIJQWdJOehz3IARsBIzGZbXVNc",
+            "types": [
+                "meal_delivery",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4661 Park Blvd, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7620823,
+                    "lng": -117.146134
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76343372989272,
+                        "lng": -117.1448189701073
+                    },
+                    "southwest": {
+                        "lat": 32.76073407010728,
+                        "lng": -117.1475186298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Plumeria Vegetarian Restaurant",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107909670233969137498\">Steve B</a>"
+                    ],
+                    "photo_reference": "Aap_uECnCIoLDyXWnDK9ZKGZNQ7wsKnlt6oJa8j--Ilo83TTycIkKyKdM-Ybmy-0TY-X1so_ceIhWWM_xCGcKegx-lkbmlcmjmRf5hPfXVTMcJP9UZuK5SzYmbJyU_anvhjHAI-eeqq6iqy3VjQhIz7bWR8EPXGvgTMi9kjMeoNcj5TQ6xPo",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-VUAWx5V2YARHDShVcCDdm8",
+            "plus_code": {
+                "compound_code": "QV63+VH San Diego, California",
+                "global_code": "8544QV63+VH"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJ-VUAWx5V2YARHDShVcCDdm8",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1466
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1905 El Cajon Blvd, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7548272,
+                    "lng": -117.1447086
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75625822989272,
+                        "lng": -117.1433914201073
+                    },
+                    "southwest": {
+                        "lat": 32.75355857010728,
+                        "lng": -117.1460910798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Loving Hut (North Park)",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2340,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109845663542844589414\">Johannes Turmwecher Beyer</a>"
+                    ],
+                    "photo_reference": "Aap_uEC_yWYamT6nelVk7UzVg5g8cQp3wdhggiAkHXoeQsz0JbB1v4QXsxOIW_b80ESvydu1Wn91_M8Uz2SR59t53CZi93t0-eSREp9HJLUuZm4Q5PilZ0x9hEVgUqAFc-E1H_7pE0007dtufnkKcUCkUIdCborte5YgbJqe6eVz-HI1pTZr",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJM4hsTeFU2YARidS9ytsRnUs",
+            "plus_code": {
+                "compound_code": "QV34+W4 San Diego, California",
+                "global_code": "8544QV34+W4"
+            },
+            "price_level": 1,
+            "rating": 4.6,
+            "reference": "ChIJM4hsTeFU2YARidS9ytsRnUs",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 580
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5604 Balboa Ave, San Diego, CA 92111, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8207597,
+                    "lng": -117.1798004
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.82210767989272,
+                        "lng": -117.1784271201073
+                    },
+                    "southwest": {
+                        "lat": 32.81940802010728,
+                        "lng": -117.1811267798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Native Foods",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2208,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117590660544883397674\">Trixie Flygal</a>"
+                    ],
+                    "photo_reference": "Aap_uEC090tsXeaUaN_9ZVg2reQlzaZKM34DDiY_TtI4zBZznrGoheHJJOeGQ7o3ecANLMZTnk83kovjpln9UoybE-Fik8dLYTAqRHirueN1GivwFnPR8lxR9y7HDl0-ehlgp1DEpE6GfDAfjVvl2UPf2_M89BHSetw-zB64cOGyndBGHWiC",
+                    "width": 3928
+                }
+            ],
+            "place_id": "ChIJl3ggUnEA3IARcfQrVqMTJes",
+            "plus_code": {
+                "compound_code": "RRCC+72 San Diego, California",
+                "global_code": "8544RRCC+72"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJl3ggUnEA3IARcfQrVqMTJes",
+            "types": [
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 477
+        }
+    ],
+    "status": "OK"
+}

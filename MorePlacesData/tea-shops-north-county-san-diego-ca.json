@@ -1,0 +1,1040 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAFLMr2j62PMU4A4UThTM-DE9UPH12CngPGJ_q7-j6T1Cmu9a3SUV4TZPYXCwfuYGuB7P95OXkHZ0aDR-TXwhUWniXvAY7OHJGqSZf5fbUOPAP0-F17XE86P62blL7yZS7ld1kFw5qYcx94oI2_JykNRiCsZ9GINRPdqby5WrI_18RgA5HyNV2lTJvhUfCj31PYuwlr7FHpz8jC4gzTgWQZpgBi6n0uDjmHwIlpdqcLpfiZWtOaoRRMnvK58OiLn7X4GrPiTVegM940Fwi6MQg8gfrwtpJ_v90gOW5vPw25VeW9oA0ne1ZnO5p9MLb0WSIsF39nd2o6BpSZ4kDOrR0lA0xDvhBD-HeIVfLm28vWOQR2ebUyeYJgi5oYKf1TvRZ8S8SBIkNi17qH7_-2D3goc7C3RBYY7BwCvK8s1hxZkQC2Gw",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "145 W Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.12102,
+                    "lng": -117.082298
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12243697989273,
+                        "lng": -117.0810055701073
+                    },
+                    "southwest": {
+                        "lat": 33.11973732010728,
+                        "lng": -117.0837052298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Grand Tea Room",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115852694709376261369\">Marissa Gonzalez</a>"
+                    ],
+                    "photo_reference": "Aap_uEDLlEPJb7FPjpZd5iCi-h_8wNtIwWjsuZ35jLde-6TadGxt-S9ZP0CHKl7eOmB_b2mR3xH5BNF9PYf-wRrBBuQpOeqPRF_RytFXYSFnEY9RQde7yy0XdlTd68jLBL_t9amEqf0kWoxggJuN5NJq6Yac8mfx-Q0UQz-u7zhGiUW8rL-M",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJUV1MhgP124ARK2FONeimkFY",
+            "plus_code": {
+                "compound_code": "4WC9+C3 Escondido, California",
+                "global_code": "85544WC9+C3"
+            },
+            "rating": 4.8,
+            "reference": "ChIJUV1MhgP124ARK2FONeimkFY",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1882 W El Norte Pkwy, Escondido, CA 92026, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1555358,
+                    "lng": -117.1247819
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.15687202989272,
+                        "lng": -117.1234495201072
+                    },
+                    "southwest": {
+                        "lat": 33.15417237010728,
+                        "lng": -117.1261491798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Blue Mug Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113248892571068763087\">Eleonor Segura</a>"
+                    ],
+                    "photo_reference": "Aap_uEB2-BtLk5Fa0G6muhqK0CWF6uRu2BvD9WFZqLdRCGUK7_67CVujhx586xzmsQuGkFse91ZhJCeIebq5lnvQLV_gZVmgY8lqYFE0yKznrKcDSnfeBWI-o5oytD73zg7lMl09mZju-pcdyuxOtO8P3L0Ywre69bPi3EtLUJb-BsuSC6XU",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJQZMuRyeL24ARNdkOgUtUzE4",
+            "plus_code": {
+                "compound_code": "5V4G+63 Escondido, California",
+                "global_code": "85545V4G+63"
+            },
+            "price_level": 1,
+            "rating": 4.8,
+            "reference": "ChIJQZMuRyeL24ARNdkOgUtUzE4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 317
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6 Creekside Dr Suite 500, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1348991,
+                    "lng": -117.1786525
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13630502989272,
+                        "lng": -117.1773300201072
+                    },
+                    "southwest": {
+                        "lat": 33.13360537010728,
+                        "lng": -117.1800296798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Ding Tea San Marcos",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112513151067217592552\">Huong Dang</a>"
+                    ],
+                    "photo_reference": "Aap_uECo2A-516gFEr0YNV5_8gnOjRiFwX8ztgm0JZfcqU1ITG3IzJSrGDbh4s8HdLjHXFGvoB2VzxJUmg3xQMDGBHzEoqBFFQ8Okh_JcaPn56hpi5nJbhB80vv9mOQt1mLMCGu6xnnWgmXa5rhLCIRFGLJeZZYzjC5DOqo2zTsMOWxav4wD",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJyTZWX9913IARk1Jksa9elgI",
+            "plus_code": {
+                "compound_code": "4RMC+XG San Marcos, California",
+                "global_code": "85544RMC+XG"
+            },
+            "rating": 4.2,
+            "reference": "ChIJyTZWX9913IARk1Jksa9elgI",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 106
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "119 E Grand Ave, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1217807,
+                    "lng": -117.0808692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12315272989272,
+                        "lng": -117.0796176201073
+                    },
+                    "southwest": {
+                        "lat": 33.12045307010728,
+                        "lng": -117.0823172798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Kettle Coffee and Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 682,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116918070991829945547\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBcIBk_6q8HgNfONcHdb4eMvoE4CPFsDbwE0Gwuz0YlALpyOiiJrdRsI27L9GVymOKzXQ1cRQhRmROkseNFbPW7ZD2zID5nuJuVNmiLevd32xI6iGp-IVvFJWbTS3PAy3RohVoSDGMAXPlLE4I2KK2kqxUMzP04sjKyCSznwju90J5F",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJPzkSC53024ARS7eJ3JQiYSY",
+            "plus_code": {
+                "compound_code": "4WC9+PJ Escondido, California",
+                "global_code": "85544WC9+PJ"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJPzkSC53024ARS7eJ3JQiYSY",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 433
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "12070 Carmel Mountain Rd #296, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9841741,
+                    "lng": -117.0774843
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.98539132989272,
+                        "lng": -117.0759947701073
+                    },
+                    "southwest": {
+                        "lat": 32.98269167010728,
+                        "lng": -117.0786944298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "The Coffee Bean & Tea Leaf",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111057008580465553796\">Christina Fredricks</a>"
+                    ],
+                    "photo_reference": "Aap_uEBHK3afXyg4cZdcv7NVuNsX9o-tNm18OCIfNCCUl8Eptj2VAqCmX1eveONjE1YmUpBiv4eX2rw1GTLW9xx6gKaKQVgbKT2_TMZSK84BdrS2Ppl2Rw_nj_JHGtWQzekQC8WXtEp6y2_nII81AIhLQmoqZT3DCEIXrpaQ7V1teDewdU9A",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjTh2bgD624ARGp8PZlPP5G4",
+            "plus_code": {
+                "compound_code": "XWMF+M2 San Diego, California",
+                "global_code": "8544XWMF+M2"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJjTh2bgD624ARGp8PZlPP5G4",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 274
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11269 Camino Ruiz, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9266656,
+                    "lng": -117.1433963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.92804072989272,
+                        "lng": -117.1420536701073
+                    },
+                    "southwest": {
+                        "lat": 32.92534107010728,
+                        "lng": -117.1447533298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Jungle Tea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101398005511598011537\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC_247ygY7n6Qyqg8NZXm_dL9n6mdCRY1c4dA2g2CfzBuJc18C64oBwbBYUwYWufOc0LBgc2x-mcncTsHJ67KsGvf835aEmBXRWd7als9FDYndBM3Sev87ownVP4BsC46KGp7dV16lw7VHJLzVLLniSQyKhNVPujYeyqU8djupg3evy",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJpz11Cfb424ARzhabKuw5dno",
+            "plus_code": {
+                "compound_code": "WVG4+MM San Diego, California",
+                "global_code": "8544WVG4+MM"
+            },
+            "rating": 5,
+            "reference": "ChIJpz11Cfb424ARzhabKuw5dno",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 33
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14677 Via Bettona, San Diego, CA 92127, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9898169,
+                    "lng": -117.1597558
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.99106117989272,
+                        "lng": -117.1584996201073
+                    },
+                    "southwest": {
+                        "lat": 32.98836152010728,
+                        "lng": -117.1611992798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+            "name": "Marlene's Tea & Cakes",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108860962060258283926\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEA_8_8XSQ4g5fRFY0Vx4GzNXSEXdcjoxqGSkv2DobXRU6vdtXA2G-HbbQsSwRSvD5s_dCxzmhw1OkxuEv6biqDbEtXyti0yS74Jds9nVp76_Uk91Rzjaa6ww3eVmV7feDAfi_z0vNq0wHHSjeGf5StxHzUKmfSKkjqOXw4KBL1LXVMu",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJG3LXEMP324ARhEEyRxh-Dh4",
+            "plus_code": {
+                "compound_code": "XRQR+W3 San Diego, California",
+                "global_code": "8544XRQR+W3"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJG3LXEMP324ARhEEyRxh-Dh4",
+            "types": [
+                "bakery",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 113
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "formatted_address": "267 N El Camino Real ste g, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0529981,
+                    "lng": -117.2601254
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05426192989272,
+                        "lng": -117.2587745701072
+                    },
+                    "southwest": {
+                        "lat": 33.05156227010728,
+                        "lng": -117.2614742298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Tea Drops",
+            "permanently_closed": true,
+            "place_id": "ChIJ4yM0DlEL3IARrr_8g8YyFWA",
+            "plus_code": {
+                "compound_code": "3P3Q+5W Encinitas, California",
+                "global_code": "85543P3Q+5W"
+            },
+            "rating": 0,
+            "reference": "ChIJ4yM0DlEL3IARrr_8g8YyFWA",
+            "types": [
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 0
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "945 W Valley Pkwy Ste. D, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1170995,
+                    "lng": -117.0948993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11861662989271,
+                        "lng": -117.0934332701073
+                    },
+                    "southwest": {
+                        "lat": 33.11591697010727,
+                        "lng": -117.0961329298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Sharetea Escondido",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107296751798642183363\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEARn4XILArdLJbbQ_WESXzZhnz0DbGWBdTaYD_a34i42fA2UOHp2SV253bFMHPAr4JmlRlNe2i3WOOF3iNgGxTPqJSEgURnCX0yak8dKUjwVpx_bcGUNjRv2THJUtih6PaY-gIB3KHp_fv9lBrS5s8-e0g6oo7WZo-mA-8LoJV56JPg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJe_x0BPb124ARw94CxPLdJ9U",
+            "plus_code": {
+                "compound_code": "4W84+R2 Escondido, California",
+                "global_code": "85544W84+R2"
+            },
+            "price_level": 1,
+            "rating": 4.3,
+            "reference": "ChIJe_x0BPb124ARw94CxPLdJ9U",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 232
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "940 W San Marcos Blvd, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1357953,
+                    "lng": -117.186441
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13707707989271,
+                        "lng": -117.1850498201073
+                    },
+                    "southwest": {
+                        "lat": 33.13437742010726,
+                        "lng": -117.1877494798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Serenitea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4048,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109881579274183953244\">Lon Mok</a>"
+                    ],
+                    "photo_reference": "Aap_uEAvJQ03u2dd7MuIFN6nxKthsmDFOLrTeKERitOuULSEiBKaHMuVG4_J24W85CBPAZv4wg8wm8DjipRx05imSE32PDrS2bf8P-qaYAJvdSnPcZKajgTpUFY-CRtN8kkSQDNeYwU6AnBkWlDE60JdRQAI-v8dsU9sxBN6tN9e8_eTIzII",
+                    "width": 3036
+                }
+            ],
+            "place_id": "ChIJqwt98k913IARF9MhArFD1iQ",
+            "plus_code": {
+                "compound_code": "4RP7+89 San Marcos, California",
+                "global_code": "85544RP7+89"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJqwt98k913IARF9MhArFD1iQ",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 151
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "11491 Carmel Mountain Rd, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9778529,
+                    "lng": -117.083505
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.97920092989273,
+                        "lng": -117.0821400701072
+                    },
+                    "southwest": {
+                        "lat": 32.97650127010728,
+                        "lng": -117.0848397298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Kung Fu Tea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117138107462413682807\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAmcstLZ5N9imvfbOa2i6qXZoMHZyP-QAtDjyuC2nXoK54CdKVNqFF9xiQp_sopDBOEZ8e_959YrIzUlF_62kPAlTm9JISNNex5il6YRPciIN25ZCqddANMYvWMTq2OCEmA9lWlDZv2M04nnh9_k0_NzLuMf18ZYCeIaUAeCWA_9TOY",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJb8p3ThL524ARLSjTb86of00",
+            "plus_code": {
+                "compound_code": "XWH8+4H San Diego, California",
+                "global_code": "8544XWH8+4H"
+            },
+            "price_level": 1,
+            "rating": 4,
+            "reference": "ChIJb8p3ThL524ARLSjTb86of00",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 169
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "16691 Bernardo Center Dr, San Diego, CA 92128, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0174149,
+                    "lng": -117.0756395
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.01878552989272,
+                        "lng": -117.0743568701073
+                    },
+                    "southwest": {
+                        "lat": 33.01608587010728,
+                        "lng": -117.0770565298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Poppy Kitchen Boba Cafe",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106395751366064604967\">Anfisa Sokolova</a>"
+                    ],
+                    "photo_reference": "Aap_uECbGy5Uer4l1HPquukuVSzTF6-NZy5PX-I-O75KJDfD87KGdzaVE0pN64Ckmyf1X7AwY0bzY8W8k-jG7jcK_sjfBGaB--qIMZ_RwLa-DYy-BGbB9gH_6HtZ5rnVRrVCzms_VRqnJhDKwFgkLPoMPGm5-2bV7EOWTgUmz5GdutPJAvaI",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJdw9gPVzx24ARvOwhARIBHNk",
+            "plus_code": {
+                "compound_code": "2W8F+XP San Diego, California",
+                "global_code": "85542W8F+XP"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJdw9gPVzx24ARvOwhARIBHNk",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 74
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "510 N Coast Hwy 101, Encinitas, CA 92024, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0583002,
+                    "lng": -117.299643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.05972272989272,
+                        "lng": -117.2982273201072
+                    },
+                    "southwest": {
+                        "lat": 33.05702307010728,
+                        "lng": -117.3009269798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Pannikin Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 2620,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105933852212260237012\">Brandon McKinney</a>"
+                    ],
+                    "photo_reference": "Aap_uEDrVxPYuH500rzm3_GLdhjJ9wqdO0N0UwAvD2KQqto1TJIFEO1_Y4gWw-YggCe1HcxLC1alizsI46aH3PL_w0SVAlWIceIOtu_AUomedgOpUY-KmmrQwQTtDIfvcoHUdqFl1iSmpyMcY7udUnpLa4wGD3uQeAg132lDKt8TauOAH3MU",
+                    "width": 4656
+                }
+            ],
+            "place_id": "ChIJo_2OLfYM3IARwjQsRjHBPKE",
+            "plus_code": {
+                "compound_code": "3P52+84 Encinitas, California",
+                "global_code": "85543P52+84"
+            },
+            "price_level": 2,
+            "rating": 4.5,
+            "reference": "ChIJo_2OLfYM3IARwjQsRjHBPKE",
+            "types": [
+                "cafe",
+                "restaurant",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1093
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "10920 Roselle St, San Diego, CA 92121, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9020347,
+                    "lng": -117.2255682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.90339632989271,
+                        "lng": -117.2242150701073
+                    },
+                    "southwest": {
+                        "lat": 32.90069667010727,
+                        "lng": -117.2269147298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Zumbar Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3036,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108371843534469340563\">jane l</a>"
+                    ],
+                    "photo_reference": "Aap_uECFnZiADi_51AJ5xqoiRC4D19AexrfqIoHjNcX_asI24nTKz8OGBW5i9XYBb0FJlwcsyb2mlL0N5QZiLUg5o_hwPEP7N7NZVME_ZZDFIZ_cznkvRig62OcGwef7OBpDXtFzWY6rSFyzwnvibXvuOX3-SZwYdvlu-l7RaxvGRRzevCax",
+                    "width": 4048
+                }
+            ],
+            "place_id": "ChIJszvcEvwG3IARqvFPtI646ao",
+            "plus_code": {
+                "compound_code": "WQ2F+QP San Diego, California",
+                "global_code": "8544WQ2F+QP"
+            },
+            "price_level": 1,
+            "rating": 4.7,
+            "reference": "ChIJszvcEvwG3IARqvFPtI646ao",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 632
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6123 Calzada Del Bosque, Rancho Santa Fe, CA 92091, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.0048028,
+                    "lng": -117.1996131
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00629117989272,
+                        "lng": -117.1982945201073
+                    },
+                    "southwest": {
+                        "lat": 33.00359152010727,
+                        "lng": -117.2009941798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Nōjō Coffee & Tea",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110006390153410721697\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDIlxe7PC65VivyT9QRESTILtYVqYWkg1Aqxdo3yqkYksH9oKrGyaBXS9u3UCwMe6uoSUfUSwk3Fqk-YKPZXRYiedqe2evgiG1fvkQ4fQHpOGLp_3aIFz_FEtUNnvNi5caG6txpRonNyOuuGHZFcTWkZeGKfMzOSdDMqk38qRzhj2m5",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJn5-m8x8J3IARNwpkWwm1EKc",
+            "plus_code": {
+                "compound_code": "2R32+W5 Rancho Santa Fe, California",
+                "global_code": "85542R32+W5"
+            },
+            "rating": 4.9,
+            "reference": "ChIJn5-m8x8J3IARNwpkWwm1EKc",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 14
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8280 Mira Mesa Blvd Ste C, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9146061,
+                    "lng": -117.1460913
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91598987989272,
+                        "lng": -117.1444962701073
+                    },
+                    "southwest": {
+                        "lat": 32.91329022010728,
+                        "lng": -117.1471959298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "DingTea San Diego",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110757841916024889566\">MSP</a>"
+                    ],
+                    "photo_reference": "Aap_uEDy3ujA8cUo9ELGGKuHyizkK51pmlyKFKhUMfX7g9FvUX4nste_rpXRyqGy-LCMadCcxEpCLSW2JAR3MSBtrxoTTygUVLE365t-XtGCUHyGMbptMKCbCcgDGDKleSlM3oOCLncS2-IVhCliDCcQ34LGpMxkV3T-hotsf8ZDATDhNGFN",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJleuRsO3424AR4PHwF_zSWnw",
+            "plus_code": {
+                "compound_code": "WV73+RH San Diego, California",
+                "global_code": "8544WV73+RH"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJleuRsO3424AR4PHwF_zSWnw",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 214
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "5620 Paseo Del Norte #123C, Carlsbad, CA 92008, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1251259,
+                    "lng": -117.3202903
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.12640432989273,
+                        "lng": -117.3190027201073
+                    },
+                    "southwest": {
+                        "lat": 33.12370467010729,
+                        "lng": -117.3217023798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Tea Monks",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1372,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111854604318772372945\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEDZXlitPVdAWwe70tLkTTxJutSJfpy0qINeDadjKmb00D33IGNmS-2yVcEXaDWkuzd95OQstWyTAdwerFeF2J8o9-kkSYdnbSnMk_RCQEK-CTAcGmQVl-cXJYGdwSAa_c6UkjHoGMOkDq9vZX7WYqntgQlzjqZ6_Yhu4EOZTcf_Jcew",
+                    "width": 932
+                }
+            ],
+            "place_id": "ChIJc6AKefpz3IARdLJrBlD7ziI",
+            "plus_code": {
+                "compound_code": "4MGH+3V Carlsbad, California",
+                "global_code": "85544MGH+3V"
+            },
+            "rating": 4.4,
+            "reference": "ChIJc6AKefpz3IARdLJrBlD7ziI",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "14 Creekside Dr #101, San Marcos, CA 92078, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1355313,
+                    "lng": -117.1787321
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13691192989272,
+                        "lng": -117.1773067201073
+                    },
+                    "southwest": {
+                        "lat": 33.13421227010728,
+                        "lng": -117.1800063798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "kung fu tea",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116280387570477878143\">Mingwei Zhang</a>"
+                    ],
+                    "photo_reference": "Aap_uEDfnkdO4-pVXtKgsxcfa8gZmVOy8snDjUtC41rRGnZ4jyvWHnEaZyjGCCV-z4Ru0O_xqSxUzBTUBYHU319-KBEwAtMcSas7jaxD3TJGmuFIWvk0j3MzxkBlfEXmiatONQ0r_vM3m7YYK1ozEzipaA80U0nOGXduDHBu0ufbsuQf3-s7",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJwQ3wc_h13IARlrzJv0jM1Gg",
+            "plus_code": {
+                "compound_code": "4RPC+6G San Marcos, California",
+                "global_code": "85544RPC+6G"
+            },
+            "price_level": 1,
+            "rating": 4.2,
+            "reference": "ChIJwQ3wc_h13IARlrzJv0jM1Gg",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 134
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1024 W Valley Pkwy, Escondido, CA 92025, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.1177519,
+                    "lng": -117.0969002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.11905157989272,
+                        "lng": -117.0954441701073
+                    },
+                    "southwest": {
+                        "lat": 33.11635192010728,
+                        "lng": -117.0981438298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Matcha Cafe Maiko - Escondido",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114784302824368775846\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBz_RmwBwQtmO3Z4MOP8YXyKYRKCY-c2kGOb5yIHJvKk5b0PSbkBhG7zx4XHNPiKq-5TEFWLWmXYZDQAeKwIJ0KVEBH3FUVo55ZlTxKPib-1VBrIT02346oGNAxUWf_V1gBgOE1PMDudK7soNeiueRGzJmgDimetV6c7L7F7w_k9nWJ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJKxgw2p7124ARE_ZmDB13_g8",
+            "plus_code": {
+                "compound_code": "4W93+46 Escondido, California",
+                "global_code": "85544W93+46"
+            },
+            "price_level": 1,
+            "rating": 4.5,
+            "reference": "ChIJKxgw2p7124ARE_ZmDB13_g8",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 24
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1815 E Valley Pkwy, Escondido, CA 92027, United States",
+            "geometry": {
+                "location": {
+                    "lat": 33.135705,
+                    "lng": -117.0547445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.13711557989272,
+                        "lng": -117.0534474201073
+                    },
+                    "southwest": {
+                        "lat": 33.13441592010728,
+                        "lng": -117.0561470798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+            "icon_background_color": "#FF9E67",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+            "name": "Ding Tea Escondido",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116669980955656593955\">thecoolestgingerkid</a>"
+                    ],
+                    "photo_reference": "Aap_uECKznBqLZqwrsIhNH99BwQqJYwCHer6zPWqNDRkHKenr87a3CBOLjxPZzrLUnD6Nyn_-GkqzZt-ZFjQ5aRwOsHfnuC8sNZASHPFGbd9Y5QuMGLJUDB_NAzT2ajRyGLanyynDKN0xlaqdDueKNspjC3Otb6fcRa7vc2a-qg9sQbYO1qX",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJ53MZktTz24AR2fC9ZjVI7NY",
+            "plus_code": {
+                "compound_code": "4WPW+74 Escondido, California",
+                "global_code": "85544WPW+74"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ53MZktTz24AR2fC9ZjVI7NY",
+            "types": [
+                "cafe",
+                "food",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 109
+        }
+    ],
+    "status": "OK"
+}

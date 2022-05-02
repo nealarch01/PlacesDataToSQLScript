@@ -1,0 +1,1031 @@
+{
+    "html_attributions": [],
+    "next_page_token": "Aap_uEAhS3zJCj57YPdoltCdPzyc4aIO2LjdS25JZvQL-hlNB6xIixExOtMcELM-dq_VGTeAbEe44LZByKuWTEdlFF5AXlpoLtAaxkBnk6KU7H2VcY3abmids2zRMcNUvZXJGKoZCqsTSlOrOW9iJOFZmvIiZTGrzHRBf2UMkR2e_H0lSd7VGkVuqLJSpYAzfYxnNzHeqyySQKiMMUEzRTwapVd20QRTATCOJP45u0wO56mndROJb3B3lKZRhEnTOrM3oEeOLq5G-Sc5nVrmKv5tD3FN_IW0CIJZNpNA7ukrEyt5XXxiG5Ktv7guG4zzk8L0Sl_AHJtUcwPAQUtmySF-FWZPO6d1KnQRIsB2-nLsX2s_O_hoT5ZfDARXr1g-HTGEfA-fcmGyntoyNF52JPN00KpoPasdm5zFugeR7Q",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3240 Sports Arena Blvd, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7534311,
+                    "lng": -117.2077601
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75467162989273,
+                        "lng": -117.2064534201073
+                    },
+                    "southwest": {
+                        "lat": 32.75197197010728,
+                        "lng": -117.2091530798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Salvation Army Thrift Store & Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116804915153442490426\">Julia Cassen</a>"
+                    ],
+                    "photo_reference": "Aap_uECtihjEds_ze1Zp4cxD-_tvPsqsb-TVsTlx-9-5hdCoJ9oSKv7JhMATEXBzFm_dvOS0e16qrvqV6rL8lPYbJleOUnaOkk63bDf6eHBnKp4eeUzhth1C2UDDNTizVzu60DZkcRU54sEUtMYl8h9C7GDCSd0g4LX1A0r0Elc3MWVv5__5",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJZx2x2OSq3oARnur9zzKZK4U",
+            "plus_code": {
+                "compound_code": "QQ3R+9V San Diego, California",
+                "global_code": "8544QQ3R+9V"
+            },
+            "rating": 4.1,
+            "reference": "ChIJZx2x2OSq3oARnur9zzKZK4U",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 308
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4220 Balboa Ave, San Diego, CA 92117, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.8125407,
+                    "lng": -117.2002913
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.81383632989272,
+                        "lng": -117.1989496201073
+                    },
+                    "southwest": {
+                        "lat": 32.81113667010727,
+                        "lng": -117.2016492798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102560311628631394728\">Timothy Frederick</a>"
+                    ],
+                    "photo_reference": "Aap_uEB23P1CQ9rI6nc7SgYj1lE6MUfVZIzRwG3WYxnjVUTTZUA5sYiHWhZxF1hlEsUqqgNUIXlnRgwR8XRXzBOw2EMQ5vyBgPlLd036UG8nRiRnMNl79w3T9l3x-iA2j9rn5ZSCc4whGfR0BW_jSGeJetDxJ-7s1FmXfqlt-DRhI7ylNXQV",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJC1TT5EAA3IARACWiiKc7fU8",
+            "plus_code": {
+                "compound_code": "RQ7X+2V San Diego, California",
+                "global_code": "8544RQ7X+2V"
+            },
+            "rating": 3.8,
+            "reference": "ChIJC1TT5EAA3IARACWiiKc7fU8",
+            "types": [
+                "book_store",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 150
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3611 Adams Ave, San Diego, CA 92116, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7631401,
+                    "lng": -117.1148168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76454582989273,
+                        "lng": -117.1134693701073
+                    },
+                    "southwest": {
+                        "lat": 32.76184617010728,
+                        "lng": -117.1161690298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Home Start Thrift Boutique",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1908,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100706064189417441729\">Chris Gilstrap</a>"
+                    ],
+                    "photo_reference": "Aap_uEDCwkZKEzftYh_UPl5PwK0xGiVPOMQmw97VdsBGSeZxTI_7hs0obLIETEGnp2oZE5SYBrXCO3q40EuCf-m7Wp9LC_ceWw0RDRwdxd9fYAD5V0mGdv1a7Yn1sXgznL0c983CQgkRmq6oVX9DYeQthYdVeKiz4TY7X5bPDkgdSMR3GSDV",
+                    "width": 3805
+                }
+            ],
+            "place_id": "ChIJ_dKMCVJU2YARuFsy9Zi4K-o",
+            "plus_code": {
+                "compound_code": "QV7P+63 San Diego, California",
+                "global_code": "8544QV7P+63"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ_dKMCVJU2YARuFsy9Zi4K-o",
+            "types": [
+                "book_store",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 34
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "343 16th St, San Diego, CA 92101, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7089925,
+                    "lng": -117.1492059
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71032512989272,
+                        "lng": -117.1479507201073
+                    },
+                    "southwest": {
+                        "lat": 32.70762547010728,
+                        "lng": -117.1506503798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103080018248480103802\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEBM22ijySdXmGYuFxh3biPjwg6xxCeWT2vzClaFquNxms6OaGdez0ZHsdI--4Zp5OSuzhoTs8V6m-I3Y7pp28uESSFxOrgcyrkUnu2d2TbPKxzOAgXpzZpQKz8efXUCfnDVie0uDqeqAo49w05ja-e7iYhQNgpSbADSY4Wb73NylxaN",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJNShykGdT2YARS3PKM1g8Gpc",
+            "plus_code": {
+                "compound_code": "PV52+J8 San Diego, California",
+                "global_code": "8544PV52+J8"
+            },
+            "rating": 4.1,
+            "reference": "ChIJNShykGdT2YARS3PKM1g8Gpc",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 193
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3603 Camino Del Rio W, San Diego, CA 92106, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7559865,
+                    "lng": -117.2043031
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75741662989272,
+                        "lng": -117.2031507701073
+                    },
+                    "southwest": {
+                        "lat": 32.75471697010728,
+                        "lng": -117.2058504298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Rock Thrift Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103439154115434110730\">Sd Iib</a>"
+                    ],
+                    "photo_reference": "Aap_uEBSAuT1CKdMgVdC9SmG4qfcmxZZSZ_PWwDLGAiVfajPBRXfNn8AGrzHTNPf1NYQY1ms3gKxNkdnCyB8rh77otwqv3gNFVyAKtphDBgUDjV5iKV2ybI6wser5xYGgHBh8ikeMEFSnPmfx5aGrkEjNg0bw4pzX39I67pjtsVh_Z6Pjhk",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-dMkl-Sq3oARSMVV0lgNVWg",
+            "plus_code": {
+                "compound_code": "QQ4W+97 San Diego, California",
+                "global_code": "8544QQ4W+97"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ-dMkl-Sq3oARSMVV0lgNVWg",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 196
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "9460 Mira Mesa Blvd unit N, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9190535,
+                    "lng": -117.1210016
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.92036612989273,
+                        "lng": -117.1196387701073
+                    },
+                    "southwest": {
+                        "lat": 32.91766647010728,
+                        "lng": -117.1223384298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "CSU Thrift",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116543863720262311327\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEAsOG_8evGO-a2mS9f9HZrlfGQY8XVEHhxb-ox5bej5sTTj7OaxRKxMH7ez8RtbS9cTPS7Uf1ATSsyT_ZhMnFcGBmvYdM_Vtg-PelIeGSqTnOyT9EJ6nKWH4cSE1jnGUQDQTH9JlSdXUzSQqFFKgvh9Icibgkl8TK7a_VKPa2eF_8c9",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ6e4Z3HP524ARqBt4-zXDDjM",
+            "plus_code": {
+                "compound_code": "WV9H+JH San Diego, California",
+                "global_code": "8544WV9H+JH"
+            },
+            "rating": 4.3,
+            "reference": "ChIJ6e4Z3HP524ARqBt4-zXDDjM",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 15
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3441 Sutherland St #2031, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7420441,
+                    "lng": -117.1859342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74338912989272,
+                        "lng": -117.1846671201073
+                    },
+                    "southwest": {
+                        "lat": 32.74068947010727,
+                        "lng": -117.1873667798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Team Amvets Thrift Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3096,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113264702767260555548\">Miguel Rodriguez</a>"
+                    ],
+                    "photo_reference": "Aap_uECCWIoxD4dhQIhBMVfofa-Du0CowKTX8JQfZndHpqUrKVaW61-L-Kk6OuaukjvG6C6WZVpbKEHr5avzPsktW28by5zfHXQ1fZYR1a6UGOyUxgTgSt86WwZXv1lTQYlQE6PB9xOfLcbKj4Vo3bVxyJ2tQfFJwZAN1befXZvh-Lxte4PH",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJb-3oZiWr3oARXznxXpkj1Po",
+            "plus_code": {
+                "compound_code": "PRR7+RJ San Diego, California",
+                "global_code": "8544PRR7+RJ"
+            },
+            "rating": 4.2,
+            "reference": "ChIJb-3oZiWr3oARXznxXpkj1Po",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 385
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1430 Garnet Ave, San Diego, CA 92109, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7992802,
+                    "lng": -117.2438908
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.80060417989272,
+                        "lng": -117.2425355201073
+                    },
+                    "southwest": {
+                        "lat": 32.79790452010727,
+                        "lng": -117.2452351798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1536,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102331407171949260564\">Robert Felderman</a>"
+                    ],
+                    "photo_reference": "Aap_uEBCDE6yuIEqR9mm7nrEcKt8zLIth3XlcgZ2LMJaihwkIkFHKY3y7n78VcvTPMz0xrrCfTasnSJfdTfKxtXPJUgl-hbyloYrZRebR1oX0jvXfwFzfMGZYiyfp0XCa42_XvXOhOsb3zU9fUx-H1tL1tZGQ8QyQqN0cuX5nVqLlDQpmtDx",
+                    "width": 2729
+                }
+            ],
+            "place_id": "ChIJJQRKAsAB3IAR9c-Off-1I1w",
+            "plus_code": {
+                "compound_code": "QQX4+QC San Diego, California",
+                "global_code": "8544QQX4+QC"
+            },
+            "rating": 4.1,
+            "reference": "ChIJJQRKAsAB3IAR9c-Off-1I1w",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 154
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "2609 Congress St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7525712,
+                    "lng": -117.196841
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75388287989273,
+                        "lng": -117.1954425701073
+                    },
+                    "southwest": {
+                        "lat": 32.75118322010729,
+                        "lng": -117.1981422298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Honest Thrift Studio",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103451245017998749912\">Honest Thrift and Furniture</a>"
+                    ],
+                    "photo_reference": "Aap_uEASOEvNUeVqi9Gn9KEQC1E17avCxSw5sZ-TDA0nCTCkQ9xOePA9HKevWD-R10pyd4vowhVuRCQzOo8SzJB1oQCWGWrUmnJoN6iQlhCoC0mVTFGGdMNGBLR_qhRYJOAEMFiQNAsaCYHLeWKbTo_Z2FutJXkxFIO_iAnUugoFANZYTygJ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJEcI-7QKr3oARpgHFLaAnsfI",
+            "plus_code": {
+                "compound_code": "QR33+36 San Diego, California",
+                "global_code": "8544QR33+36"
+            },
+            "rating": 4.9,
+            "reference": "ChIJEcI-7QKr3oARpgHFLaAnsfI",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 40
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "6875 El Cajon Blvd, San Diego, CA 92115, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.768489,
+                    "lng": -117.0498783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.76986857989273,
+                        "lng": -117.0485916201073
+                    },
+                    "southwest": {
+                        "lat": 32.76716892010728,
+                        "lng": -117.0512912798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "The Salvation Army Thrift Store & Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/106567087152321042025\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uEC-rMEgzZR9Am3nCjzC-X2TnQ489bPsczjaqAOkEftd2poTej2OdjzqEXQRpvB4SVO4DkU0wFH57mOoJFgO9XxA-IW4Fcea5zQajzqwROe4wv2dhis-jjZlqnscEJ4qT9aHvYDnqGCMAxUBo-OV-AI-vjS6At-7usOtbVSr8RGXD2ca",
+                    "width": 2456
+                }
+            ],
+            "place_id": "ChIJr-7xnu5W2YARabnbsMlbNvg",
+            "plus_code": {
+                "compound_code": "QX92+92 San Diego, California",
+                "global_code": "8544QX92+92"
+            },
+            "rating": 4,
+            "reference": "ChIJr-7xnu5W2YARabnbsMlbNvg",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 192
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3663 Rosecrans St, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7505796,
+                    "lng": -117.2046587
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75206692989272,
+                        "lng": -117.2032410701073
+                    },
+                    "southwest": {
+                        "lat": 32.74936727010728,
+                        "lng": -117.2059407298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3888,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108030112792430068379\">Alan Robinson</a>"
+                    ],
+                    "photo_reference": "Aap_uEAQh85orvgeStuAZTPN8G-hjPWHOW90YFh_mKDzokvfYqAHbyYbczipnY7Z3EJdFHdRol6WMBVIAhVxSUAMpxLxi0egESnxxNPnnxiqjOOUITalO8P1qOw5_pEev8WWH-t7iJ9WRqj_F68xjl8DVvBSvAU1LkWtQi0vDoctL8zK3fgE",
+                    "width": 7024
+                }
+            ],
+            "place_id": "ChIJu8DukeOq3oAR_lwulp4BDLU",
+            "plus_code": {
+                "compound_code": "QQ2W+64 San Diego, California",
+                "global_code": "8544QQ2W+64"
+            },
+            "rating": 4,
+            "reference": "ChIJu8DukeOq3oAR_lwulp4BDLU",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 187
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4927 Newport Ave, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.74599,
+                    "lng": -117.2500467
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74742082989272,
+                        "lng": -117.2486271701073
+                    },
+                    "southwest": {
+                        "lat": 32.74472117010728,
+                        "lng": -117.2513268298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "OB Thrift Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4160,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107883525907594478315\">A Google User</a>"
+                    ],
+                    "photo_reference": "Aap_uED_pSbvGLwuxsWGWlZGTexn2AQmxXGTUyRWXm_VvaOqoBKRlXS3cLm8-ybtLco1AecG9U6VdjFyGz8aZFdMvOdL0A8pgLrGKLSzq-GB0ltGA9ucl2ZCeHclvtRVxvUwmgiiBX0pXf2tRJ7psdg0GGYMFRlurzDh5uIi5JxwHb6yLKCV",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJUXqeTUqr3oARVzjAsmMpvXI",
+            "plus_code": {
+                "compound_code": "PPWX+9X San Diego, California",
+                "global_code": "8544PPWX+9X"
+            },
+            "rating": 4.8,
+            "reference": "ChIJUXqeTUqr3oARVzjAsmMpvXI",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 43
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3862 Fifth Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7479131,
+                    "lng": -117.1606142
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74926177989272,
+                        "lng": -117.1592190201073
+                    },
+                    "southwest": {
+                        "lat": 32.74656212010728,
+                        "lng": -117.1619186798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Buffalo Exchange",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2200,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109290463110393988448\">Buffalo Exchange</a>"
+                    ],
+                    "photo_reference": "Aap_uEBO7mi6yyrY_wkulrpuUP0pwzMJhM5BD7rVb0JI0lrTmkg0n08Qq48ICUnLSi_5IVwnR2QSSW92hISeAJiJhT_PoBzzy0hn1u-dzxtdv96PlFQxWQZnJ4wxSMlh6iz2tYAt6yWoBKIbsgaF5XQIvLuq3yEREb-ffxGOz-i4e_c9cb52",
+                    "width": 4320
+                }
+            ],
+            "place_id": "ChIJ65sBk9pU2YARrRLec97kuek",
+            "plus_code": {
+                "compound_code": "PRXQ+5P San Diego, California",
+                "global_code": "8544PRXQ+5P"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ65sBk9pU2YARrRLec97kuek",
+            "types": [
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 292
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "3609 Midway Dr # C, San Diego, CA 92110, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7519003,
+                    "lng": -117.2157228
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75315992989272,
+                        "lng": -117.2144497701073
+                    },
+                    "southwest": {
+                        "lat": 32.75046027010728,
+                        "lng": -117.2171494298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "American Cancer Society Discovery Shop",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 768,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107006406153065732755\">Stephen Brocker</a>"
+                    ],
+                    "photo_reference": "Aap_uEDOUwZvN6kvcVH2d5vQJbttnPTAtX_JLYWlTspfcDSdz66fymQY2VNKiVUjUtwdCy8q0VivX9C_EwbEs8SWQwgqjvtz6C2ZmyvcXGCzbu9P3mIGa_cvB4vM9ft6gtJYJeOQPZS9kDwE3l1GQUHw856mmHCp6Bh0J-54UZ9ulCye1W85",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ1Qtxmfmq3oARZlh9FK-aXuE",
+            "plus_code": {
+                "compound_code": "QQ2M+QP San Diego, California",
+                "global_code": "8544QQ2M+QP"
+            },
+            "rating": 4.5,
+            "reference": "ChIJ1Qtxmfmq3oARZlh9FK-aXuE",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 40
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "1219 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7482466,
+                    "lng": -117.1530103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74969637989273,
+                        "lng": -117.1516826701073
+                    },
+                    "southwest": {
+                        "lat": 32.74699672010728,
+                        "lng": -117.1543823298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111494433224853183943\">Tali Lerner</a>"
+                    ],
+                    "photo_reference": "Aap_uED-yyDFMV39AzQIKF7CaOvLiUgYDWL2keO9cJNXQ-OZFttvzeAMCsOMQt2bwOWFlkQUa_VU6U4xVwy1S3sHIvXAj9d2U25DKr7ZsEKnzt3jzOnyNa12dBFDyN9QDu3B23Haj7yrwdXyKESMIuNFJ_IUzinBr2ugCVdUoFCgBBXX6iMC",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJyUv01dxU2YARVEjxXjHUkMM",
+            "plus_code": {
+                "compound_code": "PRXW+8Q San Diego, California",
+                "global_code": "8544PRXW+8Q"
+            },
+            "rating": 4.3,
+            "reference": "ChIJyUv01dxU2YARVEjxXjHUkMM",
+            "types": [
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 318
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4967 Newport Ave, San Diego, CA 92107, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7464434,
+                    "lng": -117.2506342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74777202989272,
+                        "lng": -117.2493025701073
+                    },
+                    "southwest": {
+                        "lat": 32.74507237010728,
+                        "lng": -117.2520022298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Humble Heart Thrift Store",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110840789451186971777\">Caleb Everson</a>"
+                    ],
+                    "photo_reference": "Aap_uECRWcSQleDqH3qL3oAC3a1gVzMJJtQJrHFhKVUa5fktPCy3QQEFCrGYEdgP_Y-_FCYNpX4Yrpz9qc-UZUT21nTJC_DxsGkAHDuQZUvv2BsGvY1mEyyiQBKbo6_bYlsuYZ88PPJbA8ir80jHwSIK9RqPRivjCEd53U_o9BoWH2g6ToP5",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJOfrPZmdT2YAR9mou58tf994",
+            "plus_code": {
+                "compound_code": "PPWX+GM San Diego, California",
+                "global_code": "8544PPWX+GM"
+            },
+            "rating": 4.2,
+            "reference": "ChIJOfrPZmdT2YAR9mou58tf994",
+            "types": [
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 78
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "4127 30th St, San Diego, CA 92104, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7527706,
+                    "lng": -117.1298995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.75411967989273,
+                        "lng": -117.1286868701073
+                    },
+                    "southwest": {
+                        "lat": 32.75142002010728,
+                        "lng": -117.1313865298928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Auntie Helen's",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 523,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104218202069833261678\">Auntie Helen&#39;s Thrift Shop</a>"
+                    ],
+                    "photo_reference": "Aap_uEDo-IDcRLJxJvTln5Y1vpPXrW_E-12IYyXXzqn9VCCfIaiX6Pq-DUPwUzLRDenm-wMq-w1rfZH-ZcAYQktCSJWyj4c4WPA8lO2qzWCSd3yHlMCh4Z5f3rDxIfPmlIV8J1EUpw3ekd29lgqnZ1Z66rwPKPTOShpUioT85YrvVCfen8s_",
+                    "width": 703
+                }
+            ],
+            "place_id": "ChIJfyPyHPdU2YAR5emFxhpj338",
+            "plus_code": {
+                "compound_code": "QV3C+42 San Diego, California",
+                "global_code": "8544QV3C+42"
+            },
+            "rating": 4.3,
+            "reference": "ChIJfyPyHPdU2YAR5emFxhpj338",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 55
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "108 University Ave, San Diego, CA 92103, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7484753,
+                    "lng": -117.163682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.74970922989272,
+                        "lng": -117.1623389701073
+                    },
+                    "southwest": {
+                        "lat": 32.74700957010727,
+                        "lng": -117.1650386298927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Assistance League of Greater San Diego",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 4000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103853853051491511917\">Daniel Potter</a>"
+                    ],
+                    "photo_reference": "Aap_uECNYrPkD1uh71LCU28XyR-WloooKyZnvX7vbInQmdQ5gQTgWtR3XTPxdcEiff8Yh3PLaEDGNg80NWbj8MS1JpXpoNjaa1z04mBmPUCCeeU8DnMdmZn1M-Rr2rcw6TgLFg1BBcxkha8_FRRihHe85D-zprRzQx3DvzPppS8WcpaxHrod",
+                    "width": 3000
+                }
+            ],
+            "place_id": "ChIJ8fWU9tBU2YARoVG1nACJdiY",
+            "plus_code": {
+                "compound_code": "PRXP+9G San Diego, California",
+                "global_code": "8544PRXP+9G"
+            },
+            "rating": 3.8,
+            "reference": "ChIJ8fWU9tBU2YARoVG1nACJdiY",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 29
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "999 Cardiff St, San Diego, CA 92114, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.7167181,
+                    "lng": -117.0250711
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.71808147989272,
+                        "lng": -117.0239096201073
+                    },
+                    "southwest": {
+                        "lat": 32.71538182010728,
+                        "lng": -117.0266092798928
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Amvets Thrift Store",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3120,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102560311628631394728\">Timothy Frederick</a>"
+                    ],
+                    "photo_reference": "Aap_uEBvGqjut-aaVfYBumWIK_CRHIMkfx6zewfox84XwEGpLbFeV-xUSL_QCcyh25dnvwyyikS74dxK3oyjaf-2XJskU5z3PCAGerCBookz_cDgEgicIF_ZZwgvIAyPlfs5jSeVgMsFo4wgh9f6RpHpAt7UNNbFfbrM4fYEu64t4QiGeA2u",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJHVLckORQ2YARgZKnrInNvKM",
+            "plus_code": {
+                "compound_code": "PX8G+P3 San Diego, California",
+                "global_code": "8544PX8G+P3"
+            },
+            "rating": 4.1,
+            "reference": "ChIJHVLckORQ2YARgZKnrInNvKM",
+            "types": [
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 258
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "formatted_address": "8145 Mira Mesa Blvd #2A, San Diego, CA 92126, United States",
+            "geometry": {
+                "location": {
+                    "lat": 32.9112159,
+                    "lng": -117.1479155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.91259542989273,
+                        "lng": -117.1465503201073
+                    },
+                    "southwest": {
+                        "lat": 32.90989577010728,
+                        "lng": -117.1492499798927
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "icon_background_color": "#4B96F3",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+            "name": "Goodwill Retail Store and Donation Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/101486874990193264366\">Harris Laskaris</a>"
+                    ],
+                    "photo_reference": "Aap_uECUdPQ7HqiGqc7scplXMuTaLlq6jLOuCgC9drk1-eWqzKJujSlqLikpi_nCxsIkXg7F28LPvOtw8jh_WnUztoqOq6pxvdj1025CXVFN_7k-_5-F5Phx3rUefA7EDkeiwqDy9B8vwei5-kmI9ohfOYQ8h5MQeP0CoCzaI-DTlQs5oF72",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJbw-Wkez424ARWpwi7hHyl0M",
+            "plus_code": {
+                "compound_code": "WV62+CV San Diego, California",
+                "global_code": "8544WV62+CV"
+            },
+            "rating": 4.1,
+            "reference": "ChIJbw-Wkez424ARWpwi7hHyl0M",
+            "types": [
+                "book_store",
+                "furniture_store",
+                "home_goods_store",
+                "point_of_interest",
+                "clothing_store",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 108
+        }
+    ],
+    "status": "OK"
+}
