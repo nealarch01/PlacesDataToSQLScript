@@ -1,63 +1,142 @@
-// Places imports
-import AmusementPark from "./PlacesData/amusement-park.json";
-import Aquarium from "./PlacesData/aquarium.json";
-import Arcade from "./PlacesData/arcade.json";
-import Bakery from "./PlacesData/bakery.json";
-import Bar from "./PlacesData/bar.json";
-import Bowling from "./PlacesData/bowling.json";
-import Cafe from "./PlacesData/cafe.json";
-import Casino from "./PlacesData/casino.json";
-import FarmersMarket from "./PlacesData/farmers-market.json";
-import Museum from "./PlacesData/museum.json";
-import NightClub from "./PlacesData/night-club.json";
-import Parks from "./PlacesData/parks.json";
-import Restaurant from "./PlacesData/restaurant.json";
-import ShoppingMalls from "./PlacesData/shopping-malls.json";
-import ThriftStores from "./PlacesData/thrift-stores.json";
-import Trails from "./PlacesData/trails.json";
+// Utility import
+import { getAddress, getCity, getState, getPostalCode } from "./utils/extract-address-data";
 
 // Library imports
 import fs from "fs"; // Node file system
 
-const allPlaces = [
-    AmusementPark,
-    Aquarium,
-    Arcade,
-    Bakery,
-    Bar,
-    Bowling,
-    Cafe,
-    Casino,
-    FarmersMarket,
-    Museum,
-    NightClub,
-    Parks,
-    Restaurant,
-    ShoppingMalls,
-    ThriftStores,
-    Trails
+// Place imports
+// NC is short for North County (North County, San Diego)
+import AmusementPark_NC from "./MorePlacesData/amusement-parks-north-county-san-diego-ca.json";
+import AmusementPark_SD from "./MorePlacesData/amusement-parks-san-diego-ca.json";
+import Aquarium_SD from "./MorePlacesData/aquarium-san-diego-ca.json";
+import Arcade_NC from "./MorePlacesData/arcades-north-county-san-diego-ca.json";
+import ArtGallery_SD from "./MorePlacesData/art-gallery-san-diego-ca.json";
+import ArtMuseum_SD from "./MorePlacesData/art-museums-san-diego-ca.json";
+import Bakery_NC from "./MorePlacesData/bakeries-north-county-san-diego-ca.json";
+import Bakery_SD from "./MorePlacesData/bakeries-san-diego-ca.json";
+import Bar_NC from "./MorePlacesData/bars-north-county-san-diego-ca.json";
+import Bar_SD from "./MorePlacesData/bars-san-diego-ca.json";
+import Beach_NC from "./MorePlacesData/beaches-north-county-san-diego-ca.json";
+import Beach_SD from "./MorePlacesData/beaches-san-diego-ca.json";
+import Bowling_NC from "./MorePlacesData/bowling-north-county-san-diego-ca.json";
+import Brewery_NC from "./MorePlacesData/breweries-north-county-san-diego-ca.json";
+import Brunch_NC from "./MorePlacesData/brunch-north-county-san-diego-ca.json";
+import Brunch_SD from "./MorePlacesData/brunch-san-diego-ca.json";
+import Cafe_NC from "./MorePlacesData/cafes-north-county-san-diego-ca.json";
+import Cafe_SD from "./MorePlacesData/cafes-san-diego-ca.json";
+import Casino_SD from "./MorePlacesData/casino-san-diego-ca.json";
+import DateNight_SD from "./MorePlacesData/date-night-san-diego-ca.json";
+import EscapeRoom_NC from "./MorePlacesData/escape-rooms-north-county-san-diego-ca.json";
+import FarmersMarket_NC from "./MorePlacesData/farmers-markets-north-county-san-diego-ca.json";
+import FineDining_NC from "./MorePlacesData/fine-dining-north-county-san-diego-ca.json";
+import FineDining_SD from "./MorePlacesData/fine-dining-san-diego-ca.json";
+import Library_NC from "./MorePlacesData/libraries-north-county-san-diego-ca.json";
+import MovieTheater_NC from "./MorePlacesData/movie-theatres-north-county-san-diego-ca.json";
+import Museum_NC from "./MorePlacesData/museums-north-county-san-diego-ca.json";
+import Museum_SD from "./MorePlacesData/museums-san-diego-ca.json";
+import NightClub_NC from "./MorePlacesData/night-clubs-north-county-san-diego-ca.json";
+import NightClub_SD from "./MorePlacesData/night-clubs-san-diego-ca.json";
+import Park_NC from "./MorePlacesData/parks-north-county-san-diego-ca.json";
+import Park_SD from "./MorePlacesData/parks-san-diego-ca.json";
+import ShoppingMall_NC from "./MorePlacesData/shopping-malls-north-county-san-diego-ca.json";
+import ShoppingMall_SD from "./MorePlacesData/shopping-malls-san-diego-ca.json";
+import SkatePark_NC from "./MorePlacesData/skate-parks-north-county-san-diego-ca.json";
+import TeaShop_NC from "./MorePlacesData/tea-shops-north-county-san-diego-ca.json";
+import ThriftShop_NC from "./MorePlacesData/thrift-stores-north-county-san-diego-ca.json";
+import ThriftShop_SD from "./MorePlacesData/thrift-stores-san-diego-ca.json";
+import VeganFood_NC from "./MorePlacesData/vegan-food-north-county-san-diego-ca.json";
+import Winery_SD from "./MorePlacesData/wineries-san-diego-ca.json";
+
+const AllPlaces = [
+    AmusementPark_NC,
+    AmusementPark_SD,
+    Aquarium_SD,
+    Arcade_NC,
+    ArtGallery_SD,
+    ArtMuseum_SD,
+    Bakery_NC,
+    Bakery_SD,
+    Bar_NC,
+    Bar_SD,
+    Beach_NC,
+    Beach_SD,
+    Bowling_NC,
+    Brewery_NC,
+    Brunch_NC,
+    Brunch_SD,
+    Cafe_NC,
+    Cafe_SD,
+    Casino_SD,
+    DateNight_SD,
+    EscapeRoom_NC,
+    FarmersMarket_NC,
+    FineDining_NC,
+    FineDining_SD,
+    Library_NC,
+    MovieTheater_NC,
+    Museum_NC,
+    Museum_SD,
+    NightClub_NC,
+    NightClub_SD,
+    Park_NC,
+    Park_SD,
+    ShoppingMall_NC,
+    ShoppingMall_SD,
+    SkatePark_NC,
+    TeaShop_NC,
+    ThriftShop_NC,
+    ThriftShop_SD,
+    VeganFood_NC,
+    Winery_SD
 ];
+
 
 // formatting of the fields / column names of tags in the MySQL Database
 // **** THIS HAS TO BE IN THE SAME ORDER AS allPlaces ARRAY
-const placeTags = [
+const PlaceTags = [
+    "amusement-park",
     "amusement-park",
     "aquarium",
     "arcade",
+    "art-gallery",
+    "art-museum",
+    "bakery",
     "bakery",
     "bar",
+    "bar",
+    "beach",
+    "beach",
     "bowling",
-    "cafe-coffee",
+    "brewery",
+    "brunch",
+    "brunch",
+    "cafe",
+    "cafe",
     "casino",
+    "date-night",
+    "escape-room",
     "farmers-market",
+    "fine-dining",
+    "fine-dining",
+    "library",
+    "movie-theater",
     "museum",
-    "nightclub",
-    "parks",
-    "restaurant",
-    "shopping-malls",
-    "thrift-stores",
-    "trails"
+    "museum",
+    "night-club",
+    "night-club",
+    "park",
+    "park",
+    "shopping-mall",
+    "shopping-mall",
+    "skate-park",
+    "tea-shop",
+    "thrift-shop",
+    "thrift-shop",
+    "vegan-food",
+    "winery"
 ];
+
+
 
 interface PlaceInterface {
     placeID: number | null; // placeID should be null by default, MySQL has an auto incrementer
@@ -70,29 +149,9 @@ interface PlaceInterface {
 }
 
 // Map data structure to insert a place into MySQL DB
-const placeMap: Map<string, PlaceInterface> = new Map<string, PlaceInterface>(); // Purpose is for each place to be unique
+const PlaceMap: Map<string, PlaceInterface> = new Map<string, PlaceInterface>(); // Purpose is for each place to be unique
 // Map data structure for the junction table (N to M relationship of Place to Tag)
-const placesAssocTagMap: Map<string, Array<string>> = new Map<string, Array<string>>(); // Map for the junction table
-
-
-// write and format to markdown for display purposes
-function writeToMD(): number {
-    const filename: string = "./places-and-tags-2.md";
-    try {
-        fs.writeFileSync(filename, "```\n"); // Clear the readme to re-write with new data
-        const mapKeys = placesAssocTagMap.keys();
-        for (const key of mapKeys) {
-            const displayText: string = `'${key}' => [ ${placesAssocTagMap.get(key)} ]\n`;
-            fs.writeFileSync(filename, displayText, { flag: "a" }); // Flag sets append mode on
-        }
-        fs.writeFileSync(filename, "```", { flag: "a" }); // closing tag
-    } catch (err) {
-        console.log("There was an error trying to write to readme");
-        fs.writeFileSync(filename, "```", { flag: "a" }); // closing tag
-        return -1;
-    }
-    return 0; // Successful run
-}
+const PlacesAssocTagMap: Map<string, Array<string>> = new Map<string, Array<string>>(); // Map for the junction table
 
 function addBackSlashes(textData: string | null | undefined): string {
     if (textData === undefined || textData === null) {
@@ -108,12 +167,12 @@ function writeToSQLScript_Places(): number {
     const filename: string = "./insert-places.sql";
     try {
         fs.writeFileSync(filename, "INSERT INTO place (address, name, city, state, postalCode, rating, description) \nVALUES\n");
-        const mapKeys = placeMap.keys();
-        let mkSize = placeMap.size;
+        const mapKeys = PlaceMap.keys();
+        let mkSize = PlaceMap.size;
         let counter: number = 0;
         for (const key of mapKeys) {
             counter++;
-            const singlePlace: PlaceInterface | undefined = placeMap.get(key);
+            const singlePlace: PlaceInterface | undefined = PlaceMap.get(key);
             // It's unlikely for singlePlace to be undefined since we are getting all the keys of the map which have been previously assigned an object that uses PlaceInterface
             let addr = singlePlace?.address;
             let name = singlePlace?.placeName;
@@ -133,7 +192,7 @@ function writeToSQLScript_Places(): number {
             // Rating will be 0 by default and review will be null by default
             if (counter >= mkSize) {
                 // Writing last item (does not end with comma)
-                fs.writeFileSync(filename, `\t('${addr}', '${name}', '${city}', '${state}', ${postalCode}, 0, ${null});`, { flag: "a" });    
+                fs.writeFileSync(filename, `\t('${addr}', '${name}', '${city}', '${state}', ${postalCode}, 0, ${null});`, { flag: "a" });
             } else {
                 fs.writeFileSync(filename, `\t('${addr}', '${name}', '${city}', '${state}', ${postalCode}, 0, ${null}),\n`, { flag: "a" });
             }
@@ -150,12 +209,12 @@ function writeToSQLScript_PlaceDetails(): number {
     const filename: string = "./insert-place-details.sql";
     try {
         fs.writeFileSync(filename, ""); // Replace and existing data
-        let mapKeys = placesAssocTagMap.keys();
-        let mkSize = placesAssocTagMap.size;
+        let mapKeys = PlacesAssocTagMap.keys();
+        let mkSize = PlacesAssocTagMap.size;
         let counter: number = 0;
         for (const key of mapKeys) {
             counter++;
-            let tags: string[] | undefined = placesAssocTagMap.get(key);
+            let tags: string[] | undefined = PlacesAssocTagMap.get(key);
             if (tags === undefined) {
                 continue; // Skip the iteration
             }
@@ -181,14 +240,21 @@ function writeToSQLScript_PlaceDetails(): number {
 // For the 
 function writeToSQLScript_Tags(): number {
     const filename: string = "insert-tags.sql";
+    const usedTags: Map<string, number | undefined> = new Map();
     try {
         fs.writeFileSync(filename, "INSERT INTO tag (label) VALUES"); // Do not set to append mode to reset any existing data in the script
-        for (let i = 0; i < placeTags.length; i++) {
-            fs.writeFileSync(filename, `('${placeTags[i]}')`, { flag: "a" });
-            if (i == placeTags.length - 1) {
+        for (let i = 0; i < PlaceTags.length; i++) {
+            if (usedTags.get(PlaceTags[i]) !== undefined) {
+                let currentCount: number = usedTags.get(PlaceTags[i])!; // Use non null asseertion, value cannot be undefined, it's already been evaluated
+                usedTags.set(PlaceTags[i], currentCount++);
+                continue;
+            }
+            fs.writeFileSync(filename, `('${PlaceTags[i]}')`, { flag: "a" });
+            usedTags.set(PlaceTags[i], 1);
+            if (i == PlaceTags.length - 1) {
                 fs.writeFileSync(filename, ";", { flag: "a" });
             } else {
-                fs.writeFileSync(filename, ", ", { flag: "a" });
+                fs.writeFileSync(filename, ",\n\t", { flag: "a" });
             }
         }
     } catch (err) {
@@ -198,64 +264,12 @@ function writeToSQLScript_Tags(): number {
     return 0;
 }
 
-function getPostalCode(formattedAddress: string): number {
-    const postalCodeRegex = /,[ ]([A-Z]{2})[ ]([0-9]{5})/;
-    const postalCodeTextRegex = /[0-9]{5}/;
-    let regexResult = formattedAddress.match(postalCodeRegex);
-    if (regexResult === null) {
-        return NaN;
-    }
-    let postalCode = regexResult[0].match(postalCodeTextRegex);
-    if (postalCode === null) {
-        return NaN;
-    }
-    return parseInt(postalCode[0]);
-}
-
-function getState(formattedAddress:string): string {
-    const stateRegex = /, ([A-Z]{2})/;
-    const stateTextRegex = /[A-Z]{2}/;
-    let regexResult = formattedAddress.match(stateRegex);
-    if (regexResult === null) {
-        return "";
-    }
-    let state = regexResult[0].match(stateTextRegex);
-    if (state === null) {
-        return "";
-    }
-    return state[0];
-}
-
-function getAddress(formattedAddress: string): string {
-    const addressRegex = /^([a-z]|[A-Z]|[0-9]|[ ]|[\-]|[\&]|[\#]|[\'])+/;
-    let address = formattedAddress.match(addressRegex);
-    if (address === null) {
-        return "";
-    }
-    return address[0];
-}
-
-function getCity(formattedAddress: string): string {
-    // const cityRegex = /, ([a-z]|[A-Z]|[ ])/;
-    // const cityRegexFormat = /[A-Z]([a-z]|[A-Z]|[ ])/;
-    const cityRegex = /, ([a-z]|[A-Z]|[ ])+/;
-    const cityTextRegex = /[A-Z]([a-z]|[A-Z]|[ ])+/;
-    let regexResult = formattedAddress.match(cityRegex);
-    if (regexResult === null) {
-        return "";
-    }
-    let cityName = regexResult[0].match(cityTextRegex);
-    if (cityName === null) {
-        return "";
-    }
-    return cityName[0];
-}
-
 // Group the places to avoid duplicate rows
+
 function initPlacesMapData(): number {
     // Use a map structure
-    allPlaces.forEach((placeType: any, index: number) => {
-        let placeTypeStr: string = placeTags[index];
+    AllPlaces.forEach((placeType: any, index: number) => {
+        let placeTypeStr: string = PlaceTags[index];
         placeType.results.forEach((placeData: any) => {
             let placeKey: string | undefined = placeData.name;
             if (placeData.business_status !== "OPERATIONAL") { // If the place is closed, do not add to the database
@@ -265,35 +279,35 @@ function initPlacesMapData(): number {
                 return; // Skip the place if name does not exist
             }
             // let placeCount: number | undefined = uniquePlacesMap.get(placeKey);
-            let placeMapValue: PlaceInterface | undefined = placeMap.get(placeKey);
+            let placeMapValue: PlaceInterface | undefined = PlaceMap.get(placeKey);
             if (placeMapValue === undefined) { // First time place is being read
                 let addr = getAddress(placeData.formatted_address);
                 let cityName = getCity(placeData.formatted_address);
                 let stateName = getState(placeData.formatted_address);
                 let postalCodeRes = getPostalCode(placeData.formatted_address);
-                placeMap.set(placeKey, {
+                PlaceMap.set(placeKey, {
                     placeID: null,
                     placeName: placeKey,
                     address: (addr === "" ? null : addr),
                     city: (cityName === "" ? null : cityName),
-                    state: (stateName === "" ? null : stateName),
-                    postalCode: (postalCodeRes === NaN ? null : postalCodeRes)
+                    state: (stateName === "" ? "CA" : stateName), // We can set state to CA since we are just focusing locally, however, this is very much a bandage fix..
+                    postalCode: (isNaN(postalCodeRes) ? null : postalCodeRes)
                 });
                 let first_assocTagsArray: Array<string> = [placeTypeStr]; // Initialize the associated tags array with the current tag
-                placesAssocTagMap.set(placeKey, first_assocTagsArray); // Assign associated tags as value to the place key for places-tags map
+                PlacesAssocTagMap.set(placeKey, first_assocTagsArray); // Assign associated tags as value to the place key for places-tags map
             } else {
                 // This mean the same place popped up twice or more
                 // We need to assign it's multiple associated tags (if it showed up in another file)
-                let assocTagsArray: Array<string> | undefined = placesAssocTagMap.get(placeKey);
+                let assocTagsArray: Array<string> | undefined = PlacesAssocTagMap.get(placeKey);
                 if (assocTagsArray === undefined) { // First tag instance
-                    placesAssocTagMap.set(placeKey, [placeTypeStr]);
+                    PlacesAssocTagMap.set(placeKey, [placeTypeStr]);
                     return;
                 }
                 if (assocTagsArray.includes(placeTypeStr)) {
-                    return; // do not include twice
+                    return; // do not include the same tag twice
                 }
                 assocTagsArray.push(placeTypeStr);
-                placesAssocTagMap.set(placeKey, assocTagsArray);
+                PlacesAssocTagMap.set(placeKey, assocTagsArray);
             }
         });
     });
@@ -303,26 +317,23 @@ function initPlacesMapData(): number {
 
 // Notes: Tags will be its own table
 function main(): number {
+
     if (initPlacesMapData() !== 0) {
         return 1;
     }
 
     // Remove comments for sql command generation
 
-    // if (writeToMD() !== 0) {
-    //     return 2;
-    // }
-
-    // if (writeToSQLScript_Tags() !== 0) {
-    //     return 3;
-    // }
+    if (writeToSQLScript_Tags() !== 0) {
+        return 1;
+    }
 
     if (writeToSQLScript_Places() !== 0) {
-        return 4;
+        return 1;
     }
 
     if (writeToSQLScript_PlaceDetails() !== 0) {
-        return 5;
+        return 1;
     }
     return 0;
 }
