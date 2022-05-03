@@ -43,7 +43,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pirate Sho
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Kid Power Tower' AND t.label = 'amusement-park';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Lego Movie: 4D – A New Adventure' AND t.label = 'amusement-park';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Lego Movie: 4D  A New Adventure' AND t.label = 'amusement-park';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Surfrider Plaza' AND t.label = 'amusement-park';
 INSERT INTO place_details (place_id, tag_id)
@@ -201,9 +201,9 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Mingei Int
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Museum of Contemporary Art San Diego' AND t.label = 'art-museum';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The New Children’s Museum' AND t.label = 'art-museum';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The New Childrens Museum' AND t.label = 'art-museum';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The New Children’s Museum' AND t.label = 'museum';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The New Childrens Museum' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego Natural History Museum' AND t.label = 'art-museum';
 INSERT INTO place_details (place_id, tag_id)
@@ -335,7 +335,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Last Spot 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Instant Replay' AND t.label = 'bar';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Kelly’s Pub' AND t.label = 'bar';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Kellys Pub' AND t.label = 'bar';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'My Yard Live Beer Co.' AND t.label = 'bar';
 INSERT INTO place_details (place_id, tag_id)
@@ -541,7 +541,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Second Cha
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Snooze, an A.M. Eatery' AND t.label = 'brunch';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pegah’s Kitchen' AND t.label = 'brunch';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pegahs Kitchen' AND t.label = 'brunch';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Sunny Side Kitchen' AND t.label = 'brunch';
 INSERT INTO place_details (place_id, tag_id)
@@ -625,7 +625,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Blue Mug C
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Blue Mug Coffee & Tea' AND t.label = 'tea-shop';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Friendly’s Cafe' AND t.label = 'cafe';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Friendlys Cafe' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Story Caffe' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
@@ -639,13 +639,13 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Queenstage
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Old California Coffee House and Eatery' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Café Topes' AND t.label = 'cafe';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Caf Topes' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hob Coffee San Marcos' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Ryan Bros Coffee of San Marcos' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'INVITA Café' AND t.label = 'cafe';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'INVITA Caf' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Hob Coffee Sabre Springs' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
@@ -659,7 +659,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Communal C
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Holsem Coffee' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Meraki Café' AND t.label = 'cafe';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Meraki Caf' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Forum Coffee House' AND t.label = 'cafe';
 INSERT INTO place_details (place_id, tag_id)
@@ -725,7 +725,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Casino Cal
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Black Tie Casino Events' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = '‘DADs Casino Party Rentals' AND t.label = 'casino';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'DADs Casino Party Rentals' AND t.label = 'casino';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Starlite' AND t.label = 'date-night';
 INSERT INTO place_details (place_id, tag_id)
@@ -875,7 +875,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Amaya at F
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Top of the Market - San Diego' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Fleming’s Prime Steakhouse & Wine Bar' AND t.label = 'fine-dining';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Flemings Prime Steakhouse & Wine Bar' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Juniper & Ivy' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
@@ -891,7 +891,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Nobu San D
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Water Grill San Diego' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lionfish Modern Coastal Cuisine – San Diego' AND t.label = 'fine-dining';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Lionfish Modern Coastal Cuisine  San Diego' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Oceana Coastal Kitchen' AND t.label = 'fine-dining';
 INSERT INTO place_details (place_id, tag_id)
@@ -905,17 +905,17 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Escondido 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Carmel Valley Branch Library' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library – Valley Center Branch' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library  Valley Center Branch' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library – San Marcos Branch' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library  San Marcos Branch' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Rancho Peñasquitos Branch Library' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Rancho Peasquitos Branch Library' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Encinitas Library' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library – Del Mar Branch' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library  Del Mar Branch' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library – Vista Branch' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library  Vista Branch' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library - Solana Beach' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
@@ -923,7 +923,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = '4S Ranch S
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pioneer Room Library' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library – Cardiff-by-the-Sea Branch' AND t.label = 'library';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego County Library  Cardiff-by-the-Sea Branch' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Poway Branch Library' AND t.label = 'library';
 INSERT INTO place_details (place_id, tag_id)
@@ -933,13 +933,13 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Little Fre
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Regal Escondido & IMAX' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Angelika Film Center & Café - Carmel Mountain' AND t.label = 'movie-theater';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Angelika Film Center & Caf - Carmel Mountain' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinépolis Luxury Cinemas Del Mar' AND t.label = 'movie-theater';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinpolis Luxury Cinemas Del Mar' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Regal Edwards San Marcos' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinépolis Luxury Cinemas La Costa Paseo Real' AND t.label = 'movie-theater';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinpolis Luxury Cinemas La Costa Paseo Real' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'La Paloma Theatre' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
@@ -949,7 +949,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'AMC DINE-I
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Regal Mira Mesa 4DX, IMAX & RPX' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinépolis Luxury Cinemas La Costa Town Square' AND t.label = 'movie-theater';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinpolis Luxury Cinemas La Costa Town Square' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'B and G Movie Nights' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
@@ -957,7 +957,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'The Ritz T
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinema Investments Inc' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinépolis Cinemas Vista Village' AND t.label = 'movie-theater';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Cinpolis Cinemas Vista Village' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Bob Hope Theater' AND t.label = 'movie-theater';
 INSERT INTO place_details (place_id, tag_id)
@@ -1007,7 +1007,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Heritage P
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Diego History Center' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Junípero Serra Museum' AND t.label = 'museum';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Junpero Serra Museum' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Gaslamp Museum at the Davis-Horton House Museum' AND t.label = 'museum';
 INSERT INTO place_details (place_id, tag_id)
@@ -1213,7 +1213,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Renaissanc
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Mesa Shopping Center' AND t.label = 'shopping-mall';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Rancho Peñasquitos Skate Park' AND t.label = 'skate-park';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Rancho Peasquitos Skate Park' AND t.label = 'skate-park';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Carmel Valley Skatepark' AND t.label = 'skate-park';
 INSERT INTO place_details (place_id, tag_id)
@@ -1231,7 +1231,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Encinitas 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Vista Skatepark' AND t.label = 'skate-park';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Prince Memorial Skatepark “PrincePark”👑' AND t.label = 'skate-park';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Prince Memorial Skatepark PrincePark' AND t.label = 'skate-park';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Melba Bishop Skatepark' AND t.label = 'skate-park';
 INSERT INTO place_details (place_id, tag_id)
@@ -1275,7 +1275,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Poppy Kitc
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Pannikin Coffee & Tea' AND t.label = 'tea-shop';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Nōjō Coffee & Tea' AND t.label = 'tea-shop';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Nj Coffee & Tea' AND t.label = 'tea-shop';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'DingTea San Diego' AND t.label = 'tea-shop';
 INSERT INTO place_details (place_id, tag_id)
@@ -1385,7 +1385,7 @@ SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Blue Door 
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'San Pasqual Winery | Seaport Village' AND t.label = 'winery';
 INSERT INTO place_details (place_id, tag_id)
-SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Négociant Winery' AND t.label = 'winery';
+SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Ngociant Winery' AND t.label = 'winery';
 INSERT INTO place_details (place_id, tag_id)
 SELECT p.place_id, t.tag_id FROM place AS p, tag AS t WHERE p.name = 'Koi Zen Cellars' AND t.label = 'winery';
 INSERT INTO place_details (place_id, tag_id)
