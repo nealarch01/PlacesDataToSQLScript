@@ -1,3 +1,8 @@
+export function cleanString(text: string): string {
+    let asciiString = text.replace(/[^\x00-\x7F]/g, ""); // Remove non ascii characters
+    return asciiString;
+}
+
 export function getPostalCode(formattedAddress: string): number {
     const postalCodeRegex = /,[ ]([A-Z]{2})[ ]([0-9]{5})/;
     const postalCodeTextRegex = /[0-9]{5}/;
@@ -23,7 +28,7 @@ export function getState(formattedAddress: string): string {
     if (state === null) {
         return "";
     }
-    return state[0];
+    return cleanString(state[0]);
 }
 
 export function getAddress(formattedAddress: string): string {
@@ -32,7 +37,7 @@ export function getAddress(formattedAddress: string): string {
     if (address === null) {
         return "";
     }
-    return address[0];
+    return cleanString(address[0]);
 }
 
 export function getCity(formattedAddress: string): string {
@@ -48,5 +53,5 @@ export function getCity(formattedAddress: string): string {
     if (cityName === null) {
         return "";
     }
-    return cityName[0];
+    return cleanString(cityName[0]);
 }
