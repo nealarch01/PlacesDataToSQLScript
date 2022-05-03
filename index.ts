@@ -1,5 +1,5 @@
 // Utility import
-import { getAddress, getCity, getState, getPostalCode } from "./utils/extract-address-data";
+import { getAddress, getCity, getState, getPostalCode, cleanString } from "./utils/extract-address-data";
 
 // Library imports
 import fs from "fs"; // Node file system
@@ -278,6 +278,7 @@ function initPlacesMapData(): number {
             if (placeKey === undefined) {
                 return; // Skip the place if name does not exist
             }
+            placeKey = cleanString(placeKey);
             // let placeCount: number | undefined = uniquePlacesMap.get(placeKey);
             let placeMapValue: PlaceInterface | undefined = PlaceMap.get(placeKey);
             if (placeMapValue === undefined) { // First time place is being read
